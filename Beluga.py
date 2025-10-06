@@ -1,9 +1,9 @@
 import os
 
-# Estructura base actualizada con Kueba2
+# Estructura base actualizada con Kuerba2
 carpetas = [
     "MagisTV", "Mametchikitty", "IPTV-org", "PlutoTV",
-    "Tubi", "Plex", "Runtime", "Vix", "Kueba2"
+    "Tubi", "Plex", "Runtime", "Vix", "Kuerba2"
 ]
 
 tvjs_contenido = {
@@ -50,10 +50,10 @@ var page = require("showtime/page");
 page.contents = "video";
 page.appendItem("https://i.mjh.nz/Vix/mx.m3u8", "video", { title: "Vix Latino" });''',
 
-    "Kueba2": '''service.create("Kueba2", "kueba2", "video", true);
+    "Kuerba2": '''service.create("Kuerba2", "kuerba2", "video", true);
 var page = require("showtime/page");
 page.contents = "video";
-page.appendItem("https://raw.githubusercontent.com/kueba2/kueba2/main/lista.m3u", "video", { title: "Kueba2 Lista Principal" });'''
+page.appendItem("https://raw.githubusercontent.com/kuerba2/kuerba2/main/lista.m3u", "video", { title: "Kuerba2 Lista Principal" });'''
 }
 
 # Crear carpetas y archivos tv.js
@@ -95,4 +95,3 @@ if not os.path.exists(icono_path):
     print("⚠️ Advertencia: No se encontró 'plugin.png'. Colocá el ícono de la beluga en la carpeta raíz del proyecto.")
 
 print("✅ Proyecto Beluga generado con éxito.")
-
