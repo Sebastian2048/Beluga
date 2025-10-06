@@ -1,46 +1,48 @@
-import os
 import requests
+import os
 
-# Rutas de los tv.js dentro de Beluga
-carpetas = [
-    "MagisTV", "Mametchikitty", "IPTV-org", "PlutoTV",
-    "Tubi", "Plex", "Runtime", "Vix", "Kuerba2"
+# Lista de fuentes .m3u válidas y activas
+fuentes = [
+    "https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/main/MagisTV%2B.m3u",
+    "https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/main/MagisTV%20(1).m3u",
+    "https://raw.githubusercontent.com/davplm/Listas/main/PLUTO%20TV.m3u",
+    "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_ES.m3u",
+    "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_MX.m3u",
+    "https://cutt.ly/kuerba2"  # Enlace corto que funciona en Movian
 ]
 
-# Extraer URLs .m3u desde cada tv.js
-def extraer_urls(tvjs_path):
-    urls = []
-    with open(tvjs_path, "r", encoding="utf-8") as f:
-        for line in f:
-            if "http" in line and (".m3u" in line or ".m3u8" in line):
-                url = line.strip().split('"')[1]
-                urls.append(url)
-    return urls
+# Set para evitar duplicados
+enlaces = set()
 
-# Consolidar todas las líneas únicas
-enlaces_unicos = set()
-for carpeta in carpetas:
-    ruta = os.path.join("Beluga", carpeta, "tv.js")
-    if os.path.exists(ruta):
-        urls = extraer_urls(ruta)
-        for url in urls:
-            try:
-                r = requests.get(url, timeout=10)
-                if r.status_code == 200:
-                    for linea in r.text.splitlines():
-                        if linea.startswith("http"):
-                            enlaces_unicos.add(linea.strip())
-            except Exception as e:
-                print(f"⚠️ Error al acceder a {url}: {e}")
+# Recorrer cada fuente
+for url in fuentes:
+    print(f"🔗 Procesando: {url}")
+    try:
+        r = requests.get(url, timeout=10)
+        if r.status_code == 200:
+            lineas = r.text.splitlines()
+            encontrados = 0
+            for linea in lineas:
+                if linea.startswith("http"):
+                    enlaces.add(linea.strip())
+                    encontrados += 1
+            print(f"✅ {encontrados} enlaces extraídos de {url}")
+        else:
+            print(f"⚠️ {url} respondió con código {r.status_code}")
+    except Exception as e:
+        print(f"⚠️ Error al acceder a {url}: {e}")
 
-# Generar lista consolidada
-salida = os.path.join("Beluga", "RP_S2048.m3u")
-os.makedirs("Beluga", exist_ok=True)  # ← Esta línea evita el error
-with open(salida, "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n")
-    for enlace in sorted(enlaces_unicos):
-        f.write("#EXTINF:-1,Canal\n")
-        f.write(enlace + "\n")
+# Verificar si se encontraron enlaces
+if not enlaces:
+    print("⚠️ No se encontraron enlaces válidos. Verificá las fuentes.")
+else:
+    os.makedirs("Beluga", exist_ok=True)
+    salida = os.path.join("Beluga", "RP_S2048.m3u")
+    with open(salida, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n")
+        for enlace in sorted(enlaces):
+            f.write("#EXTINF:-1,Canal\n")
+            f.write(enlace + "\n")
+    print(f"\n✅ Lista RP_S2048.m3u generada con {len(enlaces)} enlaces únicos.")
+    print(f"📁 Guardada en: {salida}")
 
-print(f"✅ Lista consolidada generada: {salida}")
-print(f"📡 Total de enlaces únicos: {len(enlaces_unicos)}")
