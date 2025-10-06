@@ -1,1 +1,0 @@
-Beluga es una arquitectura simbólica de autonomía audiovisual. Cada carpeta es una puerta. Cada ícono, una declaración de presencia. Uso legítimo para investigación, aprendizaje y desarrollo técnico.
