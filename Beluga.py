@@ -1,6 +1,6 @@
 import os
 
-# Estructura base actualizada
+# Estructura base actualizada con Kueba2
 carpetas = [
     "MagisTV", "Mametchikitty", "IPTV-org", "PlutoTV",
     "Tubi", "Plex", "Runtime", "Vix", "Kueba2"
