@@ -2,8 +2,9 @@
 
 #EXTM3U
 
-#EXTINF:-1,MagisTV_Principal
+#EXTINF:-1,MagisTV
 https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/main/MagisTV%2B.m3u
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/portedev/algo/main/New.M3nu/0MENU.ESTRENOS.png", group-title="--> Kuerba V2 <--",ESTRENOS
 https://raw.githubusercontent.com/R0b1NjuD/Ku3rb4/main/releases/download/HOME/K_3STR3N0S.m3u
