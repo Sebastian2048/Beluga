@@ -96,13 +96,15 @@ for nombre, url in repos_activos.items():
     except Exception as e:
         print(f"❌ Error al procesar {nombre}: {e}")
 
-# 🧾 Paso 3: Generamos RP_S2048.m3u agrupado por repositorio
+# 🧾 Paso 3: Generamos RP_S2048.m3u con rutas absolutas para GitHub
 ruta_final = os.path.join("Beluga", "RP_S2048.m3u")
 with open(ruta_final, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n\n")
-    for nombre, enlaces in enlaces_por_repo.items():
+    for nombre in enlaces_por_repo:
+        # 🔗 Generamos la URL cruda para GitHub (formato raw)
+        url_raw = f"https://raw.githubusercontent.com/Sebastian2048/Beluga/main/{nombre}.m3u"
         f.write(f"#EXTINF:-1,{nombre}\n")
-        f.write(f"{nombre}.m3u\n\n")  # Movian lo interpreta como carpeta virtual
+        f.write(f"{url_raw}\n\n")  # Movian accede directamente al archivo remoto
 
 # 📊 Mostramos resumen final
 total_enlaces = sum(len(v) for v in enlaces_por_repo.values())

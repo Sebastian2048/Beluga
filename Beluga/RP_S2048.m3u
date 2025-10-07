@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1,kuerba2
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/kuerba2.m3u
+
+#EXTINF:-1,MagisTV_Principal
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/MagisTV_Principal.m3u
+
+#EXTINF:-1,PlutoTV_Espana
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/PlutoTV_Espana.m3u
+
+#EXTINF:-1,PlutoTV_Mexico
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/PlutoTV_Mexico.m3u
+
