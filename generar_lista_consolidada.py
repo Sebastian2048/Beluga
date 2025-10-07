@@ -6,11 +6,9 @@ import os        # Para manejar rutas y archivos en el sistema
 os.makedirs("Beluga", exist_ok=True)
 
 # 📌 Diccionario con los nombres de los repositorios y sus URLs
-# MagisTV_Alternativo fue eliminado del proyecto
+# PlutoTV fue eliminado por tener formato distinto
 repositorios = {
-    "MagisTV_Principal": "https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/main/MagisTV%2B.m3u",
-    "PlutoTV_Espana": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_ES.m3u",
-    "PlutoTV_Mexico": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_MX.m3u"
+    "MagisTV_Principal": "https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/main/MagisTV%2B.m3u"
 }
 
 # 🔁 URLs alternativas para Kuerba2
@@ -43,7 +41,7 @@ try:
 except Exception as e:
     print(f"❌ Error al verificar kuerba2: {e}")
 
-# 🔍 Verificamos el resto de los repositorios
+# 🔍 Verificamos el resto de los repositorios (solo MagisTV)
 for nombre, url in repositorios.items():
     try:
         test = requests.head(url, timeout=5, allow_redirects=True)
@@ -110,3 +108,4 @@ with open(ruta_final, "w", encoding="utf-8") as f:
 total_enlaces = sum(len(v) for v in enlaces_por_repo.values())
 print(f"\n✅ RP_S2048.m3u generado con {total_enlaces} enlaces agrupados por repositorio.")
 print(f"📁 Guardado en: {ruta_final}")
+
