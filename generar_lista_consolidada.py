@@ -6,7 +6,7 @@ import os        # Para manejar rutas y archivos en el sistema
 os.makedirs("Beluga", exist_ok=True)
 
 # 📌 Diccionario con los nombres de los repositorios y sus URLs
-# PlutoTV fue eliminado por tener formato distinto
+# Solo MagisTV se mantiene
 repositorios = {
     "MagisTV_Principal": "https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/main/MagisTV%2B.m3u"
 }
@@ -73,10 +73,13 @@ for nombre, url in repos_activos.items():
             lineas = r.text.splitlines()
             enlaces_validos = []
 
-            # 🔎 Recorremos cada línea buscando enlaces que comiencen con http
+            # 🔎 Filtramos solo enlaces que terminan en .m3u o .m3u8
             for linea in lineas:
-                if linea.startswith("http"):
+                if linea.startswith("http") and linea.strip().endswith((".m3u", ".m3u8")):
                     enlaces_validos.append(linea)
+
+            # 🧹 Eliminamos duplicados
+            enlaces_validos = list(set(enlaces_validos))
 
             # 💾 Guardamos la lista si tiene contenido válido
             if enlaces_validos:
@@ -106,6 +109,5 @@ with open(ruta_final, "w", encoding="utf-8") as f:
 
 # 📊 Mostramos resumen final
 total_enlaces = sum(len(v) for v in enlaces_por_repo.values())
-print(f"\n✅ RP_S2048.m3u generado con {total_enlaces} enlaces agrupados por repositorio.")
+print(f"\n✅ RP_S2048.m3u generado con {total_enlaces} enlaces filtrados y agrupados por repositorio.")
 print(f"📁 Guardado en: {ruta_final}")
-
