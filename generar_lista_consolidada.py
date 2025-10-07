@@ -121,14 +121,58 @@ def explorar_lista(url, profundidad=0):
     except Exception:
         pass
 
-# 🔍 Paso 3: Exploración de listas externas
-print("\n📥 Explorando listas externas...\n")
+# 🧾 Paso 3A: Recolección en archivo temporal (antes del Paso 3)
 
-# Recorremos todos los repositorios definidos
-for nombre, url in repositorios.items():
-    url_raw = github_blob_a_raw(url)  # Convertimos a formato raw si es GitHub
-    print(f"🔗 Procesando: {nombre}")
-    explorar_lista(url_raw)  # Aplicamos la función recursiva para extraer contenido
+ruta_temp = os.path.join("Beluga", "TEMP_MATERIAL.m3u")
+with open(ruta_temp, "w", encoding="utf-8") as temp_file:
+    temp_file.write("#EXTM3U\n\n")
+    print("\n📥 Recolectando contenido de todas las listas...\n")
+    for nombre, url in repositorios.items():
+        url_raw = github_blob_a_raw(url)
+        print(f"🔗 Descargando: {nombre}")
+        try:
+            r = requests.get(url_raw, timeout=10)
+            if r.status_code == 200:
+                lineas = r.text.splitlines()
+                for linea in lineas:
+                    if linea.startswith("http"):
+                        temp_file.write(linea.strip() + "\n")
+            else:
+                print(f"⚠️ {nombre}: error al descargar (status {r.status_code})")
+        except Exception as e:
+            print(f"❌ Error al procesar {nombre}: {e}")
+
+# 🧠 Paso 3B: Clasificación desde archivo temporal
+
+print("\n🧠 Clasificando contenido desde archivo temporal...\n")
+
+try:
+    with open(os.path.join("Beluga", "TEMP_MATERIAL.m3u"), "r", encoding="utf-8") as f:
+        lineas = f.readlines()
+        for linea in lineas:
+            if not linea.startswith("http"):
+                continue
+            enlace = linea.strip()
+            enlace_lower = enlace.lower()
+
+            # ❌ Filtrar por exclusiones
+            if any(x in enlace_lower for x in exclusiones):
+                continue
+
+            # ✅ Clasificar por categoría
+            if "series" in enlace_lower or "s3r13s" in enlace_lower:
+                base = os.path.basename(unquote(enlace)).split(".")[0]
+                categorias["series"].setdefault(base, set()).add(enlace)
+            elif "pelis" in enlace_lower or "movie" in enlace_lower or "film" in enlace_lower or "estreno" in enlace_lower:
+                categorias["peliculas"].add(enlace)
+            elif "tv" in enlace_lower or "canal" in enlace_lower or "iptv" in enlace_lower:
+                categorias["canales"].add(enlace)
+            else:
+                if any(pref in enlace_lower for pref in preferencias):
+                    categorias["peliculas"].add(enlace)
+except Exception as e:
+    print(f"❌ Error al leer archivo temporal: {e}")
+
 
 # 🧾 Paso 4: Generar listas por categoría
 
