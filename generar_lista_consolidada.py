@@ -1,15 +1,14 @@
 import requests
 import os
 
-# Fuentes activas
-fuentes = [
-    "https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/main/MagisTV%2B.m3u",
-    "https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/main/MagisTV%20(1).m3u",
-    "https://raw.githubusercontent.com/davplm/Listas/main/PLUTO%20TV.m3u",
-    "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_ES.m3u",
-    "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_MX.m3u",
-    "https://cutt.ly/kuerba2"
-]
+# Fuentes activas (excluyendo Kuerba2)
+fuentes = {
+    "MagisTV": "https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/main/MagisTV%2B.m3u",
+    "MagisTV_FULL": "https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/main/MagisTV%20(1).m3u",
+    "Pluto_ES": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_ES.m3u",
+    "Pluto_MX": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_MX.m3u",
+    "Pluto_davplm": "https://raw.githubusercontent.com/davplm/Listas/main/PLUTO%20TV.m3u"
+}
 
 # Palabras clave a excluir
 excluir = [
@@ -18,26 +17,33 @@ excluir = [
     "religioso", "religion", "biblia",
     "adulto", "xxx", "+18", "hot",
     "english", "en inglés", "en ingles", "usa", "uk",
-    "africa", "africano", "nigeria", "kenya", "ghana",
-    "france", "francés", "francais", "paris",
+    "germany", "alemania", "holanda", "netherlands",
+    "africa", "nigeria", "kenya", "ghana",
+    "hindu", "india", "pakistan",
+    "ucrania", "ukraine", "rusia", "russia",
     "arab", "arabe", "middle east", "emiratos", "dubai", "qatar",
-    "arabic", "french", "portuguese"
+    "french", "francés", "francais", "portuguese", "brazil"
 ]
 
-# Categorías
+# Categorías y sus claves
 categorias = {
-    "🌎 Países / Countries": ["argentina", "méxico", "colombia", "chile", "perú", "españa", "latino", "hispano"],
-    "🎬 Películas / Movies": ["cine", "movie", "film", "película", "peliculas"],
-    "📺 Series": ["serie", "series", "episodio", "temporada"],
-    "😂 Comedia": ["comedia", "humor", "standup", "risas"],
-    "🎌 Anime": ["anime", "manga", "otaku", "japon", "dragon ball", "naruto"]
+    "Anime": ["anime", "manga", "otaku", "dragon ball", "naruto"],
+    "Comedia": ["comedia", "humor", "standup", "risas"],
+    "Series": ["serie", "series", "episodio", "temporada"],
+    "Drama": ["drama", "telenovela", "romance"],
+    "Peliculas": ["cine", "movie", "film", "película", "peliculas"],
+    "Argentina": ["argentina", "buenos aires", "cordoba", "tv pública", "c5n"],
+    "Chile": ["chile", "tvn", "mega", "canal 13"],
+    "España": ["españa", "rtve", "antena 3", "telecinco"],
+    "Colombia": ["colombia", "caracol", "rcn"],
+    "Mexico": ["méxico", "mexico", "las estrellas", "canal once", "azteca"]
 }
 
 # Diccionario para agrupar canales
 canales_por_categoria = {cat: [] for cat in categorias}
 
-# Recorrer fuentes
-for url in fuentes:
+# Procesar fuentes
+for nombre, url in fuentes.items():
     print(f"🔗 Procesando: {url}")
     try:
         r = requests.get(url, timeout=10)
@@ -56,27 +62,34 @@ for url in fuentes:
                                 canales_por_categoria[categoria].append((info, enlace))
                                 asignado = True
                                 break
-                        if not asignado:
-                            canales_por_categoria["🌎 Países / Countries"].append((info, enlace))
+                    # Si no se asigna, se descarta
                 i += 1
         else:
             print(f"⚠️ {url} respondió con código {r.status_code}")
     except Exception as e:
         print(f"⚠️ Error al acceder a {url}: {e}")
 
-# Guardar archivo
+# Guardar listas por categoría
 os.makedirs("Beluga", exist_ok=True)
-salida = os.path.join("Beluga", "RP_S2048.m3u")
-with open(salida, "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n\n")
-    for categoria, canales in canales_por_categoria.items():
-        if canales:
-            f.write(f"# --- {categoria} ---\n")
-            for info, enlace in canales:
-                f.write(info + "\n")
-                f.write(enlace + "\n")
-            f.write("\n")
+for categoria, canales in canales_por_categoria.items():
+    carpeta = os.path.join("Beluga", categoria)
+    os.makedirs(carpeta, exist_ok=True)
+    ruta = os.path.join(carpeta, "lista.m3u")
+    with open(ruta, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n\n")
+        for info, enlace in canales:
+            f.write(info + "\n")
+            f.write(enlace + "\n")
+    print(f"✅ {categoria}: {len(canales)} canales guardados en {ruta}")
 
-total = sum(len(c) for c in canales_por_categoria.values())
-print(f"\n✅ Lista RP_S2048.m3u generada con {total} canales organizados por categoría.")
-print(f"📁 Guardada en: {salida}")
+# Generar RP_S2048.m3u como índice principal
+ruta_index = os.path.join("Beluga", "RP_S2048.m3u")
+with open(ruta_index, "w", encoding="utf-8") as f:
+    f.write("#EXTM3U\n\n")
+    f.write('#EXTINF:-1,KUERBA\nhttps://github.com/Sebastian2048/Beluga/tree/main/Kuerba2/lista.m3u\n\n')
+    for categoria in categorias:
+        f.write(f'#EXTINF:-1,{categoria.upper()}\n')
+        f.write(f'https://github.com/Sebastian2048/Beluga/tree/main/{categoria}/lista.m3u\n\n')
+
+print(f"\n✅ RP_S2048.m3u generado con enlaces a {len(categorias)+1} listas.")
+print(f"📁 Guardado en: {ruta_index}")

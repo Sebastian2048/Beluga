@@ -1,0 +1,496 @@
+#EXTM3U
+
+#EXTINF:0,+Show (Mexico) (🇲🇽)
+https://univtec.g-mana.live/media/9dba5248-a479-4ed6-8aae-4b17120806c5/mainManifest.m3u8
+#EXTINF:0,10 Cancun (Mexico) (🇲🇽)
+http://stream2.dynalias.com:1935/live/tvlive1/.m3u8
+#EXTINF:0,10 Chiapas (Mexico) (🇲🇽)
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/.m3u8
+#EXTINF:0,10 Durango (Mexico) (🇲🇽)
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/.m3u8
+#EXTINF:0,12 Canal Doce (Mexico) (🇲🇽)
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
+#EXTINF:0,12 Super Channel (Mexico) (🇲🇽)
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:0,14 (Mexico) (🇲🇽)
+https://s5.mexside.net:1936/canal14/canal14/.m3u8
+#EXTINF:0,28 Nuevo Leon (Mexico) (🇲🇽)
+https://s5.mexside.net:1936/canal28/canal28/.m3u8
+#EXTINF:0,33 Tijuana (Mexico) (🇲🇽)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/.m3u8
+#EXTINF:0,4.1 (Mexico) (🇲🇽)
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:0,4.2 (Mexico) (🇲🇽)
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42/.m3u8
+#EXTINF:0,4.3 (Mexico) (🇲🇽)
+https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/.m3u8
+#EXTINF:0,44 Chihuahua (Mexico) (🇲🇽)
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/.m3u8
+#EXTINF:0,5 (Mexico) (🇲🇽)
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
+#EXTINF:0,6 Morelia (Mexico) (🇲🇽)
+http://streamingcws20.com:1935/canal6mich/videocanal6mich/.m3u8
+#EXTINF:0,6 Multimedios CDMX (Mexico) (🇲🇽)
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:0,6 Multimedios Monterrey (Mexico) (🇲🇽)
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,66 (Mexico) (🇲🇽)
+https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/.m3u8
+#EXTINF:0,Accion Mexicana (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:0,Accion Runtime (Mexico) (🇲🇽)
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+#EXTINF:0,ADN 40 (Mexico) (🇲🇽)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0,AMC (Mexico) (🇲🇽)
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0,Animal Planet (Mexico) (🇲🇽)
+http://190.83.2.172:8080/play/a02x/index.m3u8
+#EXTINF:0,Antena (Mexico) (🇲🇽)
+https://5ca9af4645e15.streamlock.net/grd/videogrd/.m3u8
+#EXTINF:0,AXN (Mexico) (🇲🇽)
+http://181.78.105.146:6060/play/a04m/index.m3u8
+#EXTINF:0,AZ Click (Mexico) (🇲🇽)
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
+#EXTINF:0,AZ Corazon (Mexico) (🇲🇽)
+https://azt-cz.otteravision.com/azt/cz/cz.m3u8
+#EXTINF:0,AZ Corazon (Mexico) (🇲🇽)
+https://d2qb5pmzx6v5zn.cloudfront.net/cz.m3u8
+#EXTINF:0,Azteca 7 (Mexico) (🇲🇽)
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8
+#EXTINF:0,Azteca Guate (Guatemala) (🇬🇹)
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:0,Azteca Int (Mexico) (🇲🇽)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:0,Azteca Uno (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:0,Brightside (Mexico) (🇲🇽)
+https://tinyurl.com/3n2bdktx?.m3u8
+#EXTINF:0,Buap (Mexico) (🇲🇽)
+https://tvenvivo.buap.mx/livestream/stream.m3u8
+#EXTINF:0,C4 En Alerta (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
+#EXTINF:0,California Medios (Mexico) (🇲🇽)
+https://s5.mexside.net:1936/medios/medios/.m3u8
+#EXTINF:0,Canal 14 Regional (Mexico) (🇲🇽)
+https://glb.bozztv.com/glb/ssh101/videoenvivo/playlist.m3u8
+#EXTINF:0,Canal 30 (Mexico) (🇲🇽)
+https://glb.bozztv.com/glb/ssh101/canal30mx/playlist.m3u8
+#EXTINF:0,Canela (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:0,Canela Clasicos (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:0,Canela Hits (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:0,Canela Horror (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
+#EXTINF:0,Canela Kids (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:0,Capital 21 (Mexico) (🇲🇽)
+https://video.cdmx.gob.mx/redes/stream.m3u8
+#EXTINF:0,CombaTV (Mexico) (🇲🇽)
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+#EXTINF:0,Comedy Central (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0pb/index.m3u8
+#EXTINF:0,Conecta (Mexico) (🇲🇽)
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:0,De Pelicula (Mexico) (🇲🇽)
+http://190.121.42.18:8000/play/a016/index.m3u8
+#EXTINF:0,DHE (Mexico) (🇲🇽)
+http://45.5.117.182:8000/play/a0fs/index.m3u8
+#EXTINF:0,Discovery Channel (Mexico) (🇲🇽)
+http://190.123.90.146:8000/play/a02g/index.m3u8
+#EXTINF:0,Discovery H&H (Mexico) (🇲🇽)
+http://200.60.124.19:29000/play/a0aq/index.m3u8
+#EXTINF:0,Discovery Theater (Mexico) (🇲🇽)
+http://191.52.214.5:8000/play/a02j/index.m3u8
+#EXTINF:0,Disney Channel (Mexico) (🇲🇽)
+http://179.49.163.34:45000/play/a00b/index.m3u8
+#EXTINF:0,Disney Jr (Mexico) (🇲🇽)
+http://179.49.163.34:45000/play/a00a/index.m3u8
+#EXTINF:0,DK Discovery Kids (Mexico) (🇲🇽)
+http://179.49.163.34:45000/play/a009/index.m3u8
+#EXTINF:0,E! Entertainment (Mexico) (🇲🇽)
+http://190.83.2.172:8080/play/a02y/index.m3u8
+#EXTINF:0,El Sonorense (Mexico) (🇲🇽)
+https://s5.mexside.net:1936/elsonorense/elsonorense/.m3u8
+#EXTINF:0,ESPN (Mexico) (🇲🇽)
+http://181.78.82.6:46090/play/a00q/index.m3u8
+#EXTINF:0,ESPN 2 (Mexico) (🇲🇽)
+http://181.78.105.146:8800/play/a08t/index.m3u8
+#EXTINF:0,ESPN 3 (Mexico) (🇲🇽)
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:0,ESPN 4 (Mexico) (🇲🇽)
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:0,ESPN 5 (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0w7/index.m3u8
+#EXTINF:0,ESPN 6 (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0qo/index.m3u8
+#EXTINF:0,ESPN Premium (Mexico) (🇲🇽)
+http://190.102.246.93:9005/play/a00x/index.m3u8
+#EXTINF:0,Estrella (Mexico) (🇲🇽)
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,Estrella (Mexico) (🇲🇽)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-localnow/playlist.m3u8
+#EXTINF:0,Estrella (Mexico) (🇲🇽)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:0,Estrella News (Mexico) (🇲🇽)
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,Europa Europa (Mexico) (🇲🇽)
+http://181.78.105.146:8800/play/a04v/index.m3u8
+#EXTINF:0,Explosion Regional (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+#EXTINF:0,Expresa (Mexico) (🇲🇽)
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/.m3u8
+#EXTINF:0,Haz Clic (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
+#EXTINF:0,ILCE (Mexico) (🇲🇽)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
+#EXTINF:0,Imagen (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+#EXTINF:0,Jalisco (Mexico) (🇲🇽)
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:0,Justicia (Mexico) (🇲🇽)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/.m3u8
+#EXTINF:0,Konecta (Mexico) (🇲🇽)
+https://glb.bozztv.com/glb/ssh101/konecta/playlist.m3u8
+#EXTINF:0,La Voz Grupera (Mexico) (🇲🇽)
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+#EXTINF:0,Las Estrellas (Mexico) (🇲🇽)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0,Lobo (Mexico) (🇲🇽)
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/.m3u8
+#EXTINF:0,Lobo (Mexico) (🇲🇽)
+http://streamingcws20.com:1935/lobodurango/videolobodurango/.m3u8
+#EXTINF:0,Mar La Paz (Mexico) (🇲🇽)
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/.m3u8
+#EXTINF:0,Mar Puerto Vallarta (Mexico) (🇲🇽)
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/.m3u8
+#EXTINF:0,Maria Vision (Mexico) (🇲🇽)
+https://1601580044.rsc.cdn77.org/live/_jcn_/Mariavision/.m3u8
+#EXTINF:0,Mas (Mexico) (🇲🇽)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+#EXTINF:0,Mexiquense (Mexico) (🇲🇽)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/.m3u8
+#EXTINF:0,Mexiquense 2 (Mexico) (🇲🇽)
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/.m3u8
+#EXTINF:0,Migrante (Mexico) (🇲🇽)
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/.m3u8
+#EXTINF:0,Milenio (Mexico) (🇲🇽)
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:0,Milenio (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
+#EXTINF:0,N+ Monterrey (Mexico) (🇲🇽)
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+#EXTINF:0,Naturaleza (Mexico) (🇲🇽)
+https://is.gd/unRGK5?.m3u8
+#EXTINF:0,NRT Mexico (Mexico) (🇲🇽)
+https://5c001c2729b09.streamlock.net:4443/live/canal6/.m3u8
+#EXTINF:0,Once (Mexico) (🇲🇽)
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
+#EXTINF:0,Once Digital (Mexico) (🇲🇽)
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
+#EXTINF:0,Presumiendo Mexico (Mexico) (🇲🇽)
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/.m3u8
+#EXTINF:0,Raly (Mexico) (🇲🇽)
+https://cloudvideo.servers10.com:8081/8072/index.m3u8
+#EXTINF:0,RCG (Mexico) (🇲🇽)
+https://video1.getstreamhosting.com:1936/8172/8172/.m3u8
+#EXTINF:0,RTQ Quetetaro (Mexico) (🇲🇽)
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/.m3u8
+#EXTINF:0,Sci-Fi (Mexico) (🇲🇽)
+https://is.gd/iMFQyY?.m3u8
+#EXTINF:0,Sicom 16.1 (Mexico) (🇲🇽)
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/.m3u8
+#EXTINF:0,Sicom 16.2 (Mexico) (🇲🇽)
+https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/.m3u8
+#EXTINF:0,Sipse (Mexico) (🇲🇽)
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:0,Sipse TVCun (Mexico) (🇲🇽)
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:0,Sizart Canal 24 (Mexico) (🇲🇽)
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/.m3u8
+#EXTINF:0,SMRTV (Mexico) (🇲🇽)
+https://s5.mexside.net:1936/enlinea/enlinea/.m3u8
+#EXTINF:0,Sony Competencias (Mexico) (🇲🇽)
+https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Tele Ritmo (Mexico) (🇲🇽)
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0,Tele Saltillo (Mexico) (🇲🇽)
+https://servilive.com:3879/live/telesaltillolive.m3u8
+#EXTINF:0,TeleDiario (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
+#EXTINF:0,Teleformula (Mexico) (🇲🇽)
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:0,TeleFormula (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+#EXTINF:0,Telemax (Mexico) (🇲🇽)
+https://s5.mexside.net:1936/telemax/telemax/.m3u8
+#EXTINF:0,Teleplay (Mexico) (🇲🇽)
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:0,Todo Novelas (Mexico) (🇲🇽)
+https://d2t7ujjc7lurgd.cloudfront.net/index.m3u8
+#EXTINF:0,TVP Culiacan (Mexico) (🇲🇽)
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/.m3u8
+#EXTINF:0,TVP Los Mochis (Mexico) (🇲🇽)
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
+#EXTINF:0,Ujat (Mexico) (🇲🇽)
+https://5e50264bd6766.streamlock.net/ujat/videoujat/.m3u8
+#EXTINF:0,Ultra (Mexico) (🇲🇽)
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/.m3u8
+#EXTINF:0,UMTV (Mexico) (🇲🇽)
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/.m3u8
+#EXTINF:0,UNAM (Mexico) (🇲🇽)
+https://s5.mexside.net:1936/tvunam/tvunam/.m3u8
+#EXTINF:0,VA+ (Mexico) (🇲🇽)
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/.m3u8
+#EXTINF:0,VB Media (Mexico) (🇲🇽)
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA CORAZON" tvg-logo="https://docdog.top/logo/countries/latino/aztecacorazon.png" group-title="LAME | LATINO VIP",LA: AZTECA CORAZON
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5082
+#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA CLIC" tvg-logo="https://docdog.top/logo/countries/latino/aztecaclick.png" group-title="LAME | LATINO VIP",LA: AZTECA CLIC
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5083
+#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA 7" tvg-logo="https://docdog.top/logo/countries/latino/azteca7.png" group-title="LAME | LATINO VIP",LA: AZTECA 7
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5084
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/mexico/cartoonito-mx.png" group-title="LAME | MEXICO VIP",MEX: CARTOON NETWORK
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5102
+#EXTINF:-1 tvg-id="" tvg-name="MEX: A&AMP;E" tvg-logo="https://docdog.top/logo/countries/mexico/ae.png" group-title="LAME | MEXICO VIP",MEX: A&AMP;E
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5103
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ADN 40" tvg-logo="https://docdog.top/logo/countries/mexico/adn40-mx.png" group-title="LAME | MEXICO VIP",MEX: ADN 40
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5105
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AMC" tvg-logo="https://docdog.top/logo/countries/mexico/amc.png" group-title="LAME | MEXICO VIP",MEX: AMC
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5107
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/mexico/animalplanet.png" group-title="LAME | MEXICO VIP",MEX: ANIMAL PLANET
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5108
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AXN" tvg-logo="https://docdog.top/logo/countries/mexico/axn.png" group-title="LAME | MEXICO VIP",MEX: AXN
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5110
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZ CLICK" tvg-logo="https://docdog.top/logo/countries/mexico/azclickb1.png" group-title="LAME | MEXICO VIP",MEX: AZ CLICK
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5113
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZ CORAZON" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-mx.png" group-title="LAME | MEXICO VIP",MEX: AZ CORAZON
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5114
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZ MUNDO" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-mx.png" group-title="LAME | MEXICO VIP",MEX: AZ MUNDO
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5115
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA UNO" tvg-logo="https://docdog.top/logo/countries/mexico/azteca1.png" group-title="LAME | MEXICO VIP",MEX: AZTECA UNO
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5116
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA 7" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png" group-title="LAME | MEXICO VIP",MEX: AZTECA 7
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5117
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BABY FIRST" tvg-logo="https://docdog.top/logo/countries/mexico/babyfirst.png" group-title="LAME | MEXICO VIP",MEX: BABY FIRST
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5119
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BABY TV" tvg-logo="https://docdog.top/logo/countries/mexico/babytv.png" group-title="LAME | MEXICO VIP",MEX: BABY TV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5120
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BANDAMAX" tvg-logo="https://docdog.top/logo/countries/mexico/bandamax-mx.png" group-title="LAME | MEXICO VIP",MEX: BANDAMAX
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5121
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BBC WORLD NEWS" tvg-logo="https://docdog.top/logo/countries/mexico/bbcworldnews.png" group-title="LAME | MEXICO VIP",MEX: BBC WORLD NEWS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5122
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BLOOMBERG" tvg-logo="https://docdog.top/logo/countries/mexico/bloomberg.png" group-title="LAME | MEXICO VIP",MEX: BLOOMBERG
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5123
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/mexico/boomerang.png" group-title="LAME | MEXICO VIP",MEX: BOOMERANG
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5124
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CADENA H" tvg-logo="https://docdog.top/logo/countries/mexico/cadenah.png" group-title="LAME | MEXICO VIP",MEX: CADENA H
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5125
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL DE LAS ESTRELLAS" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: CANAL DE LAS ESTRELLAS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5126
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 4" tvg-logo="https://docdog.top/logo/countries/mexico/canal4.png" group-title="LAME | MEXICO VIP",MEX: CANAL 4
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5127
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 5" tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png" group-title="LAME | MEXICO VIP",MEX: CANAL 5
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5128
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 8" tvg-logo="https://docdog.top/logo/countries/mexico/canal8.png" group-title="LAME | MEXICO VIP",MEX: CANAL 8
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5129
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 26" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: CANAL 26
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5130
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL JUDICIAL" tvg-logo="https://docdog.top/logo/countries/mexico/canaljudicial.png" group-title="LAME | MEXICO VIP",MEX: CANAL JUDICIAL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5131
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL ONCE" tvg-logo="https://docdog.top/logo/countries/mexico/canal-once-mx.png" group-title="LAME | MEXICO VIP",MEX: CANAL ONCE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5132
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CNN EN ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/mexico/cnnenespanol.png" group-title="LAME | MEXICO VIP",MEX: CNN EN ESPAÑOL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5135
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CNN INT" tvg-logo="https://docdog.top/logo/countries/mexico/cnnint.png" group-title="LAME | MEXICO VIP",MEX: CNN INT
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5136
+#EXTINF:-1 tvg-id="" tvg-name="MEX: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/mexico/comedycentral.png" group-title="LAME | MEXICO VIP",MEX: COMEDY CENTRAL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5137
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DE PELICULA" tvg-logo="https://docdog.top/logo/countries/mexico/de-pelicula-mx.png" group-title="LAME | MEXICO VIP",MEX: DE PELICULA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5138
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/discoverychannel.png" group-title="LAME | MEXICO VIP",MEX: DISCOVERY CHANNEL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5139
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY CIVILIZATION" tvg-logo="https://docdog.top/logo/countries/mexico/discoverycivilization.png" group-title="LAME | MEXICO VIP",MEX: DISCOVERY CIVILIZATION
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5140
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY H&AMP;H" tvg-logo="https://docdog.top/logo/countries/mexico/discoveryhomehealth.png" group-title="LAME | MEXICO VIP",MEX: DISCOVERY H&AMP;H
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5141
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY KIDS" tvg-logo="https://docdog.top/logo/countries/mexico/discoverykids.png" group-title="LAME | MEXICO VIP",MEX: DISCOVERY KIDS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5142
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/mexico/discoveryscience.png" group-title="LAME | MEXICO VIP",MEX: DISCOVERY SCIENCE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5143
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY THEATER" tvg-logo="https://docdog.top/logo/countries/mexico/discoverytheater.png" group-title="LAME | MEXICO VIP",MEX: DISCOVERY THEATER
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5144
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY TURBO" tvg-logo="https://docdog.top/logo/countries/mexico/discoveryturbo.png" group-title="LAME | MEXICO VIP",MEX: DISCOVERY TURBO
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5145
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISCOVERY WORLD" tvg-logo="https://docdog.top/logo/countries/mexico/discoveryworld.png" group-title="LAME | MEXICO VIP",MEX: DISCOVERY WORLD
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5146
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/disneychannel.png" group-title="LAME | MEXICO VIP",MEX: DISNEY CHANNEL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5147
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/mexico/disneyjr.png" group-title="LAME | MEXICO VIP",MEX: DISNEY JR
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5148
+#EXTINF:-1 tvg-id="" tvg-name="MEX: E! ENTERTAINMENT" tvg-logo="https://docdog.top/logo/countries/mexico/eentertainmenttv.png" group-title="LAME | MEXICO VIP",MEX: E! ENTERTAINMENT
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5151
+#EXTINF:-1 tvg-id="" tvg-name="MEX: EL GOURMET" tvg-logo="https://docdog.top/logo/countries/mexico/elgourmet.png" group-title="LAME | MEXICO VIP",MEX: EL GOURMET
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5152
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 2" tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png" group-title="LAME | MEXICO VIP",MEX: ESPN 2
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5153
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 3" tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png" group-title="LAME | MEXICO VIP",MEX: ESPN 3
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5154
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN" tvg-logo="https://docdog.top/logo/countries/mexico/espn.png" group-title="LAME | MEXICO VIP",MEX: ESPN
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5155
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN EXTRA" tvg-logo="https://docdog.top/logo/countries/mexico/espnplus.png" group-title="LAME | MEXICO VIP",MEX: ESPN EXTRA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5156
+#EXTINF:-1 tvg-id="" tvg-name="MEX: EUROPA EUROPA" tvg-logo="https://docdog.top/logo/countries/mexico/europaeuropa.png" group-title="LAME | MEXICO VIP",MEX: EUROPA EUROPA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5157
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOOD NETWORK" tvg-logo="https://docdog.top/logo/countries/mexico/foodnetwork.png" group-title="LAME | MEXICO VIP",MEX: FOOD NETWORK
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5159
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FORMULA NOTICIAS" tvg-logo="https://docdog.top/logo/countries/mexico/formulanoticias.png" group-title="LAME | MEXICO VIP",MEX: FORMULA NOTICIAS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5160
+#EXTINF:-1 tvg-id="" tvg-name="MEX: STAR CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/starchannel.png" group-title="LAME | MEXICO VIP",MEX: STAR CHANNEL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5161
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/mexico/foxnews.png" group-title="LAME | MEXICO VIP",MEX: FOX NEWS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5162
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FRANCIA 24" tvg-logo="https://docdog.top/logo/countries/mexico/francia24.png" group-title="LAME | MEXICO VIP",MEX: FRANCIA 24
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5164
+#EXTINF:-1 tvg-id="" tvg-name="MEX: FX" tvg-logo="https://docdog.top/logo/countries/mexico/fx.png" group-title="LAME | MEXICO VIP",MEX: FX
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5165
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GARAGE TV" tvg-logo="https://docdog.top/logo/countries/mexico/garagetv.png" group-title="LAME | MEXICO VIP",MEX: GARAGE TV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5166
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GLITZ" tvg-logo="https://docdog.top/logo/countries/mexico/glitz.png" group-title="LAME | MEXICO VIP",MEX: GLITZ
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5167
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLDEN" tvg-logo="https://docdog.top/logo/countries/mexico/golden-mx.png" group-title="LAME | MEXICO VIP",MEX: GOLDEN
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5168
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLDEN EDGE" tvg-logo="https://docdog.top/logo/countries/mexico/golden-edge-mx.png" group-title="LAME | MEXICO VIP",MEX: GOLDEN EDGE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5169
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLDEN PLUS" tvg-logo="https://docdog.top/logo/countries/mexico/golden-plus-mx.png" group-title="LAME | MEXICO VIP",MEX: GOLDEN PLUS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5170
+#EXTINF:-1 tvg-id="" tvg-name="MEX: GOLF CH" tvg-logo="https://docdog.top/logo/countries/mexico/golfchannel.png" group-title="LAME | MEXICO VIP",MEX: GOLF CH
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5171
+#EXTINF:-1 tvg-id="" tvg-name="MEX: HISTORY" tvg-logo="https://docdog.top/logo/countries/mexico/historychannel.png" group-title="LAME | MEXICO VIP",MEX: HISTORY
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5172
+#EXTINF:-1 tvg-id="" tvg-name="MEX: HLN" tvg-logo="https://docdog.top/logo/countries/mexico/hln.png" group-title="LAME | MEXICO VIP",MEX: HLN
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5173
+#EXTINF:-1 tvg-id="" tvg-name="MEX: HOLA TV" tvg-logo="https://docdog.top/logo/countries/mexico/holatv.png" group-title="LAME | MEXICO VIP",MEX: HOLA TV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5174
+#EXTINF:-1 tvg-id="" tvg-name="MEX: IMAGEN TV" tvg-logo="https://docdog.top/logo/countries/mexico/imagen-television-mx.png" group-title="LAME | MEXICO VIP",MEX: IMAGEN TV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5175
+#EXTINF:-1 tvg-id="" tvg-name="MEX: INGENIO TV" tvg-logo="https://docdog.top/logo/countries/mexico/ingeniotv.png" group-title="LAME | MEXICO VIP",MEX: INGENIO TV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5176
+#EXTINF:-1 tvg-id="" tvg-name="MEX: INVESTIGATION DISCOVERY" tvg-logo="https://docdog.top/logo/countries/mexico/investigationdiscovery.png" group-title="LAME | MEXICO VIP",MEX: INVESTIGATION DISCOVERY
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5177
+#EXTINF:-1 tvg-id="" tvg-name="MEX: I SAT" tvg-logo="https://docdog.top/logo/countries/mexico/isat.png" group-title="LAME | MEXICO VIP",MEX: I SAT
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5178
+#EXTINF:-1 tvg-id="" tvg-name="MEX: LAS ESTRELLAS" tvg-logo="https://docdog.top/logo/countries/mexico/las-estrellas-mx.png" group-title="LAME | MEXICO VIP",MEX: LAS ESTRELLAS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5179
+#EXTINF:-1 tvg-id="" tvg-name="MEX: LIFETIME" tvg-logo="https://docdog.top/logo/countries/mexico/lifetime.png" group-title="LAME | MEXICO VIP",MEX: LIFETIME
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5180
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MAS CHIC" tvg-logo="https://docdog.top/logo/countries/mexico/maschic.png" group-title="LAME | MEXICO VIP",MEX: MAS CHIC
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5181
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MEXIQUICE" tvg-logo="https://docdog.top/logo/countries/mexico/mexiquice.png" group-title="LAME | MEXICO VIP",MEX: MEXIQUICE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5182
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MILENIO TV" tvg-logo="https://docdog.top/logo/countries/mexico/mileniotv.png" group-title="LAME | MEXICO VIP",MEX: MILENIO TV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5183
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MTV" tvg-logo="https://docdog.top/logo/countries/mexico/mtv.png" group-title="LAME | MEXICO VIP",MEX: MTV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5184
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MTV HITS" tvg-logo="https://docdog.top/logo/countries/mexico/mtvhits.png" group-title="LAME | MEXICO VIP",MEX: MTV HITS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5185
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MTV LIVE" tvg-logo="https://docdog.top/logo/countries/mexico/mtvlive.png" group-title="LAME | MEXICO VIP",MEX: MTV LIVE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5186
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MULTIMEDIOS" tvg-logo="https://docdog.top/logo/countries/mexico/multimedios-mx.png" group-title="LAME | MEXICO VIP",MEX: MULTIMEDIOS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5187
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MULTIMEDIOS PLUS" tvg-logo="https://docdog.top/logo/countries/mexico/multimedios-mx.png" group-title="LAME | MEXICO VIP",MEX: MULTIMEDIOS PLUS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5188
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NAT GEO" tvg-logo="https://docdog.top/logo/countries/mexico/natgeo.png" group-title="LAME | MEXICO VIP",MEX: NAT GEO
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5189
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/mexico/natgeowild.png" group-title="LAME | MEXICO VIP",MEX: NAT GEO WILD
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5190
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NBC GOLF" tvg-logo="https://docdog.top/logo/countries/mexico/nbcgolf.png" group-title="LAME | MEXICO VIP",MEX: NBC GOLF
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5191
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICK 2" tvg-logo="https://docdog.top/logo/countries/mexico/nick2.png" group-title="LAME | MEXICO VIP",MEX: NICK 2
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5192
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICK JR" tvg-logo="https://docdog.top/logo/countries/mexico/nickjr.png" group-title="LAME | MEXICO VIP",MEX: NICK JR
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5193
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/mexico/nickelodeon.png" group-title="LAME | MEXICO VIP",MEX: NICKELODEON
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5194
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NICKTOONS" tvg-logo="https://docdog.top/logo/countries/mexico/nicktoons.png" group-title="LAME | MEXICO VIP",MEX: NICKTOONS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5195
+#EXTINF:-1 tvg-id="" tvg-name="MEX: NTN24" tvg-logo="https://docdog.top/logo/countries/mexico/ntn24.png" group-title="LAME | MEXICO VIP",MEX: NTN24
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5196
+#EXTINF:-1 tvg-id="" tvg-name="MEX: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/paramountchannel.png" group-title="LAME | MEXICO VIP",MEX: PARAMOUNT CHANNEL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5197
+#EXTINF:-1 tvg-id="" tvg-name="MEX: Q TV" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: Q TV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5198
+#EXTINF:-1 tvg-id="" tvg-name="MEX: RMS" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: RMS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5199
+#EXTINF:-1 tvg-id="" tvg-name="MEX: SONY CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/sonychannel.png" group-title="LAME | MEXICO VIP",MEX: SONY CHANNEL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5200
+#EXTINF:-1 tvg-id="" tvg-name="MEX: SPACE" tvg-logo="https://docdog.top/logo/countries/mexico/space.png" group-title="LAME | MEXICO VIP",MEX: SPACE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5201
+#EXTINF:-1 tvg-id="" tvg-name="MEX: STAR TVE" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: STAR TVE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5202
+#EXTINF:-1 tvg-id="" tvg-name="MEX: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries/mexico/studiouniversal.png" group-title="LAME | MEXICO VIP",MEX: STUDIO UNIVERSAL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5203
+#EXTINF:-1 tvg-id="" tvg-name="MEX: SYFY" tvg-logo="https://docdog.top/logo/countries/mexico/syfy.png" group-title="LAME | MEXICO VIP",MEX: SYFY
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5204
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TBS" tvg-logo="https://docdog.top/logo/countries/mexico/tbs.png" group-title="LAME | MEXICO VIP",MEX: TBS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5205
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TCM" tvg-logo="https://docdog.top/logo/countries/mexico/tcm.png" group-title="LAME | MEXICO VIP",MEX: TCM
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5206
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TDN" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TDN
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5207
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELEFORMULA" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TELEFORMULA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5208
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELEHIT PLUS" tvg-logo="https://docdog.top/logo/countries/mexico/telehit-plus-mx.png" group-title="LAME | MEXICO VIP",MEX: TELEHIT PLUS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5209
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELERITMO" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TELERITMO
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5211
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELEVISA" tvg-logo="https://docdog.top/logo/countries/mexico/televisapueblo.png" group-title="LAME | MEXICO VIP",MEX: TELEVISA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5212
+#EXTINF:-1 tvg-id="" tvg-name="MEX: BITME" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: BITME
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5213
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TLC" tvg-logo="https://docdog.top/logo/countries/mexico/tlc.png" group-title="LAME | MEXICO VIP",MEX: TLC
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5214
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TLR" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TLR
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5215
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TNT" tvg-logo="https://docdog.top/logo/countries/mexico/tnt.png" group-title="LAME | MEXICO VIP",MEX: TNT
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5216
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TOONCAST" tvg-logo="https://docdog.top/logo/countries/mexico/cartoonito-mx.png" group-title="LAME | MEXICO VIP",MEX: TOONCAST
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5218
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TRU TV" tvg-logo="https://docdog.top/logo/countries/mexico/trutv.png" group-title="LAME | MEXICO VIP",MEX: TRU TV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5219
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TV MAS" tvg-logo="https://docdog.top/logo/countries/mexico/n-mas-mx.png" group-title="LAME | MEXICO VIP",MEX: TV MAS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5220
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TV5 FRANCIA" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TV5 FRANCIA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5221
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TVE" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TVE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5222
+#EXTINF:-1 tvg-id="" tvg-name="MEX: UNICABLE" tvg-logo="https://docdog.top/logo/countries/mexico/unicable-mx.png" group-title="LAME | MEXICO VIP",MEX: UNICABLE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5224
+#EXTINF:-1 tvg-id="" tvg-name="MEX: UNIVERSAL CHANNEL" tvg-logo="https://docdog.top/logo/countries/mexico/universalchannel.png" group-title="LAME | MEXICO VIP",MEX: UNIVERSAL CHANNEL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5225
+#EXTINF:-1 tvg-id="" tvg-name="MEX: VH1 CLASSIC" tvg-logo="https://docdog.top/logo/countries/mexico/vh1classic.png" group-title="LAME | MEXICO VIP",MEX: VH1 CLASSIC
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5226
+#EXTINF:-1 tvg-id="" tvg-name="MEX: VH1" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: VH1
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5227
+#EXTINF:-1 tvg-id="" tvg-name="MEX: VTV" tvg-logo="https://docdog.top/logo/countries/mexico/vtv.png" group-title="LAME | MEXICO VIP",MEX: VTV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5228
+#EXTINF:-1 tvg-id="" tvg-name="MEX: WARNER" tvg-logo="https://docdog.top/logo/countries/mexico/warnerchannel.png" group-title="LAME | MEXICO VIP",MEX: WARNER
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5229
+#EXTINF:-1 tvg-id="" tvg-name="MEX: WOBI" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: WOBI
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5230
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MULTIMEDIOS P" tvg-logo="https://docdog.top/logo/countries/mexico/multimedios-mx.png" group-title="LAME | MEXICO VIP",MEX: MULTIMEDIOS P
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5231
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TELEMUNDO MEXICO" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: TELEMUNDO MEXICO
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5232
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AL JAZEERA" tvg-logo="https://docdog.top/logo/countries/mexico/aljazeera.png" group-title="LAME | MEXICO VIP",MEX: AL JAZEERA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5233
+#EXTINF:-1 tvg-id="6474a7958e3c0a0008b97cae" tvg-name="Pluto TV Novelas de Mexico" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="Novelas" tvg-chno="305", Pluto TV Novelas de Mexico
+https://stitcher.pluto.tv/stitch/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="6647c02422494d000804b13a" tvg-name="Sony One Shark Tank México" tvg-logo="https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG.png" group-title="Competencia" tvg-chno="429", Sony One Shark Tank México
+https://stitcher.pluto.tv/stitch/hls/channel/6647c02422494d000804b13a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="646ccc7a2858cb0008127367" tvg-name="Azteca UNO -1 hora" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1099", Azteca UNO -1 hora
+https://stitcher.pluto.tv/stitch/hls/channel/646ccc7a2858cb0008127367/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="646cce4d1593940008a33f09" tvg-name="Azteca Internacional" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1103", Azteca Internacional
+https://stitcher.pluto.tv/stitch/hls/channel/646cce4d1593940008a33f09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494

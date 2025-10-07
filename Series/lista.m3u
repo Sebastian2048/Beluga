@@ -1,0 +1,246 @@
+#EXTM3U
+
+#EXTINF:0,13 Teleseries (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:0,Series (España) (🇪🇸)
+https://is.gd/BRVOiZ?.m3u8
+#EXTINF:0,Series (España) (🇪🇸)
+https://is.gd/ZSBZPX?.m3u8
+#EXTINF:0,Series Con Ñ (España) (🇪🇸)
+https://is.gd/d5rzud?.m3u8
+#EXTINF:0,Series Retro (España) (🇪🇸)
+https://is.gd/IyWDEJ?.m3u8
+#EXTINF:0,TF1 Series Films (Francia) (🇫🇷)
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/20.ts
+#EXTINF:0,TNT Series (España) (🇪🇸)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TNTSERIESHD/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES VIP",ES: M+ ACCIÓN
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/656
+#EXTINF:-1 tvg-id="M+ Cine Espanol" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE & SERIES VIP",ES: M+ CINE ESPAÑOL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/658
+#EXTINF:-1 tvg-id="M+ Clasicos" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE & SERIES VIP",ES: M+ CLÁSICOS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/659
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: M+ CINE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine.png" group-title="ES | CINE & SERIES VIP",ES: M+ CINE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/87110
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE & SERIES VIP",ES: M+ DRAMA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/660
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES: M+ SERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="ES | CINE & SERIES VIP",ES: M+ SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/663
+#EXTINF:-1 tvg-id="es.#0" tvg-name="ES: M+ ORIGINALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | CINE & SERIES VIP",ES: M+ ORIGINALES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/87107
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE & SERIES VIP",ES: M+ INDIE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/87106
+#EXTINF:-1 tvg-id="Xtrm.es" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | CINE & SERIES VIP",ES: XTRM
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/767
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ES | CINE & SERIES VIP",ES: BE MAD
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/737
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="ES: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | CINE & SERIES VIP",ES: HOLLYWOOD
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/665
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | CINE & SERIES VIP",ES: PARAMOUNT CHANNEL
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/666
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE & SERIES VIP",ES: SOMOS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/667
+#EXTINF:-1 tvg-id="TNT.sp" tvg-name="ES: WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="ES | CINE & SERIES VIP",ES: WARNER TV
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/668
+#EXTINF:-1 tvg-id="es.TCM" tvg-name="ES: TCM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | CINE & SERIES VIP",ES: TCM
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/669
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="ES | CINE & SERIES VIP",ES: AXN
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/735
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="ES | CINE & SERIES VIP",ES: AXN MOVIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/736
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES: CALLE 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ES | CINE & SERIES VIP",ES: CALLE 13
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/740
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE & SERIES VIP",ES: DARK
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/782
+#EXTINF:-1 tvg-id="MXC| ATRES SERIES FHD" tvg-name="ES: ATRESERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="ES | CINE & SERIES VIP",ES: ATRESERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/800
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE & SERIES VIP",ES: M+ ESTRENOS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/132309
+#EXTINF:-1 tvg-id="TF1 SERIES FILMS" tvg-name="FR: TF1 SERIES AND FILM" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TF1_SERIES_AND_FILM.png" group-title="FR | TOP CHAINES VIP",FR: TF1 SERIES AND FILM
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/420
+#EXTINF:-1 tvg-id="Canal+ Series" tvg-name="FR: CANAL+ SERIES" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SERIES.png" group-title="FR | TOP CHAINES VIP",FR: CANAL+ SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/440
+#EXTINF:-1 tvg-id="SERIE CLUB" tvg-name="FR: SERIE CLUB" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/SERIE_CLUB.png" group-title="FR | DIVERTISSEMENT VIP",FR: SERIE CLUB
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/530
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE TV SERIES" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/FRANCE_TV_SERIES.png" group-title="FR | CINEMA VIP",FR: FRANCE TV SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/132333
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="https://docdog.top/logo/countries/portugal/axn.png" group-title="PT | FILME AND SERIES VIP",PT: AXN
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99510
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN Movies" tvg-logo="https://docdog.top/logo/countries/portugal/axnmovies.png" group-title="PT | FILME AND SERIES VIP",PT: AXN Movies
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99511
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White" tvg-logo="https://docdog.top/logo/countries/portugal/axnwhite.png" group-title="PT | FILME AND SERIES VIP",PT: AXN White
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99512
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-ACTION.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE ACTION
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99513
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EDITION" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-EDITION.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE EDITION
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99514
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EMOTION" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-Emotion.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE EMOTION
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99515
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE TOP" tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-TOP.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE TOP
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99516
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX" tvg-logo="https://docdog.top/logo/countries/portugal/fox.png" group-title="PT | FILME AND SERIES VIP",PT: FOX
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99517
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Crime" tvg-logo="https://docdog.top/logo/countries/portugal/foxcrime.png" group-title="PT | FILME AND SERIES VIP",PT: FOX Crime
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99518
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Life" tvg-logo="https://docdog.top/logo/countries/portugal/foxlife.png" group-title="PT | FILME AND SERIES VIP",PT: FOX Life
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99519
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Movies" tvg-logo="https://docdog.top/logo/countries/portugal/foxmovies.png" group-title="PT | FILME AND SERIES VIP",PT: FOX Movies
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99520
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Comedy" tvg-logo="https://docdog.top/logo/countries/portugal/foxcomedy.png" group-title="PT | FILME AND SERIES VIP",PT: Fox Comedy
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99521
+#EXTINF:-1 tvg-id="" tvg-name="PT: Hollywood" tvg-logo="https://docdog.top/logo/countries/portugal/hollywood.png" group-title="PT | FILME AND SERIES VIP",PT: Hollywood
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99522
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | FILME AND SERIES VIP",PT: AMC
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99534
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Break" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | FILME AND SERIES VIP",PT: AMC Break
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99535
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Crime" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | FILME AND SERIES VIP",PT: AMC Crime
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99536
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINE MUNDO" tvg-logo="https://docdog.top/logo/countries/portugal/cinemundo.png" group-title="PT | FILME AND SERIES VIP",PT: CINE MUNDO
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/99561
+#EXTINF:-1 tvg-id="Paramount Network [TV]" tvg-name="NL: Paramount Network" tvg-logo="" group-title="NL | FILMS EN SERIES VIP",NL: Paramount Network
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/115241
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY POPCORN SELECT 1" tvg-logo="" group-title="DE | CINEMA & SERIEN VIP",DE: SKY POPCORN SELECT 1
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/1443
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY POPCORN SELECT 3" tvg-logo="" group-title="DE | CINEMA & SERIEN VIP",DE: SKY POPCORN SELECT 3
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/1445
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY POPCORN SELECT 4" tvg-logo="" group-title="DE | CINEMA & SERIEN VIP",DE: SKY POPCORN SELECT 4
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/1446
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY POPCORN SELECT 5" tvg-logo="" group-title="DE | CINEMA & SERIEN VIP",DE: SKY POPCORN SELECT 5
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/1447
+#EXTINF:-1 tvg-id="Bibel TV" tvg-name="DE: Bibel TV Impuls" tvg-logo="" group-title="DE | CINEMA & SERIEN VIP",DE: Bibel TV Impuls
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/1664
+#EXTINF:-1 tvg-id="QVC2" tvg-name="DE: QVC Zwei" tvg-logo="" group-title="DE | CINEMA & SERIEN VIP",DE: QVC Zwei
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/1648
+#EXTINF:-1 tvg-id="" tvg-name="GR: COSMOTE SERIES MARATON" tvg-logo="https://docdog.top/logo/countries/greece/COSMOTESERIESMARATON.png" group-title="EU | GREECE VIP",GR: COSMOTE SERIES MARATON
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/2174
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE SERIES" tvg-logo="https://docdog.top/logo/countries/sweden/cmoreseries.png" group-title="EU | SWEDEN VIP",SWE: C MORE SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/2284
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT SERIES" tvg-logo="https://docdog.top/logo/countries/sweden/viasatseries.png" group-title="EU | SWEDEN VIP",SWE: VIASAT SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/2337
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES COMEDY" tvg-logo="https://docdog.top/logo/countries/turkey/bein-series-comedy-hd-tr.png" group-title="EU | TURKISH VIP",TR: BEIN SERIES COMEDY
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/129733
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES DRAMA" tvg-logo="https://docdog.top/logo/countries/turkey/bein-series-drama-hd-tr.png" group-title="EU | TURKISH VIP",TR: BEIN SERIES DRAMA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/129734
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES SCI-FI" tvg-logo="https://docdog.top/logo/countries/turkey/bein-series-sci-fi-hd-tr.png" group-title="EU | TURKISH VIP",TR: BEIN SERIES SCI-FI
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/129735
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES VICE" tvg-logo="https://docdog.top/logo/countries/turkey/bein-series-vice-hd-tr.png" group-title="EU | TURKISH VIP",TR: BEIN SERIES VICE
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/129736
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Nova Series" tvg-logo="" group-title="EU | EX-YU VIP",EX-YU: Nova Series
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/115167
+#EXTINF:-1 tvg-id="" tvg-name="NO: C More Series" tvg-logo="" group-title="EU | NORWAY VIP",NO: C More Series
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/3659
+#EXTINF:-1 tvg-id="" tvg-name="FI: C MORE SERIES [MULTI-SUB]" tvg-logo="https://docdog.top/logo/countries/finland/cmoreseries.png" group-title="EU | FINLAND VIP",FI: C MORE SERIES [MULTI-SUB]
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/3668
+#EXTINF:-1 tvg-id="" tvg-name="DK: C MORE SERIES" tvg-logo="https://docdog.top/logo/countries/denmark/cmoreseries.png" group-title="EU | DENMARK VIP",DK: C MORE SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/3698
+#EXTINF:-1 tvg-id="" tvg-name="DK: VIASAT SERIES" tvg-logo="https://docdog.top/logo/countries/denmark/vox.png" group-title="EU | DENMARK VIP",DK: VIASAT SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/3756
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SERIES" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-series-ar.png" group-title="LAME | ARGENTINA VIP",ARG: TNT SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/4814
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT SERIES" tvg-logo="https://docdog.top/logo/countries/latino/tntseries.png" group-title="LAME | LATINO VIP",LA: TNT SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5040
+#EXTINF:-1 tvg-id="" tvg-name="MEX: A3 SERIES" tvg-logo="https://docdog.top/logo/countries/mexico/a3series.png" group-title="LAME | MEXICO VIP",MEX: A3 SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5104
+#EXTINF:-1 tvg-id="" tvg-name="MEX: TNT SERIES" tvg-logo="https://docdog.top/logo/countries/mexico/tntseries.png" group-title="LAME | MEXICO VIP",MEX: TNT SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5217
+#EXTINF:-1 tvg-id="" tvg-name="IR: AVA SERIES" tvg-logo="https://docdog.top/logo/countries/iran/AVASERIES.jpg" group-title="ASIA | IRAN VIP",IR: AVA SERIES
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/7419
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM SERIES PLUS" tvg-logo="https://docdog.top/logo/countries/iran/GEMSERIESPLUS.jpg" group-title="ASIA | IRAN VIP",IR: GEM SERIES PLUS
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/7450
+#EXTINF:-1 tvg-id="" tvg-name="NO: V Series" tvg-logo="" group-title="NORWAY PLUTOS",NO: V Series
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/25326
+#EXTINF:-1 tvg-id="" tvg-name="NO: C More Series (RIKS)" tvg-logo="" group-title="NORWAY PLUTOS",NO: C More Series (RIKS)
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/25489
+#EXTINF:-1 tvg-id="" tvg-name="DK| V Series" tvg-logo="" group-title="DENMARK PLUTOS",DK| V Series
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/25748
+#EXTINF:-1 tvg-id="" tvg-name="DK | V series" tvg-logo="" group-title="DENMARK PLUTOS",DK | V series
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/25791
+#EXTINF:-1 tvg-id="" tvg-name="DK| V Series" tvg-logo="" group-title="DENMARK PLUTOS",DK| V Series
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/25871
+#EXTINF:-1 tvg-id="" tvg-name="ENG 24/7: A Series of Unfortunate Events" tvg-logo="https://docdog.top/logo/countries/others/24_7.png" group-title="24/7 VIP",ENG 24/7: A Series of Unfortunate Events
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/36366
+#EXTINF:-1 tvg-id="" tvg-name="ENG 24/7: Batman the Animated Series" tvg-logo="https://docdog.top/logo/countries/others/24_7.png" group-title="24/7 VIP",ENG 24/7: Batman the Animated Series
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/36389
+#EXTINF:-1 tvg-id="68345650e8377f86acdeda83" tvg-name="Pluto TV Series de Terror" tvg-logo="https://images.pluto.tv/channels/68345650e8377f86acdeda83/colorLogoPNG_1751021711627.png" group-title="Halloween" tvg-chno="6", Pluto TV Series de Terror
+https://stitcher.pluto.tv/stitch/hls/channel/68345650e8377f86acdeda83/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="6812206e1b3e3be031a5c363" tvg-name="Águila Roja" tvg-logo="https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/colorLogoPNG_1754647874286.png" group-title="Series Míticas" tvg-chno="51", Águila Roja
+https://stitcher.pluto.tv/stitch/hls/channel/6812206e1b3e3be031a5c363/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="685a995b460ac82fa504342c" tvg-name="The Good Wife" tvg-logo="https://images.pluto.tv/channels/685a995b460ac82fa504342c/colorLogoPNG_1750771214380.png" group-title="Series Míticas" tvg-chno="52", The Good Wife
+https://stitcher.pluto.tv/stitch/hls/channel/685a995b460ac82fa504342c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="683457aebbc703dfd45a89eb" tvg-name="Merlí" tvg-logo="https://images.pluto.tv/channels/683457aebbc703dfd45a89eb/colorLogoPNG_1749718381815.png" group-title="Series Míticas" tvg-chno="53", Merlí
+https://stitcher.pluto.tv/stitch/hls/channel/683457aebbc703dfd45a89eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="5f1acce7f17797000718f9be" tvg-name="Ana y los 7" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="Series Míticas" tvg-chno="54", Ana y los 7
+https://stitcher.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="65b91e530d9ab40008340d8d" tvg-name="Al salir de clase" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png" group-title="Series Míticas" tvg-chno="55", Al salir de clase
+https://stitcher.pluto.tv/stitch/hls/channel/65b91e530d9ab40008340d8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="5f1acd36779de70007a680d1" tvg-name="Curro Jiménez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Series Míticas" tvg-chno="56", Curro Jiménez
+https://stitcher.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="65dded6966eec80008947157" tvg-name="Call the Midwife" tvg-logo="https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG.png" group-title="Series Míticas" tvg-chno="57", Call the Midwife
+https://stitcher.pluto.tv/stitch/hls/channel/65dded6966eec80008947157/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="6245c03922d9d4000760d205" tvg-name="Melrose Place" tvg-logo="https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png" group-title="Series Míticas" tvg-chno="58", Melrose Place
+https://stitcher.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="664c76520120f40008b81db9" tvg-name="Los vigilantes de la playa" tvg-logo="https://images.pluto.tv/channels/664c76520120f40008b81db9/colorLogoPNG.png" group-title="Series Míticas" tvg-chno="59", Los vigilantes de la playa
+https://stitcher.pluto.tv/stitch/hls/channel/664c76520120f40008b81db9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" tvg-name="Pluto TV Series criminales" tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png" group-title="Policiacas" tvg-chno="106", Pluto TV Series criminales
+https://stitcher.pluto.tv/stitch/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="6834570d00b60028d2dfd5f8" tvg-name="Pluto TV Series Policiacas" tvg-logo="https://images.pluto.tv/channels/6834570d00b60028d2dfd5f8/colorLogoPNG_1751555514246.png" group-title="Policiacas" tvg-chno="107", Pluto TV Series Policiacas
+https://stitcher.pluto.tv/stitch/hls/channel/6834570d00b60028d2dfd5f8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="65ddec1ef7f0af0008be4b65" tvg-name="Pluto TV Series Sci-Fi" tvg-logo="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png" group-title="Ciencia Ficción" tvg-chno="125", Pluto TV Series Sci-Fi
+https://stitcher.pluto.tv/stitch/hls/channel/65ddec1ef7f0af0008be4b65/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="662a69daa0a74e00087a1c72" tvg-name="Pluto TV Telenovelas Clásicas" tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" group-title="Más series" tvg-chno="350", Pluto TV Telenovelas Clásicas
+https://stitcher.pluto.tv/stitch/hls/channel/662a69daa0a74e00087a1c72/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="60b4c06717da110007ee1af6" tvg-name="Pluto TV Telenovelas" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG_1733440547918.png" group-title="Más series" tvg-chno="351", Pluto TV Telenovelas
+https://stitcher.pluto.tv/stitch/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="6834588b00b60028d2dfe13f" tvg-name="Pluto TV Series Chic" tvg-logo="https://images.pluto.tv/channels/6834588b00b60028d2dfe13f/colorLogoPNG_1754462660334.png" group-title="Más series" tvg-chno="352", Pluto TV Series Chic
+https://stitcher.pluto.tv/stitch/hls/channel/6834588b00b60028d2dfe13f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="67586a552fb8a100088f7703" tvg-name="Pluto TV Miniseries" tvg-logo="https://images.pluto.tv/channels/67586a552fb8a100088f7703/colorLogoPNG.png" group-title="Más series" tvg-chno="353", Pluto TV Miniseries
+https://stitcher.pluto.tv/stitch/hls/channel/67586a552fb8a100088f7703/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="60dafb9a0df1ba000758d37b" tvg-name="BBC Drama" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Más series" tvg-chno="354", BBC Drama
+https://stitcher.pluto.tv/stitch/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="6475bfec536e0c0008858e9f" tvg-name="Pluto TV K-Drama" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" group-title="Más series" tvg-chno="355", Pluto TV K-Drama
+https://stitcher.pluto.tv/stitch/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="5f1ac8f49205650007bc15f1" tvg-name="Pluto TV Series" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="Más series" tvg-chno="357", Pluto TV Series
+https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="655f62ff954b020008c91ec6" tvg-name="Pluto TV Series de Crimen" tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png" group-title="Series" tvg-chno="102", Pluto TV Series de Crimen
+https://stitcher.pluto.tv/stitch/hls/channel/655f62ff954b020008c91ec6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="Series" tvg-chno="104", CSI: Miami
+https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Series" tvg-chno="108", NCIS
+https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="68811c9252a0e381f140bcf0" tvg-name="NCIS: Lo Mejor de Tony & Ziva" tvg-logo="https://images.pluto.tv/channels/68811c9252a0e381f140bcf0/colorLogoPNG_1754684655261.png" group-title="Series" tvg-chno="112", NCIS: Lo Mejor de Tony & Ziva
+https://stitcher.pluto.tv/stitch/hls/channel/68811c9252a0e381f140bcf0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="6764203df433320008836bc6" tvg-name="Los Asesinatos de Midsomer" tvg-logo="https://images.pluto.tv/channels/6764203df433320008836bc6/colorLogoPNG.png" group-title="Series" tvg-chno="113", Los Asesinatos de Midsomer
+https://stitcher.pluto.tv/stitch/hls/channel/6764203df433320008836bc6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="67f960680072d6b187a0682e" tvg-name="Números" tvg-logo="https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG_1747415112008.png" group-title="Series" tvg-chno="119", Números
+https://stitcher.pluto.tv/stitch/hls/channel/67f960680072d6b187a0682e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="6479ff1c17f5e10008ad2797" tvg-name="Pluto TV Series de Acción" tvg-logo="https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png" group-title="Series" tvg-chno="125", Pluto TV Series de Acción
+https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="64ff270f30ab3300084e259c" tvg-name="Rookie Blue: Policías Novatos" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" group-title="Series" tvg-chno="127", Rookie Blue: Policías Novatos
+https://stitcher.pluto.tv/stitch/hls/channel/64ff270f30ab3300084e259c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="5ec5761aabe4690007f6e047" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png" group-title="Series" tvg-chno="131", Pluto TV Star Trek
+https://stitcher.pluto.tv/stitch/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="65662f8a2c46f300088a84cc" tvg-name="Pluto TV Series de Sci-Fi" tvg-logo="https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png" group-title="Series" tvg-chno="132", Pluto TV Series de Sci-Fi
+https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="67e598e28b99330f75b4c629" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/67e598e28b99330f75b4c629/colorLogoPNG_1745592400066.png" group-title="Series" tvg-chno="133", Andromeda
+https://stitcher.pluto.tv/stitch/hls/channel/67e598e28b99330f75b4c629/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="67e5941f0812459cb682d9c6" tvg-name="Relic Hunter" tvg-logo="https://images.pluto.tv/channels/67e5941f0812459cb682d9c6/colorLogoPNG_1745511571298.png" group-title="Series" tvg-chno="137", Relic Hunter
+https://stitcher.pluto.tv/stitch/hls/channel/67e5941f0812459cb682d9c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="5dcde1317578340009b751d0" tvg-name="Pluto TV Series" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Series" tvg-chno="140", Pluto TV Series
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="655f636d954b020008c93299" tvg-name="Pluto TV Series de Drama" tvg-logo="https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1751914277792.png" group-title="Series" tvg-chno="160", Pluto TV Series de Drama
+https://stitcher.pluto.tv/stitch/hls/channel/655f636d954b020008c93299/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="67e5987eef24f48ffca08fd7" tvg-name="Doc Martin" tvg-logo="https://images.pluto.tv/channels/67e5987eef24f48ffca08fd7/colorLogoPNG_1745592891380.png" group-title="Series" tvg-chno="161", Doc Martin
+https://stitcher.pluto.tv/stitch/hls/channel/67e5987eef24f48ffca08fd7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="6806d570c178637410ae4962" tvg-name="Pluto TV Series de Otros Continentes" tvg-logo="https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1746817518238.png" group-title="Series" tvg-chno="177", Pluto TV Series de Otros Continentes
+https://stitcher.pluto.tv/stitch/hls/channel/6806d570c178637410ae4962/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="6185a9a88b2ce30007de5128" tvg-name="Pluto TV Dramas Coreanos" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1751914154440.png" group-title="Series" tvg-chno="180", Pluto TV Dramas Coreanos
+https://stitcher.pluto.tv/stitch/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="6661d5424b10960008599fa3" tvg-name="Pluto TV Dramas Coreanos Teen" tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1751914207387.png" group-title="Series" tvg-chno="181", Pluto TV Dramas Coreanos Teen
+https://stitcher.pluto.tv/stitch/hls/channel/6661d5424b10960008599fa3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="639751f81a36b400072b8f5a" tvg-name="Vive Kanal D Drama" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="Series" tvg-chno="184", Vive Kanal D Drama
+https://stitcher.pluto.tv/stitch/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-name="Pluto TV Series Latinas" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="Series" tvg-chno="195", Pluto TV Series Latinas
+https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-name="Pluto TV Series Retro" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Retro" tvg-chno="203", Pluto TV Series Retro
+https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494

@@ -1,0 +1,54 @@
+#EXTM3U
+
+#EXTINF:0,Comedia Runtime (España) (🇪🇸)
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
+#EXTINF:0,DC Distrito Comedia (España) (🇪🇸)
+http://181.78.105.146:8800/play/a07q/index.m3u8
+#EXTINF:0,DC Distrito Comedia (Mexico) (🇲🇽)
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:0,El Club De La Comedia (España) (🇪🇸)
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+#EXTINF:0,Series Comedia (España) (🇪🇸)
+https://is.gd/tit1cW?.m3u8
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE & SERIES VIP",ES: M+ COMEDIA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/657
+#EXTINF:-1 tvg-id="" tvg-name="DK: TV2 HUMOR" tvg-logo="https://docdog.top/logo/countries/denmark/tv2humor.png" group-title="EU | DENMARK VIP",DK: TV2 HUMOR
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/3733
+#EXTINF:-1 tvg-id="" tvg-name="MEX: DISTRITO COMEDIA" tvg-logo="https://docdog.top/logo/countries/mexico/distrito-comedia-mx.png" group-title="LAME | MEXICO VIP",MEX: DISTRITO COMEDIA
+http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/5149
+#EXTINF:-1 tvg-id="5f1ac8099c49f600076579b2" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="Cine" tvg-chno="210", Pluto TV Cine Comedia
+https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="655b5d865812e80008843bd1" tvg-name="Pluto TV Comedias Románticas" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png" group-title="Cine" tvg-chno="211", Pluto TV Comedias Románticas
+https://stitcher.pluto.tv/stitch/hls/channel/655b5d865812e80008843bd1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="628751bb7154a40007168843" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="Comedia" tvg-chno="300", South Park
+https://stitcher.pluto.tv/stitch/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Comedia" tvg-chno="301", FailArmy
+https://stitcher.pluto.tv/stitch/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="5f9853138d19af0007104a8d" tvg-name="Pluto TV Series Comedia" tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="Comedia" tvg-chno="302", Pluto TV Series Comedia
+https://stitcher.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="604f8125c6669b00077f7699" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" group-title="Comedia" tvg-chno="303", Wipeout
+https://stitcher.pluto.tv/stitch/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="63d7a8e5a9957100086bfc23" tvg-name="South Park Versión Original" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="Comedia" tvg-chno="304", South Park Versión Original
+https://stitcher.pluto.tv/stitch/hls/channel/63d7a8e5a9957100086bfc23/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="5f28009b150b2500077766b8" tvg-name="Vaya semanita" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Comedia" tvg-chno="305", Vaya semanita
+https://stitcher.pluto.tv/stitch/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-name="Pluto TV Comedia made in Spain" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="Comedia" tvg-chno="306", Pluto TV Comedia made in Spain
+https://stitcher.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c7a0a283-a314-11f0-9521-fae18032cc02
+#EXTINF:-1 tvg-id="5dcdde78f080d900098550e4" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG_1758665472413.png" group-title="Películas" tvg-chno="33", Pluto TV Cine Comedia
+https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="655f626d57fe4a00085c7c3e" tvg-name="Pluto TV Series de Comedia" tvg-logo="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png" group-title="Series" tvg-chno="150", Pluto TV Series de Comedia
+https://stitcher.pluto.tv/stitch/hls/channel/655f626d57fe4a00085c7c3e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="62d0895ebe7a970008785244" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" group-title="Comedia" tvg-chno="934", Daria
+https://stitcher.pluto.tv/stitch/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="62d08af527ce19000731eaa0" tvg-name="La Familia del Barrio" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" group-title="Comedia" tvg-chno="939", La Familia del Barrio
+https://stitcher.pluto.tv/stitch/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="5e8397936791b30007ebb5a7" tvg-name="Pluto TV Humor" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="Comedia" tvg-chno="994", Pluto TV Humor
+https://stitcher.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="5ffcc21a432945000762d06b" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1759184275451.png" group-title="Comedia" tvg-chno="999", Comedy Central Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="5ebaccf1734aaf0007142c86" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Comedia" tvg-chno="1009", FailArmy
+https://stitcher.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="5ebacbcae43a6d000787b88e" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Comedia" tvg-chno="1014", The Pet Collective
+https://stitcher.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
+#EXTINF:-1 tvg-id="678029c654f43dad4b5c1ec0" tvg-name="Bromas Gags - Just for Laughs" tvg-logo="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png" group-title="Comedia" tvg-chno="1015", Bromas Gags - Just for Laughs
+https://stitcher.pluto.tv/stitch/hls/channel/678029c654f43dad4b5c1ec0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=08d7b369-a315-11f0-945a-363cc0fd3494
