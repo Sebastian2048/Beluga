@@ -1,24 +1,11 @@
 #EXTM3U
 
-#EXTM3U
+#EXTINF:-1,Canales
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/Canales.m3u
 
-#EXTINF:-1,MagisTV
-https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/main/MagisTV%2B.m3u
+#EXTINF:-1,Peliculas
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/Peliculas.m3u
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/portedev/algo/main/New.M3nu/0MENU.ESTRENOS.png", group-title="--> Kuerba V2 <--",ESTRENOS
-https://raw.githubusercontent.com/R0b1NjuD/Ku3rb4/main/releases/download/HOME/K_3STR3N0S.m3u
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/portedev/algo/main/New.M3nu/0MENU.IPTV.png",TELEVISION
-https://raw.githubusercontent.com/R0b1NjuD/Ku3rb4/main/releases/download/HOME/Pce3t3v3.m3u
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/portedev/algo/main/New.M3nu/0MENU.SERIES.png",SERIES
-https://raw.githubusercontent.com/R0b1NjuD/Ku3rb4/main/releases/download/S3R13S.M3NU/S3R13S_M3NU.m3u
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/portedev/algo/main/New.M3nu/0MENU.SAGAS.png",SAGAS
-https://raw.githubusercontent.com/R0b1NjuD/Ku3rb4/main/releases/download/HOME/C0L3CC10N3S.M3Nu.m3u
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/portedev/algo/main/New.M3nu/0MENU.PELIS.png",PELICULAS
-https://raw.githubusercontent.com/R0b1NjuD/Ku3rb4/main/releases/download/HOME/S3rv3r.P3l1s.m3u
-
+#EXTINF:-1,Series
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/Series.m3u
 
