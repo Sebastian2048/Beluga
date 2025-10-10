@@ -6,7 +6,12 @@ from urllib.parse import urlparse
 
 # 📥 Extraer enlaces válidos desde texto .m3u
 def extraer_enlaces_m3u(texto):
-    return [line.strip() for line in texto.splitlines() if line.strip().startswith("http")]
+    bloques = []
+    lineas = texto.strip().splitlines()
+    for i in range(len(lineas) - 1):
+        if lineas[i].startswith("#EXTINF") and lineas[i+1].startswith("http"):
+            bloques.append(f"{lineas[i]}\n{lineas[i+1]}")
+    return bloques
 
 # ✅ Verificar si una URL devuelve 200 OK
 def verificar_disponibilidad(url):
