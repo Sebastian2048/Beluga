@@ -139,3 +139,16 @@ def verificar_historial(reconstruir_url_func):
         except Exception as e:
             print(f"❌ No se pudo verificar {archivo}: {e}")
 
+# 🧠 Clasifica contenido por metadato en línea #EXTINF
+def clasificar_por_metadato(bloque):
+    bloque_mayus = bloque.upper()
+    if "TV" in bloque_mayus or "IPTV" in bloque_mayus or "CANAL" in bloque_mayus or "TELEVISION" in bloque_mayus:
+        return "television"
+    elif "PELICULA" in bloque_mayus or "MOVIE" in bloque_mayus or "FILM" in bloque_mayus or "ESTRENO" in bloque_mayus:
+        return "peliculas"
+    elif "SERIE" in bloque_mayus or "EPISODIO" in bloque_mayus or "S3R13S" in bloque_mayus:
+        return "series"
+    elif "SAGA" in bloque_mayus or "COLECCION" in bloque_mayus:
+        return "sagas"
+    else:
+        return "otros"
