@@ -1,11 +1,8 @@
 # clasificador.py
 
-# clasificador.py
-
 import os
 from config import CARPETA_ORIGEN, CLAVES_CATEGORIA
 
-# 🧱 Extrae bloques M3U completos (EXTINF + URL)
 def extraer_bloques_m3u(lineas):
     bloques = []
     buffer = []
@@ -17,10 +14,8 @@ def extraer_bloques_m3u(lineas):
             buffer.append(linea)
             bloques.append("".join(buffer))
             buffer = []
-
     return bloques
 
-# 🔍 Extrae el nombre del canal desde EXTINF
 def extraer_nombre_canal(bloque):
     for linea in bloque.splitlines():
         if linea.startswith("#EXTINF"):
@@ -29,14 +24,12 @@ def extraer_nombre_canal(bloque):
                 return partes[1].strip()
     return "Sin nombre"
 
-# 🔍 Extrae la URL del canal desde el bloque
 def extraer_url(bloque):
     for linea in bloque.splitlines():
         if linea.startswith("http"):
             return linea.strip()
     return ""
 
-# 🧠 Clasifica por nombre usando el diccionario extendido
 def clasificar_por_nombre(nombre):
     nombre = nombre.lower()
     for categoria, claves in CLAVES_CATEGORIA.items():
@@ -44,7 +37,6 @@ def clasificar_por_nombre(nombre):
             return categoria
     return None
 
-# 🧠 Clasifica por metadato si no hay coincidencia por nombre
 def clasificar_por_metadato(bloque):
     texto = bloque.lower()
     if "deporte" in texto or "sports" in texto:
@@ -63,24 +55,28 @@ def clasificar_por_metadato(bloque):
         return "documentales"
     return None
 
-# 🧠 Clasifica por URL si contiene pistas temáticas
 def clasificar_por_url(url):
     url = url.lower()
-    if "sports" in url or "deportes" in url:
-        return "deportes"
-    if "news" in url or "noticias" in url:
-        return "noticias"
-    if "kids" in url or "infantil" in url:
-        return "infantil"
-    if "movie" in url or "cine" in url:
-        return "peliculas"
-    if "anime" in url or "manga" in url:
-        return "anime_adultos"
-    if "documental" in url or "history" in url:
-        return "documentales"
+    if "telecentro" in url:
+        return "argentina_telecentro"
+    if "megacable" in url:
+        return "mexico_megacable"
+    if "movistar" in url:
+        return "españa_movistar"
+    if "latino" in url or "espanol" in url:
+        return "espanol_general"
+    if "portugues" in url:
+        return "portugues_general"
+    if "english" in url or "en" in url:
+        return "ingles_general"
+    if "arg" in url or "ar" in url:
+        return "argentina_general"
+    if "mx" in url:
+        return "mexico_general"
+    if "es" in url:
+        return "españa_general"
     return None
 
-# 💾 Guarda el bloque en el archivo correspondiente
 def guardar_en_categoria(categoria, bloque):
     os.makedirs(CARPETA_ORIGEN, exist_ok=True)
     ruta = os.path.join(CARPETA_ORIGEN, f"{categoria}.m3u")
@@ -91,6 +87,5 @@ def guardar_en_categoria(categoria, bloque):
 
     with open(ruta, "a", encoding="utf-8") as f:
         f.write(bloque.strip() + "\n")
-
 
 
