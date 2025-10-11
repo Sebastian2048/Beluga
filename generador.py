@@ -31,12 +31,22 @@ def generar_listas_finales():
             for url in sorted(capitulos):
                 f.write(f"#EXTINF:-1,{serie}\n{url}\n")
 
-    # 📂 Índice principal
+    # 📂 Índice principal con enlaces raw desde GitHub
     with open(f"{CARPETA_SALIDA}/RP_S2048.m3u", "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n\n")
+
+        # Enlaces principales
         f.write("#EXTINF:-1,Canales\nhttps://raw.githubusercontent.com/Sebastian2048/Beluga/main/Canales.m3u\n")
         f.write("#EXTINF:-1,Peliculas\nhttps://raw.githubusercontent.com/Sebastian2048/Beluga/main/Peliculas.m3u\n")
         f.write("#EXTINF:-1,Series\nhttps://raw.githubusercontent.com/Sebastian2048/Beluga/main/Series.m3u\n")
+
+        # 🔁 Enlaces adicionales desde compilados/
+        compilados_path = "compilados"
+        if os.path.exists(compilados_path):
+            for archivo in sorted(os.listdir(compilados_path)):
+                if archivo.endswith(".m3u"):
+                    nombre = archivo.replace(".m3u", "").capitalize()
+                    f.write(f"#EXTINF:-1,{nombre}\nhttps://raw.githubusercontent.com/Sebastian2048/Beluga/main/{compilados_path}/{archivo}\n")
 
     # 📄 Guía en texto
     with open(f"{CARPETA_SALIDA}/GUIA_CANALES.txt", "w", encoding="utf-8") as f:

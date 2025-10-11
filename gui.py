@@ -184,23 +184,16 @@ def iniciar_proceso():
                 fin = f"{idx+1}.end"
                 texto_listas.tag_add("fallida", inicio, fin)
 
+# 📊 Mostrar resumen visual
         entrada_lista.delete(0, tk.END)
         entrada_lista.insert(0, f"✅ {exitosas} válidas | 🟧 {menus} menús | ❌ {fallidas} fallidas | Total: {total}")
         contador_resultado.set(f"✅ {exitosas} listas procesadas correctamente de {total} detectadas.")
-
+ 
+  # 📤 Habilitar botón de Git si hubo éxito
         if exitosas > 0:
             boton_git.config(state="normal")
 
     threading.Thread(target=tarea).start()
-
-    # 📊 Mostrar resumen visual
-    entrada_lista.delete(0, tk.END)
-    entrada_lista.insert(0, f"✅ {exitosas} válidas | 🟧 {menus} menús | ❌ {fallidas} fallidas | Total: {total}")
-    contador_resultado.set(f"✅ {exitosas} listas procesadas correctamente de {total} detectadas.")
-
-    # 📤 Habilitar botón de Git si hubo éxito
-    if exitosas > 0:
-        boton_git.config(state="normal")
 
 def verificar_peliculas_series():
     entrada_lista.delete(0, tk.END)

@@ -1,10 +1,11 @@
 # utils.py
+
 import requests
 import re
 import os
 from urllib.parse import urlparse
 
-# 📥 Extraer enlaces válidos desde texto .m3u
+# 📥 Extraer bloques válidos desde texto .m3u
 def extraer_enlaces_m3u(texto):
     bloques = []
     lineas = texto.strip().splitlines()
@@ -21,7 +22,7 @@ def verificar_disponibilidad(url):
     except:
         return False
 
-# 🔗 Convertir GitHub blob a raw (evita doble definición)
+# 🔗 Convertir GitHub blob a raw
 def github_blob_a_raw(url):
     if "github.com" in url and "/blob/" in url:
         return url.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
@@ -55,7 +56,7 @@ def obtener_assets_de_release(url_repo):
     except:
         return []
 
-# 🧠 Detecta si una lista contiene streams reales (no es solo menú)
+# 🧠 Detecta si una lista contiene streams reales
 def es_lista_final(texto_m3u):
     return any(line.strip().startswith("http") and ".m3u8" in line for line in texto_m3u.splitlines())
 
@@ -73,9 +74,25 @@ def verificar_enlaces(lista_enlaces):
             resultados.append((url, f"❌ {e}"))
     return resultados
 
-# 📦 Guarda contenido en archivo por categoría
 def guardar_en_categoria(nombre_categoria, contenido):
     os.makedirs("compilados", exist_ok=True)
     ruta = f"compilados/{nombre_categoria}.m3u"
-    with open(ruta, "a", encoding="utf-8") as f:
-        f.write(contenido + "\n")
+
+    # Si el archivo no existe, crearlo con encabezado
+    if not os.path.exists(ruta):
+        with open(ruta, "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
+
+    # Leer contenido existente solo si el archivo ya existe
+    try:
+        with open(ruta, "r", encoding="utf-8") as f:
+            existente = f.read()
+    except FileNotFoundError:
+        existente = ""
+
+    # Evitar duplicados
+    if contenido.strip() not in existente:
+        with open(ruta, "a", encoding="utf-8") as f:
+            f.write(contenido.strip() + "\n")
+
+
