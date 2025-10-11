@@ -59,15 +59,75 @@ def reclasificar_lista(ruta, nombre_original):
 
     return nombre_original
 
+# 🔎 Verificador embebido: elimina listas rotas, vacías y duplicadas
+def verificar_y_eliminar():
+    archivos = [f for f in os.listdir(CARPETA_SEGMENTADOS) if f.endswith(".m3u")]
+    duplicados = {}
+    vacias = []
+    rotas = []
+    hashes = {}
+
+    print(f"\n🔍 Verificando {len(archivos)} listas en {CARPETA_SEGMENTADOS}/...\n")
+
+    for archivo in archivos:
+        ruta = os.path.join(CARPETA_SEGMENTADOS, archivo)
+        try:
+            with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
+                lineas = f.readlines()
+        except:
+            rotas.append(archivo)
+            continue
+
+        if not lineas or not lineas[0].strip().startswith("#EXTM3U"):
+            rotas.append(archivo)
+            continue
+
+        bloques = extraer_bloques_m3u(lineas)
+        if not bloques:
+            vacias.append(archivo)
+            continue
+
+        hash_actual = hash_contenido(ruta)
+        if hash_actual in hashes:
+            duplicados.setdefault(hashes[hash_actual], []).append(archivo)
+        else:
+            hashes[hash_actual] = archivo
+
+    for f in vacias:
+        os.remove(os.path.join(CARPETA_SEGMENTADOS, f))
+    for f in rotas:
+        os.remove(os.path.join(CARPETA_SEGMENTADOS, f))
+    for original, copias in duplicados.items():
+        for f in copias:
+            os.remove(os.path.join(CARPETA_SEGMENTADOS, f))
+
+    if vacias:
+        print("❌ Eliminadas por estar vacías:")
+        for f in vacias:
+            print(f"  - {f}")
+    if rotas:
+        print("\n❌ Eliminadas por estar rotas:")
+        for f in rotas:
+            print(f"  - {f}")
+    if duplicados:
+        print("\n♻️ Eliminadas por ser duplicadas:")
+        for original, copias in duplicados.items():
+            for f in copias:
+                print(f"  - {f} (duplicado de {original})")
+    if not (vacias or rotas or duplicados):
+        print("✅ Todas las listas están en buen estado.")
+
 # ✅ Función principal para generar el archivo final
 def generar_listas_finales():
+    verificar_y_eliminar()
+
     archivos = sorted([
         f for f in os.listdir(CARPETA_SEGMENTADOS)
         if f.endswith(".m3u")
     ])
 
     if not archivos:
-        print("⚠️ No se encontraron listas en segmentados/. Abortando.")
+        print("⚠️ No se encontraron listas válidas en segmentados/. Abortando.")
         return
 
     hashes = set()
@@ -77,17 +137,12 @@ def generar_listas_finales():
     for archivo in archivos:
         ruta = os.path.join(CARPETA_SEGMENTADOS, archivo)
 
-        # Eliminar si está vacía o rota
         if not es_lista_util(ruta):
-            os.remove(ruta)
-            print(f"❌ Eliminada (vacía o rota): {archivo}")
             continue
 
-        # Reclasificar si es genérica
         if archivo.startswith("sin_clasificar") or archivo.startswith("television"):
             archivo = reclasificar_lista(ruta, archivo)
 
-        # Verificar duplicados
         ruta_actualizada = os.path.join(CARPETA_SEGMENTADOS, archivo)
         hash_actual = hash_contenido(ruta_actualizada)
         if hash_actual in hashes:
@@ -97,8 +152,6 @@ def generar_listas_finales():
 
         hashes.add(hash_actual)
         listas_validas.append(archivo)
-
-        # Contar categoría para resumen
         categoria_detectada = archivo.replace(".m3u", "")
         totales_por_categoria[categoria_detectada] += 1
 

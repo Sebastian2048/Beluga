@@ -1,5 +1,5 @@
 #EXTM3U
-# Generado por Beluga - 2025-10-11 20:20
+# Generado por Beluga - 2025-10-11 20:32
 
 # 🔹 Categoría: abiertos_arg_1
 #EXTINF:-1 tvg-id="abiertos_arg_1" group-title="abiertos_arg_1",abiertos_arg_1
@@ -261,26 +261,6 @@
 #EXTINF:-1 tvg-id="deportes_2" group-title="deportes_2",deportes_2
 ./segmentados/deportes_2.m3u
 
-# 🔹 Categoría: deportes_3
-#EXTINF:-1 tvg-id="deportes_3" group-title="deportes_3",deportes_3
-./segmentados/deportes_3.m3u
-
-# 🔹 Categoría: deportes_4
-#EXTINF:-1 tvg-id="deportes_4" group-title="deportes_4",deportes_4
-./segmentados/deportes_4.m3u
-
-# 🔹 Categoría: deportes_5
-#EXTINF:-1 tvg-id="deportes_5" group-title="deportes_5",deportes_5
-./segmentados/deportes_5.m3u
-
-# 🔹 Categoría: deportes_6
-#EXTINF:-1 tvg-id="deportes_6" group-title="deportes_6",deportes_6
-./segmentados/deportes_6.m3u
-
-# 🔹 Categoría: deportes_7
-#EXTINF:-1 tvg-id="deportes_7" group-title="deportes_7",deportes_7
-./segmentados/deportes_7.m3u
-
 # 🔹 Categoría: deportes_8
 #EXTINF:-1 tvg-id="deportes_8" group-title="deportes_8",deportes_8
 ./segmentados/deportes_8.m3u
@@ -289,10 +269,6 @@
 #EXTINF:-1 tvg-id="documentales_1" group-title="documentales_1",documentales_1
 ./segmentados/documentales_1.m3u
 
-# 🔹 Categoría: documentales_2
-#EXTINF:-1 tvg-id="documentales_2" group-title="documentales_2",documentales_2
-./segmentados/documentales_2.m3u
-
 # 🔹 Categoría: documentales_3
 #EXTINF:-1 tvg-id="documentales_3" group-title="documentales_3",documentales_3
 ./segmentados/documentales_3.m3u
@@ -300,10 +276,6 @@
 # 🔹 Categoría: infantil_1
 #EXTINF:-1 tvg-id="infantil_1" group-title="infantil_1",infantil_1
 ./segmentados/infantil_1.m3u
-
-# 🔹 Categoría: infantil_2
-#EXTINF:-1 tvg-id="infantil_2" group-title="infantil_2",infantil_2
-./segmentados/infantil_2.m3u
 
 # 🔹 Categoría: infantil_3
 #EXTINF:-1 tvg-id="infantil_3" group-title="infantil_3",infantil_3
@@ -332,22 +304,6 @@
 # 🔹 Categoría: noticias_2
 #EXTINF:-1 tvg-id="noticias_2" group-title="noticias_2",noticias_2
 ./segmentados/noticias_2.m3u
-
-# 🔹 Categoría: noticias_3
-#EXTINF:-1 tvg-id="noticias_3" group-title="noticias_3",noticias_3
-./segmentados/noticias_3.m3u
-
-# 🔹 Categoría: noticias_4
-#EXTINF:-1 tvg-id="noticias_4" group-title="noticias_4",noticias_4
-./segmentados/noticias_4.m3u
-
-# 🔹 Categoría: noticias_5
-#EXTINF:-1 tvg-id="noticias_5" group-title="noticias_5",noticias_5
-./segmentados/noticias_5.m3u
-
-# 🔹 Categoría: noticias_6
-#EXTINF:-1 tvg-id="noticias_6" group-title="noticias_6",noticias_6
-./segmentados/noticias_6.m3u
 
 # 🔹 Categoría: noticias_7
 #EXTINF:-1 tvg-id="noticias_7" group-title="noticias_7",noticias_7
@@ -385,33 +341,9 @@
 #EXTINF:-1 tvg-id="peliculas_11" group-title="peliculas_11",peliculas_11
 ./segmentados/peliculas_11.m3u
 
-# 🔹 Categoría: peliculas_2
-#EXTINF:-1 tvg-id="peliculas_2" group-title="peliculas_2",peliculas_2
-./segmentados/peliculas_2.m3u
-
 # 🔹 Categoría: peliculas_3
 #EXTINF:-1 tvg-id="peliculas_3" group-title="peliculas_3",peliculas_3
 ./segmentados/peliculas_3.m3u
-
-# 🔹 Categoría: peliculas_4
-#EXTINF:-1 tvg-id="peliculas_4" group-title="peliculas_4",peliculas_4
-./segmentados/peliculas_4.m3u
-
-# 🔹 Categoría: peliculas_5
-#EXTINF:-1 tvg-id="peliculas_5" group-title="peliculas_5",peliculas_5
-./segmentados/peliculas_5.m3u
-
-# 🔹 Categoría: peliculas_6
-#EXTINF:-1 tvg-id="peliculas_6" group-title="peliculas_6",peliculas_6
-./segmentados/peliculas_6.m3u
-
-# 🔹 Categoría: peliculas_7
-#EXTINF:-1 tvg-id="peliculas_7" group-title="peliculas_7",peliculas_7
-./segmentados/peliculas_7.m3u
-
-# 🔹 Categoría: peliculas_8
-#EXTINF:-1 tvg-id="peliculas_8" group-title="peliculas_8",peliculas_8
-./segmentados/peliculas_8.m3u
 
 # 🔹 Categoría: peliculas_9
 #EXTINF:-1 tvg-id="peliculas_9" group-title="peliculas_9",peliculas_9
@@ -437,14 +369,6 @@
 #EXTINF:-1 tvg-id="series_comedia_2" group-title="series_comedia_2",series_comedia_2
 ./segmentados/series_comedia_2.m3u
 
-# 🔹 Categoría: series_comedia_3
-#EXTINF:-1 tvg-id="series_comedia_3" group-title="series_comedia_3",series_comedia_3
-./segmentados/series_comedia_3.m3u
-
-# 🔹 Categoría: series_comedia_4
-#EXTINF:-1 tvg-id="series_comedia_4" group-title="series_comedia_4",series_comedia_4
-./segmentados/series_comedia_4.m3u
-
 # 🔹 Categoría: series_comedia_5
 #EXTINF:-1 tvg-id="series_comedia_5" group-title="series_comedia_5",series_comedia_5
 ./segmentados/series_comedia_5.m3u
@@ -452,340 +376,4 @@
 # 🔹 Categoría: series_comedia_6
 #EXTINF:-1 tvg-id="series_comedia_6" group-title="series_comedia_6",series_comedia_6
 ./segmentados/series_comedia_6.m3u
-
-# 🔹 Categoría: sin_clasificar_16
-#EXTINF:-1 tvg-id="sin_clasificar_16" group-title="sin_clasificar_16",sin_clasificar_16
-./segmentados/sin_clasificar_16.m3u
-
-# 🔹 Categoría: sin_clasificar_18
-#EXTINF:-1 tvg-id="sin_clasificar_18" group-title="sin_clasificar_18",sin_clasificar_18
-./segmentados/sin_clasificar_18.m3u
-
-# 🔹 Categoría: sin_clasificar_19
-#EXTINF:-1 tvg-id="sin_clasificar_19" group-title="sin_clasificar_19",sin_clasificar_19
-./segmentados/sin_clasificar_19.m3u
-
-# 🔹 Categoría: sin_clasificar_20
-#EXTINF:-1 tvg-id="sin_clasificar_20" group-title="sin_clasificar_20",sin_clasificar_20
-./segmentados/sin_clasificar_20.m3u
-
-# 🔹 Categoría: sin_clasificar_21
-#EXTINF:-1 tvg-id="sin_clasificar_21" group-title="sin_clasificar_21",sin_clasificar_21
-./segmentados/sin_clasificar_21.m3u
-
-# 🔹 Categoría: sin_clasificar_22
-#EXTINF:-1 tvg-id="sin_clasificar_22" group-title="sin_clasificar_22",sin_clasificar_22
-./segmentados/sin_clasificar_22.m3u
-
-# 🔹 Categoría: sin_clasificar_23
-#EXTINF:-1 tvg-id="sin_clasificar_23" group-title="sin_clasificar_23",sin_clasificar_23
-./segmentados/sin_clasificar_23.m3u
-
-# 🔹 Categoría: sin_clasificar_24
-#EXTINF:-1 tvg-id="sin_clasificar_24" group-title="sin_clasificar_24",sin_clasificar_24
-./segmentados/sin_clasificar_24.m3u
-
-# 🔹 Categoría: sin_clasificar_25
-#EXTINF:-1 tvg-id="sin_clasificar_25" group-title="sin_clasificar_25",sin_clasificar_25
-./segmentados/sin_clasificar_25.m3u
-
-# 🔹 Categoría: sin_clasificar_26
-#EXTINF:-1 tvg-id="sin_clasificar_26" group-title="sin_clasificar_26",sin_clasificar_26
-./segmentados/sin_clasificar_26.m3u
-
-# 🔹 Categoría: sin_clasificar_27
-#EXTINF:-1 tvg-id="sin_clasificar_27" group-title="sin_clasificar_27",sin_clasificar_27
-./segmentados/sin_clasificar_27.m3u
-
-# 🔹 Categoría: sin_clasificar_28
-#EXTINF:-1 tvg-id="sin_clasificar_28" group-title="sin_clasificar_28",sin_clasificar_28
-./segmentados/sin_clasificar_28.m3u
-
-# 🔹 Categoría: sin_clasificar_29
-#EXTINF:-1 tvg-id="sin_clasificar_29" group-title="sin_clasificar_29",sin_clasificar_29
-./segmentados/sin_clasificar_29.m3u
-
-# 🔹 Categoría: sin_clasificar_30
-#EXTINF:-1 tvg-id="sin_clasificar_30" group-title="sin_clasificar_30",sin_clasificar_30
-./segmentados/sin_clasificar_30.m3u
-
-# 🔹 Categoría: sin_clasificar_31
-#EXTINF:-1 tvg-id="sin_clasificar_31" group-title="sin_clasificar_31",sin_clasificar_31
-./segmentados/sin_clasificar_31.m3u
-
-# 🔹 Categoría: sin_clasificar_32
-#EXTINF:-1 tvg-id="sin_clasificar_32" group-title="sin_clasificar_32",sin_clasificar_32
-./segmentados/sin_clasificar_32.m3u
-
-# 🔹 Categoría: sin_clasificar_33
-#EXTINF:-1 tvg-id="sin_clasificar_33" group-title="sin_clasificar_33",sin_clasificar_33
-./segmentados/sin_clasificar_33.m3u
-
-# 🔹 Categoría: sin_clasificar_34
-#EXTINF:-1 tvg-id="sin_clasificar_34" group-title="sin_clasificar_34",sin_clasificar_34
-./segmentados/sin_clasificar_34.m3u
-
-# 🔹 Categoría: sin_clasificar_35
-#EXTINF:-1 tvg-id="sin_clasificar_35" group-title="sin_clasificar_35",sin_clasificar_35
-./segmentados/sin_clasificar_35.m3u
-
-# 🔹 Categoría: sin_clasificar_36
-#EXTINF:-1 tvg-id="sin_clasificar_36" group-title="sin_clasificar_36",sin_clasificar_36
-./segmentados/sin_clasificar_36.m3u
-
-# 🔹 Categoría: sin_clasificar_38
-#EXTINF:-1 tvg-id="sin_clasificar_38" group-title="sin_clasificar_38",sin_clasificar_38
-./segmentados/sin_clasificar_38.m3u
-
-# 🔹 Categoría: sin_clasificar_39
-#EXTINF:-1 tvg-id="sin_clasificar_39" group-title="sin_clasificar_39",sin_clasificar_39
-./segmentados/sin_clasificar_39.m3u
-
-# 🔹 Categoría: sin_clasificar_4
-#EXTINF:-1 tvg-id="sin_clasificar_4" group-title="sin_clasificar_4",sin_clasificar_4
-./segmentados/sin_clasificar_4.m3u
-
-# 🔹 Categoría: sin_clasificar_40
-#EXTINF:-1 tvg-id="sin_clasificar_40" group-title="sin_clasificar_40",sin_clasificar_40
-./segmentados/sin_clasificar_40.m3u
-
-# 🔹 Categoría: sin_clasificar_41
-#EXTINF:-1 tvg-id="sin_clasificar_41" group-title="sin_clasificar_41",sin_clasificar_41
-./segmentados/sin_clasificar_41.m3u
-
-# 🔹 Categoría: sin_clasificar_42
-#EXTINF:-1 tvg-id="sin_clasificar_42" group-title="sin_clasificar_42",sin_clasificar_42
-./segmentados/sin_clasificar_42.m3u
-
-# 🔹 Categoría: sin_clasificar_43
-#EXTINF:-1 tvg-id="sin_clasificar_43" group-title="sin_clasificar_43",sin_clasificar_43
-./segmentados/sin_clasificar_43.m3u
-
-# 🔹 Categoría: sin_clasificar_44
-#EXTINF:-1 tvg-id="sin_clasificar_44" group-title="sin_clasificar_44",sin_clasificar_44
-./segmentados/sin_clasificar_44.m3u
-
-# 🔹 Categoría: sin_clasificar_45
-#EXTINF:-1 tvg-id="sin_clasificar_45" group-title="sin_clasificar_45",sin_clasificar_45
-./segmentados/sin_clasificar_45.m3u
-
-# 🔹 Categoría: sin_clasificar_46
-#EXTINF:-1 tvg-id="sin_clasificar_46" group-title="sin_clasificar_46",sin_clasificar_46
-./segmentados/sin_clasificar_46.m3u
-
-# 🔹 Categoría: sin_clasificar_47
-#EXTINF:-1 tvg-id="sin_clasificar_47" group-title="sin_clasificar_47",sin_clasificar_47
-./segmentados/sin_clasificar_47.m3u
-
-# 🔹 Categoría: sin_clasificar_48
-#EXTINF:-1 tvg-id="sin_clasificar_48" group-title="sin_clasificar_48",sin_clasificar_48
-./segmentados/sin_clasificar_48.m3u
-
-# 🔹 Categoría: sin_clasificar_49
-#EXTINF:-1 tvg-id="sin_clasificar_49" group-title="sin_clasificar_49",sin_clasificar_49
-./segmentados/sin_clasificar_49.m3u
-
-# 🔹 Categoría: sin_clasificar_5
-#EXTINF:-1 tvg-id="sin_clasificar_5" group-title="sin_clasificar_5",sin_clasificar_5
-./segmentados/sin_clasificar_5.m3u
-
-# 🔹 Categoría: sin_clasificar_50
-#EXTINF:-1 tvg-id="sin_clasificar_50" group-title="sin_clasificar_50",sin_clasificar_50
-./segmentados/sin_clasificar_50.m3u
-
-# 🔹 Categoría: sin_clasificar_51
-#EXTINF:-1 tvg-id="sin_clasificar_51" group-title="sin_clasificar_51",sin_clasificar_51
-./segmentados/sin_clasificar_51.m3u
-
-# 🔹 Categoría: sin_clasificar_52
-#EXTINF:-1 tvg-id="sin_clasificar_52" group-title="sin_clasificar_52",sin_clasificar_52
-./segmentados/sin_clasificar_52.m3u
-
-# 🔹 Categoría: sin_clasificar_53
-#EXTINF:-1 tvg-id="sin_clasificar_53" group-title="sin_clasificar_53",sin_clasificar_53
-./segmentados/sin_clasificar_53.m3u
-
-# 🔹 Categoría: sin_clasificar_54
-#EXTINF:-1 tvg-id="sin_clasificar_54" group-title="sin_clasificar_54",sin_clasificar_54
-./segmentados/sin_clasificar_54.m3u
-
-# 🔹 Categoría: sin_clasificar_55
-#EXTINF:-1 tvg-id="sin_clasificar_55" group-title="sin_clasificar_55",sin_clasificar_55
-./segmentados/sin_clasificar_55.m3u
-
-# 🔹 Categoría: sin_clasificar_56
-#EXTINF:-1 tvg-id="sin_clasificar_56" group-title="sin_clasificar_56",sin_clasificar_56
-./segmentados/sin_clasificar_56.m3u
-
-# 🔹 Categoría: sin_clasificar_57
-#EXTINF:-1 tvg-id="sin_clasificar_57" group-title="sin_clasificar_57",sin_clasificar_57
-./segmentados/sin_clasificar_57.m3u
-
-# 🔹 Categoría: sin_clasificar_58
-#EXTINF:-1 tvg-id="sin_clasificar_58" group-title="sin_clasificar_58",sin_clasificar_58
-./segmentados/sin_clasificar_58.m3u
-
-# 🔹 Categoría: sin_clasificar_59
-#EXTINF:-1 tvg-id="sin_clasificar_59" group-title="sin_clasificar_59",sin_clasificar_59
-./segmentados/sin_clasificar_59.m3u
-
-# 🔹 Categoría: sin_clasificar_6
-#EXTINF:-1 tvg-id="sin_clasificar_6" group-title="sin_clasificar_6",sin_clasificar_6
-./segmentados/sin_clasificar_6.m3u
-
-# 🔹 Categoría: sin_clasificar_60
-#EXTINF:-1 tvg-id="sin_clasificar_60" group-title="sin_clasificar_60",sin_clasificar_60
-./segmentados/sin_clasificar_60.m3u
-
-# 🔹 Categoría: sin_clasificar_61
-#EXTINF:-1 tvg-id="sin_clasificar_61" group-title="sin_clasificar_61",sin_clasificar_61
-./segmentados/sin_clasificar_61.m3u
-
-# 🔹 Categoría: sin_clasificar_62
-#EXTINF:-1 tvg-id="sin_clasificar_62" group-title="sin_clasificar_62",sin_clasificar_62
-./segmentados/sin_clasificar_62.m3u
-
-# 🔹 Categoría: sin_clasificar_63
-#EXTINF:-1 tvg-id="sin_clasificar_63" group-title="sin_clasificar_63",sin_clasificar_63
-./segmentados/sin_clasificar_63.m3u
-
-# 🔹 Categoría: sin_clasificar_64
-#EXTINF:-1 tvg-id="sin_clasificar_64" group-title="sin_clasificar_64",sin_clasificar_64
-./segmentados/sin_clasificar_64.m3u
-
-# 🔹 Categoría: sin_clasificar_65
-#EXTINF:-1 tvg-id="sin_clasificar_65" group-title="sin_clasificar_65",sin_clasificar_65
-./segmentados/sin_clasificar_65.m3u
-
-# 🔹 Categoría: sin_clasificar_66
-#EXTINF:-1 tvg-id="sin_clasificar_66" group-title="sin_clasificar_66",sin_clasificar_66
-./segmentados/sin_clasificar_66.m3u
-
-# 🔹 Categoría: sin_clasificar_67
-#EXTINF:-1 tvg-id="sin_clasificar_67" group-title="sin_clasificar_67",sin_clasificar_67
-./segmentados/sin_clasificar_67.m3u
-
-# 🔹 Categoría: sin_clasificar_68
-#EXTINF:-1 tvg-id="sin_clasificar_68" group-title="sin_clasificar_68",sin_clasificar_68
-./segmentados/sin_clasificar_68.m3u
-
-# 🔹 Categoría: sin_clasificar_69
-#EXTINF:-1 tvg-id="sin_clasificar_69" group-title="sin_clasificar_69",sin_clasificar_69
-./segmentados/sin_clasificar_69.m3u
-
-# 🔹 Categoría: sin_clasificar_7
-#EXTINF:-1 tvg-id="sin_clasificar_7" group-title="sin_clasificar_7",sin_clasificar_7
-./segmentados/sin_clasificar_7.m3u
-
-# 🔹 Categoría: sin_clasificar_70
-#EXTINF:-1 tvg-id="sin_clasificar_70" group-title="sin_clasificar_70",sin_clasificar_70
-./segmentados/sin_clasificar_70.m3u
-
-# 🔹 Categoría: sin_clasificar_71
-#EXTINF:-1 tvg-id="sin_clasificar_71" group-title="sin_clasificar_71",sin_clasificar_71
-./segmentados/sin_clasificar_71.m3u
-
-# 🔹 Categoría: sin_clasificar_72
-#EXTINF:-1 tvg-id="sin_clasificar_72" group-title="sin_clasificar_72",sin_clasificar_72
-./segmentados/sin_clasificar_72.m3u
-
-# 🔹 Categoría: sin_clasificar_73
-#EXTINF:-1 tvg-id="sin_clasificar_73" group-title="sin_clasificar_73",sin_clasificar_73
-./segmentados/sin_clasificar_73.m3u
-
-# 🔹 Categoría: sin_clasificar_74
-#EXTINF:-1 tvg-id="sin_clasificar_74" group-title="sin_clasificar_74",sin_clasificar_74
-./segmentados/sin_clasificar_74.m3u
-
-# 🔹 Categoría: sin_clasificar_75
-#EXTINF:-1 tvg-id="sin_clasificar_75" group-title="sin_clasificar_75",sin_clasificar_75
-./segmentados/sin_clasificar_75.m3u
-
-# 🔹 Categoría: sin_clasificar_76
-#EXTINF:-1 tvg-id="sin_clasificar_76" group-title="sin_clasificar_76",sin_clasificar_76
-./segmentados/sin_clasificar_76.m3u
-
-# 🔹 Categoría: sin_clasificar_77
-#EXTINF:-1 tvg-id="sin_clasificar_77" group-title="sin_clasificar_77",sin_clasificar_77
-./segmentados/sin_clasificar_77.m3u
-
-# 🔹 Categoría: sin_clasificar_78
-#EXTINF:-1 tvg-id="sin_clasificar_78" group-title="sin_clasificar_78",sin_clasificar_78
-./segmentados/sin_clasificar_78.m3u
-
-# 🔹 Categoría: sin_clasificar_79
-#EXTINF:-1 tvg-id="sin_clasificar_79" group-title="sin_clasificar_79",sin_clasificar_79
-./segmentados/sin_clasificar_79.m3u
-
-# 🔹 Categoría: sin_clasificar_8
-#EXTINF:-1 tvg-id="sin_clasificar_8" group-title="sin_clasificar_8",sin_clasificar_8
-./segmentados/sin_clasificar_8.m3u
-
-# 🔹 Categoría: sin_clasificar_80
-#EXTINF:-1 tvg-id="sin_clasificar_80" group-title="sin_clasificar_80",sin_clasificar_80
-./segmentados/sin_clasificar_80.m3u
-
-# 🔹 Categoría: sin_clasificar_81
-#EXTINF:-1 tvg-id="sin_clasificar_81" group-title="sin_clasificar_81",sin_clasificar_81
-./segmentados/sin_clasificar_81.m3u
-
-# 🔹 Categoría: sin_clasificar_82
-#EXTINF:-1 tvg-id="sin_clasificar_82" group-title="sin_clasificar_82",sin_clasificar_82
-./segmentados/sin_clasificar_82.m3u
-
-# 🔹 Categoría: sin_clasificar_83
-#EXTINF:-1 tvg-id="sin_clasificar_83" group-title="sin_clasificar_83",sin_clasificar_83
-./segmentados/sin_clasificar_83.m3u
-
-# 🔹 Categoría: sin_clasificar_84
-#EXTINF:-1 tvg-id="sin_clasificar_84" group-title="sin_clasificar_84",sin_clasificar_84
-./segmentados/sin_clasificar_84.m3u
-
-# 🔹 Categoría: sin_clasificar_85
-#EXTINF:-1 tvg-id="sin_clasificar_85" group-title="sin_clasificar_85",sin_clasificar_85
-./segmentados/sin_clasificar_85.m3u
-
-# 🔹 Categoría: sin_clasificar_86
-#EXTINF:-1 tvg-id="sin_clasificar_86" group-title="sin_clasificar_86",sin_clasificar_86
-./segmentados/sin_clasificar_86.m3u
-
-# 🔹 Categoría: sin_clasificar_87
-#EXTINF:-1 tvg-id="sin_clasificar_87" group-title="sin_clasificar_87",sin_clasificar_87
-./segmentados/sin_clasificar_87.m3u
-
-# 🔹 Categoría: sin_clasificar_88
-#EXTINF:-1 tvg-id="sin_clasificar_88" group-title="sin_clasificar_88",sin_clasificar_88
-./segmentados/sin_clasificar_88.m3u
-
-# 🔹 Categoría: sin_clasificar_89
-#EXTINF:-1 tvg-id="sin_clasificar_89" group-title="sin_clasificar_89",sin_clasificar_89
-./segmentados/sin_clasificar_89.m3u
-
-# 🔹 Categoría: sin_clasificar_9
-#EXTINF:-1 tvg-id="sin_clasificar_9" group-title="sin_clasificar_9",sin_clasificar_9
-./segmentados/sin_clasificar_9.m3u
-
-# 🔹 Categoría: sin_clasificar_90
-#EXTINF:-1 tvg-id="sin_clasificar_90" group-title="sin_clasificar_90",sin_clasificar_90
-./segmentados/sin_clasificar_90.m3u
-
-# 🔹 Categoría: sin_clasificar_91
-#EXTINF:-1 tvg-id="sin_clasificar_91" group-title="sin_clasificar_91",sin_clasificar_91
-./segmentados/sin_clasificar_91.m3u
-
-# 🔹 Categoría: sin_clasificar_92
-#EXTINF:-1 tvg-id="sin_clasificar_92" group-title="sin_clasificar_92",sin_clasificar_92
-./segmentados/sin_clasificar_92.m3u
-
-# 🔹 Categoría: sin_clasificar_93
-#EXTINF:-1 tvg-id="sin_clasificar_93" group-title="sin_clasificar_93",sin_clasificar_93
-./segmentados/sin_clasificar_93.m3u
-
-# 🔹 Categoría: sin_clasificar_94
-#EXTINF:-1 tvg-id="sin_clasificar_94" group-title="sin_clasificar_94",sin_clasificar_94
-./segmentados/sin_clasificar_94.m3u
-
-# 🔹 Categoría: sin_clasificar_95
-#EXTINF:-1 tvg-id="sin_clasificar_95" group-title="sin_clasificar_95",sin_clasificar_95
-./segmentados/sin_clasificar_95.m3u
 
