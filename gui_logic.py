@@ -4,6 +4,7 @@ import threading
 import requests
 import random
 import os
+import re
 from tkinter import messagebox
 
 from utils import (
@@ -17,7 +18,8 @@ from utils import (
     extraer_enlaces_m3u,
     verificar_enlaces,
     asegurar_archivo_categoria,
-    obtener_assets_de_release
+    obtener_assets_de_release,
+    reconstruir_url_desde_nombre
 )
 
 # 🔗 Paso 1: Resolver URL acortada o directa
@@ -153,11 +155,14 @@ def iniciar_proceso(resultado_url, texto_listas, entrada_lista, contador_resulta
         if exitosas > 0:
             boton_git.config(state="normal")
 
-        def reconstruir_url_desde_nombre(nombre_archivo):
-            base = "https://raw.githubusercontent.com/Sebastian2048/Beluga/main/listas/"
-            return base + nombre_archivo
+        # 🔍 Verificación de historial con URLs reconstruidas
+        urls = []
+        for nombre in texto:
+            url = reconstruir_url_desde_nombre(nombre)
+            if url:
+                urls.append(url)
 
-        verificar_historial(reconstruir_url_desde_nombre)
+        verificar_historial(lambda _: urls)
 
     threading.Thread(target=tarea).start()
 
@@ -201,3 +206,4 @@ def ejecutar_push():
         messagebox.showinfo("Git", "✅ Cambios cargados correctamente en el repositorio.")
     except Exception as e:
         messagebox.showerror("Git", f"❌ Error al ejecutar comandos Git: {e}")
+

@@ -160,3 +160,11 @@ def clasificar_por_metadato(bloque):
         return "sagas"
     else:
         return "otros"
+
+def reconstruir_url_desde_nombre(nombre_archivo):
+    if nombre_archivo.startswith("http"):
+        print(f"⛔ URL inválida ignorada: {nombre_archivo}")
+        return None
+    base = "https://raw.githubusercontent.com/Sebastian2048/Beluga/main/listas/"
+    return base + nombre_archivo
+
