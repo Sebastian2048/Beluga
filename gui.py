@@ -10,12 +10,16 @@ import os
 # 🔧 Funciones utilitarias importadas
 
 from utils import (
+    resolver_redireccion,
     github_blob_a_raw,
+    obtener_assets_de_release,
+    extraer_enlaces_m3u,
+    verificar_enlaces,
     es_lista_final,
     guardar_en_categoria,
     guardar_lista_original,
     clasificar_por_metadato,
-    verificar_historial,
+    verificar_historial
 )
 
 from main import ejecutar_proceso_completo
@@ -210,6 +214,36 @@ def iniciar_proceso():
         verificar_historial(reconstruir_url_desde_nombre)
 
     threading.Thread(target=tarea).start()
+    
+def verificar_peliculas_series():
+    entrada_lista.delete(0, tk.END)
+    entrada_lista.insert(0, "🔍 Verificando enlaces de películas y series...")
+
+    def tarea():
+        rutas = ["compilados/peliculas.m3u", "compilados/series.m3u"]
+        enlaces = []
+
+        for ruta in rutas:
+            if os.path.exists(ruta):
+                with open(ruta, encoding="utf-8") as f:
+                    enlaces += extraer_enlaces_m3u(f.read())
+
+        if not enlaces:
+            entrada_lista.delete(0, tk.END)
+            entrada_lista.insert(0, "⚠️ No se encontraron enlaces en películas o series.")
+            return
+
+        muestra = random.sample(enlaces, min(50, len(enlaces)))
+        resultados = verificar_enlaces([line.splitlines()[-1] for line in muestra])
+
+        exitosos = sum(1 for _, estado in resultados if estado == "✅")
+        fallidos = len(resultados) - exitosos
+
+        entrada_lista.delete(0, tk.END)
+        entrada_lista.insert(0, f"✅ {exitosos} válidos | ❌ {fallidos} fallidos | Total verificados: {len(resultados)}")
+
+    threading.Thread(target=tarea).start()
+
 
 # 🖼️ GUI principal
 ventana = tk.Tk()
