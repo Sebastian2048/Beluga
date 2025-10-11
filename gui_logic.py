@@ -162,7 +162,8 @@ def iniciar_proceso(resultado_url, texto_listas, entrada_lista, contador_resulta
             if url:
                 urls.append(url)
 
-        verificar_historial(lambda _: urls)
+        for url in urls:
+            verificar_historial(url)
 
     threading.Thread(target=tarea).start()
 
