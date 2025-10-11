@@ -160,4 +160,3 @@ def clasificar_por_metadato(bloque):
         return "sagas"
     else:
         return "otros"
-
