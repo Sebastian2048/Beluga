@@ -6,3 +6,13 @@ https://raw.githubusercontent.com/Sebastian2048/Beluga/main/Canales.m3u
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/Peliculas.m3u
 #EXTINF:-1,Series
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/Series.m3u
+#EXTINF:-1,Otros
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/compilados/otros.m3u
+#EXTINF:-1,Peliculas
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/compilados/peliculas.m3u
+#EXTINF:-1,Sagas
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/compilados/sagas.m3u
+#EXTINF:-1,Series
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/compilados/series.m3u
+#EXTINF:-1,Television
+https://raw.githubusercontent.com/Sebastian2048/Beluga/main/compilados/television.m3u
