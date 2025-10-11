@@ -5,6 +5,7 @@ import webbrowser
 import requests
 import re
 import subprocess
+import os
 
 # 🔧 Funciones utilitarias importadas
 from utils import (
@@ -13,9 +14,18 @@ from utils import (
     github_blob_a_raw,
     extraer_enlaces_m3u,
     verificar_enlaces,
-    )
+)
 
 from main import ejecutar_proceso_completo
+
+# 🧱 Asegurar archivos base por categoría si no existen
+def asegurar_archivos_categoria(categorias_extra):
+    os.makedirs("compilados", exist_ok=True)
+    for nombre in categorias_extra:
+        ruta = f"compilados/{nombre}.m3u"
+        if not os.path.exists(ruta):
+            with open(ruta, "w", encoding="utf-8") as f:
+                f.write("#EXTM3U\n")
 
 # 🔗 Paso 1: Resolver URL acortada o directa
 def resolver_url():
@@ -97,6 +107,7 @@ def guardar_en_categoria(nombre_categoria, contenido):
     with open(ruta, "a", encoding="utf-8") as f:
         f.write(contenido + "\n")
 
+# 🔁 Flujo de procesamiento ligero
 def ejecutar_proceso_ligero(url_lista):
     from extractor import recolectar_enlaces
     from clasificador import clasificar_enlaces
@@ -108,8 +119,13 @@ def ejecutar_proceso_ligero(url_lista):
     generar_listas_finales()
     sincronizar_con_git()
 
+# 🚀 Iniciar procesamiento de listas detectadas
 def iniciar_proceso():
     def tarea():
+        # 🧱 Crear archivos base si no existen
+        categorias_base = ["peliculas", "series", "sagas", "television", "otros"]
+        asegurar_archivos_categoria(categorias_base)
+
         base = resultado_url.get().strip()
         texto = texto_listas.get("1.0", tk.END).strip().splitlines()
         total = len(texto)
@@ -184,25 +200,27 @@ def iniciar_proceso():
                 fin = f"{idx+1}.end"
                 texto_listas.tag_add("fallida", inicio, fin)
 
-# 📊 Mostrar resumen visual
+        # 📊 Mostrar resumen visual
         entrada_lista.delete(0, tk.END)
         entrada_lista.insert(0, f"✅ {exitosas} válidas | 🟧 {menus} menús | ❌ {fallidas} fallidas | Total: {total}")
         contador_resultado.set(f"✅ {exitosas} listas procesadas correctamente de {total} detectadas.")
- 
-  # 📤 Habilitar botón de Git si hubo éxito
+
+        # 📤 Habilitar botón de Git si hubo éxito
         if exitosas > 0:
             boton_git.config(state="normal")
 
     threading.Thread(target=tarea).start()
 
+# 🔍 Verificar enlaces en películas y series
 def verificar_peliculas_series():
     entrada_lista.delete(0, tk.END)
     entrada_lista.insert(0, "🔍 Verificando enlaces de películas y series...")
 
     def tarea():
         rutas = ["compilados/peliculas.m3u", "compilados/series.m3u"]
-        enlaces = []
+        enlaces = []  # ✅ Inicializar correctamente la lista
 
+        # 📥 Extraer enlaces válidos desde los archivos
         for ruta in rutas:
             if os.path.exists(ruta):
                 with open(ruta, encoding="utf-8") as f:
@@ -213,7 +231,7 @@ def verificar_peliculas_series():
             entrada_lista.insert(0, "⚠️ No se encontraron enlaces en películas o series.")
             return
 
-        # Limitar cantidad para evitar bloqueo
+        # 🔍 Limitar cantidad para evitar bloqueo
         import random
         muestra = random.sample(enlaces, min(50, len(enlaces)))
         resultados = verificar_enlaces(muestra)
@@ -221,6 +239,7 @@ def verificar_peliculas_series():
         exitosos = sum(1 for _, estado in resultados if estado == "✅")
         fallidos = len(resultados) - exitosos
 
+        # 📊 Mostrar resultados en la interfaz
         entrada_lista.delete(0, tk.END)
         entrada_lista.insert(0, f"✅ {exitosos} válidos | ❌ {fallidos} fallidos | Total verificados: {len(resultados)}")
 

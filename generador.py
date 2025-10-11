@@ -4,6 +4,14 @@ import os
 from config import categorias, CARPETA_SALIDA
 from datetime import datetime
 
+def asegurar_archivos_categoria(categorias_extra):
+    os.makedirs("compilados", exist_ok=True)
+    for nombre in categorias_extra:
+        ruta = f"compilados/{nombre}.m3u"
+        if not os.path.exists(ruta):
+            with open(ruta, "w", encoding="utf-8") as f:
+                f.write("#EXTM3U\n")
+
 def generar_listas_finales():
     print("\n📦 Generando listas finales...\n")
 
