@@ -1,1 +1,25 @@
 #EXTM3U
+#EXTINF:-1,126_Filmbox ✅
+http://87.120.179.187:8000/play/a021
+#EXTINF:-1,DE PELICULA ✅
+http://181.119.85.222:8000/play/a013/index.m3u8
+#EXTINF:-1,DE PELICULA - Opción 2 ✅
+http://181.119.86.68:8000/play/b035/index.m3u8
+#EXTINF:-1,DPELICULA ✅
+http://181.119.86.68:8000/play/b035/index.m3u8
+#EXTINF:-1,DPELICULA - Opción 2 ✅
+http://181.119.85.222:8000/play/a013/index.m3u8
+#EXTINF:-1,Film&Arts ✅
+http://179.51.136.19:8000/play/a1go/index.m3u8
+#EXTINF:-1,Film&Arts - Opción 2 ✅
+http://179.51.136.19:8000/play/a1go/index.m3u8
+#EXTINF:-1,Movies Action (1080p) ✅
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1,Movies Thriller (1080p) ✅
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1,SONY MOVIEHD ✅
+http://181.119.85.222:8000/play/a02b/index.m3u8
+#EXTINF:-1,SONY MOVIES ✅
+http://181.119.86.68:8000/play/b040/index.m3u8
+#EXTINF:-1,SONY MOVIES - Opción 2 ✅
+http://181.119.86.68:8000/play/b040/index.m3u8

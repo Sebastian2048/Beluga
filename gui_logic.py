@@ -22,6 +22,9 @@ from utils import (
     reconstruir_url_desde_nombre
 )
 
+from clasificador import extraer_bloques_m3u
+from generador import generar_listas_finales
+
 # 🔗 Paso 1: Resolver URL acortada o directa
 def resolver_url(entrada_url, resultado_url, texto_listas, boton_abrir):
     url = entrada_url.get().strip()
@@ -129,9 +132,11 @@ def iniciar_proceso(resultado_url, texto_listas, entrada_lista, contador_resulta
                     texto_listas.tag_add("menu", inicio, fin)
                     continue
 
-                categoria = clasificar_por_metadato(contenido)
-                asegurar_archivo_categoria(categoria)
-                guardar_en_categoria(categoria, contenido)
+                bloques = extraer_bloques_m3u(contenido.splitlines())
+                for bloque in bloques:
+                    categoria = clasificar_por_metadato(bloque)
+                    asegurar_archivo_categoria(categoria)
+                    guardar_en_categoria(categoria, bloque)
 
                 nombre_archivo = nombre.replace(" ", "_").replace("/", "_")
                 guardar_lista_original(nombre_archivo, contenido)
@@ -164,6 +169,9 @@ def iniciar_proceso(resultado_url, texto_listas, entrada_lista, contador_resulta
 
         for url in urls:
             verificar_historial(url)
+
+        # 🧩 Generar matriz y guía actualizada
+        generar_listas_finales()
 
     threading.Thread(target=tarea).start()
 
