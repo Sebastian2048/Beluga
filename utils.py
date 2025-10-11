@@ -75,24 +75,25 @@ def verificar_enlaces(lista_enlaces):
             resultados.append((url, f"❌ {e}"))
     return resultados
 
-# 📂 Guardar contenido en archivo por categoría (evita duplicados)
-def guardar_en_categoria(nombre_categoria, contenido):
+# 🧱 Asegura que el archivo de categoría exista antes de guardar
+def asegurar_archivo_categoria(nombre_categoria):
     os.makedirs("compilados", exist_ok=True)
     ruta = f"compilados/{nombre_categoria}.m3u"
-
-    # Si el archivo no existe, crearlo con encabezado
     if not os.path.exists(ruta):
         with open(ruta, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
 
-    # Leer contenido existente
+# 📂 Guardar contenido en archivo por categoría (evita duplicados)
+def guardar_en_categoria(nombre_categoria, contenido):
+    asegurar_archivo_categoria(nombre_categoria)
+    ruta = f"compilados/{nombre_categoria}.m3u"
+
     try:
         with open(ruta, "r", encoding="utf-8") as f:
             existente = f.read()
     except FileNotFoundError:
         existente = ""
 
-    # Evitar duplicados
     if contenido.strip() not in existente:
         with open(ruta, "a", encoding="utf-8") as f:
             f.write(contenido.strip() + "\n")
@@ -108,7 +109,7 @@ def guardar_lista_original(nombre_archivo, contenido):
 def lista_modificada(nombre_archivo, nuevo_contenido):
     ruta = os.path.join("historial_listas", nombre_archivo)
     if not os.path.exists(ruta):
-        return True  # Nunca fue guardada antes
+        return True
 
     with open(ruta, "r", encoding="utf-8") as f:
         contenido_anterior = f.read()
@@ -120,12 +121,19 @@ def lista_modificada(nombre_archivo, nuevo_contenido):
 
 # 🔁 Verifica todas las listas guardadas en historial contra su fuente
 def verificar_historial(reconstruir_url_func):
-    if not os.path.exists("historial_listas"):
+    historial_path = "historial_listas"
+    if not os.path.exists(historial_path) or not os.listdir(historial_path):
         print("⚠️ No hay historial para verificar.")
         return
 
-    for archivo in os.listdir("historial_listas"):
+    for archivo in os.listdir(historial_path):
         url = reconstruir_url_func(archivo)
+
+        # ❌ Filtrar URLs inválidas
+        if "login?" in url or not url.endswith(".m3u"):
+            print(f"⛔ URL inválida ignorada: {url}")
+            continue
+
         try:
             r = requests.get(url, timeout=5)
             if r.status_code == 200:
@@ -152,3 +160,4 @@ def clasificar_por_metadato(bloque):
         return "sagas"
     else:
         return "otros"
+
