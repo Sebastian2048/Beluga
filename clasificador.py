@@ -1,7 +1,10 @@
 # clasificador.py
 
+# clasificador.py
+
 import os
 from config import CARPETA_SALIDA, exclusiones, preferencias
+from datetime import datetime
 
 # 📦 Carpeta donde se guardan las listas clasificadas
 COMPILADOS = "compilados"
@@ -9,17 +12,31 @@ COMPILADOS = "compilados"
 # 🧠 Clasifica contenido por metadato en línea #EXTINF
 def clasificar_por_metadato(bloque):
     bloque_mayus = bloque.upper()
-    if "TV" in bloque_mayus or "IPTV" in bloque_mayus or "CANAL" in bloque_mayus or "TELEVISION" in bloque_mayus:
+
+    # 🔍 Clasificación por palabras clave extendidas
+    if any(p in bloque_mayus for p in ["TV", "IPTV", "CANAL", "TELEVISION", "CHANNEL"]):
         return "television"
-    elif "PELICULA" in bloque_mayus or "MOVIE" in bloque_mayus or "FILM" in bloque_mayus or "ESTRENO" in bloque_mayus:
+    elif any(p in bloque_mayus for p in ["PELICULA", "MOVIE", "FILM", "ESTRENO", "CINE"]):
         return "peliculas"
-    elif "SERIE" in bloque_mayus or "EPISODIO" in bloque_mayus or "S3R13S" in bloque_mayus:
+    elif any(p in bloque_mayus for p in ["SERIE", "EPISODIO", "TEMPORADA", "S3R13S", "SEASON"]):
         return "series"
-    elif "SAGA" in bloque_mayus or "COLECCION" in bloque_mayus:
+    elif any(p in bloque_mayus for p in ["SAGA", "COLECCION", "COLLECTION", "FRANQUICIA"]):
         return "sagas"
+    elif any(p in bloque_mayus for p in ["INFANTIL", "KIDS", "CARTOON", "ANIME", "NIÑOS"]):
+        return "infantil"
+    elif any(p in bloque_mayus for p in ["DEPORTES", "SPORT", "FÚTBOL", "NBA", "LIGA"]):
+        return "deportes"
+    elif any(p in bloque_mayus for p in ["MUSICA", "RADIO", "CONCIERTO", "AUDIO", "FM"]):
+        return "musica"
+    elif any(p in bloque_mayus for p in ["NOTICIA", "NEWS", "ACTUALIDAD", "CNN", "BBC"]):
+        return "noticias"
+    elif any(p in bloque_mayus for p in ["RELIGION", "FE", "DIOS", "CRISTO", "ESPIRITUAL"]):
+        return "religion"
+    elif any(p in bloque_mayus for p in ["XXX", "ADULT", "HOT", "EROTIC", "18+"]):
+        return "adultos"
+    elif any(pref.upper() in bloque_mayus for pref in preferencias):
+        return "peliculas"
     else:
-        if any(pref.upper() in bloque_mayus for pref in preferencias):
-            return "peliculas"
         return "otros"
 
 # 📥 Extrae bloques válidos del archivo .m3u
@@ -31,7 +48,7 @@ def extraer_bloques_m3u(lineas):
     return bloques
 
 # 📦 Guarda cada bloque en su categoría correspondiente
-def guardar_en_categoria(nombre_categoria, contenido):
+def guardar_en_categoria(nombre_categoria, contenido, fuente=None):
     os.makedirs(COMPILADOS, exist_ok=True)
     ruta = f"{COMPILADOS}/{nombre_categoria}.m3u"
 
@@ -44,9 +61,13 @@ def guardar_en_categoria(nombre_categoria, contenido):
     with open(ruta, "r", encoding="utf-8") as f:
         existente = f.read()
 
-    if contenido.strip() not in existente:
+    bloque_limpio = contenido.strip()
+    if bloque_limpio not in existente:
         with open(ruta, "a", encoding="utf-8") as f:
-            f.write(contenido.strip() + "\n")
+            f.write(bloque_limpio)
+            if fuente:
+                f.write(f"  # Fuente: {fuente}")
+            f.write(f"  # Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
 
 # 🚀 Clasifica enlaces desde archivo temporal
 def clasificar_enlaces():
@@ -67,6 +88,12 @@ def clasificar_enlaces():
                 "peliculas": 0,
                 "series": 0,
                 "sagas": 0,
+                "infantil": 0,
+                "deportes": 0,
+                "musica": 0,
+                "noticias": 0,
+                "religion": 0,
+                "adultos": 0,
                 "otros": 0
             }
 
