@@ -1,0 +1,605 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png", Carolina TV | CL
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1127" tvg-name="Carolina TV 2" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png", Carolina TV 2 | CL
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://cdn.m3u.cl/logo/33_Maxima_FM.png", Maxima FM | CL
+https://live.tvcontrolcp.com:1936/maximafmchilenuevo/maximafmchilenuevo/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="892" tvg-name="RadioBaezaTV" tvg-logo="https://cdn.m3u.cl/logo/892_RadioBaezaTV.png", RadioBaezaTV | CL
+https://panel.tvstream.cl:1936/8056/8056/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://cdn.m3u.cl/logo/34_TV_vconline_cl.png", TV vconline.cl | CL
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="973" tvg-name="Top New Radio" tvg-logo="https://cdn.m3u.cl/logo/973_Top_New_Radio.png", Top New Radio | CL
+https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1313" tvg-name="Radio Edelweiss" tvg-logo="https://cdn.m3u.cl/logo/1313_Radio_Edelweiss.png", Radio Edelweiss | CL
+https://vmix.dyndns.biz/Edelweiss/smil:Edelweiss.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1468" tvg-name="Radio Araucania Laja" tvg-logo="https://cdn.m3u.cl/logo/1468_Radio_Araucania_Laja.png", Radio Araucania Laja | CL
+https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1550" tvg-name="M Music TV" tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png", M Music TV | CL
+https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1389" tvg-name="Radio Acogida" tvg-logo="https://cdn.m3u.cl/logo/1389_Radio_Acogida.png", Radio Acogida | CL
+https://videostream.chileservidores.com:8081/chiloe3/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1476" tvg-name="Urban Pro DJ" tvg-logo="https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png", Urban Pro DJ | CL
+https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1128" tvg-name="Solobailalo TV" tvg-logo="https://cdn.m3u.cl/logo/1128_Solobailalo_TV.png", Solobailalo TV | CL
+https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1407" tvg-name="Milodon TV" tvg-logo="https://cdn.m3u.cl/logo/1407_Milodon_TV.png", Milodon TV | CL
+https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1564" tvg-name="Ritmo Top Latino" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png", Ritmo Top Latino | CL
+https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1647" tvg-name="El Conquistador La Serena" tvg-logo="https://cdn.m3u.cl/logo/1647_El_Conquistador_La_Serena.png", El Conquistador La Serena | CL
+https://v4.tustreaming.cl:443/elcqlaserena/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1403" tvg-name="Red Circle" tvg-logo="https://cdn.m3u.cl/logo/1403_Red_Circle.png", Red Circle | CL
+https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1422" tvg-name="Radio Rosa FM" tvg-logo="https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png", Radio Rosa FM | CL
+https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1623" tvg-name="Radio Video Mix" tvg-logo="https://cdn.m3u.cl/logo/1623_Radio_Video_Mix.png", Radio Video Mix | CL
+https://radioxxx.ddns.net/hls/stream.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1463" tvg-name="Radio Bienvenida FM" tvg-logo="https://cdn.m3u.cl/logo/1463_Radio_Bienvenida_FM.png", Radio Bienvenida FM | CL
+https://panel.tvstream.cl:1936/8012/8012/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1586" tvg-name="Chile Remix" tvg-logo="https://cdn.m3u.cl/logo/1586_Chile_Remix.png", Chile Remix | CL
+https://vdochile.com:3803/live/ckdj2live.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1467" tvg-name="Radio UC" tvg-logo="https://cdn.m3u.cl/logo/1467_Radio_UC.png", Radio UC | CL
+https://stmv5.voxtvhd.com.br/radiouc/radiouc/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1284" tvg-name="Autonoma Radio" tvg-logo="https://cdn.m3u.cl/logo/1284_Autonoma_Radio.png", Autonoma Radio | CL
+https://wifispeed.trapemn.tv:1936/radios/autonoma-radio/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1309" tvg-name="Santa Cruz FM" tvg-logo="https://cdn.m3u.cl/logo/1309_Santa_Cruz_FM.png", Santa Cruz FM | CL
+https://unlimited1-cl-isp.dps.live/rcruz/rcruz.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1248" tvg-name="Subela Radio" tvg-logo="https://cdn.m3u.cl/logo/1248_Subela_Radio.png", Subela Radio | CL
+https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1196" tvg-name="Radio Ritmo FM" tvg-logo="https://cdn.m3u.cl/logo/1196_Radio_Ritmo_FM.png", Radio Ritmo FM | CL
+https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1173" tvg-name="Radio Mia 89.3 Fm" tvg-logo="https://cdn.m3u.cl/logo/1173_Radio_Mia_89_3_Fm.png", Radio Mia 89.3 Fm | CL
+https://tv.telselec.cl:3856/live/radiomialive.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1069" tvg-name="Radio Magallanes" tvg-logo="https://cdn.m3u.cl/logo/1069_Radio_Magallanes.png", Radio Magallanes | CL
+https://live20.bozztv.com/akamaissh101/ssh101/radiomagallanes/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1134" tvg-name="Radio Maqui" tvg-logo="https://cdn.m3u.cl/logo/1134_Radio_Maqui.png", Radio Maqui | CL
+https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1122" tvg-name="Radio Popular Coihueco" tvg-logo="https://cdn.m3u.cl/logo/1122_Radio_Popular_Coihueco.png", Radio Popular Coihueco | CL
+https://tv.arkeo.cl:19360/8052/8052.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1004" tvg-name="Ritmo TV" tvg-logo="https://cdn.m3u.cl/logo/1004_Ritmo_TV.png", Ritmo TV | CL
+https://tv.arkeo.cl:1936/ritmofm/ritmofm/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://cdn.m3u.cl/logo/987_Emocion_TV.png", Emocion TV | CL
+https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="387" tvg-name="Zona Play Radio" tvg-logo="https://cdn.m3u.cl/logo/387_Zona_Play_Radio.png", Zona Play Radio | CL
+https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://cdn.m3u.cl/logo/786_Tributo_Valentina.png", Tributo Valentina | CL
+https://vdochile.com:3795/hybrid/play.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1125" tvg-name="Radio La Serena" tvg-logo="https://cdn.m3u.cl/logo/1125_Radio_La_Serena.png", Radio La Serena | CL
+https://stmv5.voxtvhd.com.br/radiolaserena/radiolaserena/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="974" tvg-name="Patagonia Radio TV" tvg-logo="https://cdn.m3u.cl/logo/974_Patagonia_Radio_TV.png", Patagonia Radio TV | CL
+https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="400" tvg-name="Red Fueguina Radio" tvg-logo="https://cdn.m3u.cl/logo/400_Red_Fueguina_Radio.png", Red Fueguina Radio | CL
+https://stmv5.voxtvhd.com.br/redfueguina/redfueguina/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="396" tvg-name="Radio Via Libre" tvg-logo="https://cdn.m3u.cl/logo/396_Radio_Via_Libre.png", Radio Via Libre | CL
+https://stmv5.voxtvhd.com.br/vialibre/vialibre/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="390" tvg-name="Radio Universal" tvg-logo="https://cdn.m3u.cl/logo/390_Radio_Universal.png", Radio Universal | CL
+https://videostream.chileservidores.com:8081/universal/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="394" tvg-name="Radio Touch" tvg-logo="https://cdn.m3u.cl/logo/394_Radio_Touch.png", Radio Touch | CL
+https://tv.arkeo.cl:1936/radiotouch/radiotouch/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="416" tvg-name="Sabor TV" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png", Sabor TV | CL
+https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="787" tvg-name="Radio Riquelme TV" tvg-logo="https://cdn.m3u.cl/logo/787_Radio_Riquelme_TV.png", Radio Riquelme TV | CL
+https://live20.bozztv.com/giatv/giatv-riquelme1350am/riquelme1350am/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1646" tvg-name="Radio Frecuencia Uno" tvg-logo="https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png", Radio Frecuencia Uno | CL
+https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="418" tvg-name="Radio Rancagua" tvg-logo="https://cdn.m3u.cl/logo/418_Radio_Rancagua.png", Radio Rancagua | CL
+https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="413" tvg-name="Radio Presidente Ibañez" tvg-logo="https://cdn.m3u.cl/logo/413_Radio_Presidente_Ibanez.png", Radio Presidente Ibañez | CL
+https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="420" tvg-name="Radio Portales" tvg-logo="https://cdn.m3u.cl/logo/420_Radio_Portales.png", Radio Portales | CL
+https://andromeda2.trapemn.tv:1936/radios/radioportales.stream/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="403" tvg-name="Radio Polar" tvg-logo="https://cdn.m3u.cl/logo/403_Radio_Polar.png", Radio Polar | CL
+https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1538" tvg-name="Radio Navarino" tvg-logo="https://cdn.m3u.cl/logo/1538_Radio_Navarino.png", Radio Navarino | CL
+https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="408" tvg-name="Radio Las Nieves" tvg-logo="https://cdn.m3u.cl/logo/408_Radio_Las_Nieves.png", Radio Las Nieves | CL
+https://v2.tustreaming.cl/rln/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1629" tvg-name="Radio Zona 90.3" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png", Radio Zona 90.3 | CL
+https://live.tvcontrolcp.com:8081/radiozona/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1655" tvg-name="Ciudadano Radio" tvg-logo="https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png", Ciudadano Radio | CL
+https://oracle.streaminghd.cl:443/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="380" tvg-name="Radio Hoy" tvg-logo="https://cdn.m3u.cl/logo/380_Radio_Hoy.png", Radio Hoy | CL
+https://panel.host-live.com:19360/8146/8146.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="412" tvg-name="Radio Genial TV" tvg-logo="https://cdn.m3u.cl/logo/412_Radio_Genial_TV.png", Radio Genial TV | CL
+https://v1.tustreaming.cl:443/genialtv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="401" tvg-name="Radio Fiessta" tvg-logo="https://cdn.m3u.cl/logo/401_Radio_Fiessta.png", Radio Fiessta | CL
+https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1502" tvg-name="Radio Panoramica" tvg-logo="https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png", Radio Panoramica | CL
+https://v2.tustreaming.cl:/alingeproducciones/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="417" tvg-name="Radio Favorita" tvg-logo="https://cdn.m3u.cl/logo/417_Radio_Favorita.png", Radio Favorita | CL
+https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="870" tvg-name="Radio Ñuble" tvg-logo="https://cdn.m3u.cl/logo/870_Radio_Nuble.png", Radio Ñuble | CL
+https://tv.telselec.cl:3376/live/nublefmlive.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="389" tvg-name="Radio Fantasia TV" tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png", Radio Fantasia TV | CL
+https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="409" tvg-name="Radio Chiloe" tvg-logo="https://cdn.m3u.cl/logo/409_Radio_Chiloe.png", Radio Chiloe | CL
+https://videostream.chileservidores.com:8081/chiloe1/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="410" tvg-name="Radio Camila TV" tvg-logo="https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png", Radio Camila TV | CL
+https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="407" tvg-name="Preludio TV" tvg-logo="https://cdn.m3u.cl/logo/407_Preludio_TV.png", Preludio TV | CL
+https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1639" tvg-name="Revolviendola Radio" tvg-logo="https://cdn.m3u.cl/logo/1639_Revolviendola_Radio.png", Revolviendola Radio | CL
+https://giatv.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="395" tvg-name="Mi Radio TV" tvg-logo="https://cdn.m3u.cl/logo/395_Mi_Radio_TV.png", Mi Radio TV | CL
+https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="428" tvg-name="Radio Romantica" tvg-logo="https://cdn.m3u.cl/logo/428_Radio_Romantica.png", Radio Romantica | CL
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="397" tvg-name="FM Pulso" tvg-logo="https://cdn.m3u.cl/logo/397_FM_Pulso.png", FM Pulso | CL
+https://oracle.streaminghd.cl/fmpulso/fmpulso/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="411" tvg-name="Interradio TV" tvg-logo="https://cdn.m3u.cl/logo/411_Interradio_TV.png", Interradio TV | CL
+https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1478" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png", El Conquistador Santiago | CL
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="398" tvg-name="El Sembrador" tvg-logo="https://cdn.m3u.cl/logo/398_El_Sembrador.png", El Sembrador | CL
+https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="419" tvg-name="El Conquistador Concepcion" tvg-logo="https://cdn.m3u.cl/logo/419_El_Conquistador_Concepcion.png", El Conquistador Concepcion | CL
+https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="382" tvg-name="ChocolateFM" tvg-logo="https://cdn.m3u.cl/logo/382_ChocolateFM.png", ChocolateFM | CL
+https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1571" tvg-name="Radio La Señal" tvg-logo="https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png", Radio La Señal | CL
+https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="406" tvg-name="Radio Ancoa TV" tvg-logo="https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png", Radio Ancoa TV | CL
+https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1552" tvg-name="Nina TV" tvg-logo="https://cdn.m3u.cl/logo/1552_Nina_TV.png", Nina TV | CL
+https://tv1.ninatv.cl/hls/stream.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="414" tvg-name="AE Radio" tvg-logo="https://cdn.m3u.cl/logo/414_AE_Radio.png", AE Radio | CL
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1534" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png", La Metro | CL
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1565" tvg-name="Radio Imagen 106.5" tvg-logo="https://cdn.m3u.cl/logo/1565_Radio_Imagen_106_5.png", Radio Imagen 106.5 | CL
+https://panel.tvstream.cl:1936/8066/8066/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1301" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png", Radioactiva TV | CL
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1541" tvg-name="Sabrosona TV" tvg-logo="https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png", Sabrosona TV | CL
+https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1270" tvg-name="La Clave" tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png", La Clave | CL
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1166" tvg-name="Dance FM" tvg-logo="https://cdn.m3u.cl/logo/1166_Dance_FM.png", Dance FM | CL
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png", Pauta TV | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="425" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png", Radio Infinita | CL
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png", Radio Agricultura | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1673" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png", Radio Agricultura 2 | CL
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="427" tvg-name="Radio Duna" tvg-logo="https://cdn.m3u.cl/logo/427_Radio_Duna.png", Radio Duna | CL
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://cdn.m3u.cl/logo/429_Pudahuel_FM.png", Pudahuel FM | CL
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="422" tvg-name="Cooperativa" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png", Cooperativa | CL
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png", ADN | CL
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png", La Nuestra | CL
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="169" tvg-name="Televida HD" tvg-logo="https://cdn.m3u.cl/logo/169_Televida_HD.png", Televida HD | CL
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="351" tvg-name="Restaurando Vidas TV" tvg-logo="https://cdn.m3u.cl/logo/351_Restaurando_Vidas_TV.png", Restaurando Vidas TV | CL
+https://v4.tustreaming.cl/restaurandovida/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="167" tvg-name="Radio Vida Curico" tvg-logo="https://cdn.m3u.cl/logo/167_Radio_Vida_Curico.png", Radio Vida Curico | CL
+https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="164" tvg-name="NCTV" tvg-logo="https://cdn.m3u.cl/logo/164_NCTV.png", NCTV | CL
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="163" tvg-name="Gracia TV" tvg-logo="https://cdn.m3u.cl/logo/163_Gracia_TV.png", Gracia TV | CL
+https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="159" tvg-name="Canal ISB" tvg-logo="https://cdn.m3u.cl/logo/159_Canal_ISB.png", Canal ISB | CL
+https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1384" tvg-name="Metanoia TV" tvg-logo="https://cdn.m3u.cl/logo/1384_Metanoia_TV.png", Metanoia TV | CL
+https://live.mtna.tv/hls/mtna/mtna.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1399" tvg-name="IPNA Medio" tvg-logo="https://cdn.m3u.cl/logo/1399_IPNA_Medio.png", IPNA Medio | CL
+https://paneltv.stream:19360/ipnamedios/ipnamedios.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1412" tvg-name="Enlace BPB" tvg-logo="https://cdn.m3u.cl/logo/1412_Enlace_BPB.png", Enlace BPB | CL
+https://v1.tustreaming.cl/enlacebpbtv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="173" tvg-name="Escuchame Radio" tvg-logo="https://cdn.m3u.cl/logo/173_Escuchame_Radio.png", Escuchame Radio | CL
+https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1480" tvg-name="Fortaleza Radio" tvg-logo="https://cdn.m3u.cl/logo/1480_Fortaleza_Radio.png", Fortaleza Radio | CL
+https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1479" tvg-name="Fortaleza TV" tvg-logo="https://cdn.m3u.cl/logo/1479_Fortaleza_TV.png", Fortaleza TV | CL
+https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1638" tvg-name="ADA TV" tvg-logo="https://cdn.m3u.cl/logo/1638_ADA_TV.png", ADA TV | CL
+https://v4.tustreaming.cl/adatvchile/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1711" tvg-name="Alegria Cristiana" tvg-logo="https://cdn.m3u.cl/logo/1711_Alegria_Cristiana.png", Alegria Cristiana | CL
+https://vdochile.com:3182/hybrid/play.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1712" tvg-name="Voz de Vida TV" tvg-logo="https://cdn.m3u.cl/logo/1712_Voz_de_Vida_TV.png", Voz de Vida TV | CL
+https://vdochile.com:3878/hybrid/play.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1714" tvg-name="Tv Catedral de la Florida" tvg-logo="https://cdn.m3u.cl/logo/1714_Tv_Catedral_de_la_Florida.png", Tv Catedral de la Florida | CL
+https://live20.bozztv.com/akamaissh101/ssh101/asjdksa/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:0, |MAGIS TV m3u PLAYLIST BY @Sunstar16|  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Xena: La princesa guerrera (e)" tvg-logo="" group-title="24/7 RETRO",24/7 Xena: La princesa guerrera (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman (1966)" tvg-logo="" group-title="24/7 RETRO",24/7 Batman (1966)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman del futuro (1999)" tvg-logo="" group-title="24/7 RETRO",24/7 Batman del futuro (1999)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman El Enmascarado (2024)" tvg-logo="" group-title="24/7 RETRO",24/7 Batman El Enmascarado (2024)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las Aventuras de Batman y Robin el Chico Maravilla (1977)" tvg-logo="" group-title="24/7 RETRO",24/7 Las Aventuras de Batman y Robin el Chico Maravilla (1977)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Batman (2004)" tvg-logo="" group-title="24/7 RETRO",24/7 The Batman (2004)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-America (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/3962e7152b4d19c9f2dc71b8c3829545.png" group-title="ARGENTINA",ARG-America (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Canal 26 (L)(1080)" tvg-logo="" group-title="ARGENTINA",ARG-Canal 26 (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Nueve (M)(720)" tvg-logo="http://23.153.216.121:25461/images/58f831d7d15eb98f9190c3cc01a1c87c.png" group-title="ARGENTINA",ARG-El Nueve (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Nueve (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/58f831d7d15eb98f9190c3cc01a1c87c.png" group-title="ARGENTINA",ARG-El Nueve (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-LN (L)(720)" tvg-logo="" group-title="ARGENTINA",ARG-LN (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TV Publica (M)" tvg-logo="http://23.153.216.121:25461/images/f99daf897f04da453259e216dd0cd7f5.png" group-title="ARGENTINA",ARG-TV Publica (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TV Publica (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/f99daf897f04da453259e216dd0cd7f5.png" group-title="ARGENTINA",ARG-TV Publica (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TV5 (M)" tvg-logo="http://23.153.216.121:25461/images/063604e476b1298337e74caee1e371cf.png" group-title="ARGENTINA",ARG-TV5 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 14 Tv Sur (T)(720)" tvg-logo="http://l3d.us:8080/images/879ee15abcc5ae31125df0d901af9f4c.png" group-title="COSTARICA",CR-Canal 14 Tv Sur (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Extrema TV (TV)(720)" tvg-logo="http://l3d.us:8080/images/094a9922d278b8304ad101e1c849dfa9.png" group-title="COSTARICA",CR-Extrema TV (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-FUTV (L)(1080)" tvg-logo="" group-title="COSTARICA",CR-FUTV (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-FUTV (M)(SD)" tvg-logo="" group-title="COSTARICA",CR-FUTV (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-FUTV (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThA6HkKqYo0jMnPwMXsu5Uyt88GNrmExQ8QQ&usqp=CAU" group-title="COSTARICA",CR-FUTV (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Repretel 11 (M)" tvg-logo="" group-title="COSTARICA",CR-Repretel 11 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Repretel 11 (T)(720)" tvg-logo="http://tv.dominiotv.xyz:25461/images/0bc75b556f89ef4e9bfb7eb45eb61b56.png" group-title="COSTARICA",CR-Repretel 11 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Repretel 4 (M)" tvg-logo="" group-title="COSTARICA",CR-Repretel 4 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Repretel 4 (T)(720)" tvg-logo="http://tv.dominiotv.xyz:25461/images/f12c62586d76e81cd752c577905bff2a.png" group-title="COSTARICA",CR-Repretel 4 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Repretel 6 (M)" tvg-logo="" group-title="COSTARICA",CR-Repretel 6 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Repretel 6 (T)(720)" tvg-logo="http://tv.dominiotv.xyz:25461/images/67714a43e5c2b9b3390cea34847f9a3c.png" group-title="COSTARICA",CR-Repretel 6 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-TD +2 (TV)(720)" tvg-logo="" group-title="COSTARICA",CR-TD +2 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-TD+ (M)(1080)" tvg-logo="" group-title="COSTARICA",CR-TD+ (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-TD+ (T)(720)" tvg-logo="http://23.153.216.121:25461/images/8957e0435443db3d58095b6629284914.png" group-title="COSTARICA",CR-TD+ (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-TD+2 (M)(720)" tvg-logo="" group-title="COSTARICA",CR-TD+2 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Tele Uno (L)(720)" tvg-logo="http://tv.dominiotv.xyz:25461/images/0ad00ac33dd421c509da1a7cd5826441.png" group-title="COSTARICA",CR-Tele Uno (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Telesur (Z)(720)" tvg-logo="http://23.153.216.121:25461/images/3e42deddbafb7f2109bab7e5403dd348.png" group-title="COSTARICA",CR-Telesur (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Teletica (T)(720)" tvg-logo="http://l3d.us:8080/images/a595b6beed22d68dbd6dfff91bc6b34f.png" group-title="COSTARICA",CR-Teletica (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Teletica 7 (L)(1080)" tvg-logo="" group-title="COSTARICA",CR-Teletica 7 (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Canal 11 (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/5598d665eb5a2ff3744f00ad3df1e2d6.png" group-title="GUATEMALA",GUA-Canal 11 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Canal 11 (TV)(720)" tvg-logo="http://latinoamericatv.vip:8080/images/985a875a3b25d7596c2cac4cac35feb0.png" group-title="GUATEMALA",GUA-Canal 11 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Canal 3 (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/db2ae04ba9c3f628c9b0eeb551bf1153.png" group-title="GUATEMALA",GUA-Canal 3 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Canal 3 (TV)(720)" tvg-logo="http://latinoamericatv.vip:8080/images/c51fc05149e76e406a6c9d32a0994488.png" group-title="GUATEMALA",GUA-Canal 3 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Canal 7 (TV)(720)" tvg-logo="http://latinoamericatv.vip:8080/images/d3f6238cf4186e4b807ad607dd963c1e.png" group-title="GUATEMALA",GUA-Canal 7 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Canal 7 (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/08b44faa7d46f5d405c24ca2ac63a9c2.png" group-title="GUATEMALA",GUA-Canal 7 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Canal Antigua (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/e13ae01a031a7e6d10e9aa16ac31e37e.png" group-title="GUATEMALA",GUA-Canal Antigua (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Guatevision (L)(720)" tvg-logo="http://latinoamericatv.vip:8080/images/aef0e15d1eacfceb5123b27e45c96728.png" group-title="GUATEMALA",GUA-Guatevision (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Guatevision (M)(720)" tvg-logo="http://23.153.216.121:25461/images/f3f13b660fcbed601c7481d96cef90f3.png" group-title="GUATEMALA",GUA-Guatevision (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Bandamax (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/6f4922f45568161a8cdf4ad2299f6d23.png" group-title="CANALES-MUSICA",MUS-Bandamax (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Bandamax (TV)(720)" tvg-logo="" group-title="CANALES-MUSICA",MUS-Bandamax (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-HTV (M)(720)" tvg-logo="" group-title="CANALES-MUSICA",MUS-HTV (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/45c48cce2e2d7fbdea1afc51c7c6ad26.png" group-title="CANALES-MUSICA",MUS-MTV (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/45c48cce2e2d7fbdea1afc51c7c6ad26.png" group-title="CANALES-MUSICA",MUS-MTV (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV Live (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/1679091c5a880faf6fb5e6087eb1b2dc.png" group-title="CANALES-MUSICA",MUS-MTV Live (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV Live (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/1679091c5a880faf6fb5e6087eb1b2dc.png" group-title="CANALES-MUSICA",MUS-MTV Live (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Ritmoson (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/98f13708210194c475687be6106a3b84.png" group-title="CANALES-MUSICA",MUS-Ritmoson (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Telehit (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-MUSICA",MUS-Telehit (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Telehit (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-MUSICA",MUS-Telehit (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Telehit Plus(M)(1080)" tvg-logo="http://23.153.216.121:25461/images/c51ce410c124a10e0db5e4b97fc2af39.png" group-title="CANALES-MUSICA",MUS-Telehit Plus(M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Teleritmo (L)(SD)" tvg-logo="http://23.153.216.121:25461/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="CANALES-MUSICA",MUS-Teleritmo (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-MUSICA",MUS-VH1 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-MUSICA",MUS-VH1 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Classic (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CANALES-MUSICA",MUS-VH1 Classic (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Mega Hits (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="CANALES-MUSICA",MUS-VH1 Mega Hits (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Plus (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/c74d97b01eae257e44aa9d5bade97baf.png" group-title="CANALES-MUSICA",MUS-VH1 Plus (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Galavision Miami (T)(720)" tvg-logo="https://1.bp.blogspot.com/-p_i9w0OZlsI/Xz88xUiHfjI/AAAAAAAABKQ/ZNiXDDTDvZ0ylIjUC2Mu3B4Yi4iMD9VRACLcBGAsYHQ/w200-h200/6%2BGala%2Bvisi%25C3%25B3n.png" group-title="CANALES-NOVELAS",NOV-Galavision Miami (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Galavision.-.Eastern.Feed.us" tvg-name="NOV-Galavision NY (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-p_i9w0OZlsI/Xz88xUiHfjI/AAAAAAAABKQ/ZNiXDDTDvZ0ylIjUC2Mu3B4Yi4iMD9VRACLcBGAsYHQ/w200-h200/6%2BGala%2Bvisi%25C3%25B3n.png" group-title="CANALES-NOVELAS",NOV-Galavision NY (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Pasiones (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-m1oCMFjG3ug/Xz87KGiI1EI/AAAAAAAABJ4/ArWG1xLYopM3dqWio3izvW6V-8QWOAOlwCLcBGAsYHQ/w200-h200/5%2BPasiones.png" group-title="CANALES-NOVELAS",NOV-Pasiones (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo Los Angeles (Z)(1080)" tvg-logo="" group-title="CANALES-NOVELAS",NOV-Telemundo Los Angeles (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Atlanta (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Atlanta (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Boston (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Boston (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Boston (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Boston (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Chicago (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Chicago (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Chicago (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Chicago (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Chicago (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Chicago (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Dallas (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Dallas (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Dallas (T)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Dallas (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Dallas 39 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Dallas 39 (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Denver (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Denver (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Fresno (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Fresno (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Houston (T)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Houston (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Internacional (L)(HQ)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Internacional (L)(HQ)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Las Vegas (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Las Vegas (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Los Angeles (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Los Angeles (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Los Angeles (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Los Angeles (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Los Angeles (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Los Angeles (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Miami (T)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Miami (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Miami (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Miami (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Miami (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Miami (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - National East (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - National East (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - National West (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - National West (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - New Orleans (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - New Orleans (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - New York (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - New York (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - New York (T)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - New York (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - New York (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - New York (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Orlando Florida (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Orlando Florida (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Philadelphia (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Philadelphia (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Phoenix (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Phoenix (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Phoenix Arizona (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Phoenix Arizona (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - San Diego (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - San Diego (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - San Francisco (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - San Francisco (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - San francisco (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - San francisco (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Tampa (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Tampa (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Texas (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Texas (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Washington (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Washington (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Washington (T)(720)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Washington (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Washington (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Washington (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Washington (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Washington (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-TLN tlnovelas (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-N420mNP_oto/Xz895w5_E8I/AAAAAAAABKc/P3YF5UNR_Bc8CSSdn1ZXVL5HQ7UN8RJWQCLcBGAsYHQ/w200-h200/7%2BTln%2BNovelas.png" group-title="CANALES-NOVELAS",NOV-TLN tlnovelas (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Unicable (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-R4850qWMRRM/Xz8-484rEaI/AAAAAAAABK0/gZWnuvKx8ss-Gdc8vGOdQY0PlY8-hVr3wCLcBGAsYHQ/w200-h200/8%2BUnicable.png" group-title="CANALES-NOVELAS",NOV-Unicable (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Unicable (L)(720)" tvg-logo="https://1.bp.blogspot.com/-R4850qWMRRM/Xz8-484rEaI/AAAAAAAABK0/gZWnuvKx8ss-Gdc8vGOdQY0PlY8-hVr3wCLcBGAsYHQ/w200-h200/8%2BUnicable.png" group-title="CANALES-NOVELAS",NOV-Unicable (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Unimas (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" group-title="CANALES-NOVELAS",NOV-Unimas (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-UNIMáS (KFTR-Los Angeles CA) (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" group-title="CANALES-NOVELAS",NOV-UNIMáS (KFTR-Los Angeles CA) (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-UNIMáS (KTFO-Austin TX) (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" group-title="CANALES-NOVELAS",NOV-UNIMáS (KTFO-Austin TX) (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-UNIMáS (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" group-title="CANALES-NOVELAS",NOV-UNIMáS (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-UNIMáS (WFPA-Philadelphia PA) (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" group-title="CANALES-NOVELAS",NOV-UNIMáS (WFPA-Philadelphia PA) (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-UNIMáS (WFUT-New York NY) (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" group-title="CANALES-NOVELAS",NOV-UNIMáS (WFUT-New York NY) (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-UNIMáS (WXFT-Chicago) (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" group-title="CANALES-NOVELAS",NOV-UNIMáS (WXFT-Chicago) (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-UNIMáS New York (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" group-title="CANALES-NOVELAS",NOV-UNIMáS New York (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Universo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-I5coVQh61s8/XzNOnK_MruI/AAAAAAAAAtg/FXnVyaZkKrso3K6ppfYzk9omGs-ttSgXQCLcBGAsYHQ/w200-h200/53%2BUniverso%2Btv.png" group-title="CANALES-NOVELAS",NOV-Universo (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision (WXTV-New York NY) (M)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision (WXTV-New York NY) (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision - Chicago (M)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision - Chicago (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision Chicago (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision Chicago (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision Houston (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision Houston (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision Los Angeles (M)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision Los Angeles (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision Los Angeles (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision Los Angeles (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision Miami (M)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision Miami (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision Miami (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision Miami (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Univision.(KWNL-CD).Winslow,.AR.us" tvg-name="NOV-Univision Network (TV)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision Network (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision New York (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision New York (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision New York (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision New York (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision Phoenix (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision Phoenix (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Univision TLNovelas (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision TLNovelas (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOV-TLNovelas (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-TLNovelas (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Claro sport Panama (L)(720)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="PANAMA",PAN-Claro sport Panama (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-H.Vison (M)" tvg-logo="https://1.bp.blogspot.com/-fn1JTUpSpS0/Xw82mMWw5UI/AAAAAAAAAXw/zTUNeTMPtkcT7oOn3_djg1fx_2osVXcHgCLcBGAsYHQ/w200-h200/HVision%2BPanama.png" group-title="PANAMA",PAN-H.Vison (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Mas TV 23 (M)" tvg-logo="https://1.bp.blogspot.com/-RlNk03_ZPDQ/Xw-lUbZOl4I/AAAAAAAAAZI/yNHRGzZF_Mw7qj5tZ6gUBJxvRK6NDqFBQCLcBGAsYHQ/w200-h200/%252B23%2BPanama.png" group-title="PANAMA",PAN-Mas TV 23 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Next TV 21 (M)" tvg-logo="https://1.bp.blogspot.com/-RpUWzVVQZxI/Xw82mHIaXAI/AAAAAAAAAXo/O_0jZdrvoVc1aihYzO8J2m9ZzL9fBCoNQCLcBGAsYHQ/w200-h200/Nex%2BTV%2BPanama.png" group-title="PANAMA",PAN-Next TV 21 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-RPC 4 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png" group-title="PANAMA",PAN-RPC 4 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-RPC 4(M)(720)" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png" group-title="PANAMA",PAN-RPC 4(M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-RPC TV (T)(720)" tvg-logo="http://www.tvdigital.digital:80/images/031586bd0ae405100d72cd796a908bab.png" group-title="PANAMA",PAN-RPC TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Ser TV (T)(720)" tvg-logo="http://www.tvdigital.digital:80/images/0ad6f6a58ae1a5724788b607fcdafe51.png" group-title="PANAMA",PAN-Ser TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Ser TV Canal 11 (M)" tvg-logo="https://1.bp.blogspot.com/-pKQdPEaIL20/Xw82nAzNJmI/AAAAAAAAAX4/jDlUKQr0hbYFHF0JztWZOKcKNxXErMXigCLcBGAsYHQ/w200-h200/Ser%2BTv%2BPanama.png" group-title="PANAMA",PAN-Ser TV Canal 11 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Sertv canal 11 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-pKQdPEaIL20/Xw82nAzNJmI/AAAAAAAAAX4/jDlUKQr0hbYFHF0JztWZOKcKNxXErMXigCLcBGAsYHQ/w200-h200/Ser%2BTv%2BPanama.png" group-title="PANAMA",PAN-Sertv canal 11 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Telemetro (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png" group-title="PANAMA",PAN-Telemetro (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Telemetro 13 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png" group-title="PANAMA",PAN-Telemetro 13 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-TV MAX 9 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-92TZBJpaNkA/Xw82oH62IkI/AAAAAAAAAYA/s7m9Q5bSvAkWrIYRRAt6H7nxNg09zwKTACLcBGAsYHQ/w200-h200/Tv%2BMax%2BPanama.png" group-title="PANAMA",PAN-TV MAX 9 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-tv Max 9 (M)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/525319cc304f3446c4445ae7f3862f65.png" group-title="PANAMA",PAN-tv Max 9 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-TVN (TV)(720)" tvg-logo="http://www.tvdigital.digital:80/images/17894e775a8cd48b0e1ffd7f11dd26d8.png" group-title="PANAMA",PAN-TVN (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-TVN Canal 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-3pqhezYHcgs/Xw82omLWsXI/AAAAAAAAAYE/XKdrQHuEbkYBuDn-ZoDVmxG_JQIGUYZwACLcBGAsYHQ/w200-h200/Tvn%2BPanama.png" group-title="PANAMA",PAN-TVN Canal 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-TVN Canal 2 (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-3pqhezYHcgs/Xw82omLWsXI/AAAAAAAAAYE/XKdrQHuEbkYBuDn-ZoDVmxG_JQIGUYZwACLcBGAsYHQ/w200-h200/Tvn%2BPanama.png" group-title="PANAMA",PAN-TVN Canal 2 (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV (L)(720)" tvg-logo="http://daleplay.club:8080/images/271c6c11fe0cf24ef7e4e567f8bc04a9.png" group-title="PERU",PER-ATV (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png" group-title="PERU",PER-ATV (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV (T)(SD)" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png" group-title="PERU",PER-ATV (T)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/df13ed57843877b21ad969184ab6888f.png" group-title="PERU",PER-ATV (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV+ (L)(720)" tvg-logo="http://daleplay.club:8080/images/5a021cd8bff20a0d536aa252ab0a9757.png" group-title="PERU",PER-ATV+ (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-ATV+ (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/8e1d55cda293949513ca9d81fc1a00d1.png" group-title="PERU",PER-ATV+ (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Canal N (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/bdb07524ad5eb655c0661ce62ee03726.png" group-title="PERU",PER-Canal N (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Exitosa (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/1a5a73ceeba767d8c4a12facd0299135.png" group-title="PERU",PER-Exitosa (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-GOL Peru (L)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="PERU",PER-GOL Peru (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (T)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="PERU",PER-Gol Peru (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (TV)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="PERU",PER-Gol Peru (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/e26f67f990f05c6dfab4d32ab935ad31.png" group-title="PERU",PER-Gol Peru (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Latina (L)(720)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Latina (M)(HQ)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina (M)(HQ)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Latina (T)(720)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Latina (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/873305461e5f4545090df56e8373ad38.png" group-title="PERU",PER-Latina (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Latina TV (M)(SD)" tvg-logo="https://i.postimg.cc/fTHtw31d/Proyectox-1.png" group-title="PERU",PER-Latina TV (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 (L)(720)" tvg-logo="https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png" group-title="PERU",PER-Liga 1 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 (L)(720)" tvg-logo="https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png" group-title="PERU",PER-Liga 1 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (L)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (T)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (TV)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (Z)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="PERU",PER-Liga 1 MAX (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Plus (T)(720)" tvg-logo="http://144.217.91.146/Logos/Peru/movistar-plus-pe.png" group-title="PERU",PER-Movistar Plus (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Plus TV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KlTfWdonihI/X2Ord29CNpI/AAAAAAAABTI/2AnEPL2upBA7EGhUY-Lo2fMFWoMEdfesgCLcBGAsYHQ/w200-h200/Movistar%2BPlus.png" group-title="PERU",PER-Movistar Plus TV (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Panamericana (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Yi5SdOxVD0k/X2OreAwr7zI/AAAAAAAABTM/1AO8kxQONDcJYaa2djtLDmiygDFB9tEPwCLcBGAsYHQ/w200-h200/Panamericana.png" group-title="PERU",PER-Panamericana (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Panamericana (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-Yi5SdOxVD0k/X2OreAwr7zI/AAAAAAAABTM/1AO8kxQONDcJYaa2djtLDmiygDFB9tEPwCLcBGAsYHQ/w200-h200/Panamericana.png" group-title="PERU",PER-Panamericana (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Peru Magico (M)(720)" tvg-logo="https://1.bp.blogspot.com/-kmIbIqtnmjs/Xw_BpdXXVWI/AAAAAAAAAaA/arLzNJsk0Zkz3_0PKi2rV9GcDmUBpPsdACLcBGAsYHQ/w200-h200/Peru%2BMagico.png" group-title="PERU",PER-Peru Magico (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-RPP (SD)(M)" tvg-logo="https://1.bp.blogspot.com/-OXeqCZJyBC8/Xw_Bp5Ata6I/AAAAAAAAAaE/Zzghr8Od0SEBNhtra0v8Ro-5tfwKekFrgCLcBGAsYHQ/w200-h200/RPP%2BPeru.png" group-title="PERU",PER-RPP (SD)(M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-TV Peru (M)" tvg-logo="https://1.bp.blogspot.com/-LcIibmp-imU/Xw_JKzUTs0I/AAAAAAAAAa0/Joe5mdjnqwAL7mUBBP0xIWpFG_-S359_gCLcBGAsYHQ/w200-h200/TV%2BPeru.png" group-title="PERU",PER-TV Peru (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Willas  (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-vzBDxerR2qw/X2Ordzmt9VI/AAAAAAAABTE/pxcJlNpzG0YQ2eQG9mh70VNzYr06pg4_ACLcBGAsYHQ/w200-h200/Willax.png" group-title="PERU",PER-Willas  (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Willasx (Z)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/eefbeb9ecb737c3bec0f9abd281c9330.png" group-title="PERU",PER-Willasx (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Willax (L)(720)" tvg-logo="http://iptvlatino.one:8080/images/96a6baee16738886cbb36a2d14670d9d.jpg" group-title="PERU",PER-Willax (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Willax (T)(720)" tvg-logo="https://1.bp.blogspot.com/-vzBDxerR2qw/X2Ordzmt9VI/AAAAAAAABTE/pxcJlNpzG0YQ2eQG9mh70VNzYr06pg4_ACLcBGAsYHQ/w200-h200/Willax.png" group-title="PERU",PER-Willax (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.co" tvg-name="COL-Canal Uno (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png" group-title="COLOMBIA",COL-Canal Uno (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (L)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL-Caracol (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" group-title="COLOMBIA",COL-Caracol (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="NBA.League.Pass.2.us" tvg-name="COL-Caracol Internacional (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZPyxVnk8WeA/XbDQumlWx4I/AAAAAAAAAoQ/8lE0ENHHPykGNXyTS0aOpSAwEi9GZFckACLcBGAsYHQ/s200/10.png" group-title="COLOMBIA",COL-Caracol Internacional (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-name="COL-Caracol Internacional (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ddsaydjeZJQ/X3IYTv7U7II/AAAAAAAABgs/Mf4fwd6pAocr6ExMMqi4Bo2WbOhfZi8qACLcBGAsYHQ/w200-h200/Caracol%2BInternacional.png" group-title="COLOMBIA",COL-Caracol Internacional (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL-RCN (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-name="COL-RCN Nuestra Tele (M)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" group-title="COLOMBIA",COL-RCN Nuestra Tele (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Señal.Colombia.co" tvg-name="COL-Señal Colombia (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-A844AbOBuTo/X3IscaXacMI/AAAAAAAABjg/BagchfpTOu4qZ_vk7UBpeIxTkRWVE_xRACLcBGAsYHQ/w200-h200/Se%25C3%25B1al%2BColombia.png" group-title="COLOMBIA",COL-Señal Colombia (TV)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="COL-TeleAntioquia (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-w5pYQM0YFcM/YJIS5tiWBqI/AAAAAAAACJ4/I9WLhqQ-Z1cmiBaPuMhlZVsqx9i-w9s3wCLcBGAsYHQ/w200-h200/TeleAntioquia.png" group-title="COLOMBIA",COL-TeleAntioquia (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Telecafé.co" tvg-name="COL-TeleCafe (M)" tvg-logo="https://1.bp.blogspot.com/-uymnve3YKYY/XbDQx_IKbGI/AAAAAAAAAow/jW5B9EBjV3c8Rt0i87QJcl-dSK5uOhU-QCLcBGAsYHQ/s200/19.png" group-title="COLOMBIA",COL-TeleCafe (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TELEMEDELLIN.co" tvg-name="COL-Telemedellin (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-3W2BTrQegdw/XbDQyjKTBJI/AAAAAAAAAo8/62RahsE9FbwAzQ4XRGv3-5V6Ov163gKHACLcBGAsYHQ/s200/21.png" group-title="COLOMBIA",COL-Telemedellin (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="COL-Telepacifico (TV)(1080)" tvg-logo="https://i.postimg.cc/6qqqFXDR/COL-Telepacifico.png" group-title="COLOMBIA",COL-Telepacifico (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="COL-TV Agro (M)(720)" tvg-logo="https://1.bp.blogspot.com/-QFD7HnsLCKs/X3Irz_DnKfI/AAAAAAAABjY/bqXo7qn-MmkSIx4pMnWUZr_pJ5bUV7aPgCLcBGAsYHQ/w200-h200/Tv%2Bagro.png" group-title="COLOMBIA",COL-TV Agro (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-A+V (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-qirB8B7_Zq4/X2phN9rq3aI/AAAAAAAABao/6htN_zWiScAp7eez4fVWxs9iJQX6SJ2qwCLcBGAsYHQ/w200-h200/01A%252Bv.png" group-title="URUGUAY",URU-A+V (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 10 (L)(HQ)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (L)(HQ)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 10 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 10 (T)(720)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 10 HD (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png" group-title="URUGUAY",URU-Canal 10 HD (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CANAL.12.HD.uy" tvg-name="URU-Canal 12 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 12 La Tele (L)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 12 La Tele (T)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 12 La Tele (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 12 La Tele (T)(720)" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png" group-title="URUGUAY",URU-Canal 12 La Tele (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 4 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 4 - Montecarlo (T)(720)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 - Montecarlo (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 4 Monte Carlo (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="URUGUAY",URU-Canal 4 Monte Carlo (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 4 Montecarlo (T)(HQ)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 Montecarlo (T)(HQ)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Canal 4 Montecarlo (Z)(LQ)" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png" group-title="URUGUAY",URU-Canal 4 Montecarlo (Z)(LQ)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-TV Ciudad (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-qohNCdLBKdM/X2phVOtEdBI/AAAAAAAABcE/tBZm9UpeJxszBxcf7YTix5HlohHhypuqQCLcBGAsYHQ/w200-h200/25Tv%2Bciudad.png" group-title="URUGUAY",URU-TV Ciudad (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-VTV (L)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-VTV (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-VTV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-VTV (T)(720)" tvg-logo="https://1.bp.blogspot.com/-6L57k7oliDQ/X2phWjJbVXI/AAAAAAAABcQ/uFSEO9qK9IcDzukHAtM7z6WT3XORGOAuwCLcBGAsYHQ/w200-h200/28VTV.png" group-title="URUGUAY",URU-VTV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-VTV Plus (L)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-VTV Plus (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-VTV Plus (T)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-VTV Plus (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-name="URU-VTV Plus (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="URUGUAY",URU-VTV Plus (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="ECU-Ecuavisa Costa (e)(1080)" tvg-logo="https://i.postimg.cc/8PWw3KFn/ECU-Ecuavisa.png" group-title="ECUADOR",ECU-Ecuavisa Costa (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-name="ECU-Ecuavisa Costa (e)(SD)" tvg-logo="https://i.postimg.cc/8PWw3KFn/ECU-Ecuavisa.png" group-title="ECUADOR",ECU-Ecuavisa Costa (e)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="ECU-Ecuavisa Costa(e)(720)" tvg-logo="https://i.postimg.cc/8PWw3KFn/ECU-Ecuavisa.png" group-title="ECUADOR",ECU-Ecuavisa Costa(e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="ECU-Ecuavisa Quito (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="ECUADOR",ECU-Ecuavisa Quito (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec" tvg-name="ECU-Ecuavisa Quito (e)(720)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="ECUADOR",ECU-Ecuavisa Quito (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="ECU-Teleamazonas Quito (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="ECUADOR",ECU-Teleamazonas Quito (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="ECU-Teleamazonas Quito (e)(1080) Opc 2" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="ECUADOR",ECU-Teleamazonas Quito (e)(1080) Opc 2  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="ECU-Teleamazonas Quito (e)(720)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="ECUADOR",ECU-Teleamazonas Quito (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="ECU-TeleAmazonas Costa (e)(1080)" tvg-logo="https://i.postimg.cc/CKXd8NFb/ECU-Tele-Amazonas-Costa.png" group-title="ECUADOR",ECU-TeleAmazonas Costa (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="ECU-TeleAmazonas Costa (e)(720)" tvg-logo="https://i.postimg.cc/CKXd8NFb/ECU-Tele-Amazonas-Costa.png" group-title="ECUADOR",ECU-TeleAmazonas Costa (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-name="ECU-TeleAmazonas Costa (e)(SD)" tvg-logo="https://i.postimg.cc/CKXd8NFb/ECU-Tele-Amazonas-Costa.png" group-title="ECUADOR",ECU-TeleAmazonas Costa (e)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="ECU-Teleamazona Costa (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="ECUADOR",ECU-Teleamazona Costa (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TC.Televisión.(TCTV)..ec" tvg-name="ECU-TC Television Quito (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png" group-title="ECUADOR",ECU-TC Television Quito (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TC.Televisión.(TCTV)..ec" tvg-name="ECU-TC Television Quito (e)(720)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png" group-title="ECUADOR",ECU-TC Television Quito (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TC.Televisión.(TCTV)..ec" tvg-name="ECU-TC Television Costa (e)(1080)" tvg-logo="https://i.postimg.cc/PrL0qQCm/ECU-TC-COSTA.png" group-title="ECUADOR",ECU-TC Television Costa (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TC.Televisión.(TCTV)..ec" tvg-name="ECU-TC Television Costa (e)(720)" tvg-logo="https://i.postimg.cc/PrL0qQCm/ECU-TC-COSTA.png" group-title="ECUADOR",ECU-TC Television Costa (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TC.Televisión.(TCTV)..ec" tvg-name="ECU-TC Television Sierra (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png" group-title="ECUADOR",ECU-TC Television Sierra (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="RTS.Red.Telesistema.(RTS)..ec" tvg-name="ECU-RTS Costa (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png" group-title="ECUADOR",ECU-RTS Costa (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-name="ECU-RTS Costa (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png" group-title="ECUADOR",ECU-RTS Costa (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="RTS.Red.Telesistema.HDTV.(RTSHD)..ec" tvg-name="ECU-RTS Costa(e)(720)" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png" group-title="ECUADOR",ECU-RTS Costa(e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ECU-RTU (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-H5W5qz0qPb4/XjhHQmMuSPI/AAAAAAAABDo/pjnD_hVKWtARtSvJ_LCkwEvhL5vfFU9xQCLcBGAsYHQ/s200/9.png" group-title="ECUADOR",ECU-RTU (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-name="ECU-TVC (e)(1080)" tvg-logo="https://i.postimg.cc/ryDRN9Yw/proyectox4-22.png" group-title="ECUADOR",ECU-TVC (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-name="ECU-TVC (e)(720)" tvg-logo="https://i.postimg.cc/ryDRN9Yw/proyectox4-22.png" group-title="ECUADOR",ECU-TVC (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Oromar (T)(720)" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png" group-title="ECUADOR",ECU-Oromar (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ECU-TVC UIO (TV)(720)" tvg-logo="https://i.postimg.cc/ryDRN9Yw/proyectox4-22.png" group-title="ECUADOR",ECU-TVC UIO (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-5 Telemicro HD (M)" tvg-logo="https://1.bp.blogspot.com/-HImsRlXb3MU/X3PN8Zg_gzI/AAAAAAAABtw/_6CWiInP2mYSy3pGCNa1JSe5LXYpI0AJwCLcBGAsYHQ/w200-h200/Tele%2Bmicro%2Brep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-5 Telemicro HD (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Antena Latina (M)(720)" tvg-logo="https://1.bp.blogspot.com/-icVJqVqodrk/X3PN2Pic1WI/AAAAAAAABsw/fht9YY8pnwIVOCKhAZSCPrw_Y8FaiskXACLcBGAsYHQ/w200-h200/Antena%2Blatina%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-Antena Latina (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-CDN (M)(720)" tvg-logo="https://1.bp.blogspot.com/-761XAfD3b9E/X3PN2xqF9XI/AAAAAAAABs8/Ta4o8sqpmrcdVVYC1DAA6XT3quX1FwUFQCLcBGAsYHQ/w200-h200/CDN%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-CDN (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-CDN 2 (M)" tvg-logo="https://1.bp.blogspot.com/-8VnLdErnceY/X3PN2XnCb4I/AAAAAAAABs0/_2S2NnKKU9ArQNF3ywESglu7QggvNb0oACLcBGAsYHQ/w200-h200/CDN%2B2%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-CDN 2 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-CDN 37 (M)" tvg-logo="https://1.bp.blogspot.com/-UxBePBl2Q2c/X3PN2lao_MI/AAAAAAAABs4/eChJd6BCtPsmyV8Mfeg4OK6JqJ-AHrc3gCLcBGAsYHQ/w200-h200/CDN%2B37%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-CDN 37 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-CDN Sport MAX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-8pf8yz0Dc-A/XzWxMksPWgI/AAAAAAAABDo/YU15Wly2ozInqOjeKzEzPGXPlwC60250wCLcBGAsYHQ/w200-h200/159%2BCDN%2BSPORT.png" group-title="REPUBLICA DOMINICANA",RPD-CDN Sport MAX (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Color Vision (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-BSA2BrBrluk/X3PN4RxTvdI/AAAAAAAABtQ/e52HNTnIO6UT4caFPsG5XbVvpeowprmRwCLcBGAsYHQ/w200-h200/Color%2Bvisi%25C3%25B3n%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-Color Vision (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Digital 15 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-pL0WacmTMh0/X3PN5a3DbKI/AAAAAAAABtY/I8vFVTBdY5oKUyD8XCQJ9koGHFenAprLgCLcBGAsYHQ/w200-h200/Digital%2B15%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-Digital 15 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Telecentro (M)" tvg-logo="https://1.bp.blogspot.com/-Bri9Z74JMiA/X3PN9QyHLoI/AAAAAAAABt4/pFa0-BrYSi00w7xn6Zp6s2kQozEQAGaXgCLcBGAsYHQ/w200-h200/Telecentro%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-Telecentro (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Telefuturo (M)(720)" tvg-logo="https://1.bp.blogspot.com/-xavji18xK0I/X3PN96-pW8I/AAAAAAAABt8/k3MD6mhluY8_sZFnxmgI2qMay0-9iH7owCLcBGAsYHQ/w200-h200/Telefuturo%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-Telefuturo (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Telemicro (M)" tvg-logo="http://tv.proyectox.vip:8080/images/9e32d652adec9df782babcfb96f855f9.png" group-title="REPUBLICA DOMINICANA",RPD-Telemicro (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Telesistema HD (M)(720)" tvg-logo="https://1.bp.blogspot.com/-jNaf3vHMOqA/X3PN-2QFvaI/AAAAAAAABuE/DHDATqhJC-4Oq5y9uvqo4GsvR-hcpQUQwCLcBGAsYHQ/w200-h200/Telesistema%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-Telesistema HD (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Teleuniverso (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-Lz9hOF5eEY4/X3PN82Z1mXI/AAAAAAAABt0/m9fhCQNi9g8AfkqLVOIHnV0TKh_i-LsdwCLcBGAsYHQ/w200-h200/Tele%2Buniverso%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-Teleuniverso (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Television Dominicana (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7vMoBSXAcfg/X3PN_elrmQI/AAAAAAAABuI/o59Q0xyO83sfsHwrwwIlJL2Zv1y1YJdBwCLcBGAsYHQ/w200-h200/Tv%2Bdominica%2BRep%25C3%25BAblica%2BDominicana.png" group-title="REPUBLICA DOMINICANA",RPD-Television Dominicana (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL- TVES Canal 10 (720)" tvg-logo="" group-title="SALVADOR",SAL- TVES Canal 10 (720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Canal 12 (TV)(720)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/70c3a76f846899c633ec789079fe1e4c.png" group-title="SALVADOR",SAL-Canal 12 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Canal 19 (M)" tvg-logo="" group-title="SALVADOR",SAL-Canal 19 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Canal 2 (M)" tvg-logo="" group-title="SALVADOR",SAL-Canal 2 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Canal 21 (M)" tvg-logo="" group-title="SALVADOR",SAL-Canal 21 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Canal 4 (M)(720)" tvg-logo="http://wohuogai.com:37000/live/LatiNtv..YhnGrfDS/jbHsNHJdIa/35854.m3u8" group-title="SALVADOR",SAL-Canal 4 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Canal 4 (M)(SD)" tvg-logo="" group-title="SALVADOR",SAL-Canal 4 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Canal 4 (TV)(720)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/24d82e8c83f43928bfadf134dcb0968e.png" group-title="SALVADOR",SAL-Canal 4 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Canal 6 (M)" tvg-logo="" group-title="SALVADOR",SAL-Canal 6 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Canal 6 (TV)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="SALVADOR",SAL-Canal 6 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Megavision Canal 19 (T)(720)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8e3c0e0389f7dc44b8bca823e29c111f.png" group-title="SALVADOR",SAL-Megavision Canal 19 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-VTV Canal 35 (M)" tvg-logo="" group-title="SALVADOR",SAL-VTV Canal 35 (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI PPV 1 - (e)(1080)" tvg-logo="https://static.vecteezy.com/system/resources/previews/021/919/195/original/ppv-letter-logo-design-in-illustration-logo-calligraphy-designs-for-logo-poster-invitation-etc-vector.jpg" group-title="CHILE",CHI PPV 1 - (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Directv 2 (L)(1080)" tvg-logo="" group-title="CHILE",CHI-Directv 2 (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CDO 2 (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png" group-title="CHILE",CHI-CDO 2 (TV)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CDO Premium 1 (e)(720)" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png" group-title="CHILE",CHI-CDO Premium 1 (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Chilevision (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png" group-title="CHILE",CHI-Chilevision (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Chilevision (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png" group-title="CHILE",CHI-Chilevision (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Chilevision (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png" group-title="CHILE",CHI-Chilevision (PM)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Chilevision (PM)(SD)" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png" group-title="CHILE",CHI-Chilevision (PM)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Chilevision (L)(720)" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png" group-title="CHILE",CHI-Chilevision (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Chilevision (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png" group-title="CHILE",CHI-Chilevision (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Chilevisión (720)(M)" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png" group-title="CHILE",CHI-Chilevisión (720)(M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-La Red (TV)(720)" tvg-logo="" group-title="CHILE",CHI-La Red (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-La Red TV (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-SUSMLk6Nd9s/XajptfrmHrI/AAAAAAAAASc/lEEtobK_kGkKh2qqZO3G-eguobRQWKUJwCLcBGAsYHQ/s200/12.png" group-title="CHILE",CHI-La Red TV (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-LA Red TV (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-SUSMLk6Nd9s/XajptfrmHrI/AAAAAAAAASc/lEEtobK_kGkKh2qqZO3G-eguobRQWKUJwCLcBGAsYHQ/s200/12.png" group-title="CHILE",CHI-LA Red TV (PM)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Mega (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png" group-title="CHILE",CHI-Mega (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Mega (L)(720)" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png" group-title="CHILE",CHI-Mega (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Mega 2 (e)(1080)" tvg-logo="" group-title="CHILE",CHI-Mega 2 (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-24 Horas (M)(720)" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png" group-title="CHILE",CHI-24 Horas (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-24 Horas (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png" group-title="CHILE",CHI-24 Horas (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-ETC (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-08UXr5rCW5A/XajpxIJ8MZI/AAAAAAAAATI/wUGS1sufclQdgaVE0-Smam8E_LHIwD6RQCLcBGAsYHQ/s200/7.png" group-title="CHILE",CHI-ETC (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-ETC (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-08UXr5rCW5A/XajpxIJ8MZI/AAAAAAAAATI/wUGS1sufclQdgaVE0-Smam8E_LHIwD6RQCLcBGAsYHQ/s200/7.png" group-title="CHILE",CHI-ETC (PM)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TV+ (L)(720)" tvg-logo="https://1.bp.blogspot.com/-wk9aj76dkuM/XajpxUSsJoI/AAAAAAAAATQ/aWvKWEaQGts9yYJ5nt0UuBRpN4yd_T_fACLcBGAsYHQ/s200/9.png" group-title="CHILE",CHI-TV+ (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TVN (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png" group-title="CHILE",CHI-TVN (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TVN (L)(720)" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png" group-title="CHILE",CHI-TVN (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-TVN (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png" group-title="CHILE",CHI-TVN (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-Cubavision Internacional (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/cuba_vision_internacional.png" group-title="CUBA",CU-Cubavision Internacional (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-Cubavision (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/cubavision.png" group-title="CUBA",CU-Cubavision (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-Tele Marti (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/cub_marti.png" group-title="CUBA",CU-Tele Marti (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-Tele Rebelde (Z)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/cub_tele_rebelde.png" group-title="CUBA",CU-Tele Rebelde (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-CubaMax (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/cuba_max.png" group-title="CUBA",CU-CubaMax (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="13 Entretención (W)(720)" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="CHILE [GEO BLOQUEO]",13 Entretención (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="13 Festival (W)(1080)" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="CHILE [GEO BLOQUEO]",13 Festival (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="13 Humor (W)(1080)" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="CHILE [GEO BLOQUEO]",13 Humor (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="13 Prime (W)(720)" tvg-logo="https://i.imgur.com/R6D228s.png" group-title="CHILE [GEO BLOQUEO]",13 Prime (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="13 Realities (W)(1080)" tvg-logo="https://i.imgur.com/snqCYWP.png" group-title="CHILE [GEO BLOQUEO]",13 Realities (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="13C (W)(1080)" tvg-logo="https://i.imgur.com/BvGsAkw.png" group-title="CHILE [GEO BLOQUEO]",13C (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="CHILE [GEO BLOQUEO]",24 Horas (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ADN Radio (W)(1080)" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="CHILE [GEO BLOQUEO]",ADN Radio (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Campus TV (Talca) (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/LvzLg33.png" group-title="CHILE [GEO BLOQUEO]",Campus TV (Talca) (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 Aysén (W)(720)" tvg-logo="https://i.imgur.com/63BwBrx.png" group-title="CHILE [GEO BLOQUEO]",Canal 11 Aysén (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 (San Antonio) (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/eLres7d.png" group-title="CHILE [GEO BLOQUEO]",Canal 2 (San Antonio) (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 74 San Antonio" tvg-logo="https://i.imgur.com/WRYsbjX.png" group-title="CHILE [GEO BLOQUEO]",Canal 74 San Antonio  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 Los Sauces TV (W)(720)" tvg-logo="https://i.imgur.com/dts8BWT.png" group-title="CHILE [GEO BLOQUEO]",Canal 8 Los Sauces TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal Chilote" tvg-logo="https://i.imgur.com/mdYIKyt.png" group-title="CHILE [GEO BLOQUEO]",Canal Chilote  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal ISB (Iglesia San Bernardo) (W)(720)" tvg-logo="https://i.imgur.com/cQ4ggTw.png" group-title="CHILE [GEO BLOQUEO]",Canal ISB (Iglesia San Bernardo) (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal Local (W)(1080)" tvg-logo="https://i.imgur.com/ReZXqWR.png" group-title="CHILE [GEO BLOQUEO]",Canal Local (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal SCN (W)(720)" tvg-logo="https://i.imgur.com/QXjdiun.png" group-title="CHILE [GEO BLOQUEO]",Canal SCN (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Caracola TV (Peñalolén) (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="CHILE [GEO BLOQUEO]",Caracola TV (Peñalolén) (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Caribbean Advantage TV (W)(1080)" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="CHILE [GEO BLOQUEO]",Caribbean Advantage TV (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Casa Sobre La Roca TV" tvg-logo="https://i.imgur.com/TZgEXPd.jpg" group-title="CHILE [GEO BLOQUEO]",Casa Sobre La Roca TV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Chile Channel (W)(720)" tvg-logo="https://i.imgur.com/F1it6fh.png" group-title="CHILE [GEO BLOQUEO]",Chile Channel (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Contivision (W)(720)" tvg-logo="https://i.imgur.com/Lz2OlKf.png" group-title="CHILE [GEO BLOQUEO]",Contivision (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Dance FM (W)(720)" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="CHILE [GEO BLOQUEO]",Dance FM (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Dreamforce Btl" tvg-logo="https://i.imgur.com/6SsaKEh.png" group-title="CHILE [GEO BLOQUEO]",Dreamforce Btl  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Décima TV (Ancud) (W)(720)" tvg-logo="https://i.imgur.com/eu8hDDc.png" group-title="CHILE [GEO BLOQUEO]",Décima TV (Ancud) (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EGM Channel (W)(SD)" tvg-logo="https://i.imgur.com/RXRKPvs.png" group-title="CHILE [GEO BLOQUEO]",EGM Channel (W)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Ekiz TV (W)(1080)" tvg-logo="https://i.imgur.com/wY4aFux.jpg" group-title="CHILE [GEO BLOQUEO]",Ekiz TV (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="El Tipógrafo (W)(1080)" tvg-logo="https://i.imgur.com/gN8JP4L.png" group-title="CHILE [GEO BLOQUEO]",El Tipógrafo (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Enfoque Digital TV (W)(1080)" tvg-logo="https://i.imgur.com/GaJzjt5.png" group-title="CHILE [GEO BLOQUEO]",Enfoque Digital TV (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Enlace (W)(720)" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="CHILE [GEO BLOQUEO]",Enlace (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Frecuencia Musical TV [Not 24/7]" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="CHILE [GEO BLOQUEO]",Frecuencia Musical TV [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV Latin America" tvg-logo="https://i.imgur.com/3J6Y08E.png" group-title="CHILE [GEO BLOQUEO]",Garage TV Latin America  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Girovisual (W)(720)" tvg-logo="https://i.imgur.com/BYBMuhf.png" group-title="CHILE [GEO BLOQUEO]",Girovisual (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Hiperconectados TV" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="CHILE [GEO BLOQUEO]",Hiperconectados TV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Holvoet TV (Copiapó) (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="CHILE [GEO BLOQUEO]",Holvoet TV (Copiapó) (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Huasco Televisión (360p)" tvg-logo="https://i.imgur.com/Fo2DV70.png" group-title="CHILE [GEO BLOQUEO]",Huasco Televisión (360p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Iquique TV (W)(720)" tvg-logo="https://i.imgur.com/ZpXXLox.png" group-title="CHILE [GEO BLOQUEO]",Iquique TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Juntos TV (W)(720)" tvg-logo="https://i.imgur.com/U62q2eM.png" group-title="CHILE [GEO BLOQUEO]",Juntos TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="La Chilena TV" tvg-logo="https://i.imgur.com/GHJkxaB.png" group-title="CHILE [GEO BLOQUEO]",La Chilena TV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="La Red (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="CHILE [GEO BLOQUEO]",La Red (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Madero TV (W)(720)" tvg-logo="https://i.imgur.com/VNE88hN.png" group-title="CHILE [GEO BLOQUEO]",Madero TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Molina TV (W)(1080)" tvg-logo="https://i.imgur.com/1ite6R6.png" group-title="CHILE [GEO BLOQUEO]",Molina TV (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NCTV (W)(1080)" tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="CHILE [GEO BLOQUEO]",NCTV (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="CHILE [GEO BLOQUEO]",Novelisima  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NTV (W)(720)" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="CHILE [GEO BLOQUEO]",NTV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Nueva Región TV (W)(720)" tvg-logo="https://i.imgur.com/xPaYM2p.png" group-title="CHILE [GEO BLOQUEO]",Nueva Región TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Pucón TV (W)(1080) [Not 24/7]" tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="CHILE [GEO BLOQUEO]",Pucón TV (W)(1080) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ritmo (W)(1080) [Not 24/7]" tvg-logo="https://i.imgur.com/qU3E0kX.png" group-title="CHILE [GEO BLOQUEO]",Radio Ritmo (W)(1080) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RDO Televisión (W)(SD)" tvg-logo="https://i.imgur.com/uA2OStF.png" group-title="CHILE [GEO BLOQUEO]",RDO Televisión (W)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Restaurando Vidas Internacional (W)(720)" tvg-logo="https://i.imgur.com/4wsvsUf.png" group-title="CHILE [GEO BLOQUEO]",Restaurando Vidas Internacional (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Santa María Televisión (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/SnbGpoK.png" group-title="CHILE [GEO BLOQUEO]",Santa María Televisión (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Sextavisión (W)(720)" tvg-logo="https://i.imgur.com/mwUZBU9.png" group-title="CHILE [GEO BLOQUEO]",Sextavisión (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Antofagasta TV (ATV) (W)(1080)" tvg-logo="https://i.imgur.com/XIQr0fs.png" group-title="CHILE [GEO BLOQUEO]",Antofagasta TV (ATV) (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Arica TV (W)(SD) [Not 24/7]" tvg-logo="https://i.imgur.com/I67WOgT.png" group-title="CHILE [GEO BLOQUEO]",Arica TV (W)(SD) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Aysen TV (W)(720)" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="CHILE [GEO BLOQUEO]",Aysen TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="T-Vinet (W)(SD)" tvg-logo="https://i.imgur.com/KisHIpA.png" group-title="CHILE [GEO BLOQUEO]",T-Vinet (W)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Tele 2 Web (Retiro) (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/b9CN0pZ.png" group-title="CHILE [GEO BLOQUEO]",Tele 2 Web (Retiro) (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Teletrak (W)(720)" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="CHILE [GEO BLOQUEO]",Teletrak (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Thema Televisión (La Serena) (W)(720) [Not 24/7]" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="CHILE [GEO BLOQUEO]",Thema Televisión (La Serena) (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="TMN TV (W)(720)" tvg-logo="https://i.imgur.com/mTlu5IK.png" group-title="CHILE [GEO BLOQUEO]",TMN TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="TV Quellón (W)(1080) [Not 24/7]" tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="CHILE [GEO BLOQUEO]",TV Quellón (W)(1080) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="TVR (W)(1080) [Not 24/7]" tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="CHILE [GEO BLOQUEO]",TVR (W)(1080) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="TVU Concepción (W)(1080)" tvg-logo="https://i.ibb.co/5vFMTxt/Logo-tvu.png" group-title="CHILE [GEO BLOQUEO]",TVU Concepción (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="U Los Lagos TV (W)(1080) [Not 24/7]" tvg-logo="https://i.imgur.com/HxUZseV.png" group-title="CHILE [GEO BLOQUEO]",U Los Lagos TV (W)(1080) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="UCL (W)(720)" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="CHILE [GEO BLOQUEO]",UCL (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="UCV TV (W)(720)" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="CHILE [GEO BLOQUEO]",UCV TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Universidad Autónoma Temuco (UATV) (W)(1080) [Not 24/7]" tvg-logo="https://i.imgur.com/BdZGS66.png" group-title="CHILE [GEO BLOQUEO]",Universidad Autónoma Temuco (UATV) (W)(1080) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="V Classic TV (W)(720)" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="CHILE [GEO BLOQUEO]",V Classic TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="VC Online (W)(720)" tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="CHILE [GEO BLOQUEO]",VC Online (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Voz de Poder Television (W)(720)" tvg-logo="https://i.imgur.com/876y75O.png" group-title="CHILE [GEO BLOQUEO]",Voz de Poder Television (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="VTV Valle de Aconcagua (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/0bFVvKj.png" group-title="CHILE [GEO BLOQUEO]",VTV Valle de Aconcagua (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-Canal 5 (M)(SD)" tvg-logo="" group-title="HONDURAS",HON-Canal 5 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-HCH (M)(SD)" tvg-logo="" group-title="HONDURAS",HON-HCH (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-CANAL 11 (M)(SD)" tvg-logo="" group-title="HONDURAS",HON-CANAL 11 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-Suyapa (M)(SD)" tvg-logo="" group-title="HONDURAS",HON-Suyapa (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-Telesistema (M)(720)" tvg-logo="" group-title="HONDURAS",HON-Telesistema (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-VTV (M)(SD)" tvg-logo="" group-title="HONDURAS",HON-VTV (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-Azteca (M)(720)" tvg-logo="" group-title="HONDURAS",HON-Azteca (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-Telesistema (M)(1080)" tvg-logo="" group-title="HONDURAS",HON-Telesistema (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-Telecadena (M)(720)" tvg-logo="" group-title="HONDURAS",HON-Telecadena (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-HCH (M)(1080)" tvg-logo="" group-title="HONDURAS",HON-HCH (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-TELECEIBA (M)(720)" tvg-logo="" group-title="HONDURAS",HON-TELECEIBA (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-002 Radio TV (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-002 Radio TV (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-AION TV (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-AION TV (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Ame 47" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-Ame 47  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Bellavision (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-Bellavision (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Boreal (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-Boreal (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Canal 25 (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-Canal 25 (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Canal 56 (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-Canal 56 (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Caribbean Traveling Network (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-Caribbean Traveling Network (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Carivision (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-Carivision (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-CDN (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-CDN (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-Claro Television Dominicana (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-Claro Television Dominicana (W)(HD)  # Fecha: 2025-10-11 19:10

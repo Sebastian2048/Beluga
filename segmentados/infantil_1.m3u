@@ -1,47 +1,544 @@
 #EXTM3U
+#EXTINF:-1,04.5Disney Channel ✅
+http://200.60.124.19:29000/play/a010/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,04.7Nickelodeon ✅
+http://200.60.124.19:29000/play/a01i/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,161_Nickelodeon ✅
+http://87.120.179.187:8000/play/a00x  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,163_Disney Channel ✅
+http://87.120.179.187:8000/play/a010  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,164_Cartoon Network ✅
-http://87.120.179.187:8000/play/a011  # Fecha: 2025-10-11 16:23
+http://87.120.179.187:8000/play/a011  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,ABC Kids ✅
-https://c.mjh.nz/abc-kids.m3u8  # Fecha: 2025-10-11 16:23
+https://c.mjh.nz/abc-kids.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CARTOON NETWORK ✅
-http://181.119.85.222:8000/play/a006/index.m3u8  # Fecha: 2025-10-11 16:23
+http://181.119.85.222:8000/play/a006/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Cartoon Network - Opción 2 ✅
-http://179.51.136.19:8000/play/a1fg/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1fg/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Cartoonito ✅
-http://179.51.136.19:8000/play/a0u9/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a0u9/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Cartoonito - Opción 2 ✅
-http://179.51.136.19:8000/play/a1i9/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1i9/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,DISCOVERY KIDS ✅
-http://181.119.86.68:8000/play/b020/index.m3u8  # Fecha: 2025-10-11 16:23
+http://181.119.86.68:8000/play/b020/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Discovery Kids - Opción 2 ✅
-http://181.78.23.26:45000/play/a00h  # Fecha: 2025-10-11 16:23
+http://181.78.23.26:45000/play/a00h  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Disney Channel ✅
+http://181.78.23.26:45000/play/a01b  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,DISNEY CHANNEL - Opción 2 ✅
+http://181.119.85.222:8000/play/a00b/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,DISNEY JUNIOR - Opción 2 ✅
+http://181.119.85.222:8000/play/a00a/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,KuriakoKid| BR ✅
-https://w2.manasat.com:443/kkids/smil:kkids.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 16:23
+https://w2.manasat.com:443/kkids/smil:kkids.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Lolly Kids ✅
-http://179.51.136.19:8000/play/a1i7/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1i7/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Lolly Kids - Opción 2 ✅
-http://179.51.136.19:8000/play/a1i7/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1i7/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Magic Kids ✅
-https://magicstream.ddns.net/magicstream/stream.m3u8  # Fecha: 2025-10-11 16:23
+https://magicstream.ddns.net/magicstream/stream.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Nickelodeon ✅
+http://179.51.136.19:8000/play/a0xd/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Nickelodeon - Opción 2 ✅
+http://179.51.136.19:8000/play/a0xd/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby First (M)(SD)" tvg-logo="" group-title="CANALES-INFANTILES",INF-Baby First (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby TV (Z)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="CANALES-INFANTILES",INF-Baby TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoonito (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="CANALES-INFANTILES",INF-Cartoonito (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Boomerang (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="CANALES-INFANTILES",INF-Boomerang (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (Z)(720)" tvg-logo="http://fanc.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (Z)(1080)" tvg-logo="http://daleplay.club:8080/images/0709ebf7999dae6684fc2c945ae315ef.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="CANALES-INFANTILES",* Disney Channel LATAM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (Z)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANALES-INFANTILES",* Disney Channel USA  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="CANALES-INFANTILES",* Disney XD USA  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (L)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Jr (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",* Disney Jr LATAM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (Z)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png" group-title="CANALES-INFANTILES",INF-Nick (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/aa751d00697408024bca5ef69d02b5ee.png" group-title="CANALES-INFANTILES",INF-Nick (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-TeenNick (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="CANALES-INFANTILES",INF-TeenNick (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick 2 (Z)(720)" tvg-logo="http://daleplay.club:8080/images/fca21adc35170a5bda5d664e14b08295.png" group-title="CANALES-INFANTILES",INF-Nick 2 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick Jr (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="INF-Nick Jr (M)(720)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick JR (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/9760c7476e6274990edda067e059d332.png" group-title="CANALES-INFANTILES",INF-Nick JR (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick Music (L)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nick Music (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="INF-Nickelodeon (M)(720)" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="CANALES-INFANTILES",INF-Nickelodeon (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nickelodeon (Z)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest?cb=20210820185041&path-prefix=es" group-title="CANALES-INFANTILES",INF-Nickelodeon (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoon (Z)" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png" group-title="CANALES-INFANTILES",INF-Nicktoon (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoons (M)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nicktoons (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="CANALES-INFANTILES",INF-Tooncast (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/ebdac901ea46a900977d3f1b260823f2.png" group-title="CANALES-INFANTILES",INF-Tooncast (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Y Jerry (e)(1080)" tvg-logo="https://i.postimg.cc/wv46WP45/Proyectox-24-7-Infantiles-8.png" group-title="24/7 INFANTIL",24/7 Tom Y Jerry (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Tom y Jerry 1980 (e)(1080)" tvg-logo="https://i.postimg.cc/ZnDx5T79/Proyectox-24-7-Infantil-5.png" group-title="24/7 INFANTIL",24/7 El show de Tom y Jerry 1980 (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="13 Kids (W)(1080)" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="CHILE [GEO BLOQUEO]",13 Kids (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoonito (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoonito (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoon Network (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoon Network (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery KIDS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery KIDS (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Channel (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="BRASIL",BRA-Disney Channel (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Junior (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="BRASIL",BRA-Disney Junior (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nat Geo Kids (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nat Geo Kids (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nickelodeon (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nickelodeon (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Kids | US" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="CANALES-RELIGIOSOS",3ABN Kids | US  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Dios Te Ve Kids (720p)" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="CANALES-RELIGIOSOS",Dios Te Ve Kids (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon (360p)" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="CANALES-RELIGIOSOS",Gospel Cartoon (360p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Avatar: La leyenda de Aang (e)" tvg-logo="https://i.postimg.cc/J42p1QvT/Proyectox-24-7-Infantil-6.png" group-title="24/7 INFANTIL",24/7 Infantil - Avatar: La leyenda de Aang (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Rugrats Crecidos (e)" tvg-logo="https://i.postimg.cc/SKsQWkDQ/Proyectox-24-7-Infantil-30.png" group-title="24/7 INFANTIL",24/7 Infantil - Rugrats Crecidos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Chavo Animado (e)" tvg-logo="https://i.postimg.cc/c4HDyz9g/Proyectox-24-7-Infantil-9.png" group-title="24/7 INFANTIL",24/7 Infantil - El Chavo Animado (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Pajaro Loco y sus Amigos (e)" tvg-logo="https://i.postimg.cc/1z6C7NWv/Proyectox-24-7-Infantil-10.png" group-title="24/7 INFANTIL",24/7 Infantil - El Pajaro Loco y sus Amigos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Show Del Pajaro Loco" tvg-logo="https://i.postimg.cc/J4vQwzHv/Proyectox-24-7-Infantil-11.png" group-title="24/7 INFANTIL",24/7 Infantil - El Show Del Pajaro Loco  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Gravity Falls (E)" tvg-logo="https://i.postimg.cc/x1Zh4Q91/Proyectox-24-7-Infantil-12.png" group-title="24/7 INFANTIL",24/7 Infantil - Gravity Falls (E)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Jimmy Neutron (e)" tvg-logo="https://i.postimg.cc/XNgh0dnh/Proyectox-24-7-Infantil-13.png" group-title="24/7 INFANTIL",24/7 Infantil - Jimmy Neutron (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Kick Buttowski (e)" tvg-logo="https://i.postimg.cc/wTTrxMvB/Proyectox-24-7-Infantil-14.png" group-title="24/7 INFANTIL",24/7 Infantil - Kick Buttowski (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - KND Los Chicos Del Barrio (e)" tvg-logo="https://i.postimg.cc/sXd83JQF/Proyectox-24-7-Infantil-15.png" group-title="24/7 INFANTIL",24/7 Infantil - KND Los Chicos Del Barrio (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Paw Patrol (e)" tvg-logo="https://i.postimg.cc/NjGQcQh8/Proyectox-24-7-Infantil-26.png" group-title="24/7 INFANTIL",24/7 Infantil - Paw Patrol (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Las Aventuras de Billy y Mandy (e)" tvg-logo="https://i.postimg.cc/28zsqTHr/Proyectox-24-7-Infantil-18.png" group-title="24/7 INFANTIL",24/7 Infantil - Las Aventuras de Billy y Mandy (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Capitán Calzoncillos (e)" tvg-logo="https://i.postimg.cc/tJr2ndT4/Proyectox-24-7-Infantil-8.png" group-title="24/7 INFANTIL",24/7 Infantil - Capitán Calzoncillos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Winnie the Pooh (e)" tvg-logo="https://i.postimg.cc/Y0gChR81/Proyectox-24-7-Infantil-31.png" group-title="24/7 INFANTIL",24/7 Infantil - Winnie the Pooh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los pingüinos de Madagascar" tvg-logo="https://i.postimg.cc/G2Tc5KWZ/Proyectox-24-7-Infantil-22.png" group-title="24/7 INFANTIL",24/7 Infantil - Los pingüinos de Madagascar  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los Pitufos (e)" tvg-logo="https://i.postimg.cc/DzHhLsS5/Proyectox-24-7-Infantil-23.png" group-title="24/7 INFANTIL",24/7 Infantil - Los Pitufos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Masha y el Oso (e)" tvg-logo="https://i.postimg.cc/LsnRJv8n/Proyectox-24-7-Infantil-24.png" group-title="24/7 INFANTIL",24/7 Infantil - Masha y el Oso (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Oye Arnold" tvg-logo="https://i.postimg.cc/CLsw-Xz2L/Proyectox-24-7-Infantil-25.png" group-title="24/7 INFANTIL",24/7 Infantil - Oye Arnold  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Peppa Pig (e)" tvg-logo="https://i.postimg.cc/SxGj6Z4d/Proyectox-24-7-Infantil-27.png" group-title="24/7 INFANTIL",24/7 Infantil - Peppa Pig (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Phineas y Ferb (e)" tvg-logo="https://i.postimg.cc/jjFxcmFH/Proyectox-24-7-Infantil-28.png" group-title="24/7 INFANTIL",24/7 Infantil - Phineas y Ferb (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Rugrats (e)" tvg-logo="https://i.postimg.cc/JzK4DG3d/Proyectox-24-7-Infantil-29.png" group-title="24/7 INFANTIL",24/7 Infantil - Rugrats (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las nuevas Aventuras de Scooby-Doo (e)" tvg-logo="https://i.postimg.cc/ZqKnVrKS/Proyectox-24-7-Infantiles-1.png" group-title="24/7 INFANTIL",24/7 Las nuevas Aventuras de Scooby-Doo (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Un cachorro llamado Scooby Doo (e)" tvg-logo="https://i.postimg.cc/WzQsVZvh/Proyectox-24-7-Infantiles-9.png" group-title="24/7 INFANTIL",24/7 Un cachorro llamado Scooby Doo (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo y adivina quién?" tvg-logo="https://i.postimg.cc/8k3pM26N/Proyectox-24-7-Infantiles-6.png" group-title="24/7 INFANTIL",24/7 Scooby-Doo y adivina quién?  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ¡Scooby-Doo, dónde estás!" tvg-logo="https://i.postimg.cc/nr5qt3rB/Proyectox-24-7-Infantil.png" group-title="24/7 INFANTIL",24/7 ¡Scooby-Doo, dónde estás!  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo Misterios S. A." tvg-logo="https://i.postimg.cc/nL0Zzgx8/Proyectox-24-7-Infantiles-5.png" group-title="24/7 INFANTIL",24/7 Scooby-Doo Misterios S. A.  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Scooby-Doo y Scrappy-Doo (e)" tvg-logo="https://i.postimg.cc/Fs7xnLz0/Proyectox-24-7-Infantil-4.png" group-title="24/7 INFANTIL",24/7 El show de Scooby-Doo y Scrappy-Doo (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja (e)" tvg-logo="https://i.postimg.cc/T3bJTvrw/Proyectox-24-7-Infantil-2.png" group-title="24/7 INFANTIL",24/7 Bob Esponja (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Show de los Looney Tunes (e)" tvg-logo="https://i.postimg.cc/W1dfry0L/Proyectox-24-7-Infantil-3.png" group-title="24/7 INFANTIL",24/7 El Show de los Looney Tunes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Infantiles (e)" tvg-logo="https://i.postimg.cc/ZnNwfrc7/Proyectox-Cinema-30.png" group-title="24/7 CINEMA ",24/7 Cinema - Infantiles (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Ben 10: Ultimate Alien (e)" tvg-logo="https://i.postimg.cc/s2FKWgV7/Proyectox-24-7-Infantil-7.png" group-title="24/7 INFANTIL",24/7 Infantil - Ben 10: Ultimate Alien (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los Padrinos Magicos" tvg-logo="https://i.postimg.cc/qMwdQWtN/Proyectox-24-7-Infantil-21.png" group-title="24/7 INFANTIL",24/7 Infantil - Los Padrinos Magicos  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Looney Tunes Platinium (e)" tvg-logo="https://i.postimg.cc/0NTgbs4B/Proyectox-24-7-Infantil-20.png" group-title="24/7 INFANTIL",24/7 Infantil - Looney Tunes Platinium (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Baby Looney Tunes (2002)" tvg-logo="https://i.postimg.cc/pV1f8LCr/Proyectox-24-7-Infantil-1.png" group-title="24/7 INFANTIL",24/7 Baby Looney Tunes (2002)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pepe Le Pew (e)" tvg-logo="https://i.postimg.cc/5yFMstC1/Proyectox-24-7-Infantiles-3.png" group-title="24/7 INFANTIL",24/7 Pepe Le Pew (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lobo Ralph y Perro Sam (e)" tvg-logo="https://i.postimg.cc/DftWnJ5r/Proyectox-24-7-Infantiles-2.png" group-title="24/7 INFANTIL",24/7 Lobo Ralph y Perro Sam (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Speedy Gonzales (e)" tvg-logo="https://i.postimg.cc/yd81yBjY/Proyectox-24-7-Infantiles-7.png" group-title="24/7 INFANTIL",24/7 Speedy Gonzales (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Timon y Pumba (e)" tvg-logo="https://i.postimg.cc/vBCmYk7Y/Proyectox-24-7-Infantiles.png" group-title="24/7 INFANTIL",24/7 Las aventuras de Timon y Pumba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas Cartoon Network (e)" tvg-logo="https://i.postimg.cc/fWccs0LW/Proyectox-24-7-series-Animacion2-30.png" group-title="24/7 SERIES ANIMACION",24/7 Peliculas Cartoon Network (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Nickelodeon (T)(720)" tvg-logo="http://23.153.216.121:25461/images/c3aa1664ce427bd89fce33abc91a9f61.png" group-title="ESPAÑA",ESP - Nickelodeon (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Nickelodeon (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/80422e9a138487b496a13e04533e2b32.png" group-title="ESPAÑA",ESP - Nickelodeon (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-DISNEY CHANNEL (L)" tvg-logo="http://live.detodotvplay.com:8080/images/5b76cf00395e1456d04b18c1ce0671a4.png" group-title="CANADA PREMIUM",CAN-DISNEY CHANNEL (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Kids & Family (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/7d63340016cf627156aa959eb3616fa6.png" group-title="USA-ENTERTAINMENT",USA-Starz Kids & Family (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-Disney Channel (M)(720)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANADA PREMIUM",* CAN-Disney Channel (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="Adulto1*" tvg-logo="https://1.bAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-ADULTOS +18",Adulto1*  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby First (M)(SD)" tvg-logo="" group-title="CANALES-INFANTILES",INF-Baby First (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby TV (Z)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="CANALES-INFANTILES",INF-Baby TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoonito (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="CANALES-INFANTILES",INF-Cartoonito (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Boomerang (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="CANALES-INFANTILES",INF-Boomerang (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (Z)(720)" tvg-logo="http://fanc.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (Z)(1080)" tvg-logo="http://daleplay.club:8080/images/0709ebf7999dae6684fc2c945ae315ef.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="CANALES-INFANTILES",* Disney Channel LATAM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (Z)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANALES-INFANTILES",* Disney Channel USA  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="CANALES-INFANTILES",* Disney XD USA  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (L)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Jr (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",* Disney Jr LATAM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (Z)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png" group-title="CANALES-INFANTILES",INF-Nick (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/aa751d00697408024bca5ef69d02b5ee.png" group-title="CANALES-INFANTILES",INF-Nick (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-TeenNick (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="CANALES-INFANTILES",INF-TeenNick (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick 2 (Z)(720)" tvg-logo="http://daleplay.club:8080/images/fca21adc35170a5bda5d664e14b08295.png" group-title="CANALES-INFANTILES",INF-Nick 2 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick Jr (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="INF-Nick Jr (M)(720)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick JR (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/9760c7476e6274990edda067e059d332.png" group-title="CANALES-INFANTILES",INF-Nick JR (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick Music (L)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nick Music (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="INF-Nickelodeon (M)(720)" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="CANALES-INFANTILES",INF-Nickelodeon (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nickelodeon (Z)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest?cb=20210820185041&path-prefix=es" group-title="CANALES-INFANTILES",INF-Nickelodeon (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoon (Z)" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png" group-title="CANALES-INFANTILES",INF-Nicktoon (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoons (M)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nicktoons (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="CANALES-INFANTILES",INF-Tooncast (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/ebdac901ea46a900977d3f1b260823f2.png" group-title="CANALES-INFANTILES",INF-Tooncast (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Y Jerry (e)(1080)" tvg-logo="https://i.postimg.cc/wv46WP45/Proyectox-24-7-Infantiles-8.png" group-title="24/7 INFANTIL",24/7 Tom Y Jerry (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Tom y Jerry 1980 (e)(1080)" tvg-logo="https://i.postimg.cc/ZnDx5T79/Proyectox-24-7-Infantil-5.png" group-title="24/7 INFANTIL",24/7 El show de Tom y Jerry 1980 (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="13 Kids (W)(1080)" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="CHILE [GEO BLOQUEO]",13 Kids (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoonito (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoonito (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoon Network (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoon Network (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery KIDS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery KIDS (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Channel (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="BRASIL",BRA-Disney Channel (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Junior (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="BRASIL",BRA-Disney Junior (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nat Geo Kids (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nat Geo Kids (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nickelodeon (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nickelodeon (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Kids | US" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="CANALES-RELIGIOSOS",3ABN Kids | US  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Dios Te Ve Kids (720p)" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="CANALES-RELIGIOSOS",Dios Te Ve Kids (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon (360p)" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="CANALES-RELIGIOSOS",Gospel Cartoon (360p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Avatar: La leyenda de Aang (e)" tvg-logo="https://i.postimg.cc/J42p1QvT/Proyectox-24-7-Infantil-6.png" group-title="24/7 INFANTIL",24/7 Infantil - Avatar: La leyenda de Aang (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Rugrats Crecidos (e)" tvg-logo="https://i.postimg.cc/SKsQWkDQ/Proyectox-24-7-Infantil-30.png" group-title="24/7 INFANTIL",24/7 Infantil - Rugrats Crecidos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Chavo Animado (e)" tvg-logo="https://i.postimg.cc/c4HDyz9g/Proyectox-24-7-Infantil-9.png" group-title="24/7 INFANTIL",24/7 Infantil - El Chavo Animado (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Pajaro Loco y sus Amigos (e)" tvg-logo="https://i.postimg.cc/1z6C7NWv/Proyectox-24-7-Infantil-10.png" group-title="24/7 INFANTIL",24/7 Infantil - El Pajaro Loco y sus Amigos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Show Del Pajaro Loco" tvg-logo="https://i.postimg.cc/J4vQwzHv/Proyectox-24-7-Infantil-11.png" group-title="24/7 INFANTIL",24/7 Infantil - El Show Del Pajaro Loco  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Gravity Falls (E)" tvg-logo="https://i.postimg.cc/x1Zh4Q91/Proyectox-24-7-Infantil-12.png" group-title="24/7 INFANTIL",24/7 Infantil - Gravity Falls (E)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Jimmy Neutron (e)" tvg-logo="https://i.postimg.cc/XNgh0dnh/Proyectox-24-7-Infantil-13.png" group-title="24/7 INFANTIL",24/7 Infantil - Jimmy Neutron (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Kick Buttowski (e)" tvg-logo="https://i.postimg.cc/wTTrxMvB/Proyectox-24-7-Infantil-14.png" group-title="24/7 INFANTIL",24/7 Infantil - Kick Buttowski (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - KND Los Chicos Del Barrio (e)" tvg-logo="https://i.postimg.cc/sXd83JQF/Proyectox-24-7-Infantil-15.png" group-title="24/7 INFANTIL",24/7 Infantil - KND Los Chicos Del Barrio (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Paw Patrol (e)" tvg-logo="https://i.postimg.cc/NjGQcQh8/Proyectox-24-7-Infantil-26.png" group-title="24/7 INFANTIL",24/7 Infantil - Paw Patrol (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Las Aventuras de Billy y Mandy (e)" tvg-logo="https://i.postimg.cc/28zsqTHr/Proyectox-24-7-Infantil-18.png" group-title="24/7 INFANTIL",24/7 Infantil - Las Aventuras de Billy y Mandy (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Capitán Calzoncillos (e)" tvg-logo="https://i.postimg.cc/tJr2ndT4/Proyectox-24-7-Infantil-8.png" group-title="24/7 INFANTIL",24/7 Infantil - Capitán Calzoncillos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Winnie the Pooh (e)" tvg-logo="https://i.postimg.cc/Y0gChR81/Proyectox-24-7-Infantil-31.png" group-title="24/7 INFANTIL",24/7 Infantil - Winnie the Pooh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los pingüinos de Madagascar" tvg-logo="https://i.postimg.cc/G2Tc5KWZ/Proyectox-24-7-Infantil-22.png" group-title="24/7 INFANTIL",24/7 Infantil - Los pingüinos de Madagascar  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los Pitufos (e)" tvg-logo="https://i.postimg.cc/DzHhLsS5/Proyectox-24-7-Infantil-23.png" group-title="24/7 INFANTIL",24/7 Infantil - Los Pitufos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Masha y el Oso (e)" tvg-logo="https://i.postimg.cc/LsnRJv8n/Proyectox-24-7-Infantil-24.png" group-title="24/7 INFANTIL",24/7 Infantil - Masha y el Oso (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Oye Arnold" tvg-logo="https://i.postimg.cc/CLsw-Xz2L/Proyectox-24-7-Infantil-25.png" group-title="24/7 INFANTIL",24/7 Infantil - Oye Arnold  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Peppa Pig (e)" tvg-logo="https://i.postimg.cc/SxGj6Z4d/Proyectox-24-7-Infantil-27.png" group-title="24/7 INFANTIL",24/7 Infantil - Peppa Pig (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Phineas y Ferb (e)" tvg-logo="https://i.postimg.cc/jjFxcmFH/Proyectox-24-7-Infantil-28.png" group-title="24/7 INFANTIL",24/7 Infantil - Phineas y Ferb (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Rugrats (e)" tvg-logo="https://i.postimg.cc/JzK4DG3d/Proyectox-24-7-Infantil-29.png" group-title="24/7 INFANTIL",24/7 Infantil - Rugrats (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las nuevas Aventuras de Scooby-Doo (e)" tvg-logo="https://i.postimg.cc/ZqKnVrKS/Proyectox-24-7-Infantiles-1.png" group-title="24/7 INFANTIL",24/7 Las nuevas Aventuras de Scooby-Doo (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Un cachorro llamado Scooby Doo (e)" tvg-logo="https://i.postimg.cc/WzQsVZvh/Proyectox-24-7-Infantiles-9.png" group-title="24/7 INFANTIL",24/7 Un cachorro llamado Scooby Doo (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo y adivina quién?" tvg-logo="https://i.postimg.cc/8k3pM26N/Proyectox-24-7-Infantiles-6.png" group-title="24/7 INFANTIL",24/7 Scooby-Doo y adivina quién?  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ¡Scooby-Doo, dónde estás!" tvg-logo="https://i.postimg.cc/nr5qt3rB/Proyectox-24-7-Infantil.png" group-title="24/7 INFANTIL",24/7 ¡Scooby-Doo, dónde estás!  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo Misterios S. A." tvg-logo="https://i.postimg.cc/nL0Zzgx8/Proyectox-24-7-Infantiles-5.png" group-title="24/7 INFANTIL",24/7 Scooby-Doo Misterios S. A.  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Scooby-Doo y Scrappy-Doo (e)" tvg-logo="https://i.postimg.cc/Fs7xnLz0/Proyectox-24-7-Infantil-4.png" group-title="24/7 INFANTIL",24/7 El show de Scooby-Doo y Scrappy-Doo (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja (e)" tvg-logo="https://i.postimg.cc/T3bJTvrw/Proyectox-24-7-Infantil-2.png" group-title="24/7 INFANTIL",24/7 Bob Esponja (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Show de los Looney Tunes (e)" tvg-logo="https://i.postimg.cc/W1dfry0L/Proyectox-24-7-Infantil-3.png" group-title="24/7 INFANTIL",24/7 El Show de los Looney Tunes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Infantiles (e)" tvg-logo="https://i.postimg.cc/ZnNwfrc7/Proyectox-Cinema-30.png" group-title="24/7 CINEMA ",24/7 Cinema - Infantiles (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Ben 10: Ultimate Alien (e)" tvg-logo="https://i.postimg.cc/s2FKWgV7/Proyectox-24-7-Infantil-7.png" group-title="24/7 INFANTIL",24/7 Infantil - Ben 10: Ultimate Alien (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los Padrinos Magicos" tvg-logo="https://i.postimg.cc/qMwdQWtN/Proyectox-24-7-Infantil-21.png" group-title="24/7 INFANTIL",24/7 Infantil - Los Padrinos Magicos  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Looney Tunes Platinium (e)" tvg-logo="https://i.postimg.cc/0NTgbs4B/Proyectox-24-7-Infantil-20.png" group-title="24/7 INFANTIL",24/7 Infantil - Looney Tunes Platinium (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Baby Looney Tunes (2002)" tvg-logo="https://i.postimg.cc/pV1f8LCr/Proyectox-24-7-Infantil-1.png" group-title="24/7 INFANTIL",24/7 Baby Looney Tunes (2002)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pepe Le Pew (e)" tvg-logo="https://i.postimg.cc/5yFMstC1/Proyectox-24-7-Infantiles-3.png" group-title="24/7 INFANTIL",24/7 Pepe Le Pew (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lobo Ralph y Perro Sam (e)" tvg-logo="https://i.postimg.cc/DftWnJ5r/Proyectox-24-7-Infantiles-2.png" group-title="24/7 INFANTIL",24/7 Lobo Ralph y Perro Sam (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Speedy Gonzales (e)" tvg-logo="https://i.postimg.cc/yd81yBjY/Proyectox-24-7-Infantiles-7.png" group-title="24/7 INFANTIL",24/7 Speedy Gonzales (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Timon y Pumba (e)" tvg-logo="https://i.postimg.cc/vBCmYk7Y/Proyectox-24-7-Infantiles.png" group-title="24/7 INFANTIL",24/7 Las aventuras de Timon y Pumba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas Cartoon Network (e)" tvg-logo="https://i.postimg.cc/fWccs0LW/Proyectox-24-7-series-Animacion2-30.png" group-title="24/7 SERIES ANIMACION",24/7 Peliculas Cartoon Network (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Nickelodeon (T)(720)" tvg-logo="http://23.153.216.121:25461/images/c3aa1664ce427bd89fce33abc91a9f61.png" group-title="ESPAÑA",ESP - Nickelodeon (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Nickelodeon (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/80422e9a138487b496a13e04533e2b32.png" group-title="ESPAÑA",ESP - Nickelodeon (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-DISNEY CHANNEL (L)" tvg-logo="http://live.detodotvplay.com:8080/images/5b76cf00395e1456d04b18c1ce0671a4.png" group-title="CANADA PREMIUM",CAN-DISNEY CHANNEL (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Kids & Family (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/7d63340016cf627156aa959eb3616fa6.png" group-title="USA-ENTERTAINMENT",USA-Starz Kids & Family (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-Disney Channel (M)(720)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANADA PREMIUM",* CAN-Disney Channel (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="Adulto1*" tvg-logo="https://1.bAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-ADULTOS +18",Adulto1*  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby First (M)(SD)" tvg-logo="" group-title="CANALES-INFANTILES",INF-Baby First (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby TV (Z)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="CANALES-INFANTILES",INF-Baby TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoonito (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="CANALES-INFANTILES",INF-Cartoonito (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Boomerang (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="CANALES-INFANTILES",INF-Boomerang (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (Z)(720)" tvg-logo="http://fanc.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (Z)(1080)" tvg-logo="http://daleplay.club:8080/images/0709ebf7999dae6684fc2c945ae315ef.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="CANALES-INFANTILES",* Disney Channel LATAM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (Z)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANALES-INFANTILES",* Disney Channel USA  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="CANALES-INFANTILES",* Disney XD USA  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (L)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Jr (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",* Disney Jr LATAM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (Z)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png" group-title="CANALES-INFANTILES",INF-Nick (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/aa751d00697408024bca5ef69d02b5ee.png" group-title="CANALES-INFANTILES",INF-Nick (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-TeenNick (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="CANALES-INFANTILES",INF-TeenNick (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick 2 (Z)(720)" tvg-logo="http://daleplay.club:8080/images/fca21adc35170a5bda5d664e14b08295.png" group-title="CANALES-INFANTILES",INF-Nick 2 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick Jr (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="INF-Nick Jr (M)(720)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick JR (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/9760c7476e6274990edda067e059d332.png" group-title="CANALES-INFANTILES",INF-Nick JR (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick Music (L)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nick Music (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="INF-Nickelodeon (M)(720)" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="CANALES-INFANTILES",INF-Nickelodeon (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nickelodeon (Z)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest?cb=20210820185041&path-prefix=es" group-title="CANALES-INFANTILES",INF-Nickelodeon (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoon (Z)" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png" group-title="CANALES-INFANTILES",INF-Nicktoon (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoons (M)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nicktoons (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="CANALES-INFANTILES",INF-Tooncast (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/ebdac901ea46a900977d3f1b260823f2.png" group-title="CANALES-INFANTILES",INF-Tooncast (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Y Jerry (e)(1080)" tvg-logo="https://i.postimg.cc/wv46WP45/Proyectox-24-7-Infantiles-8.png" group-title="24/7 INFANTIL",24/7 Tom Y Jerry (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Tom y Jerry 1980 (e)(1080)" tvg-logo="https://i.postimg.cc/ZnDx5T79/Proyectox-24-7-Infantil-5.png" group-title="24/7 INFANTIL",24/7 El show de Tom y Jerry 1980 (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="13 Kids (W)(1080)" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="CHILE [GEO BLOQUEO]",13 Kids (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoonito (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoonito (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoon Network (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoon Network (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery KIDS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery KIDS (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Channel (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="BRASIL",BRA-Disney Channel (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Junior (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="BRASIL",BRA-Disney Junior (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nat Geo Kids (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nat Geo Kids (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nickelodeon (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nickelodeon (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Kids | US" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="CANALES-RELIGIOSOS",3ABN Kids | US  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Dios Te Ve Kids (720p)" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="CANALES-RELIGIOSOS",Dios Te Ve Kids (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon (360p)" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="CANALES-RELIGIOSOS",Gospel Cartoon (360p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Avatar: La leyenda de Aang (e)" tvg-logo="https://i.postimg.cc/J42p1QvT/Proyectox-24-7-Infantil-6.png" group-title="24/7 INFANTIL",24/7 Infantil - Avatar: La leyenda de Aang (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Rugrats Crecidos (e)" tvg-logo="https://i.postimg.cc/SKsQWkDQ/Proyectox-24-7-Infantil-30.png" group-title="24/7 INFANTIL",24/7 Infantil - Rugrats Crecidos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Chavo Animado (e)" tvg-logo="https://i.postimg.cc/c4HDyz9g/Proyectox-24-7-Infantil-9.png" group-title="24/7 INFANTIL",24/7 Infantil - El Chavo Animado (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Pajaro Loco y sus Amigos (e)" tvg-logo="https://i.postimg.cc/1z6C7NWv/Proyectox-24-7-Infantil-10.png" group-title="24/7 INFANTIL",24/7 Infantil - El Pajaro Loco y sus Amigos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Show Del Pajaro Loco" tvg-logo="https://i.postimg.cc/J4vQwzHv/Proyectox-24-7-Infantil-11.png" group-title="24/7 INFANTIL",24/7 Infantil - El Show Del Pajaro Loco  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Gravity Falls (E)" tvg-logo="https://i.postimg.cc/x1Zh4Q91/Proyectox-24-7-Infantil-12.png" group-title="24/7 INFANTIL",24/7 Infantil - Gravity Falls (E)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Jimmy Neutron (e)" tvg-logo="https://i.postimg.cc/XNgh0dnh/Proyectox-24-7-Infantil-13.png" group-title="24/7 INFANTIL",24/7 Infantil - Jimmy Neutron (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Kick Buttowski (e)" tvg-logo="https://i.postimg.cc/wTTrxMvB/Proyectox-24-7-Infantil-14.png" group-title="24/7 INFANTIL",24/7 Infantil - Kick Buttowski (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - KND Los Chicos Del Barrio (e)" tvg-logo="https://i.postimg.cc/sXd83JQF/Proyectox-24-7-Infantil-15.png" group-title="24/7 INFANTIL",24/7 Infantil - KND Los Chicos Del Barrio (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Paw Patrol (e)" tvg-logo="https://i.postimg.cc/NjGQcQh8/Proyectox-24-7-Infantil-26.png" group-title="24/7 INFANTIL",24/7 Infantil - Paw Patrol (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Las Aventuras de Billy y Mandy (e)" tvg-logo="https://i.postimg.cc/28zsqTHr/Proyectox-24-7-Infantil-18.png" group-title="24/7 INFANTIL",24/7 Infantil - Las Aventuras de Billy y Mandy (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Capitán Calzoncillos (e)" tvg-logo="https://i.postimg.cc/tJr2ndT4/Proyectox-24-7-Infantil-8.png" group-title="24/7 INFANTIL",24/7 Infantil - Capitán Calzoncillos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Winnie the Pooh (e)" tvg-logo="https://i.postimg.cc/Y0gChR81/Proyectox-24-7-Infantil-31.png" group-title="24/7 INFANTIL",24/7 Infantil - Winnie the Pooh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los pingüinos de Madagascar" tvg-logo="https://i.postimg.cc/G2Tc5KWZ/Proyectox-24-7-Infantil-22.png" group-title="24/7 INFANTIL",24/7 Infantil - Los pingüinos de Madagascar  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los Pitufos (e)" tvg-logo="https://i.postimg.cc/DzHhLsS5/Proyectox-24-7-Infantil-23.png" group-title="24/7 INFANTIL",24/7 Infantil - Los Pitufos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Masha y el Oso (e)" tvg-logo="https://i.postimg.cc/LsnRJv8n/Proyectox-24-7-Infantil-24.png" group-title="24/7 INFANTIL",24/7 Infantil - Masha y el Oso (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Oye Arnold" tvg-logo="https://i.postimg.cc/CLsw-Xz2L/Proyectox-24-7-Infantil-25.png" group-title="24/7 INFANTIL",24/7 Infantil - Oye Arnold  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Peppa Pig (e)" tvg-logo="https://i.postimg.cc/SxGj6Z4d/Proyectox-24-7-Infantil-27.png" group-title="24/7 INFANTIL",24/7 Infantil - Peppa Pig (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Phineas y Ferb (e)" tvg-logo="https://i.postimg.cc/jjFxcmFH/Proyectox-24-7-Infantil-28.png" group-title="24/7 INFANTIL",24/7 Infantil - Phineas y Ferb (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Rugrats (e)" tvg-logo="https://i.postimg.cc/JzK4DG3d/Proyectox-24-7-Infantil-29.png" group-title="24/7 INFANTIL",24/7 Infantil - Rugrats (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las nuevas Aventuras de Scooby-Doo (e)" tvg-logo="https://i.postimg.cc/ZqKnVrKS/Proyectox-24-7-Infantiles-1.png" group-title="24/7 INFANTIL",24/7 Las nuevas Aventuras de Scooby-Doo (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Un cachorro llamado Scooby Doo (e)" tvg-logo="https://i.postimg.cc/WzQsVZvh/Proyectox-24-7-Infantiles-9.png" group-title="24/7 INFANTIL",24/7 Un cachorro llamado Scooby Doo (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo y adivina quién?" tvg-logo="https://i.postimg.cc/8k3pM26N/Proyectox-24-7-Infantiles-6.png" group-title="24/7 INFANTIL",24/7 Scooby-Doo y adivina quién?  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ¡Scooby-Doo, dónde estás!" tvg-logo="https://i.postimg.cc/nr5qt3rB/Proyectox-24-7-Infantil.png" group-title="24/7 INFANTIL",24/7 ¡Scooby-Doo, dónde estás!  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo Misterios S. A." tvg-logo="https://i.postimg.cc/nL0Zzgx8/Proyectox-24-7-Infantiles-5.png" group-title="24/7 INFANTIL",24/7 Scooby-Doo Misterios S. A.  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Scooby-Doo y Scrappy-Doo (e)" tvg-logo="https://i.postimg.cc/Fs7xnLz0/Proyectox-24-7-Infantil-4.png" group-title="24/7 INFANTIL",24/7 El show de Scooby-Doo y Scrappy-Doo (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja (e)" tvg-logo="https://i.postimg.cc/T3bJTvrw/Proyectox-24-7-Infantil-2.png" group-title="24/7 INFANTIL",24/7 Bob Esponja (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Show de los Looney Tunes (e)" tvg-logo="https://i.postimg.cc/W1dfry0L/Proyectox-24-7-Infantil-3.png" group-title="24/7 INFANTIL",24/7 El Show de los Looney Tunes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Infantiles (e)" tvg-logo="https://i.postimg.cc/ZnNwfrc7/Proyectox-Cinema-30.png" group-title="24/7 CINEMA ",24/7 Cinema - Infantiles (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Ben 10: Ultimate Alien (e)" tvg-logo="https://i.postimg.cc/s2FKWgV7/Proyectox-24-7-Infantil-7.png" group-title="24/7 INFANTIL",24/7 Infantil - Ben 10: Ultimate Alien (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los Padrinos Magicos" tvg-logo="https://i.postimg.cc/qMwdQWtN/Proyectox-24-7-Infantil-21.png" group-title="24/7 INFANTIL",24/7 Infantil - Los Padrinos Magicos  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Looney Tunes Platinium (e)" tvg-logo="https://i.postimg.cc/0NTgbs4B/Proyectox-24-7-Infantil-20.png" group-title="24/7 INFANTIL",24/7 Infantil - Looney Tunes Platinium (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Baby Looney Tunes (2002)" tvg-logo="https://i.postimg.cc/pV1f8LCr/Proyectox-24-7-Infantil-1.png" group-title="24/7 INFANTIL",24/7 Baby Looney Tunes (2002)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pepe Le Pew (e)" tvg-logo="https://i.postimg.cc/5yFMstC1/Proyectox-24-7-Infantiles-3.png" group-title="24/7 INFANTIL",24/7 Pepe Le Pew (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lobo Ralph y Perro Sam (e)" tvg-logo="https://i.postimg.cc/DftWnJ5r/Proyectox-24-7-Infantiles-2.png" group-title="24/7 INFANTIL",24/7 Lobo Ralph y Perro Sam (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Speedy Gonzales (e)" tvg-logo="https://i.postimg.cc/yd81yBjY/Proyectox-24-7-Infantiles-7.png" group-title="24/7 INFANTIL",24/7 Speedy Gonzales (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Timon y Pumba (e)" tvg-logo="https://i.postimg.cc/vBCmYk7Y/Proyectox-24-7-Infantiles.png" group-title="24/7 INFANTIL",24/7 Las aventuras de Timon y Pumba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas Cartoon Network (e)" tvg-logo="https://i.postimg.cc/fWccs0LW/Proyectox-24-7-series-Animacion2-30.png" group-title="24/7 SERIES ANIMACION",24/7 Peliculas Cartoon Network (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Nickelodeon (T)(720)" tvg-logo="http://23.153.216.121:25461/images/c3aa1664ce427bd89fce33abc91a9f61.png" group-title="ESPAÑA",ESP - Nickelodeon (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Nickelodeon (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/80422e9a138487b496a13e04533e2b32.png" group-title="ESPAÑA",ESP - Nickelodeon (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-DISNEY CHANNEL (L)" tvg-logo="http://live.detodotvplay.com:8080/images/5b76cf00395e1456d04b18c1ce0671a4.png" group-title="CANADA PREMIUM",CAN-DISNEY CHANNEL (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Kids & Family (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/7d63340016cf627156aa959eb3616fa6.png" group-title="USA-ENTERTAINMENT",USA-Starz Kids & Family (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-Disney Channel (M)(720)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANADA PREMIUM",* CAN-Disney Channel (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="Adulto1*" tvg-logo="https://1.bAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-ADULTOS +18",Adulto1*  # Fecha: 2025-10-11 19:10
 #EXTINF:0,ABC Kids (Australia) (🇦🇺)
-https://c.mjh.nz/abc-kids.m3u8  # Fecha: 2025-10-11 16:23
+https://c.mjh.nz/abc-kids.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Canela Kids (Mexico) (🇲🇽)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654  # Fecha: 2025-10-11 19:10
 #EXTINF:0,Cartoon (Portugal/Brasil) (🇵🇹🇧🇷)
-https://origin.dpsgo.com/ssai/event/crCiBceTSdGhDNRT-N3QUg/master.m3u8  # Fecha: 2025-10-11 16:23
+https://origin.dpsgo.com/ssai/event/crCiBceTSdGhDNRT-N3QUg/master.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Cartoon Network (Indonesia) (🇮🇩)
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Cine Kids (España) (🇪🇸)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Dios Te Ve Kids (Honduras) (🇭🇳)
+https://s.emisoras.tv:8081/diostevekids/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Disney Channel (España) (🇪🇸)
+http://190.123.90.146:8000/play/a02a/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Disney Channel (Mexico) (🇲🇽)
+http://179.49.163.34:45000/play/a00b/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Disney Channel (Polonia/UK) (🇵🇱🇬🇧)
+http://109.233.89.170/Disney_Channel/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Disney Channel (UK) (🇬🇧)
+https://wowza1.leisertv.com/live/disneychannel.stream/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Disney Channel (USA) (🇺🇸)
+https://tvpass.org/live/DisneyChannelEast/hd/  # Fecha: 2025-10-11 19:10
 #EXTINF:0,DK Discovery Kids (Argentina) (🇦🇷)
-http://191.52.214.5:8000/play/a02h/index.m3u8  # Fecha: 2025-10-11 16:23
+http://191.52.214.5:8000/play/a02h/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,DK Discovery Kids (Chile) (🇨🇱)
-http://181.78.105.146:8800/play/a00r/index.m3u8  # Fecha: 2025-10-11 16:23
+http://181.78.105.146:8800/play/a00r/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,DK Discovery Kids (Colombia) (🇨🇴)
-http://190.83.2.172:8080/play/a015/index.m3u8  # Fecha: 2025-10-11 16:23
+http://190.83.2.172:8080/play/a015/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,DK Discovery Kids (España) (🇪🇸)
-http://8.242.176.45:1013/play/a01q/index.m3u8  # Fecha: 2025-10-11 16:23
+http://8.242.176.45:1013/play/a01q/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,DK Discovery Kids (Mexico) (🇲🇽)
-http://179.49.163.34:45000/play/a009/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.49.163.34:45000/play/a009/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,EBS Kids (Corea Del Sur) (🇰🇷)
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/.m3u8  # Fecha: 2025-10-11 16:23
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,FMH Kids (España) (🇪🇸)
-http://160.20.165.246:8000/play/a01f/index.m3u8  # Fecha: 2025-10-11 16:23
+http://160.20.165.246:8000/play/a01f/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Galicia Xabarin (España) (🇪🇸)
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Kids Radio FM (Rusia) (🇷🇺)
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,M-Net Kids (Macedonia) (🇲🇰)
-http://ares.mnet.mk/hls/mnet-kids.m3u8  # Fecha: 2025-10-11 16:23
+http://ares.mnet.mk/hls/mnet-kids.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,Magic Kids (Argentina) (🇦🇷)
-https://magicstream.ddns.net/magicstream/stream.m3u8  # Fecha: 2025-10-11 16:23
+https://magicstream.ddns.net/magicstream/stream.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/8WJUbSD.png",13 Kids (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",90's Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Animal Planet.png",Anime Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="https://img.vintera.tv/img/ico/animeKids.png",Anime Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Испания | Spain 🇪🇸" tvg-logo="https://i.imgur.com/4BDJ5FT.png",BabyTV (Spain) (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",Biznet Kids (480p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="../Channel/Logo/Boomerang.png",BOOMERANG  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Cartoon Network.png",CARTOON NETWORK  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://streaming-elbrus.su/img/logos/DE/cartoon-network.png",CARTOON NETWORK  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Япония | Japan 🧿" tvg-logo="../Channel/Logo/Cartoon Network HD.png",Cartoon Network Japan (400p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Cartoon Network.png",Cartoonito  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="http://epg.one/img2/8906.png",Cine+ Kids HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Африка Банго | Africa South" tvg-logo="https://i.imgur.com/GnZicVH.png",Dios Te Ve Kids (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Disney Channel.png",Disney Channel (Канада)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Disney Channel.png",Disney Channel (Польша)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Япония | Japan 🧿" tvg-logo="../Channel/Logo/Disney Channel.png",Disney Junior (544p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",EBS Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",EBS Kids (360p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",EBS KIDS (400p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/deeQqYZ.png",Forever Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="https://i.ibb.co/ctYTsJJ/image-17.png",Fox Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="https://yt3.googleusercontent.com/9HlrJ3aX2x68Lg2fbzDPXPPYrfzSGlYBE-dimwukUTDuhI0TzO91NbZyqB6iJmVmyJFI8Lby=s160-c-k-c0x00ffffff-no-rj",Fox Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=201085",Fresh Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="http://epg.one/img2/6128.png",Fresh Kids HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="http://epg.one/img2/6128.png",Fresh Kids HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Бразилия | Brasil",Gospel Cartoon (360p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Канада | Canada 🇨🇦" tvg-logo="../Channel/Logo/СТС Kids.png",Kid Squad  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/avFk0Tt.png",Kids Movie Club  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Япония | Japan 🧿" tvg-logo="https://i.imgur.com/pb94kIk.png",Kids Station (544p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Бразилия | Brasil",Kuriakos Kids (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/tMfEsVr.png",LEGO Kids TV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Испания | Spain 🇪🇸",Logos TV Kids (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Африка Банго | Africa South" tvg-logo="https://i.imgur.com/SbKkpuH.png",M-Net Kids (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Magic Kids (486p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄",MyTV Kids HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Nickelodeon.png",Nickelodeon  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Nickelodeon.png",Nickelodeon  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon (Greece) (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="../Channel/Logo/Nickelodeon HD.png",Nickelodeon Australia (576p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="../Channel/Logo/Nickelodeon HD.png",Nickelodeon en español  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://streaming-elbrus.su/img/logos/DE/nickelodeon_de.png",NICKELODEON HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="../Channel/Logo/Nickelodeon HD.png",Nickelodeon Pluto TV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",O Reino Infantil (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄",PBS Kids 68.2 Kentucky (KETKY)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Африка Банго | Africa South" tvg-logo="https://i.imgur.com/YtPRKmS.png",Peniel Kids & Young (480p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Pluto TV Kids (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/xYYJwTz.png",Pluto TV Kids Animation  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷",Pluto TV Kids Classics  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/cqYqBF3.png",Pluto TV Kids Gaming  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/twXueoi.png",Pluto TV Kids Séries  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷",Pluto TV Kids Ukraine  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷",Pluto TV Super Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Radio Contact Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Cartoon Songs  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Three Angels Broadcasting Network Kids Network (3ABN) (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="United States Kingdom | Anglo-Saxons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png",WBRA PBS Kids (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/ZooMoo_Kids_2020.svg/revision/latest/scale-to-width-down/284?cb=20240711204703",ZOOMOO (англ.)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵🎧🎸🎷" tvg-logo="../Channel/Logo/Радио Disney.png",Радио Kids FM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵🎧🎸🎷" tvg-logo="../Channel/Logo/Радио Disney.png",Радио Kids FM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Kids Hits  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/СТС Kids.png",СТС Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/СТС Kids.png",СТС Kids HD  # Fecha: 2025-10-11 19:10
+#EXTINF:0 tvg-id="ext" group-title="SPAIN ULTRA ᵁᴴᴰ",|ES| Disney Channel ᵁᴴᴰ  # Fecha: 2025-10-11 19:10
+#EXTINF:0 tvg-id="ext" group-title="SPAIN ULTRA ᵁᴴᴰ",|ES| Disney Channel ᵁᴴᴰ  # Fecha: 2025-10-11 19:10
+#EXTINF:0 tvg-id="ext" group-title="SPAIN ULTRA ᵁᴴᴰ",|ES| Disney Junior ᵁᴴᴰ  # Fecha: 2025-10-11 19:10
+#EXTINF:0 tvg-id="ext" group-title="SPAIN ULTRA ᵁᴴᴰ",ES Nickelodeon ᵁᴴᴰ  # Fecha: 2025-10-11 19:10
+#EXTINF:0 tvg-id="ext" group-title="SPAIN ULTRA ᵁᴴᴰ",|ES| NIckelodeon ᵁᴴᴰ  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/8WJUbSD.png",13 Kids (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",90's Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Animal Planet.png",Anime Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="https://img.vintera.tv/img/ico/animeKids.png",Anime Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Испания | Spain 🇪🇸" tvg-logo="https://i.imgur.com/4BDJ5FT.png",BabyTV (Spain) (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",Biznet Kids (480p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="../Channel/Logo/Boomerang.png",BOOMERANG  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Cartoon Network.png",CARTOON NETWORK  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://streaming-elbrus.su/img/logos/DE/cartoon-network.png",CARTOON NETWORK  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Япония | Japan 🧿" tvg-logo="../Channel/Logo/Cartoon Network HD.png",Cartoon Network Japan (400p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Cartoon Network.png",Cartoonito  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="http://epg.one/img2/8906.png",Cine+ Kids HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Африка Банго | Africa South" tvg-logo="https://i.imgur.com/GnZicVH.png",Dios Te Ve Kids (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Disney Channel.png",Disney Channel (Канада)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Disney Channel.png",Disney Channel (Польша)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Япония | Japan 🧿" tvg-logo="../Channel/Logo/Disney Channel.png",Disney Junior (544p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",EBS Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",EBS Kids (360p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Азия | Asia 🇨🇳 🇰🇷 🇹🇭",EBS KIDS (400p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/deeQqYZ.png",Forever Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="https://i.ibb.co/ctYTsJJ/image-17.png",Fox Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="https://yt3.googleusercontent.com/9HlrJ3aX2x68Lg2fbzDPXPPYrfzSGlYBE-dimwukUTDuhI0TzO91NbZyqB6iJmVmyJFI8Lby=s160-c-k-c0x00ffffff-no-rj",Fox Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="SHLYAPA TV Media ⓵" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=201085",Fresh Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="http://epg.one/img2/6128.png",Fresh Kids HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="http://epg.one/img2/6128.png",Fresh Kids HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Бразилия | Brasil",Gospel Cartoon (360p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Канада | Canada 🇨🇦" tvg-logo="../Channel/Logo/СТС Kids.png",Kid Squad  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/avFk0Tt.png",Kids Movie Club  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Япония | Japan 🧿" tvg-logo="https://i.imgur.com/pb94kIk.png",Kids Station (544p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Бразилия | Brasil",Kuriakos Kids (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/tMfEsVr.png",LEGO Kids TV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Испания | Spain 🇪🇸",Logos TV Kids (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Африка Банго | Africa South" tvg-logo="https://i.imgur.com/SbKkpuH.png",M-Net Kids (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Magic Kids (486p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄",MyTV Kids HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Nickelodeon.png",Nickelodeon  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/Nickelodeon.png",Nickelodeon  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon (Greece) (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="../Channel/Logo/Nickelodeon HD.png",Nickelodeon Australia (576p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="../Channel/Logo/Nickelodeon HD.png",Nickelodeon en español  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://streaming-elbrus.su/img/logos/DE/nickelodeon_de.png",NICKELODEON HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="../Channel/Logo/Nickelodeon HD.png",Nickelodeon Pluto TV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",O Reino Infantil (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄",PBS Kids 68.2 Kentucky (KETKY)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Африка Банго | Africa South" tvg-logo="https://i.imgur.com/YtPRKmS.png",Peniel Kids & Young (480p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Pluto TV Kids (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/xYYJwTz.png",Pluto TV Kids Animation  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷",Pluto TV Kids Classics  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/cqYqBF3.png",Pluto TV Kids Gaming  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="https://i.imgur.com/twXueoi.png",Pluto TV Kids Séries  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷",Pluto TV Kids Ukraine  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Франция | France 🇫🇷",Pluto TV Super Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Radio Contact Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷",Radio Spinner - Cartoon Songs  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Three Angels Broadcasting Network Kids Network (3ABN) (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="United States Kingdom | Anglo-Saxons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png",WBRA PBS Kids (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/ZooMoo_Kids_2020.svg/revision/latest/scale-to-width-down/284?cb=20240711204703",ZOOMOO (англ.)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵🎧🎸🎷" tvg-logo="../Channel/Logo/Радио Disney.png",Радио Kids FM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Музыкальные 🔊🎶🎵🎧🎸🎷" tvg-logo="../Channel/Logo/Радио Disney.png",Радио Kids FM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="📻 Радио 🔊🎶🎧🎸🎷" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png",Радио Kids Hits  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Общие Orig 🌐" tvg-logo="../Channel/Logo/СТС Kids.png",СТС Kids  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="../Channel/Logo/СТС Kids.png",СТС Kids HD  # Fecha: 2025-10-11 19:10
+#EXTINF:0 tvg-id="ext" group-title="SPAIN ULTRA ᵁᴴᴰ",|ES| Disney Channel ᵁᴴᴰ  # Fecha: 2025-10-11 19:10
+#EXTINF:0 tvg-id="ext" group-title="SPAIN ULTRA ᵁᴴᴰ",|ES| Disney Channel ᵁᴴᴰ  # Fecha: 2025-10-11 19:10
+#EXTINF:0 tvg-id="ext" group-title="SPAIN ULTRA ᵁᴴᴰ",|ES| Disney Junior ᵁᴴᴰ  # Fecha: 2025-10-11 19:10
+#EXTINF:0 tvg-id="ext" group-title="SPAIN ULTRA ᵁᴴᴰ",ES Nickelodeon ᵁᴴᴰ  # Fecha: 2025-10-11 19:10
+#EXTINF:0 tvg-id="ext" group-title="SPAIN ULTRA ᵁᴴᴰ",|ES| NIckelodeon ᵁᴴᴰ  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby First (M)(SD)" tvg-logo="" group-title="CANALES-INFANTILES",INF-Baby First (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby TV (Z)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="CANALES-INFANTILES",INF-Baby TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoonito (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="CANALES-INFANTILES",INF-Cartoonito (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Boomerang (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="CANALES-INFANTILES",INF-Boomerang (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (Z)(720)" tvg-logo="http://fanc.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (Z)(1080)" tvg-logo="http://daleplay.club:8080/images/0709ebf7999dae6684fc2c945ae315ef.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="CANALES-INFANTILES",* Disney Channel LATAM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (Z)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANALES-INFANTILES",* Disney Channel USA  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="CANALES-INFANTILES",* Disney XD USA  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (L)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Jr (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",* Disney Jr LATAM  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (Z)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png" group-title="CANALES-INFANTILES",INF-Nick (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/aa751d00697408024bca5ef69d02b5ee.png" group-title="CANALES-INFANTILES",INF-Nick (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-TeenNick (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="CANALES-INFANTILES",INF-TeenNick (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick 2 (Z)(720)" tvg-logo="http://daleplay.club:8080/images/fca21adc35170a5bda5d664e14b08295.png" group-title="CANALES-INFANTILES",INF-Nick 2 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick Jr (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="INF-Nick Jr (M)(720)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick JR (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/9760c7476e6274990edda067e059d332.png" group-title="CANALES-INFANTILES",INF-Nick JR (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick Music (L)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nick Music (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="INF-Nickelodeon (M)(720)" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="CANALES-INFANTILES",INF-Nickelodeon (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nickelodeon (Z)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Nickelodeon_1993.svg/revision/latest?cb=20210820185041&path-prefix=es" group-title="CANALES-INFANTILES",INF-Nickelodeon (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoon (Z)" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png" group-title="CANALES-INFANTILES",INF-Nicktoon (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoons (M)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nicktoons (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="CANALES-INFANTILES",INF-Tooncast (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/ebdac901ea46a900977d3f1b260823f2.png" group-title="CANALES-INFANTILES",INF-Tooncast (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Y Jerry (e)(1080)" tvg-logo="https://i.postimg.cc/wv46WP45/Proyectox-24-7-Infantiles-8.png" group-title="24/7 INFANTIL",24/7 Tom Y Jerry (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Tom y Jerry 1980 (e)(1080)" tvg-logo="https://i.postimg.cc/ZnDx5T79/Proyectox-24-7-Infantil-5.png" group-title="24/7 INFANTIL",24/7 El show de Tom y Jerry 1980 (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="13 Kids (W)(1080)" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="CHILE [GEO BLOQUEO]",13 Kids (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoonito (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoonito (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoon Network (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoon Network (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery KIDS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery KIDS (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Channel (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="BRASIL",BRA-Disney Channel (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Junior (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="BRASIL",BRA-Disney Junior (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nat Geo Kids (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nat Geo Kids (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nickelodeon (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nickelodeon (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Kids | US" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="CANALES-RELIGIOSOS",3ABN Kids | US  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Dios Te Ve Kids (720p)" tvg-logo="https://i.imgur.com/GnZicVH.png" group-title="CANALES-RELIGIOSOS",Dios Te Ve Kids (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon (360p)" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="CANALES-RELIGIOSOS",Gospel Cartoon (360p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Avatar: La leyenda de Aang (e)" tvg-logo="https://i.postimg.cc/J42p1QvT/Proyectox-24-7-Infantil-6.png" group-title="24/7 INFANTIL",24/7 Infantil - Avatar: La leyenda de Aang (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Rugrats Crecidos (e)" tvg-logo="https://i.postimg.cc/SKsQWkDQ/Proyectox-24-7-Infantil-30.png" group-title="24/7 INFANTIL",24/7 Infantil - Rugrats Crecidos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Chavo Animado (e)" tvg-logo="https://i.postimg.cc/c4HDyz9g/Proyectox-24-7-Infantil-9.png" group-title="24/7 INFANTIL",24/7 Infantil - El Chavo Animado (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Pajaro Loco y sus Amigos (e)" tvg-logo="https://i.postimg.cc/1z6C7NWv/Proyectox-24-7-Infantil-10.png" group-title="24/7 INFANTIL",24/7 Infantil - El Pajaro Loco y sus Amigos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Show Del Pajaro Loco" tvg-logo="https://i.postimg.cc/J4vQwzHv/Proyectox-24-7-Infantil-11.png" group-title="24/7 INFANTIL",24/7 Infantil - El Show Del Pajaro Loco  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Gravity Falls (E)" tvg-logo="https://i.postimg.cc/x1Zh4Q91/Proyectox-24-7-Infantil-12.png" group-title="24/7 INFANTIL",24/7 Infantil - Gravity Falls (E)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Jimmy Neutron (e)" tvg-logo="https://i.postimg.cc/XNgh0dnh/Proyectox-24-7-Infantil-13.png" group-title="24/7 INFANTIL",24/7 Infantil - Jimmy Neutron (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Kick Buttowski (e)" tvg-logo="https://i.postimg.cc/wTTrxMvB/Proyectox-24-7-Infantil-14.png" group-title="24/7 INFANTIL",24/7 Infantil - Kick Buttowski (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - KND Los Chicos Del Barrio (e)" tvg-logo="https://i.postimg.cc/sXd83JQF/Proyectox-24-7-Infantil-15.png" group-title="24/7 INFANTIL",24/7 Infantil - KND Los Chicos Del Barrio (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Paw Patrol (e)" tvg-logo="https://i.postimg.cc/NjGQcQh8/Proyectox-24-7-Infantil-26.png" group-title="24/7 INFANTIL",24/7 Infantil - Paw Patrol (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Las Aventuras de Billy y Mandy (e)" tvg-logo="https://i.postimg.cc/28zsqTHr/Proyectox-24-7-Infantil-18.png" group-title="24/7 INFANTIL",24/7 Infantil - Las Aventuras de Billy y Mandy (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Capitán Calzoncillos (e)" tvg-logo="https://i.postimg.cc/tJr2ndT4/Proyectox-24-7-Infantil-8.png" group-title="24/7 INFANTIL",24/7 Infantil - Capitán Calzoncillos (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Winnie the Pooh (e)" tvg-logo="https://i.postimg.cc/Y0gChR81/Proyectox-24-7-Infantil-31.png" group-title="24/7 INFANTIL",24/7 Infantil - Winnie the Pooh (e)  # Fecha: 2025-10-11 19:10

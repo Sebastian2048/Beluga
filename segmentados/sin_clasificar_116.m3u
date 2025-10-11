@@ -1,0 +1,727 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",新郑综合 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/10184-1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",星空衛視 (576p)
+http://218.202.220.2:5000/nn_live.ts?id=STARTV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",景县电视一套 (360p) [Not 24/7]
+http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",景县电视一套 (576p) [Not 24/7]
+http://hbjx.chinashadt.com:1935/live/jx1.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",智慧教育 (576p)
+http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ETMall60.tw" tvg-logo="https://i.imgur.com/nvm6dyH.png" group-title="Shop",東森購物60 (480p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",松原新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/sytv/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",林正英
+http://epg.112114.xyz/douyu/218859  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片1
+http://epg.112114.xyz/douyu/20415  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片2
+http://epg.112114.xyz/douyu/2793084  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",欧美大片3
+http://epg.112114.xyz/douyu/9249162  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",武进新闻 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",武进生活 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH2.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",永新电视一套 (576p)
+http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",永新电视三套 (576p)
+http://jxyx.chinashadt.com:2036/live/1004.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",永新电视二套 (576p)
+http://jxyx.chinashadt.com:2036/live/1003.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",江津新闻综合 (480p)
+http://222.179.155.21:1935/ch1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",江津经济生活 (480p)
+http://222.179.155.21:1935/ch0.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",江苏 Ⅰ 连云港公共 (480p) [Not 24/7]
+https://live.lyg1.com/ggpd/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",江苏 Ⅰ 连云港综合 (480p) [Not 24/7]
+https://live.lyg1.com/zhpd/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" tvg-logo="" group-title="Undefined",江苏卫视 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="JiangsuCityChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg" group-title="General",江苏城市 (576p)
+http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="JiangsuEducationalChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jsjy.jpg" group-title="Education",江苏教育 (576p)
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="JiangsuVarietyChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jszy.jpg" group-title="Entertainment",江苏综艺 (576p) [Not 24/7]
+http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="JiangxiTV.cn" tvg-logo="https://i.imgur.com/RrLthH3.png" group-title="Undefined",江西卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",沧县电视二套 (576p)
+http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",沧县电视综合 (576p)
+http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河北公共
+http://121.19.134.246:808/hls/24/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河北农民
+http://121.19.134.246:808/hls/25/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河北农民 (360p)
+http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河北农民 (576p)
+http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HebeiTV.cn" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" group-title="General",河北卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河北影视
+http://121.19.134.246:808/hls/22/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河北经济
+http://121.19.134.246:808/hls/20/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河北都市
+http://121.19.134.246:808/hls/21/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HenanTVSatellite.cn" tvg-logo="https://i.imgur.com/IBW26kV.png" group-title="Undefined",河南卫视 (576p)
+http://183.207.248.71/cntv/live1/henanstv/henanstv  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HeyuanPublicTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/heyuan.jpg" group-title="General",河源公共 (540p)
+https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",河源综合 (540p)
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",洪雅新闻综合 (1080p)
+http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江 Ⅰ 绍兴影视 (720p)
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江 Ⅰ 绍兴综合 (576p)
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江公共 (1080p) [Not 24/7]
+https://ct-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江公共 (1080p) [Not 24/7]
+https://qiniup-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ZhejiangSatelliteTV.cn" tvg-logo="https://i.postimg.cc/mrtBcmTx/zhejiangsatellitetv.png" group-title="Undefined",浙江卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江国际 (1080p)
+https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江国际 (1080p)
+https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江少儿
+https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江影视 (720p)
+https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HainanSatelliteTV.cn" tvg-logo="https://i.imgur.com/j6kY8nh.png" group-title="Undefined",海南卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",海西州综合 (576p)
+http://stream.haixitv.cn/1/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",涡阳新闻综合 (360p)
+http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HubeiSatelliteTV.cn" tvg-logo="https://i.imgur.com/CTRa9BJ.png" group-title="Undefined",湖北卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HunanTV.cn" tvg-logo="https://i.postimg.cc/DZdGG2TD/hunantv.png" group-title="Undefined",湖南卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HunanCityChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/hnds.jpg" group-title="General",湖南都市 (576p)
+http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湘潭公共 (576p)
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湘潭新闻综合 (720p)
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",滁州公共 (450p)
+http://183.167.193.45:1935/live/cztvgg/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ChuzhouPublicChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="General",滁州市广播电视台 公共频道 (400p)
+http://live.cztv.cc:85/live/ggpd.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Education;Science",滁州市广播电视台 科教频道 (400p)
+http://live.cztv.cc:85/live/sjpd.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",滁州新闻综合 (450p)
+http://183.167.193.45:1935/live/cztvzh/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",滦县综合 (576p)
+http://hblxx.chinashadt.com:2036/live/stream:lx1.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",滦县综艺 (576p)
+http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",滨州公共电视剧 (576p)
+http://stream.bzcm.net/1/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",滨州新闻综合 (576p)
+http://stream.bzcm.net/2/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",滨州测试 (576p)
+http://stream.bzcm.net/4/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",滨海新闻 (1080p)
+http://60.30.52.41/live/bhtv1/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",滨海都市 (1080p)
+http://60.30.52.41/live/bhtv2/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",漳州新闻综合 (720p) [Not 24/7]
+https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",灵台新闻综合 (1080p)
+http://117.156.28.119/270000001111/1110000145/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",炫动卡通 (576p)
+http://223.110.245.139/PLTV/4/224/3221226388/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",甘肃公共 (540p) [Not 24/7]
+https://hls.gstv.com.cn/49048r/3t5xyc.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="GansuTV.cn" tvg-logo="https://i.imgur.com/dANSiug.png" group-title="General",甘肃卫视 (1080p)
+http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",甘肃移动 (540p) [Not 24/7]
+https://hls.gstv.com.cn/49048r/y72q36.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",生活 (576p)
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白视窗 (360p) [Not 24/7]
+http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白视窗 (576p) [Not 24/7]
+http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白综合 (360p) [Not 24/7]
+http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",电白综合 (576p) [Not 24/7]
+http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="General",白城新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",白山新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/baishan1/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",百事通体育1 (1080p) [Not 24/7]
+http://112.25.48.68/live/program/live/hdnba1/4000000/mnf.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",百事通体育2 (1080p) [Not 24/7]
+http://112.25.48.68/live/program/live/hdnba2/4000000/mnf.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",百事通体育3 (1080p) [Not 24/7]
+http://112.25.48.68/live/program/live/hdnba3/4000000/mnf.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",百事通体育5 (1080p)
+http://112.25.48.68/live/program/live/hdnba5/4000000/mnf.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",百事通体育7 (1080p) [Not 24/7]
+http://112.25.48.68/live/program/live/hdnba7/4000000/mnf.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",石景山电视台 (1080p) [Not 24/7]
+https://live.sjsrm.com/bjsjs/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",福山生活 (576p) [Not 24/7]
+http://live.jiaodong.net:82/tvfushan/hls/tv_shenghuo.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",福州广播电视台新闻综合频道 (FZTV-1) (1080p)
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",福州广播电视台都市生活频道 (FZTV-3) (1080p)
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",福州电视台少儿频道 (FZTV-少儿) (1080p)
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州三峽移民 (576p)
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州三峽移民 (576p)
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州影視文藝 (576p) [Not 24/7]
+http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州影視文藝 (576p)
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州科教頻道 (576p)
+http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州科教頻道 (576p)
+http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州綜合頻道 (576p)
+http://123.146.162.24:8017/iTXwrGs/800/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萬州綜合頻道 (576p)
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",积石山电视台 (1080p)
+http://117.156.28.119/270000001111/1110000152/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法會直播 (Legislative Council Live) (720p)
+https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播交通委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播內政委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播司法及法制委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播外交及國防委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播教育及文化委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播朝野協商 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播社會福利及衛生環境委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播經濟委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播財政委員會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播院會 (450p)
+https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",篮球资讯 (576p)
+http://223.110.245.139/PLTV/4/224/3221227023/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",娄底综合 (720p)
+http://119.39.242.52:1935/live/zonghe/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",粤语电影2
+http://epg.112114.xyz/douyu/6566671  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",粤语电影3
+http://epg.112114.xyz/douyu/1226741  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",精品电影 (1080p)
+http://183.207.248.71/cntv/live1/jdianying/jdianying  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",红牛REDBULL TV (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",纯享4K (2160p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",继续教育 (576p)
+http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",罗山电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/11521-1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",置业 (576p)
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="BSTV.hk" tvg-logo="https://i.imgur.com/GVYSSgm.png" group-title="Shop",耀才財經台 (576p)
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",耀才财经
+http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",耀才财经 (288p)
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",肃州电视台 (1080p)
+http://117.156.28.119/270000001111/1110000123/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",芜湖公共 (576p)
+http://live1.wuhubtv.com/channel3/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",芜湖新闻综合 (576p)
+http://live1.wuhubtv.com/channel1/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",芜湖生活 (576p)
+http://live1.wuhubtv.com/channel2/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",荣昌综合 (404p) [Not 24/7]
+http://183.64.181.25:40023/rongchang01.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",莒縣圖文頻道 (720p)
+http://61.162.225.122:8181/live/test3.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",莒縣電視一套 (576p)
+http://61.162.225.122:8181/live/test1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",莒縣電視二套 (576p) [Not 24/7]
+http://61.162.225.122:8181/live/test2.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萍鄉公共頻道 (1080p) [Not 24/7]
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萍鄉教育頻道 (480p)
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv2stream.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",萧山新闻综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",蓬安新闻综合 (720p) [Not 24/7]
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",蕪湖教育頻道 (576p)
+http://live1.wuhubtv.com/channel4/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",蕭山生活頻道 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="XianSilkRoadChannel.cn" tvg-logo="https://i.imgur.com/52i1Qnz.png" group-title="Undefined",西安丝路 (404p) [Not 24/7]
+http://stream2.xiancity.cn/xatv5/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安乐购购物 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv6/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="XianBusinessInformationChannel.cn" tvg-logo="https://i.imgur.com/dzdiY4O.png" group-title="Business",西安商务资讯 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv3/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安影视 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv4/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安新闻 (1080p) [Not 24/7]
+http://stream2.xiancity.cn/xatv1/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西安白鸽 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv2/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西藏卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西藏卫视 (576p)
+http://117.169.120.140:8080/live/xizangstv/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",西藏卫视 (576p)
+http://183.207.249.16/PLTV/3/224/3221225523/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",贝爷影厅
+http://epg.112114.xyz/douyu/252802  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",贵州卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="GuizhouTV.cn" tvg-logo="https://i.imgur.com/nkcKCdr.png" group-title="General",贵州卫视 (576p)
+http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",赵县电视一套 (360p)
+http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",赵县电视一套 (576p)
+http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",赵县电视二套 (360p)
+http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",赵县电视二套 (576p)
+http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",辛集新聞頻道 (480p) [Not 24/7]
+http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",辛集生活頻道 (480p) [Not 24/7]
+http://zsxj.chinashadt.com:1935/live/xjsh.stream_360p/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-logo="https://i.postimg.cc/Jz87vbVf/liaoningtv.png" group-title="General",辽宁卫视 (1080p)
+http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",辽源新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",迪庆综合 (1080p)
+http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",迪庆藏语 (576p)
+http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",通化新闻 [Geo-blocked]
+https://stream2.jlntv.cn/tonghua1/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",邗江资讯 (576p)
+http://223.110.245.139/PLTV/4/224/3221227154/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",邢台城生
+http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",邢台综合
+http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",邯郸公共
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",邯郸新闻
+https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",邯郸科教
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",邵东综合 (576p)
+http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ChongqingTVInternational.cn" tvg-logo="https://i.imgur.com/ggKci6o.png" group-title="Undefined",重庆卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",金昌公共頻道 (240p) [Geo-blocked]
+http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",金昌綜合頻道 (720p) [Geo-blocked]
+http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长乐综合 [Geo-blocked]
+http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长春综合 [Geo-blocked]
+https://stream2.jlntv.cn/jlcc/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙地铁移动 [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HunanWomensChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/csnxpd.jpg" group-title="Lifestyle",长沙女性 [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HunanPoliticsLawChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cszfpd.jpg" group-title="Legislative",长沙政法 [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙经贸 [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",长沙购物 [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",陕西卫视 (540p)
+http://112.25.48.68/live/program/live/sxws/1300000/mnf.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",陕西卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",陕西卫视 (576p)
+http://223.110.245.139/PLTV/4/224/3221227022/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",隆化影视 (576p)
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",隆化综合 (576p)
+http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",隨州綜合 (720p) [Not 24/7]
+http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",隨州農村 (720p) [Not 24/7]
+http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",集安综合 [Geo-blocked]
+https://stream2.jlntv.cn/ja/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",霍山综合 (576p)
+http://ahhs.chinashadt.com:1936/live/stream:hs1.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",霸州公共頻道 (576p) [Not 24/7]
+http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",霸州少兒頻道 (576p) [Not 24/7]
+http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",霸州文化頻道 (576p)
+http://hbbz.chinashadt.com:2036/live/stream:bzwh.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",霸州新聞頻道 (576p)
+http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",青州文化旅游 (576p)
+http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",青州生活 (576p)
+http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",青州综合 (576p)
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="QinghaiTV.cn" tvg-logo="https://i.imgur.com/Nyuxo8S.png" group-title="Undefined",青海卫视 (1080p)
+http://live.geermurmt.com/qhws/sd/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",靖江新闻綜合 (480p) [Not 24/7]
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",静宁综合 (1080p)
+http://117.156.28.119/270000001111/1110000147/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FengshangShoppingChannel.cn@SD" tvg-logo="https://i.imgur.com/WNhfnUR.png" group-title="Shop",风尚购物 (1080p)
+http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",餘姚姚江文化 (576p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HighChannelTV.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="Undefined",高台电视台 (1080p)
+http://117.156.28.119/270000001111/1110000146/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",高清电影 (1080p)
+http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",鹤峰综合 [Geo-blocked]
+http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",鹿泉一套 (576p) [Not 24/7]
+http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",鹿泉二套 (576p) [Not 24/7]
+http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",黑龙卫视 (720p)
+http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",黑龙卫视 (1080p)
+http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",黑龙卫视 (1080p)
+http://223.110.245.139/PLTV/4/224/3221227492/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",黑龙卫视 (1080p)
+http://223.110.245.170/PLTV/3/224/3221227252/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="HeilongjiangTV.cn" tvg-logo="https://i.imgur.com/9fj1uba.png" group-title="General",黑龙江 (1080p)
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",黑龙江卫 (1080p)
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png", ATV | PE
+https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://cdn.m3u.cl/logo/1066_ATV_.png", ATV+ | PE
+https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1089" tvg-name="Autentica TV" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png", Autentica TV | PE
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1091" tvg-name="TVPE" tvg-logo="https://cdn.m3u.cl/logo/1091_TVPE.png", TVPE | PE
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://cdn.m3u.cl/logo/1092_Planeta_TV.png", Planeta TV | PE
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1093" tvg-name="Genios TV" tvg-logo="https://cdn.m3u.cl/logo/1093_Genios_TV.png", Genios TV | PE
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1094" tvg-name="Uranio TV" tvg-logo="https://cdn.m3u.cl/logo/1094_Uranio_TV.png", Uranio TV | PE
+https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1095" tvg-name="OK TeVe" tvg-logo="https://cdn.m3u.cl/logo/1095_OK_TeVe.png", OK TeVe | PE
+https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1097" tvg-name="Canal 8 Catacaos" tvg-logo="https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png", Canal 8 Catacaos | PE
+https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1115" tvg-name="Tumpis TV" tvg-logo="https://cdn.m3u.cl/logo/1115_Tumpis_TV.png", Tumpis TV | PE
+https://servilive.com:3531/stream/play.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1180" tvg-name="CR TV" tvg-logo="https://cdn.m3u.cl/logo/1180_CR_TV.png", CR TV | PE
+https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1183" tvg-name="VZ TV" tvg-logo="https://cdn.m3u.cl/logo/1183_VZ_TV.png", VZ TV | PE
+https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1187" tvg-name="Sanjuanera TV" tvg-logo="https://cdn.m3u.cl/logo/1187_Sanjuanera_TV.png", Sanjuanera TV | PE
+https://infosmartpe.store:5443/LiveApp/streams/3zc2BXi5SEys2310139330128741.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1188" tvg-name="Controversia TV" tvg-logo="https://cdn.m3u.cl/logo/1188_Controversia_TV.png", Controversia TV | PE
+https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1189" tvg-name="Telecolor TV" tvg-logo="https://cdn.m3u.cl/logo/1189_Telecolor_TV.png", Telecolor TV | PE
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1191" tvg-name="Via Alto Mayo TV" tvg-logo="https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png", Via Alto Mayo TV | PE
+https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1290" tvg-name="Palmeras TV" tvg-logo="https://cdn.m3u.cl/logo/1290_Palmeras_TV.png", Palmeras TV | PE
+https://play.agenciastreaming.com:8081/palmerastv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1490" tvg-name="Vision Sur Television" tvg-logo="https://cdn.m3u.cl/logo/1490_Vision_Sur_Television.png", Vision Sur Television | PE
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1491" tvg-name="Mega TV Jaen" tvg-logo="https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png", Mega TV Jaen | PE
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1492" tvg-name="ATV Sur" tvg-logo="https://cdn.m3u.cl/logo/1492_ATV_Sur.png", ATV Sur | PE
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1555" tvg-name="Emanuel7 TV" tvg-logo="https://cdn.m3u.cl/logo/1555_Emanuel7_TV.png", Emanuel7 TV | PE
+https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1578" tvg-name="PANC TV Peru" tvg-logo="https://cdn.m3u.cl/logo/1578_PANC_TV_Peru.png", PANC TV Peru | PE
+https://panel.host-live.com:19360/20000/20000.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1590" tvg-name="TV en linea Cusco" tvg-logo="https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png", TV en linea Cusco | PE
+https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1657" tvg-name="Latina" tvg-logo="https://cdn.m3u.cl/logo/1657_Latina.png", Latina | PE
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1658" tvg-name="Solar TV Cusco" tvg-logo="https://cdn.m3u.cl/logo/1658_Solar_TV_Cusco.png", Solar TV Cusco | PE
+https://stmv1.voxhdnet.com/solartv/solartv/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1659" tvg-name="Foro TV" tvg-logo="https://cdn.m3u.cl/logo/1659_Foro_TV.png", Foro TV | PE
+https://mc.servidor.stream:19360/8274/8274.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1667" tvg-name="Onda Digital TV 2" tvg-logo="https://cdn.m3u.cl/logo/1667_Onda_Digital_TV_2.png", Onda Digital TV 2 | PE
+https://v4.tustreaming.cl:443/odtv2/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1686" tvg-name="San Pedro SAT" tvg-logo="https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png", San Pedro SAT | PE
+https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://cdn.m3u.cl/logo/35_TOP_Latino_TV.png", TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/playlist.m3u8?wowzatokenstarttime=1752707094&wowzatokenendtime=1752708094&wowzatokenhash=ehhxNAzcNA0F16D7rrGOSaTgY2M5_O38gPj7Ir3Lx2U=&PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="684" tvg-name="Nativa" tvg-logo="https://cdn.m3u.cl/logo/684_Nativa.png", Nativa | PE
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="686" tvg-name="TVperuanisima" tvg-logo="https://cdn.m3u.cl/logo/686_TVperuanisima.png", TVperuanisima | PE
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="689" tvg-name="Mega TV Arequipa" tvg-logo="https://cdn.m3u.cl/logo/689_Mega_TV_Arequipa.png", Mega TV Arequipa | PE
+https://mc.servidor.stream:19360/megatv/megatv.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="690" tvg-name="JN19" tvg-logo="https://cdn.m3u.cl/logo/690_JN19.png", JN19 | PE
+https://servilive.com:3028/live/jntv19live.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="691" tvg-name="Exitosa" tvg-logo="https://cdn.m3u.cl/logo/691_Exitosa.png", Exitosa | PE
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="694" tvg-name="Antares TV" tvg-logo="https://cdn.m3u.cl/logo/694_Antares_TV.png", Antares TV | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://cdn.m3u.cl/logo/695_BHTV.png", BHTV | PE
+https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="696" tvg-name="Cultura 24 TV" tvg-logo="https://cdn.m3u.cl/logo/696_Cultura_24_TV.png", Cultura 24 TV | PE
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://cdn.m3u.cl/logo/697_Hechicera_TV.png", Hechicera TV | PE
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="699" tvg-name="Ovacion" tvg-logo="https://cdn.m3u.cl/logo/699_Ovacion.png", Ovacion | PE
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos 15.1" tvg-logo="https://cdn.m3u.cl/logo/701_TV_Cosmos_15_1.png", TV Cosmos 15.1 | PE
+https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png", Via Television Tarapoto | PE
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV | CL
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="876" tvg-name="Vision Musica TV" tvg-logo="https://cdn.m3u.cl/logo/876_Vision_Musica_TV.png", Vision Musica TV | PE
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="969" tvg-name="Onda Digital TV" tvg-logo="https://cdn.m3u.cl/logo/969_Onda_Digital_TV.png", Onda Digital TV | PE
+https://v4.tustreaming.cl:443/ondadigitaltv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="978" tvg-name="DMJ" tvg-logo="https://cdn.m3u.cl/logo/978_DMJ.png", DMJ | PE
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 15:44  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin 1" tvg-name="Shingeki no Kyojin 1" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no kyojin1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_2ec3e1a404694e8693e7999f25613ad8/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin 2" tvg-name="Shingeki no Kyojin 2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin 2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_e960ac540ea1469da6ee60a68ae764cc/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin 3" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_92c5f86a78b34ea0b0440fef3efacdf4/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin 4" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_c792bbb5fd7e4bcb8b3b5fb91bc4dda7/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin 5" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_a0c43146d844467e8e4ef13c8af849a8/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin 6" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_4b7a216c1f914268957b8c205b34351f/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin 7" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_108660926d3544aa8f99b994bd56e3ba/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin8 " tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_cf02050272ce4cc1b600a08de243c7db/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin9" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_174fad9bc77e4c26a7fa74dd92400907/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin10" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_ef265e7eadd34234b892e3096564f0d6/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin11" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_c21b8ba08bd6472a8a92f7910ee9dad5/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin12" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_03b1c75a70af402da159be284c6f439a/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin13" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_cf74afc7d7864c51a4001308bc061b0c/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin14" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_634c573f19204db3bffe2063393bd92f/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin15" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_40a1a86c242545f0b3f4aa587348d4f3/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin16" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_8631862ce3db48eea8559944a908866f/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin17" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_4fbd764f324d4778b6b285f922e49481/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin18" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_471d21d38f76461593fbb7786ffb1327/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin19" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_0a0596388c934e91b53691027fad0f90/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin20" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_c5758aac55114cf58c3ddb3e2e8e757d/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin21" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_5178b5814a67495aa931362f079f0ae5/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin22" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_b4f95de8dd6b4faab21797f0544c3a6f/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin23" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_64308c0cf38249cc89e439e2768c482a/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin24" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_12c2c63728d44d11b326aa4a0ea55fd5/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin25" tvg-name="Shingeki no Kyojin" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_1a872c05768d46c9888403d8fdb90225/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin1" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_573ecfcf378c4c268a5783324cc42c22/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin2" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_bea9f96586de49d181806a49832197f4/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin3" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_cdc48b5961e34647a0426bfdfa2821c2/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin4" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_a9aa1b9cc1404ae48aeed6ee23af6d2f/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin5" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_62f786f6a28d4d5299a083b26c04bab3/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin6" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_27321627e08044d488361e2b188125ec/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin7" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_4b20b8efd2ff4dc58db8226a92757895/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin8" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_51b315d66f2f48648a8f912088e987b7/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin9" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_609d3934fa25434fa5fb457c75fc85f6/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin10" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_6534102642fa44a8881ce2d6c44065f6/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin11" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_c237d78e7e96472e81f0068f108ab5b4/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin12" tvg-name="Shingeki no Kyojin t2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_a0ca1c2b72c54b5f90a2963a0f5e2919/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin1" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_259c29b3549f4bbfb9824d9183f78aed/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin2" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_e1fac2e7d9d0430a984cfbb6e565cd1c/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin3" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_cfae420f889045e79744ca5ef7403339/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin4" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_987ba28e83b547aa8c098e23fe6127d0/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin5" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_0c2122dad8df4c06ab64623d8c6d421f/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin6" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_04868ed6bc9940019a45d650bf5e19e4/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin7" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_a2c4b43616344d689dc1be31377e1921/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin8" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_7476563477f542ceb9d76a0eab37b239/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin9" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_027c7bd48f0e41eca69c8677391a5422/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin10" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_58c0408ab00542d69a7d17ca26766491/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin11" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_7ac2e0252a944047abaf14a7606b739a/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin12" tvg-name="Shingeki no Kyojin t3" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_daa283d5e58a4d588af63d1935c2193d/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin1" tvg-name="Shingeki no Kyojin t3p2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3p2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_fd066106f4334f23bceeb8d947913b64/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin2" tvg-name="Shingeki no Kyojin t3p2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3p2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_949da032e9b6440e94eca6f87f62f8f9/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin3" tvg-name="Shingeki no Kyojin t3p2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3p2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_95b7ee76cba64a28bec81046f1747847/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin4" tvg-name="Shingeki no Kyojin t3p2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3p2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_bd1fe02f6a2b4adfb935944f629032e3/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin5" tvg-name="Shingeki no Kyojin t3p2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3p2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_15d9b19c50904084a2a568fb6572bf01/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin6" tvg-name="Shingeki no Kyojin t3p2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3p2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_58a802fa194a498dbb369ad8f3da2229/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin7" tvg-name="Shingeki no Kyojin t3p2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3p2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_b3c6df3a9f984391a940ea4e515ad294/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin8" tvg-name="Shingeki no Kyojin t3p2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3p2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_ac5bef27ca9d4f13b564f1e6e86de5ac/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin9" tvg-name="Shingeki no Kyojin t3p2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3p2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_d30b4c79cdc0414798b58655161c8486/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Shingeki no Kyojin10" tvg-name="Shingeki no Kyojin t3p2" tvg-logo="https://i.pinimg.com/originals/57/2a/f2/572af2fdb5c4ae0936c9b0894efc1867.png" group-title="Shingeki no Kyojin t3p2",Shingeki no Kyojin
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_329a8d224d8f4f419cc38b912a3c1585/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia1" tvg-name="Boku No Hero Academia1" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_77585b9d9b2643db83e8876b0503e283/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia2" tvg-name="Boku No Hero Academia2" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_018931eccb4842279f3a9728bdb4151a/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia3" tvg-name="Boku No Hero Academia3" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_025158c704504285ba6f1c73de0594cd/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia4" tvg-name="Boku No Hero Academia4" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_8a8875cd0c95427a9ee362996cf9d6f3/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia5" tvg-name="Boku No Hero Academia5" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_76d966eb1ec748549398637a67faf64f/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia6" tvg-name="Boku No Hero Academia6" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_f568108a47e24ec9a4c716e6de04efdd/480p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia7" tvg-name="Boku No Hero Academia7" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_80bbd8e7b392421ead1a716317339b1d/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia8" tvg-name="Boku No Hero Academia8" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_4b0323a7c9e64b1989c18a84115771fe/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia9" tvg-name="Boku No Hero Academia9" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_7ea87cbb03904c0bb94ba96c338da784/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia10" tvg-name="Boku No Hero Academia10" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_a3674e994a6249c28a4a8e24f253e0ba/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia11" tvg-name="Boku No Hero Academia11" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_56a8e257503c448189ef057161e49290/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia12" tvg-name="Boku No Hero Academia12" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_c6e9364033ab44e098252f84719672e6/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia13" tvg-name="Boku No Hero Academia13" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_2829fc36df884ed99c305d2061c62e2f/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia14" tvg-name="Boku No Hero Academia14" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t1
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_5a7fff419aa54931afdb736b0949c112/360p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia00" tvg-name="Boku No Hero Academia00" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_fb0331d989624765a6d4f2fd785c54b9/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Acadmia1" tvg-name="Boku No Hero Academia1" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_667bb970ed194ac99d68ba6c973b280c/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia2" tvg-name="Boku No Hero Academia2" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_8ba992eab45943949d1b0371cb20a55b/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia3" tvg-name="Boku No Hero Academia3" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academiat2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_33f645280af34ffdb933b1a6b3fc393c/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia4" tvg-name="Boku No Hero Academia4" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_1176f7827ef947eb8e0b0ff5c7af782e/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia5" tvg-name="Boku No Hero Academia5" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_9c2dc071289d483db49fdfa46dc628f7/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia6" tvg-name="Boku No Hero Academia6" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_329a068f50f4452bb8cfa276ead918f4/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia7" tvg-name="Boku No Hero Academia7" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_2fcaaa08d3ce45af905800a26b954a93/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia8" tvg-name="Boku No Hero Academia8" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_c69969d8eb064a0199cbc3a8f034bd57/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia9" tvg-name="Boku No Hero Academia9" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_ef49c6f96567467fbf127bedf89d9ccc/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia10" tvg-name="Boku No Hero Academia10" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_ad14be683cd34663803186c1d2a89aea/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia11" tvg-name="Boku No Hero Academia11" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_1e5f8af360be448fb9b7a49f99116dcd/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia12" tvg-name="Boku No Hero Academia12" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_c29c759a9e7f4ca4ad96fbb66affab24/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia13" tvg-name="Boku No Hero Academia13" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_9d3f5f50d58548999cce6a9f60082f87/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia14" tvg-name="Boku No Hero Academia14" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_ce53c87bef4a4deb96ee0f85dcdaa614/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia15" tvg-name="Boku No Hero Academia15" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_a263c2418d994fceaf39adc49bc64b1d/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia16" tvg-name="Boku No Hero Academia16" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_10de3739d2b64c25a9723c9b83eb8172/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia17" tvg-name="Boku No Hero Academia17" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_0e7e3f94603347569cbbe8cdc31fcf84/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia18" tvg-name="Boku No Hero Academia18" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_8b37e2e7607e42ebb6e7c14eb7879d5b/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia19" tvg-name="Boku No Hero Academia19" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_0cdfa7c5d5754a79a315ebacecc6bd3c/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia20" tvg-name="Boku No Hero Academia20" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_1500a05060f74bd6b4f2680e598a8fc8/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia21" tvg-name="Boku No Hero Academia21" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_c7cbd76a6b2f48878375b4659084c458/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia22" tvg-name="Boku No Hero Academia22" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_8c8d6ee1f7d047e1bfdf2a2c825b6154/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia23" tvg-name="Boku No Hero Academia23" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_93f166de4c5146fb90c8f0b5e305b192/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia24" tvg-name="Boku No Hero Academia24" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_ac6a7b7b054446728f74d6d40237a2dc/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Boku No Hero Academia25" tvg-name="Boku No Hero Academia25" tvg-logo="https://sm.ign.com/ign_br/tv/m/my-hero-ac/my-hero-academia_f9ae.jpg" group-title="Boku No Hero Academia",Boku No Hero Academia t2
+https://repackager.wixmp.com/video.wixstatic.com/video/02bd13_cc8d53430a3c40cdb5b79df8806f0719/1080p/mp4/file.mp4/index-v1-a1.m3u8  # Fecha: 2025-10-11 19:10

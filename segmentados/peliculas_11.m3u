@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-logo="https://i.imgur.com/HwsNIDK.png" group-title="Movies",Viasat Kino Action (576p)
+http://89.254.128.5:22280/viasat_kino_action/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="VictorValleyTV.us" tvg-logo="https://i.imgur.com/zgiuNNj.png" group-title="Movies",Victor Valley Movies (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.imgur.com/3MWm9nD.png" group-title="Movies",Vijay Super HD (1080p)
+https://live.dinesh29.com.np/stream/jiotvplus/vijaysuperhd/master.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WBTV At the Movies [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-at-the-movies/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WBTV Classic Cinema [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-classic-cinema/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WBTV HBO Boxing (1080p) [Geo-blocked]
+https://livetv-fa.tubi.video/wbd-hbo-boxing/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="WildSideTV.fr" tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="Movies",Wild Side TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4d6c806ad2a00073b3108/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c0-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d329ef28-8c5a-4451-bc8a-ab7d7083f320  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="YanbianCineseComprehensiveChannel.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/ybtv2.jpg" group-title="General",Yanbian Cinese Comprehensive Channel
+https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="YoganadamNews.in" tvg-logo="https://i.imgur.com/y3UoKhx.png" group-title="News",Yoganadam News (720p)
+https://yoganadam.cinesoftcdn.com/yoganadam/live/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Yoshlar.uz" tvg-logo="https://i.imgur.com/s4xfUSx.png" group-title="General",Yoshlar (1080p)
+https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood [Geo-blocked]
+https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ZBCinema.in" tvg-logo="https://i.imgur.com/kUg6WSk.jpeg" group-title="Classic;Movies",ZB Cinema (720p)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-logo="https://i.imgur.com/ZxknutA.png" group-title="Movies",Zee Aflam (576p)
+http://213.57.91.138:8000/play/a05s  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ZeeBollymovies.za@SD" tvg-logo="https://i.imgur.com/rbWA6ph.png" group-title="Movies",Zee Bollymovies (1080p)
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ZeeCinema.in@SD" tvg-logo="https://i.imgur.com/uYjCv5p.png" group-title="Movies",Zee Cinema (1080p) [Geo-blocked]
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ZorTV.uz" tvg-logo="https://i.imgur.com/NuzyhVM.png" group-title="Entertainment;Music",Zo'r TV (576p)
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zylo Cine Friki (1080p)
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zylo Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zylo Cine Western (1080p) [Geo-blocked]
+https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zylo Ciné Western
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Detskoekino.ru@International" tvg-logo="https://i.imgur.com/dJqFRhQ.png" group-title="Movies",Детское кино International [Not 24/7]
+https://autopilot.catcast.tv/content/38720/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Movies",Дом Кино
+https://streaming.thestream.cyou/live/44.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="Movies",Дом Кино Премиум HD
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Evrokino.ru@SD" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="Movies",Еврокино
+http://31.148.48.15/Evrokino/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="IllusionPlus.ru@SD" tvg-logo="https://i.imgur.com/9GvuHQ5.png" group-title="Movies",Иллюзион+
+http://31.148.48.15/Illusion_plus/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Kineko.ru" tvg-logo="https://i.imgur.com/Otfvlmf.png" group-title="Movies",Кинеко
+http://194.143.148.28:8080/KINEKO/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Kino1.ru@International" tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="Movies",Кино 1 International [Not 24/7]
+http://kino-1.catcast.tv/content/38617/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="Movies",Кинопоказ
+http://31.148.48.15/Kinopokaz/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="Movies",КИНОТВ
+https://vod.tuva.ru/kinotv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="LyubimoeIndijskoeKino.ru" tvg-logo="https://i.imgur.com/hVptFue.png" group-title="Movies",Любимое Индийское Кино [Not 24/7]
+https://v2.catcast.tv/content/41596/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="MalderMegahit.ru" tvg-logo="https://i.imgur.com/Ow2Pawt.png" group-title="Movies",Малдер Мегахит [Not 24/7]
+https://v2.catcast.tv/content/47689/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Patriot.ru@SD" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" group-title="Movies",Патриот (576i)
+http://catchup.videoline.ru/asvtv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" group-title="Movies",Русский Бестселлер
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Movies",Русский роман
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CityEdenKinoAsia.ru" tvg-logo="https://i.imgur.com/gaket4B.png" group-title="Movies",Сити Эдем КиноАзия [Not 24/7]
+https://cityeden.catcast.tv/content/34393/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CityEdenKinoArt.ru" tvg-logo="https://i.imgur.com/67CWCtz.png" group-title="Movies",Сити Эдем КиноАрт [Not 24/7]
+https://cityeden.catcast.tv/content/38398/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru" tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="Movies",Сити Эдем КиноДетектив [Not 24/7]
+https://cityeden.catcast.tv/content/41327/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CityEdenKinoDrama.ru" tvg-logo="https://i.imgur.com/29ddffh.png" group-title="Movies",Сити Эдем КиноДрама [Not 24/7]
+https://cityeden.catcast.tv/content/45269/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CityEdenKinoKlassika.ru" tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="Movies",Сити Эдем КиноКлассика [Not 24/7]
+https://cityeden.catcast.tv/content/34185/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CityEdenKinoKomediya.ru" tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="Movies",Сити Эдем КиноКомедия [Not 24/7]
+https://cityeden.catcast.tv/content/41331/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CityEdenKinoMistika.ru" tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="Movies",Сити Эдем КиноМистика [Not 24/7]
+https://cityeden.catcast.tv/content/40783/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CityEdenKinoSemya.ru" tvg-logo="https://i.imgur.com/YoWOZMx.png" group-title="Movies",Сити Эдем КиноСемья [Not 24/7]
+https://v2.catcast.tv/content/38128/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru" tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="Movies",Сити Эдем КиноФантастика [Not 24/7]
+https://cityeden.catcast.tv/content/45268/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CityEdenKinoAction.ru" tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="Movies",Сити Эдем КиноЭкшен [Not 24/7]
+https://cityeden.catcast.tv/content/41333/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="Movies",Феникс плюс Кино
+http://31.148.48.15/Feniks_plus_kino/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="JiangsuMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jsys.jpg" group-title="Movies",江苏影视 (576p)
+http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8  # Fecha: 2025-10-11 19:10

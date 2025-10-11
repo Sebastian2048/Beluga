@@ -1,81 +1,599 @@
 #EXTM3U
+#EXTINF:-1,Al Jazeera (1080p) ✅
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Al Jazeera Documentary (1080p) [Geo-blocked] ✅
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Al Jazeera Mubasher (1080p) ✅
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Al Jazeera Mubasher 24 (1080p) ✅
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Al Jazeera Mubasher Broadcast 2 (1080p) ✅
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,BBC World ✅
-http://181.78.201.70:8000/play/a0se/index.m3u8  # Fecha: 2025-10-11 16:23
+http://181.78.201.70:8000/play/a0se/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,CGTN Arabic (1080p) [Not 24/7] ✅
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,CGTN Español (1080p) ✅
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,CGTN ESPAÑOL - Opción 2 ✅
+http://181.119.85.222:8000/play/a01p/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN Chile ✅
-http://179.51.136.19:8000/play/a1if/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1if/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN Chile - Opción 2 ✅
-http://179.51.136.19:8000/play/a1if/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1if/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN Espanol ✅
-http://181.78.23.26:45000/play/a00i  # Fecha: 2025-10-11 16:23
+http://181.78.23.26:45000/play/a00i  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN Espaæol ✅
-http://179.51.136.19:8000/play/a1fq/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1fq/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN Espaæol - Opción 2 ✅
-http://179.51.136.19:8000/play/a1fq/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1fq/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN Español ✅
-http://45.176.71.20:1689/play/a0mk  # Fecha: 2025-10-11 16:23
+http://45.176.71.20:1689/play/a0mk  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN Español - Opción 2 ✅
-http://45.176.71.20:1689/play/a0mk  # Fecha: 2025-10-11 16:23
+http://45.176.71.20:1689/play/a0mk  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN Internacional ✅
-http://179.51.136.19:8000/play/a0z7/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a0z7/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN Internacional - Opción 2 ✅
-http://179.51.136.19:8000/play/a0z7/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a0z7/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN International ✅
-http://179.51.136.19:8000/play/a1ff/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1ff/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNN International - Opción 2 ✅
-http://181.78.201.70:8000/play/a0gz/index.m3u8  # Fecha: 2025-10-11 16:23
+http://181.78.201.70:8000/play/a0gz/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNNE ✅
-http://179.51.136.19:8000/play/a0ur/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a0ur/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,CNNE - Opción 2 ✅
-http://179.51.136.19:8000/play/a1av/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1av/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,CTNI ✅
+https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,CTNI - Opción 2 ✅
+https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,EWTN ✅
+http://179.51.136.19:8000/play/a0uv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,EWTN - Opción 2 ✅
+http://179.51.136.19:8000/play/a0uv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,EWTN Africa Asia (720p) ✅
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,EWTN en Español DASH ✅
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,NN CNN Espanol ✅
-http://45.176.193.222:2405/play/a019  # Fecha: 2025-10-11 16:23
+http://45.176.193.222:2405/play/a019  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,NoticiaUnivisión 24/7 ✅
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,57 (USA) (🇺🇸)
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8  # Fecha: 2025-10-11 16:23
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,NTN 24 Horas ✅
+http://179.51.136.19:8000/play/a1gs/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,NTN 24 Horas - Opción 2 ✅
+http://179.51.136.19:8000/play/a1gs/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1072" tvg-name="Somos La Pampa" tvg-logo="https://cdn.m3u.cl/logo/1072_Somos_La_Pampa.png", Somos La Pampa | AR
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" tvg-logo="https://cdn.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias | AR
+https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://cdn.m3u.cl/logo/449_Meganoticias.png", Meganoticias ✪ | CL
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://cdn.m3u.cl/logo/415_Puranoticia.png", Puranoticia | CL
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Atacama Noticias TV | CL
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1404" tvg-name="Canal Noticias Colchagua" tvg-logo="https://cdn.m3u.cl/logo/1404_Canal_Noticias_Colchagua.png", Canal Noticias Colchagua | CL
+https://oracle.streaminghd.cl/cncmedia/cncmedia/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1391" tvg-name="En la Noticia" tvg-logo="https://cdn.m3u.cl/logo/1391_En_la_Noticia.png", En la Noticia | CL
+https://cloud2.streaminglivehd.com:1936/8036/8036/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="168" tvg-name="TNE" tvg-logo="https://cdn.m3u.cl/logo/168_TNE.png", TNE | CL
+https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Cronica (L)" tvg-logo="http://23.153.216.121:25461/images/0fc9726ca1e94b5a0584a327c3cd2c45.png" group-title="ARGENTINA",ARG-Cronica (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TN (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/928fdd8c0b300176e794fe09087f6a83.png" group-title="ARGENTINA",ARG-TN (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-TN23 (TV)(SD)" tvg-logo="http://23.153.216.121:25461/images/79f16a96b22999021e2bcdf94b963ca7.png" group-title="GUATEMALA",GUA-TN23 (TV)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="COL-Cable Noticias (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" group-title="COLOMBIA",COL-Cable Noticias (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-TNU (L)(720)" tvg-logo="https://1.bp.blogspot.com/-NKmQf3VC8hQ/X2phUrR98kI/AAAAAAAABcA/rUxcUZUAw6MmBKTlMjhRY-_HgYdMqm5CQCLcBGAsYHQ/w200-h200/24Tnu.png" group-title="URUGUAY",URU-TNU (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CNN CL (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png" group-title="CHILE",CHI-CNN CL (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CNN CL (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png" group-title="CHILE",CHI-CNN CL (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Puranoticia TV (W)(720)" tvg-logo="https://i.imgur.com/NklUi6Y.png" group-title="CHILE [GEO BLOQUEO]",Puranoticia TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Meganoticias (W)(720) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/512px-Meganoticias2019.png" group-title="CHILE [GEO BLOQUEO]",Meganoticias (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-BBC World News (M)(720)" tvg-logo="https://1.bp.blogspot.com/-X4Twi3pHIRM/Xm5XtyganmI/AAAAAAAABbk/6byY3ZUAXUYkg6WVzsqg_MjZY5x5Bg-2gCLcBGAsYHQ/s200/5.png" group-title="CANALES-NOTICIA",NOT-BBC World News (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-CNN en Español (M)(1080)" tvg-logo="" group-title="CANALES-NOTICIA",NOT-CNN en Español (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-CNN en Español (M)(720)" tvg-logo="https://1.bp.blogspot.com/-nmME0jZ5xn4/Xm5XuuyNAAI/AAAAAAAABb0/3LTprvv_5jgsQmQEwdrJyUUf4OUSww6dgCLcBGAsYHQ/s200/9.png" group-title="CANALES-NOTICIA",NOT-CNN en Español (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-CNN USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png" group-title="CANALES-NOTICIA",NOT-CNN USA (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DW.Deutsch+.(DW.D+).us" tvg-name="NOT-DW (M)(720)" tvg-logo="https://1.bp.blogspot.com/-bIt6cFjY83E/Xm5Xt7QIQ7I/AAAAAAAABbo/BWlM_fR5IjQpd6KNZ6uikhy5f1fxQ-YOwCLcBGAsYHQ/s200/6.png" group-title="CANALES-NOTICIA",NOT-DW (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-NTN 24 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Qgr-jgmFI2s/Xm5XuXmxYBI/AAAAAAAABbw/eURPOer17pQMJS7tAF8uLXtT-eISGwzCgCLcBGAsYHQ/s200/8.png" group-title="CANALES-NOTICIA",NOT-NTN 24 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-NTN24 (T)(SD)" tvg-logo="https://1.bp.blogspot.com/-Qgr-jgmFI2s/Xm5XuXmxYBI/AAAAAAAABbw/eURPOer17pQMJS7tAF8uLXtT-eISGwzCgCLcBGAsYHQ/s200/8.png" group-title="CANALES-NOTICIA",NOT-NTN24 (T)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-TeleSur (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-V6VZz0bxIyo/Xm5XsrahTDI/AAAAAAAABbc/lFiMo51Z7FkqF5mr4SmzbPAmlke1LaEZgCLcBGAsYHQ/s200/3.png" group-title="CANALES-NOTICIA",NOT-TeleSur (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-Wobi (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4/Xm5XtoL93eI/AAAAAAAABbg/bLy9q5_WDL0ZhmIHVBYI1uNZ0uvNFuUWACLcBGAsYHQ/s200/4.png" group-title="CANALES-NOTICIA",NOT-Wobi (TV)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-TNI Canal51 (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-TNI Canal51 (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Band News (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Band News (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Globo News (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Globo News (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Record NEWS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Record NEWS (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAR-NEXTV (T)(720)" tvg-logo="aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay" group-title="PARAGUAY",PAR-NEXTV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAR-Noticias (T)(720)" tvg-logo="aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay" group-title="PARAGUAY",PAR-Noticias (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-C5N (M)(720)" tvg-logo="http://23.153.216.121:25461/images/c32ded367063b757ed2e068bc778029f.png" group-title="ARGENTINA",ARG-C5N (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TN (T)(720)" tvg-logo="http://23.153.216.121:25461/images/928fdd8c0b300176e794fe09087f6a83.png" group-title="ARGENTINA",ARG-TN (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CNN (T)(720)" tvg-logo="/-6cMbmCAuEfs/YgalevTEnZI/AAAAAAAADSQ/9fHthQLT4Ko1PvayUBuqnMWJ2P2XqaAbgCNcBGAsYHQ/s1600/1644602745198676-14.png" group-title="CHILE",CHI-CNN (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="COL-NTN24 (Z)(720)" tvg-logo="https://i.postimg.cc/CMf8xMW6/COL-NTN24.png" group-title="COLOMBIA",COL-NTN24 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="COL-Cable Noticias (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" group-title="COLOMBIA",COL-Cable Noticias (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias (W)(1080)" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="COLOMBIA (LOCAL)",Cablenoticias (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN el Canal Católico (W)(720) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="COLOMBIA (LOCAL)",EWTN el Canal Católico (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BTN TV (1080p)" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="CANALES-RELIGIOSOS",BTN TV (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBN News National (1080p)" tvg-logo="https://i.imgur.com/gG2SWgG.png" group-title="CANALES-RELIGIOSOS",CBN News National (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CCTN 47 (1080p)" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="CANALES-RELIGIOSOS",CCTN 47 (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN Canada (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="CANALES-RELIGIOSOS",EWTN Canada (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN Estados Unidos (Spanish) (720p)" tvg-logo="https://i.imgur.com/LClbpzD.jpg" group-title="CANALES-RELIGIOSOS",EWTN Estados Unidos (Spanish) (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN | US" tvg-logo="https://cdn.m3u.cl/logo/873_EWTN.jpg" group-title="CANALES-RELIGIOSOS",EWTN | US  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="TNE | CL" tvg-logo="https://cdn.m3u.cl/logo/168_TNE.png" group-title="CANALES-RELIGIOSOS",TNE | CL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Estrella News" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO-LOCAL",MEX-Estrella News  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-AMX Noticias (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="MEXICO-LOCAL",MEX-AMX Noticias (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-CGTN Español (W)(1080)" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="MEXICO-LOCAL",MEX-CGTN Español (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Estrella News (W)(1080)" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO-LOCAL",MEX-Estrella News (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Fox News (T)(720)" tvg-logo="https://docdog.top/logo/countries/usa/foxnews.png" group-title="ESPAÑA",ESP - Fox News (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-CNN  HD (L)" tvg-logo="http://live.detodotvplay.com:8080/images/9aecccf3b71b078328364882ab2820a1.png" group-title="CANADA PREMIUM",CAN-CNN  HD (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC Northdakota (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",USA-ABC Northdakota (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ABC West Virginia (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",ABC West Virginia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBS Newjersey (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",CBS Newjersey (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBS Utah (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",CBS Utah (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBS Vermont (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",CBS Vermont (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Colorado (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Colorado (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Minnesota (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Minnesota (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Northcarolina (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Northcarolina (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Ohio (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Ohio (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Oklahoma (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Oklahoma (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Pennsylvania (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Pennsylvania (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX South Carolina (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX South Carolina (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX NEWS (L)(720)" tvg-logo="https://logos.xbots.com.mx/41086.png" group-title="USA-NEWS/MISC",LAT | FOX NEWS (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-6 ABC Philadelphia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/1200px-WPVI-TV_logos.svg.png" group-title="USA-NEWS/MISC",USA-6 ABC Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 10 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC 10 San Diego (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 10 | Sacramento (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/bafac894e239e2054da5c168e5eb1966.png" group-title="USA-NEWS/MISC",USA-ABC 10 | Sacramento (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 13 |  Houston (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",USA-ABC 13 |  Houston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 15 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC 15 Phoenix (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 7 California Los Angeles (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",USA-ABC 7 California Los Angeles (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 7 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC 7 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 7 | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/WABC-TV_logo.svg/1200px-WABC-TV_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC 7 | New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC KTUL Tulsa (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KTUL_logo.svg/1200px-KTUL_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC KTUL Tulsa (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC Las Vegas | KTNV (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/ddd26d4d75cfe6a60b70f3e7765b6fa1.png" group-title="USA-NEWS/MISC",USA-ABC Las Vegas | KTNV (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC LOCAL 10 Miami (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="USA-NEWS/MISC",USA-ABC LOCAL 10 Miami (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC News 5 | Cleveland (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC News 5 | Cleveland (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WFTV 9 | Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC WFTV 9 | Orlando (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WKRN | Tennessee (L)(720)" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/2/25/Wkrnnews2-color_sponsor500.png" group-title="USA-NEWS/MISC",USA-ABC WKRN | Tennessee (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WMUR | Boston (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/WMUR-TV_logo.svg/1200px-WMUR-TV_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC WMUR | Boston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WSB 2 Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC WSB 2 Atlanta (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WSOC 9 Charlotte (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/WSOC-TV_logo.svg/1200px-WSOC-TV_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC WSOC 9 Charlotte (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS  | Wisconsin (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/WISC-TV_2019_Logo.svg/1200px-WISC-TV_2019_Logo.svg.png" group-title="USA-NEWS/MISC",USA-CBS  | Wisconsin (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 10TV | Columbus (L)(720)" tvg-logo="https://www.logolynx.com/images/logolynx/65/65abf86f0841a218dbea90ec8defe2fd.png" group-title="USA-NEWS/MISC",USA-CBS 10TV | Columbus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 13 Sacramento (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 13 Sacramento (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 2 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 2 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 2 | California Los Angeles (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/250c51527f347066847969f002be67a2.png" group-title="USA-NEWS/MISC",USA-CBS 2 | California Los Angeles (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 3 | Philadelphia (L)(720)" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/10/CBS_3_News_Philly_logo.png" group-title="USA-NEWS/MISC",USA-CBS 3 | Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 4 Miami (L)(720)" tvg-logo="https://www.pinclipart.com/picdir/middle/112-1120115_cbs4-logos-cbs-4-clipart.png" group-title="USA-NEWS/MISC",USA-CBS 4 Miami (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 4 | Indiana (L)(720)" tvg-logo="https://cbs4indy.com/wp-content/uploads/sites/22/2017/03/cropped-cbs4512.png" group-title="USA-NEWS/MISC",USA-CBS 4 | Indiana (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 46 Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 46 Atlanta (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 47 Fresno (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/0e79797c5b2740eb6001ea4896b77b13.png" group-title="USA-NEWS/MISC",USA-CBS 47 Fresno (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 5 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 5 Phoenix (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 5 | Arizona (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/KPHO_2019_Logo.svg/1200px-KPHO_2019_Logo.svg.png" group-title="USA-NEWS/MISC",USA-CBS 5 | Arizona (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 8 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 8 San Diego (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS Cleveland 19 (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS Cleveland 19 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KEYE | Austin (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/KEYE_CBS_Austin_logo.png" group-title="USA-NEWS/MISC",USA-CBS KEYE | Austin (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KHOU 11 | Houston (L)(720)" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2021/04/KHOU-11-Logo.png" group-title="USA-NEWS/MISC",USA-CBS KHOU 11 | Houston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KKTV 11 | Colorado (L)(720)" tvg-logo="https://coloradosprings.gov/sites/default/files/styles/large/public/inline-images/kktv11news.png" group-title="USA-NEWS/MISC",USA-CBS KKTV 11 | Colorado (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KRCG 13 | Columbia (L)(720)" tvg-logo="https://www.vhv.rs/dpng/d/481-4810844_planned-parenthood-demonstration-at-state-capitol-in-krcg.png" group-title="USA-NEWS/MISC",USA-CBS KRCG 13 | Columbia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS Las Vegas | KLAS (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/KLAS-TV_8_logo.png" group-title="USA-NEWS/MISC",USA-CBS Las Vegas | KLAS (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS News | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="USA-NEWS/MISC",USA-CBS News | New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS News 6 | Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS News 6 | Orlando (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS Tennessee | WTVF (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",USA-CBS Tennessee | WTVF (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WBTV | Charlotte (L)(720)" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gray/AERISHLTVVE77I4IUP2N3DCPSY.png" group-title="USA-NEWS/MISC",USA-CBS WBTV | Charlotte (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WBZ 4 | Boston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/b876c2d245c6fd06581247cc21f0ebcc.png" group-title="USA-NEWS/MISC",USA-CBS WBZ 4 | Boston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WTAJ | Pennsylvania (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/WTAJ10.png" group-title="USA-NEWS/MISC",USA-CBS WTAJ | Pennsylvania (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WTOC 11 | Georgia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/WTOC-TV_11_logo.svg/1200px-WTOC-TV_11_logo.svg.png" group-title="USA-NEWS/MISC",USA-CBS WTOC 11 | Georgia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CNBC (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="USA-NEWS/MISC",USA-CNBC (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CW Nashville (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/WZTV-DT2_Logo.png" group-title="USA-NEWS/MISC",USA-CW Nashville (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Florida Pensacola (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA-NEWS/MISC",USA-Florida Pensacola (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Fox 23 Tulsa (L)(720)" tvg-logo="https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/pf/resources/images/sites/cmg-tv-10100/station-logo.png" group-title="USA-NEWS/MISC",USA-Fox 23 Tulsa (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 25 | Boston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/2af90b9c0c1d3e6b147d6c03502a8d2f.png" group-title="USA-NEWS/MISC",USA-FOX 25 | Boston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Fox 26 Fresno (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LOGO_KMPH_FOX26_solid_calls_blu.png/1200px-LOGO_KMPH_FOX26_solid_calls_blu.png" group-title="USA-NEWS/MISC",USA-Fox 26 Fresno (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 26 Houston  (L)(720)" tvg-logo="https://paul-daugherty.com/wp-content/uploads/2018/04/Fox-26-Houston.png" group-title="USA-NEWS/MISC",USA-FOX 26 Houston  (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 28 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/WTTE_logo_2021.png" group-title="USA-NEWS/MISC",USA-FOX 28 Columbus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 29 Philadelphia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/1200px-Fts-philadelphia-a.svg.png" group-title="USA-NEWS/MISC",USA-FOX 29 Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 32 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="USA-NEWS/MISC",USA-FOX 32 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 35 Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="USA-NEWS/MISC",USA-FOX 35 Orlando (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 5 | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-York-a.svg/1200px-Fts-new-York-a.svg.png" group-title="USA-NEWS/MISC",USA-FOX 5 | New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX Business Network (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" group-title="USA-NEWS/MISC",USA-FOX Business Network (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 10 Philadelphia (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c3c95cf21f4bb1fc7394586f36fa0cf8.png" group-title="USA-NEWS/MISC",USA-NBC 10 Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 11 Alive Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 11 Alive Atlanta (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 12 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 12 Phoenix (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 4 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/WCMH-TV_logo.png" group-title="USA-NEWS/MISC",USA-NBC 4 Columbus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 4 WSMV | Tennessee (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" group-title="USA-NEWS/MISC",USA-NBC 4 WSMV | Tennessee (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 5 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 5 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 7 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 7 San Diego (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC California Los Angeles 4 (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA-NEWS/MISC",USA-NBC California Los Angeles 4 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX Indiana (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",USA-FOX Indiana (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX WSVN 7 Miami (L)(720)" tvg-logo="https://en-academic.com/pictures/enwiki/87/WSVN.png" group-title="USA-NEWS/MISC",USA-FOX WSVN 7 Miami (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/ed930db01b900eeda7d89cbdc22c2d4f.png" group-title="USA-NEWS/MISC",USA-MSG (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png" group-title="USA-NEWS/MISC",USA-MSG Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus 2 (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png" group-title="USA-NEWS/MISC",USA-MSG Plus 2 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus 3 (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png" group-title="USA-NEWS/MISC",USA-MSG Plus 3 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSNBC (L)(720)" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/2/14/MSNBC-Logo-FullColor-360x300.png" group-title="USA-NEWS/MISC",USA-MSNBC (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Florida Miami 6 (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA-NEWS/MISC",USA-NBC Florida Miami 6 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC KSNV Las Vegas (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="USA-NEWS/MISC",USA-NBC KSNV Las Vegas (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="USA-NEWS/MISC",USA-NBC New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Universo (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Universo_LOGO_color_black.png" group-title="USA-NEWS/MISC",USA-NBC Universo (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-BTN (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/283a75430d83f33d6cab46e044b91cf6.png" group-title="USA-ENTERTAINMENT",USA-BTN (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-CNN (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-CNN (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Cronica (L)" tvg-logo="http://23.153.216.121:25461/images/0fc9726ca1e94b5a0584a327c3cd2c45.png" group-title="ARGENTINA",ARG-Cronica (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TN (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/928fdd8c0b300176e794fe09087f6a83.png" group-title="ARGENTINA",ARG-TN (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-TN23 (TV)(SD)" tvg-logo="http://23.153.216.121:25461/images/79f16a96b22999021e2bcdf94b963ca7.png" group-title="GUATEMALA",GUA-TN23 (TV)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="COL-Cable Noticias (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" group-title="COLOMBIA",COL-Cable Noticias (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-TNU (L)(720)" tvg-logo="https://1.bp.blogspot.com/-NKmQf3VC8hQ/X2phUrR98kI/AAAAAAAABcA/rUxcUZUAw6MmBKTlMjhRY-_HgYdMqm5CQCLcBGAsYHQ/w200-h200/24Tnu.png" group-title="URUGUAY",URU-TNU (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CNN CL (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png" group-title="CHILE",CHI-CNN CL (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CNN CL (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png" group-title="CHILE",CHI-CNN CL (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Puranoticia TV (W)(720)" tvg-logo="https://i.imgur.com/NklUi6Y.png" group-title="CHILE [GEO BLOQUEO]",Puranoticia TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Meganoticias (W)(720) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/512px-Meganoticias2019.png" group-title="CHILE [GEO BLOQUEO]",Meganoticias (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-BBC World News (M)(720)" tvg-logo="https://1.bp.blogspot.com/-X4Twi3pHIRM/Xm5XtyganmI/AAAAAAAABbk/6byY3ZUAXUYkg6WVzsqg_MjZY5x5Bg-2gCLcBGAsYHQ/s200/5.png" group-title="CANALES-NOTICIA",NOT-BBC World News (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-CNN en Español (M)(1080)" tvg-logo="" group-title="CANALES-NOTICIA",NOT-CNN en Español (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-CNN en Español (M)(720)" tvg-logo="https://1.bp.blogspot.com/-nmME0jZ5xn4/Xm5XuuyNAAI/AAAAAAAABb0/3LTprvv_5jgsQmQEwdrJyUUf4OUSww6dgCLcBGAsYHQ/s200/9.png" group-title="CANALES-NOTICIA",NOT-CNN en Español (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-CNN USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png" group-title="CANALES-NOTICIA",NOT-CNN USA (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DW.Deutsch+.(DW.D+).us" tvg-name="NOT-DW (M)(720)" tvg-logo="https://1.bp.blogspot.com/-bIt6cFjY83E/Xm5Xt7QIQ7I/AAAAAAAABbo/BWlM_fR5IjQpd6KNZ6uikhy5f1fxQ-YOwCLcBGAsYHQ/s200/6.png" group-title="CANALES-NOTICIA",NOT-DW (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-NTN 24 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Qgr-jgmFI2s/Xm5XuXmxYBI/AAAAAAAABbw/eURPOer17pQMJS7tAF8uLXtT-eISGwzCgCLcBGAsYHQ/s200/8.png" group-title="CANALES-NOTICIA",NOT-NTN 24 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-NTN24 (T)(SD)" tvg-logo="https://1.bp.blogspot.com/-Qgr-jgmFI2s/Xm5XuXmxYBI/AAAAAAAABbw/eURPOer17pQMJS7tAF8uLXtT-eISGwzCgCLcBGAsYHQ/s200/8.png" group-title="CANALES-NOTICIA",NOT-NTN24 (T)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-TeleSur (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-V6VZz0bxIyo/Xm5XsrahTDI/AAAAAAAABbc/lFiMo51Z7FkqF5mr4SmzbPAmlke1LaEZgCLcBGAsYHQ/s200/3.png" group-title="CANALES-NOTICIA",NOT-TeleSur (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-Wobi (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4/Xm5XtoL93eI/AAAAAAAABbg/bLy9q5_WDL0ZhmIHVBYI1uNZ0uvNFuUWACLcBGAsYHQ/s200/4.png" group-title="CANALES-NOTICIA",NOT-Wobi (TV)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-TNI Canal51 (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-TNI Canal51 (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Band News (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Band News (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Globo News (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Globo News (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Record NEWS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Record NEWS (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAR-NEXTV (T)(720)" tvg-logo="aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay" group-title="PARAGUAY",PAR-NEXTV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAR-Noticias (T)(720)" tvg-logo="aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay" group-title="PARAGUAY",PAR-Noticias (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-C5N (M)(720)" tvg-logo="http://23.153.216.121:25461/images/c32ded367063b757ed2e068bc778029f.png" group-title="ARGENTINA",ARG-C5N (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TN (T)(720)" tvg-logo="http://23.153.216.121:25461/images/928fdd8c0b300176e794fe09087f6a83.png" group-title="ARGENTINA",ARG-TN (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CNN (T)(720)" tvg-logo="/-6cMbmCAuEfs/YgalevTEnZI/AAAAAAAADSQ/9fHthQLT4Ko1PvayUBuqnMWJ2P2XqaAbgCNcBGAsYHQ/s1600/1644602745198676-14.png" group-title="CHILE",CHI-CNN (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="COL-NTN24 (Z)(720)" tvg-logo="https://i.postimg.cc/CMf8xMW6/COL-NTN24.png" group-title="COLOMBIA",COL-NTN24 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="COL-Cable Noticias (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" group-title="COLOMBIA",COL-Cable Noticias (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias (W)(1080)" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="COLOMBIA (LOCAL)",Cablenoticias (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN el Canal Católico (W)(720) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="COLOMBIA (LOCAL)",EWTN el Canal Católico (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BTN TV (1080p)" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="CANALES-RELIGIOSOS",BTN TV (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBN News National (1080p)" tvg-logo="https://i.imgur.com/gG2SWgG.png" group-title="CANALES-RELIGIOSOS",CBN News National (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CCTN 47 (1080p)" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="CANALES-RELIGIOSOS",CCTN 47 (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN Canada (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="CANALES-RELIGIOSOS",EWTN Canada (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN Estados Unidos (Spanish) (720p)" tvg-logo="https://i.imgur.com/LClbpzD.jpg" group-title="CANALES-RELIGIOSOS",EWTN Estados Unidos (Spanish) (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN | US" tvg-logo="https://cdn.m3u.cl/logo/873_EWTN.jpg" group-title="CANALES-RELIGIOSOS",EWTN | US  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="TNE | CL" tvg-logo="https://cdn.m3u.cl/logo/168_TNE.png" group-title="CANALES-RELIGIOSOS",TNE | CL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Estrella News" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO-LOCAL",MEX-Estrella News  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-AMX Noticias (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="MEXICO-LOCAL",MEX-AMX Noticias (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-CGTN Español (W)(1080)" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="MEXICO-LOCAL",MEX-CGTN Español (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Estrella News (W)(1080)" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO-LOCAL",MEX-Estrella News (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Fox News (T)(720)" tvg-logo="https://docdog.top/logo/countries/usa/foxnews.png" group-title="ESPAÑA",ESP - Fox News (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-CNN  HD (L)" tvg-logo="http://live.detodotvplay.com:8080/images/9aecccf3b71b078328364882ab2820a1.png" group-title="CANADA PREMIUM",CAN-CNN  HD (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC Northdakota (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",USA-ABC Northdakota (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ABC West Virginia (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",ABC West Virginia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBS Newjersey (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",CBS Newjersey (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBS Utah (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",CBS Utah (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBS Vermont (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",CBS Vermont (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Colorado (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Colorado (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Minnesota (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Minnesota (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Northcarolina (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Northcarolina (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Ohio (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Ohio (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Oklahoma (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Oklahoma (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Pennsylvania (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Pennsylvania (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX South Carolina (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX South Carolina (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX NEWS (L)(720)" tvg-logo="https://logos.xbots.com.mx/41086.png" group-title="USA-NEWS/MISC",LAT | FOX NEWS (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-6 ABC Philadelphia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/1200px-WPVI-TV_logos.svg.png" group-title="USA-NEWS/MISC",USA-6 ABC Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 10 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC 10 San Diego (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 10 | Sacramento (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/bafac894e239e2054da5c168e5eb1966.png" group-title="USA-NEWS/MISC",USA-ABC 10 | Sacramento (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 13 |  Houston (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",USA-ABC 13 |  Houston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 15 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC 15 Phoenix (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 7 California Los Angeles (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",USA-ABC 7 California Los Angeles (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 7 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC 7 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 7 | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/WABC-TV_logo.svg/1200px-WABC-TV_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC 7 | New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC KTUL Tulsa (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KTUL_logo.svg/1200px-KTUL_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC KTUL Tulsa (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC Las Vegas | KTNV (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/ddd26d4d75cfe6a60b70f3e7765b6fa1.png" group-title="USA-NEWS/MISC",USA-ABC Las Vegas | KTNV (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC LOCAL 10 Miami (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="USA-NEWS/MISC",USA-ABC LOCAL 10 Miami (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC News 5 | Cleveland (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC News 5 | Cleveland (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WFTV 9 | Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC WFTV 9 | Orlando (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WKRN | Tennessee (L)(720)" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/2/25/Wkrnnews2-color_sponsor500.png" group-title="USA-NEWS/MISC",USA-ABC WKRN | Tennessee (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WMUR | Boston (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/WMUR-TV_logo.svg/1200px-WMUR-TV_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC WMUR | Boston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WSB 2 Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC WSB 2 Atlanta (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WSOC 9 Charlotte (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/WSOC-TV_logo.svg/1200px-WSOC-TV_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC WSOC 9 Charlotte (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS  | Wisconsin (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/WISC-TV_2019_Logo.svg/1200px-WISC-TV_2019_Logo.svg.png" group-title="USA-NEWS/MISC",USA-CBS  | Wisconsin (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 10TV | Columbus (L)(720)" tvg-logo="https://www.logolynx.com/images/logolynx/65/65abf86f0841a218dbea90ec8defe2fd.png" group-title="USA-NEWS/MISC",USA-CBS 10TV | Columbus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 13 Sacramento (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 13 Sacramento (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 2 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 2 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 2 | California Los Angeles (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/250c51527f347066847969f002be67a2.png" group-title="USA-NEWS/MISC",USA-CBS 2 | California Los Angeles (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 3 | Philadelphia (L)(720)" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/10/CBS_3_News_Philly_logo.png" group-title="USA-NEWS/MISC",USA-CBS 3 | Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 4 Miami (L)(720)" tvg-logo="https://www.pinclipart.com/picdir/middle/112-1120115_cbs4-logos-cbs-4-clipart.png" group-title="USA-NEWS/MISC",USA-CBS 4 Miami (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 4 | Indiana (L)(720)" tvg-logo="https://cbs4indy.com/wp-content/uploads/sites/22/2017/03/cropped-cbs4512.png" group-title="USA-NEWS/MISC",USA-CBS 4 | Indiana (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 46 Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 46 Atlanta (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 47 Fresno (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/0e79797c5b2740eb6001ea4896b77b13.png" group-title="USA-NEWS/MISC",USA-CBS 47 Fresno (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 5 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 5 Phoenix (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 5 | Arizona (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/KPHO_2019_Logo.svg/1200px-KPHO_2019_Logo.svg.png" group-title="USA-NEWS/MISC",USA-CBS 5 | Arizona (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 8 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 8 San Diego (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS Cleveland 19 (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS Cleveland 19 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KEYE | Austin (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/KEYE_CBS_Austin_logo.png" group-title="USA-NEWS/MISC",USA-CBS KEYE | Austin (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KHOU 11 | Houston (L)(720)" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2021/04/KHOU-11-Logo.png" group-title="USA-NEWS/MISC",USA-CBS KHOU 11 | Houston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KKTV 11 | Colorado (L)(720)" tvg-logo="https://coloradosprings.gov/sites/default/files/styles/large/public/inline-images/kktv11news.png" group-title="USA-NEWS/MISC",USA-CBS KKTV 11 | Colorado (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KRCG 13 | Columbia (L)(720)" tvg-logo="https://www.vhv.rs/dpng/d/481-4810844_planned-parenthood-demonstration-at-state-capitol-in-krcg.png" group-title="USA-NEWS/MISC",USA-CBS KRCG 13 | Columbia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS Las Vegas | KLAS (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/KLAS-TV_8_logo.png" group-title="USA-NEWS/MISC",USA-CBS Las Vegas | KLAS (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS News | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="USA-NEWS/MISC",USA-CBS News | New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS News 6 | Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS News 6 | Orlando (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS Tennessee | WTVF (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",USA-CBS Tennessee | WTVF (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WBTV | Charlotte (L)(720)" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gray/AERISHLTVVE77I4IUP2N3DCPSY.png" group-title="USA-NEWS/MISC",USA-CBS WBTV | Charlotte (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WBZ 4 | Boston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/b876c2d245c6fd06581247cc21f0ebcc.png" group-title="USA-NEWS/MISC",USA-CBS WBZ 4 | Boston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WTAJ | Pennsylvania (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/WTAJ10.png" group-title="USA-NEWS/MISC",USA-CBS WTAJ | Pennsylvania (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WTOC 11 | Georgia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/WTOC-TV_11_logo.svg/1200px-WTOC-TV_11_logo.svg.png" group-title="USA-NEWS/MISC",USA-CBS WTOC 11 | Georgia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CNBC (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="USA-NEWS/MISC",USA-CNBC (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CW Nashville (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/WZTV-DT2_Logo.png" group-title="USA-NEWS/MISC",USA-CW Nashville (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Florida Pensacola (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA-NEWS/MISC",USA-Florida Pensacola (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Fox 23 Tulsa (L)(720)" tvg-logo="https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/pf/resources/images/sites/cmg-tv-10100/station-logo.png" group-title="USA-NEWS/MISC",USA-Fox 23 Tulsa (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 25 | Boston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/2af90b9c0c1d3e6b147d6c03502a8d2f.png" group-title="USA-NEWS/MISC",USA-FOX 25 | Boston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Fox 26 Fresno (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LOGO_KMPH_FOX26_solid_calls_blu.png/1200px-LOGO_KMPH_FOX26_solid_calls_blu.png" group-title="USA-NEWS/MISC",USA-Fox 26 Fresno (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 26 Houston  (L)(720)" tvg-logo="https://paul-daugherty.com/wp-content/uploads/2018/04/Fox-26-Houston.png" group-title="USA-NEWS/MISC",USA-FOX 26 Houston  (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 28 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/WTTE_logo_2021.png" group-title="USA-NEWS/MISC",USA-FOX 28 Columbus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 29 Philadelphia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/1200px-Fts-philadelphia-a.svg.png" group-title="USA-NEWS/MISC",USA-FOX 29 Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 32 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="USA-NEWS/MISC",USA-FOX 32 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 35 Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="USA-NEWS/MISC",USA-FOX 35 Orlando (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 5 | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-York-a.svg/1200px-Fts-new-York-a.svg.png" group-title="USA-NEWS/MISC",USA-FOX 5 | New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX Business Network (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" group-title="USA-NEWS/MISC",USA-FOX Business Network (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 10 Philadelphia (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c3c95cf21f4bb1fc7394586f36fa0cf8.png" group-title="USA-NEWS/MISC",USA-NBC 10 Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 11 Alive Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 11 Alive Atlanta (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 12 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 12 Phoenix (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 4 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/WCMH-TV_logo.png" group-title="USA-NEWS/MISC",USA-NBC 4 Columbus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 4 WSMV | Tennessee (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" group-title="USA-NEWS/MISC",USA-NBC 4 WSMV | Tennessee (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 5 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 5 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 7 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 7 San Diego (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC California Los Angeles 4 (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA-NEWS/MISC",USA-NBC California Los Angeles 4 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX Indiana (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",USA-FOX Indiana (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX WSVN 7 Miami (L)(720)" tvg-logo="https://en-academic.com/pictures/enwiki/87/WSVN.png" group-title="USA-NEWS/MISC",USA-FOX WSVN 7 Miami (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/ed930db01b900eeda7d89cbdc22c2d4f.png" group-title="USA-NEWS/MISC",USA-MSG (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png" group-title="USA-NEWS/MISC",USA-MSG Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus 2 (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png" group-title="USA-NEWS/MISC",USA-MSG Plus 2 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus 3 (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png" group-title="USA-NEWS/MISC",USA-MSG Plus 3 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSNBC (L)(720)" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/2/14/MSNBC-Logo-FullColor-360x300.png" group-title="USA-NEWS/MISC",USA-MSNBC (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Florida Miami 6 (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA-NEWS/MISC",USA-NBC Florida Miami 6 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC KSNV Las Vegas (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="USA-NEWS/MISC",USA-NBC KSNV Las Vegas (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="USA-NEWS/MISC",USA-NBC New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Universo (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Universo_LOGO_color_black.png" group-title="USA-NEWS/MISC",USA-NBC Universo (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-BTN (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/283a75430d83f33d6cab46e044b91cf6.png" group-title="USA-ENTERTAINMENT",USA-BTN (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-CNN (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-CNN (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Cronica (L)" tvg-logo="http://23.153.216.121:25461/images/0fc9726ca1e94b5a0584a327c3cd2c45.png" group-title="ARGENTINA",ARG-Cronica (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TN (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/928fdd8c0b300176e794fe09087f6a83.png" group-title="ARGENTINA",ARG-TN (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-TN23 (TV)(SD)" tvg-logo="http://23.153.216.121:25461/images/79f16a96b22999021e2bcdf94b963ca7.png" group-title="GUATEMALA",GUA-TN23 (TV)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="COL-Cable Noticias (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" group-title="COLOMBIA",COL-Cable Noticias (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-TNU (L)(720)" tvg-logo="https://1.bp.blogspot.com/-NKmQf3VC8hQ/X2phUrR98kI/AAAAAAAABcA/rUxcUZUAw6MmBKTlMjhRY-_HgYdMqm5CQCLcBGAsYHQ/w200-h200/24Tnu.png" group-title="URUGUAY",URU-TNU (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CNN CL (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png" group-title="CHILE",CHI-CNN CL (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CNN CL (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png" group-title="CHILE",CHI-CNN CL (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Puranoticia TV (W)(720)" tvg-logo="https://i.imgur.com/NklUi6Y.png" group-title="CHILE [GEO BLOQUEO]",Puranoticia TV (W)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Meganoticias (W)(720) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/512px-Meganoticias2019.png" group-title="CHILE [GEO BLOQUEO]",Meganoticias (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-BBC World News (M)(720)" tvg-logo="https://1.bp.blogspot.com/-X4Twi3pHIRM/Xm5XtyganmI/AAAAAAAABbk/6byY3ZUAXUYkg6WVzsqg_MjZY5x5Bg-2gCLcBGAsYHQ/s200/5.png" group-title="CANALES-NOTICIA",NOT-BBC World News (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-CNN en Español (M)(1080)" tvg-logo="" group-title="CANALES-NOTICIA",NOT-CNN en Español (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-CNN en Español (M)(720)" tvg-logo="https://1.bp.blogspot.com/-nmME0jZ5xn4/Xm5XuuyNAAI/AAAAAAAABb0/3LTprvv_5jgsQmQEwdrJyUUf4OUSww6dgCLcBGAsYHQ/s200/9.png" group-title="CANALES-NOTICIA",NOT-CNN en Español (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-CNN USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png" group-title="CANALES-NOTICIA",NOT-CNN USA (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DW.Deutsch+.(DW.D+).us" tvg-name="NOT-DW (M)(720)" tvg-logo="https://1.bp.blogspot.com/-bIt6cFjY83E/Xm5Xt7QIQ7I/AAAAAAAABbo/BWlM_fR5IjQpd6KNZ6uikhy5f1fxQ-YOwCLcBGAsYHQ/s200/6.png" group-title="CANALES-NOTICIA",NOT-DW (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-NTN 24 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Qgr-jgmFI2s/Xm5XuXmxYBI/AAAAAAAABbw/eURPOer17pQMJS7tAF8uLXtT-eISGwzCgCLcBGAsYHQ/s200/8.png" group-title="CANALES-NOTICIA",NOT-NTN 24 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-NTN24 (T)(SD)" tvg-logo="https://1.bp.blogspot.com/-Qgr-jgmFI2s/Xm5XuXmxYBI/AAAAAAAABbw/eURPOer17pQMJS7tAF8uLXtT-eISGwzCgCLcBGAsYHQ/s200/8.png" group-title="CANALES-NOTICIA",NOT-NTN24 (T)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-TeleSur (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-V6VZz0bxIyo/Xm5XsrahTDI/AAAAAAAABbc/lFiMo51Z7FkqF5mr4SmzbPAmlke1LaEZgCLcBGAsYHQ/s200/3.png" group-title="CANALES-NOTICIA",NOT-TeleSur (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NOT-Wobi (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4/Xm5XtoL93eI/AAAAAAAABbg/bLy9q5_WDL0ZhmIHVBYI1uNZ0uvNFuUWACLcBGAsYHQ/s200/4.png" group-title="CANALES-NOTICIA",NOT-Wobi (TV)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="RPD-TNI Canal51 (W)(HD)" tvg-logo="" group-title="REPUBLICA DOMINICANA",RPD-TNI Canal51 (W)(HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Band News (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Band News (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Globo News (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Globo News (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Record NEWS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Record NEWS (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAR-NEXTV (T)(720)" tvg-logo="aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay" group-title="PARAGUAY",PAR-NEXTV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAR-Noticias (T)(720)" tvg-logo="aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay" group-title="PARAGUAY",PAR-Noticias (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-C5N (M)(720)" tvg-logo="http://23.153.216.121:25461/images/c32ded367063b757ed2e068bc778029f.png" group-title="ARGENTINA",ARG-C5N (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TN (T)(720)" tvg-logo="http://23.153.216.121:25461/images/928fdd8c0b300176e794fe09087f6a83.png" group-title="ARGENTINA",ARG-TN (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-CNN (T)(720)" tvg-logo="/-6cMbmCAuEfs/YgalevTEnZI/AAAAAAAADSQ/9fHthQLT4Ko1PvayUBuqnMWJ2P2XqaAbgCNcBGAsYHQ/s1600/1644602745198676-14.png" group-title="CHILE",CHI-CNN (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="COL-NTN24 (Z)(720)" tvg-logo="https://i.postimg.cc/CMf8xMW6/COL-NTN24.png" group-title="COLOMBIA",COL-NTN24 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="COL-Cable Noticias (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" group-title="COLOMBIA",COL-Cable Noticias (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Cablenoticias (W)(1080)" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="COLOMBIA (LOCAL)",Cablenoticias (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN el Canal Católico (W)(720) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="COLOMBIA (LOCAL)",EWTN el Canal Católico (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BTN TV (1080p)" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="CANALES-RELIGIOSOS",BTN TV (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBN News National (1080p)" tvg-logo="https://i.imgur.com/gG2SWgG.png" group-title="CANALES-RELIGIOSOS",CBN News National (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CCTN 47 (1080p)" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="CANALES-RELIGIOSOS",CCTN 47 (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN Canada (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="CANALES-RELIGIOSOS",EWTN Canada (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN Estados Unidos (Spanish) (720p)" tvg-logo="https://i.imgur.com/LClbpzD.jpg" group-title="CANALES-RELIGIOSOS",EWTN Estados Unidos (Spanish) (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="EWTN | US" tvg-logo="https://cdn.m3u.cl/logo/873_EWTN.jpg" group-title="CANALES-RELIGIOSOS",EWTN | US  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="TNE | CL" tvg-logo="https://cdn.m3u.cl/logo/168_TNE.png" group-title="CANALES-RELIGIOSOS",TNE | CL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Estrella News" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO-LOCAL",MEX-Estrella News  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-AMX Noticias (W)(720) [Not 24/7]" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="MEXICO-LOCAL",MEX-AMX Noticias (W)(720) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-CGTN Español (W)(1080)" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="MEXICO-LOCAL",MEX-CGTN Español (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Estrella News (W)(1080)" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="MEXICO-LOCAL",MEX-Estrella News (W)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Fox News (T)(720)" tvg-logo="https://docdog.top/logo/countries/usa/foxnews.png" group-title="ESPAÑA",ESP - Fox News (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-CNN  HD (L)" tvg-logo="http://live.detodotvplay.com:8080/images/9aecccf3b71b078328364882ab2820a1.png" group-title="CANADA PREMIUM",CAN-CNN  HD (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC Northdakota (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",USA-ABC Northdakota (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ABC West Virginia (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",ABC West Virginia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBS Newjersey (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",CBS Newjersey (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBS Utah (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",CBS Utah (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CBS Vermont (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",CBS Vermont (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Colorado (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Colorado (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Minnesota (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Minnesota (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Northcarolina (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Northcarolina (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Ohio (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Ohio (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Oklahoma (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Oklahoma (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX Pennsylvania (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX Pennsylvania (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="FOX South Carolina (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",FOX South Carolina (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX NEWS (L)(720)" tvg-logo="https://logos.xbots.com.mx/41086.png" group-title="USA-NEWS/MISC",LAT | FOX NEWS (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-6 ABC Philadelphia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WPVI-TV_logos.svg/1200px-WPVI-TV_logos.svg.png" group-title="USA-NEWS/MISC",USA-6 ABC Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 10 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC 10 San Diego (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 10 | Sacramento (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/bafac894e239e2054da5c168e5eb1966.png" group-title="USA-NEWS/MISC",USA-ABC 10 | Sacramento (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 13 |  Houston (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",USA-ABC 13 |  Houston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 15 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC 15 Phoenix (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 7 California Los Angeles (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/ABC.png" group-title="USA-NEWS/MISC",USA-ABC 7 California Los Angeles (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 7 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC 7 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC 7 | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/WABC-TV_logo.svg/1200px-WABC-TV_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC 7 | New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC KTUL Tulsa (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KTUL_logo.svg/1200px-KTUL_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC KTUL Tulsa (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC Las Vegas | KTNV (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/ddd26d4d75cfe6a60b70f3e7765b6fa1.png" group-title="USA-NEWS/MISC",USA-ABC Las Vegas | KTNV (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC LOCAL 10 Miami (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="USA-NEWS/MISC",USA-ABC LOCAL 10 Miami (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC News 5 | Cleveland (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC News 5 | Cleveland (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WFTV 9 | Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC WFTV 9 | Orlando (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WKRN | Tennessee (L)(720)" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/2/25/Wkrnnews2-color_sponsor500.png" group-title="USA-NEWS/MISC",USA-ABC WKRN | Tennessee (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WMUR | Boston (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/WMUR-TV_logo.svg/1200px-WMUR-TV_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC WMUR | Boston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WSB 2 Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/y_tP6OCshhdg6FWpQEaRiI_Pu3CL2QpQBCOq9QbUSdy33tMA67IIifBSpBH4c_XkKCH2dpijZOid=ns-nd" group-title="USA-NEWS/MISC",USA-ABC WSB 2 Atlanta (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ABC WSOC 9 Charlotte (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/WSOC-TV_logo.svg/1200px-WSOC-TV_logo.svg.png" group-title="USA-NEWS/MISC",USA-ABC WSOC 9 Charlotte (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS  | Wisconsin (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/WISC-TV_2019_Logo.svg/1200px-WISC-TV_2019_Logo.svg.png" group-title="USA-NEWS/MISC",USA-CBS  | Wisconsin (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 10TV | Columbus (L)(720)" tvg-logo="https://www.logolynx.com/images/logolynx/65/65abf86f0841a218dbea90ec8defe2fd.png" group-title="USA-NEWS/MISC",USA-CBS 10TV | Columbus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 13 Sacramento (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 13 Sacramento (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 2 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 2 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 2 | California Los Angeles (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/250c51527f347066847969f002be67a2.png" group-title="USA-NEWS/MISC",USA-CBS 2 | California Los Angeles (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 3 | Philadelphia (L)(720)" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/10/CBS_3_News_Philly_logo.png" group-title="USA-NEWS/MISC",USA-CBS 3 | Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 4 Miami (L)(720)" tvg-logo="https://www.pinclipart.com/picdir/middle/112-1120115_cbs4-logos-cbs-4-clipart.png" group-title="USA-NEWS/MISC",USA-CBS 4 Miami (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 4 | Indiana (L)(720)" tvg-logo="https://cbs4indy.com/wp-content/uploads/sites/22/2017/03/cropped-cbs4512.png" group-title="USA-NEWS/MISC",USA-CBS 4 | Indiana (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 46 Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 46 Atlanta (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 47 Fresno (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/0e79797c5b2740eb6001ea4896b77b13.png" group-title="USA-NEWS/MISC",USA-CBS 47 Fresno (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 5 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 5 Phoenix (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 5 | Arizona (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/KPHO_2019_Logo.svg/1200px-KPHO_2019_Logo.svg.png" group-title="USA-NEWS/MISC",USA-CBS 5 | Arizona (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS 8 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS 8 San Diego (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS Cleveland 19 (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS Cleveland 19 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KEYE | Austin (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/KEYE_CBS_Austin_logo.png" group-title="USA-NEWS/MISC",USA-CBS KEYE | Austin (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KHOU 11 | Houston (L)(720)" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2021/04/KHOU-11-Logo.png" group-title="USA-NEWS/MISC",USA-CBS KHOU 11 | Houston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KKTV 11 | Colorado (L)(720)" tvg-logo="https://coloradosprings.gov/sites/default/files/styles/large/public/inline-images/kktv11news.png" group-title="USA-NEWS/MISC",USA-CBS KKTV 11 | Colorado (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS KRCG 13 | Columbia (L)(720)" tvg-logo="https://www.vhv.rs/dpng/d/481-4810844_planned-parenthood-demonstration-at-state-capitol-in-krcg.png" group-title="USA-NEWS/MISC",USA-CBS KRCG 13 | Columbia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS Las Vegas | KLAS (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/KLAS-TV_8_logo.png" group-title="USA-NEWS/MISC",USA-CBS Las Vegas | KLAS (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS News | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="USA-NEWS/MISC",USA-CBS News | New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS News 6 | Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="USA-NEWS/MISC",USA-CBS News 6 | Orlando (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS Tennessee | WTVF (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/CBS.png" group-title="USA-NEWS/MISC",USA-CBS Tennessee | WTVF (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WBTV | Charlotte (L)(720)" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gray/AERISHLTVVE77I4IUP2N3DCPSY.png" group-title="USA-NEWS/MISC",USA-CBS WBTV | Charlotte (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WBZ 4 | Boston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/b876c2d245c6fd06581247cc21f0ebcc.png" group-title="USA-NEWS/MISC",USA-CBS WBZ 4 | Boston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WTAJ | Pennsylvania (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/WTAJ10.png" group-title="USA-NEWS/MISC",USA-CBS WTAJ | Pennsylvania (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS WTOC 11 | Georgia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/WTOC-TV_11_logo.svg/1200px-WTOC-TV_11_logo.svg.png" group-title="USA-NEWS/MISC",USA-CBS WTOC 11 | Georgia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CNBC (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="USA-NEWS/MISC",USA-CNBC (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-CW Nashville (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/WZTV-DT2_Logo.png" group-title="USA-NEWS/MISC",USA-CW Nashville (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Florida Pensacola (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA-NEWS/MISC",USA-Florida Pensacola (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Fox 23 Tulsa (L)(720)" tvg-logo="https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/pf/resources/images/sites/cmg-tv-10100/station-logo.png" group-title="USA-NEWS/MISC",USA-Fox 23 Tulsa (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 25 | Boston (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/2af90b9c0c1d3e6b147d6c03502a8d2f.png" group-title="USA-NEWS/MISC",USA-FOX 25 | Boston (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Fox 26 Fresno (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LOGO_KMPH_FOX26_solid_calls_blu.png/1200px-LOGO_KMPH_FOX26_solid_calls_blu.png" group-title="USA-NEWS/MISC",USA-Fox 26 Fresno (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 26 Houston  (L)(720)" tvg-logo="https://paul-daugherty.com/wp-content/uploads/2018/04/Fox-26-Houston.png" group-title="USA-NEWS/MISC",USA-FOX 26 Houston  (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 28 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/WTTE_logo_2021.png" group-title="USA-NEWS/MISC",USA-FOX 28 Columbus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 29 Philadelphia (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fts-philadelphia-a.svg/1200px-Fts-philadelphia-a.svg.png" group-title="USA-NEWS/MISC",USA-FOX 29 Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 32 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="USA-NEWS/MISC",USA-FOX 32 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 35 Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/qr9I-WMPoZqn1PsAzy-JouQiyB3mqCsnk-aRWd5dcOwr-aMzytODm9mVgFf0mtDLhSUsEzADSOA=ns-nd" group-title="USA-NEWS/MISC",USA-FOX 35 Orlando (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX 5 | New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-York-a.svg/1200px-Fts-new-York-a.svg.png" group-title="USA-NEWS/MISC",USA-FOX 5 | New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX Business Network (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" group-title="USA-NEWS/MISC",USA-FOX Business Network (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 10 Philadelphia (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c3c95cf21f4bb1fc7394586f36fa0cf8.png" group-title="USA-NEWS/MISC",USA-NBC 10 Philadelphia (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 11 Alive Atlanta (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 11 Alive Atlanta (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 12 Phoenix (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 12 Phoenix (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 4 Columbus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/WCMH-TV_logo.png" group-title="USA-NEWS/MISC",USA-NBC 4 Columbus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 4 WSMV | Tennessee (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" group-title="USA-NEWS/MISC",USA-NBC 4 WSMV | Tennessee (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 5 Chicago (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 5 Chicago (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC 7 San Diego (L)(720)" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="USA-NEWS/MISC",USA-NBC 7 San Diego (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC California Los Angeles 4 (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA-NEWS/MISC",USA-NBC California Los Angeles 4 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX Indiana (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/FOX.png" group-title="USA-NEWS/MISC",USA-FOX Indiana (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX WSVN 7 Miami (L)(720)" tvg-logo="https://en-academic.com/pictures/enwiki/87/WSVN.png" group-title="USA-NEWS/MISC",USA-FOX WSVN 7 Miami (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/ed930db01b900eeda7d89cbdc22c2d4f.png" group-title="USA-NEWS/MISC",USA-MSG (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png" group-title="USA-NEWS/MISC",USA-MSG Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus 2 (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png" group-title="USA-NEWS/MISC",USA-MSG Plus 2 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus 3 (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png" group-title="USA-NEWS/MISC",USA-MSG Plus 3 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSNBC (L)(720)" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/2/14/MSNBC-Logo-FullColor-360x300.png" group-title="USA-NEWS/MISC",USA-MSNBC (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Florida Miami 6 (L)(720)" tvg-logo="http://74.208.186.29:25461/ytv_locals/locals_logos/NBC.png" group-title="USA-NEWS/MISC",USA-NBC Florida Miami 6 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC KSNV Las Vegas (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="USA-NEWS/MISC",USA-NBC KSNV Las Vegas (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC New York (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" group-title="USA-NEWS/MISC",USA-NBC New York (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Universo (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Universo_LOGO_color_black.png" group-title="USA-NEWS/MISC",USA-NBC Universo (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-BTN (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/283a75430d83f33d6cab46e044b91cf6.png" group-title="USA-ENTERTAINMENT",USA-BTN (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-CNN (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-CNN (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:0,4D Mas Noticias (Paraguay) (🇵🇾)
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,ANTV (Vietnam) (🇻🇳)
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,ARTN (Armenia) (🇦🇲)
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,Atacama Noticias (Chile) (🇨🇱)
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8  # Fecha: 2025-10-11 16:23
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,ATN (Colombia) (🇨🇴)
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,BBC America (USA) (🇺🇸)
-https://tinyurl.com/msv8bpv8?.m3u8  # Fecha: 2025-10-11 16:23
+https://tinyurl.com/msv8bpv8?.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,BBC Earth (UK) (🇬🇧)
+https://wowza5.leisertv.com/live/bbcearthhd.stream/.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,BBC Earth (USA) (🇺🇸)
-https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8  # Fecha: 2025-10-11 16:23
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,BBC News (UK) (🇬🇧)
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8  # Fecha: 2025-10-11 16:23
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,BBC Three (UK) (🇬🇧)
+https://wowza1.leisertv.com/live/cbbchd.stream/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,BBC Toronto (Canada) (🇨🇦)
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,BBC Two (UK) (🇬🇧)
+https://wowza5.leisertv.com/live/bbctwohd.stream/.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,Berita Satu (Indonesia) (🇮🇩)
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8  # Fecha: 2025-10-11 16:23
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,BTN (Corea Del Sur) (🇰🇷)
+https://btn.nowcdn.co.kr/btn/btnlive2m/.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,Cablenoticias (Colombia) (🇨🇴)
-http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8  # Fecha: 2025-10-11 16:23
+http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,CBC News Network (Canada) (🇨🇦)
-https://tinyurl.com/5n86wu2h?.m3u8  # Fecha: 2025-10-11 16:23
+https://tinyurl.com/5n86wu2h?.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,CBN News (USA) (🇺🇸)
-https://tinyurl.com/mr48ka2a?.m3u8  # Fecha: 2025-10-11 16:23
+https://tinyurl.com/mr48ka2a?.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,CBS News (USA) (🇺🇸)
-https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8  # Fecha: 2025-10-11 16:23
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,CBS News Bay Area (USA) (🇺🇸)
-https://d2x315csff27o1.cloudfront.net/cbs_news_bay_area.m3u8  # Fecha: 2025-10-11 16:23
+https://d2x315csff27o1.cloudfront.net/cbs_news_bay_area.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,CGTN Documentary (China) (🇨🇳)
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,CGTN Español (España) (🇪🇸)
+https://tinyurl.com/64pebsyb?.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Cheddar News (USA) (🇺🇸)
+https://cheddar-cheddar-3-us.vizio.wurl.tv/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Cinevault Classics (USA) (🇺🇸)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Classics.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,City News (Canada) (🇨🇦)
-https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8  # Fecha: 2025-10-11 16:23
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,CNN (Brasil) (🇧🇷)
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8  # Fecha: 2025-10-11 16:23
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,CNN (Chile) (🇨🇱)
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8  # Fecha: 2025-10-11 16:23
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,CNN (Indonesia) (🇮🇩)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,CNN (Portugal) (🇵🇹)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,CNN (USA) (🇺🇸)
+https://stream1.freetv.fun/cnn-1.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,CNN News 18 (India) (🇮🇳)
-https://tinyurl.com/37n729kk?.m3u8  # Fecha: 2025-10-11 16:23
+https://tinyurl.com/37n729kk?.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,County News Center (USA) (🇺🇸)
-https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,ESPN News (USA) (🇺🇸)
-https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8  # Fecha: 2025-10-11 16:23
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,CRTV Cao Bằng (Vietnam) (🇻🇳)
+http://118.107.85.4:1935/live/smil:CRTV.smil/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,CTN (Camboya) (🇰🇭)
+http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,CTNi (Puerto Rico) (🇵🇷)
+https://video1.getstreamhosting.com:1936/8226/8226/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,CTV Cà Mau (Vietnam) (🇻🇳)
+https://tv.ctvcamau.vn/live/tv/tv.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Cultne (Brasil) (🇧🇷)
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,DN2 Dong Nai 2 (Vietnam) (🇻🇳)
+http://118.107.85.4:1935/live/smil:DNTV2.smil/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,DRT (Vietnam) (🇻🇳)
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,DTV Dien Bien (Vietnam) (🇻🇳)
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Dunya News (Pakistan) (🇵🇰)
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Echo 24 (Rusia) (🇷🇺)
+http://stream.novouralsk-news.ru/echotv24/live.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Estrella News (Mexico) (🇲🇽)
+https://estrellanews-roku.amagi.tv/playlist.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,Euronews (España) (🇪🇸)
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8  # Fecha: 2025-10-11 16:23
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Euronews (UK) (🇬🇧)
+https://wowza5.leisertv.com/live/euronewshd.stream/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,EWTN (España) (🇪🇸)
+https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,EWTN (España) (🇪🇸)
+https://ott2.hdlatam.tv/live_abr/Stream68/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,EWTN (Ucrania) (🇺🇦)
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,EWTN (USA) (🇺🇸)
+https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,FilmRise Horror (Canada) (🇨🇦)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror-Canada.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,FOX News (USA) (🇺🇸)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,FOX News (USA) (🇺🇸)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,HMI Promz News (Haiti) (🇭🇹)
-https://video1.getstreamhosting.com:1936/8326/8326/.m3u8  # Fecha: 2025-10-11 16:23
+https://video1.getstreamhosting.com:1936/8326/8326/.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:0,Milenial (Peru) (🇵🇪)
-https://www.milenial.news/salida/milenial.m3u8  # Fecha: 2025-10-11 16:23
+https://www.milenial.news/salida/milenial.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,MN39 Mas Noticias (Honduras) (🇭🇳)
+https://amixtv.com/mntvh/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Peru (Peru) (🇵🇪)
+https://bantel-cdn1.iptvperu.tv:1936/nacls_mov/atvnoticiasmovil_t6.stream/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Pura Noticia (Chile) (🇨🇱)
+https://pnt.janusmedia.tv/hls/pnt.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Record News (Brasil) (🇧🇷)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116  # Fecha: 2025-10-11 19:10
 #EXTINF:0,RTL 102.5 News (Italia) (🇮🇹)
-https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Top Gear (UK) (🇬🇧)
-https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Unsolved Mysteries (USA) (🇺🇸)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,VNP (Peru) (🇵🇪)
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8  # Fecha: 2025-10-11 16:23
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8  # Fecha: 2025-10-11 19:10

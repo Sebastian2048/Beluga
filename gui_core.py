@@ -69,7 +69,7 @@ boton_git.grid(row=0, column=4, padx=5)
 
 # 📋 Área de texto para mostrar listas
 tk.Label(ventana, text="📂 Listas detectadas:", bg="#f0f0f0").pack(pady=5)
-texto_listas = tk.Text(ventana, height=15, width=100)
+texto_listas = tk.Text(ventana, height=15, width=80)
 texto_listas.pack(pady=5)
 
 # 🧾 Campo de entrada para mostrar estado de cada lista

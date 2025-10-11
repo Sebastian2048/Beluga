@@ -1,233 +1,574 @@
 #EXTM3U
+#EXTINF:-1,09.1ESPN 1 ✅
+http://200.60.124.19:29000/play/a016/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,11.1ESPN 2 Latin ✅
+http://200.60.124.19:29000/play/a015/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,11.2ESPN 3 ✅
+http://200.60.124.19:29000/play/a02e/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,11.3ESPN 4 ✅
+http://200.60.124.19:29000/play/a04y/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,127_Eurosport HD ✅
-http://87.120.179.187:8000/play/a02c  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,142_Nova Sport HD ✅
-http://87.120.179.187:8000/play/a00l  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,167_Max Sport 1 HD ✅
-http://87.120.179.187:8000/play/a00k  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,168_Max Sport 2 HD ✅
-http://87.120.179.187:8000/play/a00f  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,169_MAX Sport 3 HD ✅
-http://87.120.179.187:8000/play/a02j  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Africa 24 English (1080p) ✅
-https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Arena Sport 1 HD ✅
-http://78.130.250.2:8023/play/a02o/index.m3u8  # Fecha: 2025-10-11 16:23
+http://87.120.179.187:8000/play/a02c  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,15.1 ESPN 7 ✅
+http://200.60.124.19:29000/play/a01e/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,15.2ESPN 6 ✅
+http://200.60.124.19:29000/play/a01f/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Abu Dhabi Sports 1 (1080p) ✅
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Claro Sports 1 SD ✅
-http://179.51.136.19:8000/play/a18m/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a18m/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Claro Sports 1 SD - Opción 2 ✅
-http://179.51.136.19:8000/play/a18m/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a18m/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Claro Sports 2 SD ✅
-http://179.51.136.19:8000/play/a16q/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a16q/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Claro Sports 2 SD - Opción 2 ✅
-http://179.51.136.19:8000/play/a16q/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a16q/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,DSPORTS ✅
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,DSPORTS - Opción 2 ✅
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,DSPORTS 2 ✅
-http://179.51.136.19:8000/play/a112/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a112/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,DSPORTS 2 - Opción 2 ✅
-http://179.51.136.19:8000/play/a112/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a112/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Dubai Sport 2 ✅
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8  # Fecha: 2025-10-11 16:23
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Dubai Sport 3 ✅
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8  # Fecha: 2025-10-11 16:23
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Dubai Sports 2 FHD ✅
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8  # Fecha: 2025-10-11 16:23
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Dubai Sports 2 FHD - Opción 2 ✅
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8  # Fecha: 2025-10-11 16:23
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Dubai Sports 3 FHD ✅
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8  # Fecha: 2025-10-11 16:23
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Dubai Sports 3 FHD - Opción 2 ✅
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,FOX SPORT ✅
-http://190.61.117.35:8000/play/a05n  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Fox Sport 3 ✅
-http://179.51.136.19:8000/play/a0ul/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Fox Sport 3 - Opción 2 ✅
-http://179.51.136.19:8000/play/a0ul/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Fox Sport2 ✅
-http://181.78.23.26:45000/play/a01r  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Fox Sport3 ✅
-http://181.78.23.26:45000/play/a01s  # Fecha: 2025-10-11 16:23
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN HD ✅
+http://181.119.85.222:8000/play/a01q/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN - Opción 2 ✅
+http://181.119.86.68:8000/play/b031/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 1 ✅
+http://181.205.130.194:4000/play/a07j  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 2 ✅
+http://181.78.23.26:45000/play/a00m  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 2 HD - Opción 2 ✅
+http://45.176.71.20:1689/play/a0cx  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 2 Latin ✅
+http://181.78.23.26:45000/play/a01h  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 3 HD ✅
+http://138.0.228.250:44380/play/a00q/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 3 - Opción 2 ✅
+http://181.119.86.68:8000/play/b033/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 4 ✅
+http://181.78.106.127:9000/play/ca036/index.m3u8 HD  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 4 - Opción 2 ✅
+http://181.119.85.222:8000/play/a00j/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 4HD ✅
+http://45.176.71.20:1689/play/a0hm  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 4HD - Opción 2 ✅
+http://45.176.71.20:1689/play/a0hm  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 5 HD ✅
+http://181.119.85.222:8000/play/a02a/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 5 HD - Opción 2 ✅
+http://181.119.85.222:8000/play/a02a/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 5HD ✅
+http://179.51.136.19:8000/play/a1a6/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 5HD - Opción 2 ✅
+http://179.51.136.19:8000/play/a1a6/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 6 ✅
+http://181.119.86.68:8000/play/b030/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 6 - Opción 2 ✅
+http://181.205.130.194:4000/play/a07t  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 6 mx ✅
+http://190.60.32.178:8178/play/a0aa/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 6 MX - Opción 2 ✅
+http://200.60.124.19:29000/play/a01f  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 6HD ✅
+http://45.176.71.20:1689/play/a0ho  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 6HD - Opción 2 ✅
+http://179.51.136.19:8000/play/a1ai/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 7 ✅
+http://181.119.86.68:8000/play/b029/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 7 - Opción 2 ✅
+http://181.119.85.222:8000/play/a00k/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 7 mx ✅
+http://181.205.130.194:4000/play/a07s  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 7HD ✅
+http://45.176.71.20:1689/play/a0oo  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN 7HD - Opción 2 ✅
+http://45.176.71.20:1689/play/a0oo  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN CO ✅
+http://181.78.23.26:45000/play/a02p  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN Premium HD - Opción 2 ✅
+http://179.51.136.19:8000/play/a1ar/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN2 ✅
+http://181.78.106.127:9000/play/ca034/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN3 ✅
+http://181.78.106.127:9000/play/ca035/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN4 ✅
+http://181.119.86.68:8000/play/b005/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN4 - Opción 2 ✅
+http://181.119.86.68:8000/play/b005/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN5 ✅
+http://200.60.124.19:29000/play/a04y  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ESPN6 ✅
+http://200.125.170.123:8000/play/a05y  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Fox Sports ✅
-http://181.78.106.127:9000/play/ca031/index.m3u8  # Fecha: 2025-10-11 16:23
+http://181.78.106.127:9000/play/ca031/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Fox Sports 2 ✅
-http://181.78.106.127:9000/play/ca032/index.m3u8  # Fecha: 2025-10-11 16:23
+http://181.78.106.127:9000/play/ca032/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Fox Sports 3 HD ✅
-http://45.176.71.20:1689/play/a0cw  # Fecha: 2025-10-11 16:23
+http://45.176.71.20:1689/play/a0cw  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Fox Sports 3 HD - Opción 2 ✅
-http://45.176.71.20:1689/play/a0cw  # Fecha: 2025-10-11 16:23
+http://45.176.71.20:1689/play/a0cw  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Movistar Deportes ✅
-http://179.51.136.19:8000/play/a0zj/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a0zj/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Movistar Deportes - Opción 2 ✅
-http://179.51.136.19:8000/play/a0zj/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Nova Sport 2 HD ✅
-http://78.130.250.2:8023/play/a004/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Teletrak ✅
-https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?null=0  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Teletrak - Opción 2 ✅
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a0zj/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Tigo sports ✅
-http://181.78.106.127:9000/play/ca038/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,TNT SPORTS ✅
-http://179.51.136.19:8000/play/a1im/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,TNT SPORTS HD - Opción 2 ✅
-http://179.51.136.19:8000/play/a0px/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,TNT Sports Premiun HD ✅
-http://179.51.136.19:8000/play/a16a/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,TNT Sports Premiun HD - Opción 2 ✅
-http://179.51.136.19:8000/play/a16a/index.m3u8  # Fecha: 2025-10-11 16:23
+http://181.78.106.127:9000/play/ca038/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,tyc ✅
+http://181.78.23.26:45000/play/a04m  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,TyC Sports ✅
-http://179.51.136.19:8000/play/a1h0/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1h0/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,TyC Sports - Opción 2 ✅
-http://179.51.136.19:8000/play/a1h0/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1h0/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Universo Sports ✅
-http://181.78.106.127:9000/play/ca088/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Valparaiso Sporting | CL ✅
-https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 16:23
+http://181.78.106.127:9000/play/ca088/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Via X Esports ✅
-http://179.51.136.19:8000/play/a1h1/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1h1/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Via X Esports - Opción 2 ✅
-http://181.78.201.70:8000/play/a0ig/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:-1,Win Sport+ HD ✅
-http://181.78.23.26:45000/play/a03d  # Fecha: 2025-10-11 16:23
+http://181.78.201.70:8000/play/a0ig/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Win Sports+ ✅
-http://179.51.136.19:8000/play/a1it/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1it/index.m3u8  # Fecha: 2025-10-11 19:10
 #EXTINF:-1,Win Sports+ - Opción 2 ✅
-http://179.51.136.19:8000/play/a1bp/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,ACI Sport (Italia) (🇮🇹)
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Adventure Sports (UK) (🇬🇧)
-https://tinyurl.com/2fw79tx8?.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,America Sports (Argentina) (🇦🇷)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/AMERICASPORTS/__op/hls-default/__f/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Arena Sport 1 (Eslovaquia) (🇸🇰)
-http://78.130.250.2:8023/play/a02o/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Auto Motor Sport (Alemania) (🇩🇪)
-https://tinyurl.com/33upthx3?.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,AYM Sports (Mexico) (🇲🇽)
-https://aym-as.otteravision.com/aym/as/as.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Bahrain Sports 1 (Barein) (🇧🇭)
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Bahrain Sports 2 (Barein) (🇧🇭)
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Bein Sports (USA) (🇺🇸)
-https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Bein Sports Xtra Ñ (España) (🇪🇸)
-https://tinyurl.com/yc6az36h?.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,BEK Sports West (USA) (🇺🇸)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Campus Lore Sports (USA) (🇺🇸)
-https://linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Campus Lore Sports (USA) (🇺🇸)
-https://tinyurl.com/4t54ftdy?.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,CBS Sports Network (USA) (🇺🇸)
-https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Dubai Sports 1 (Emiratos) (🇦🇪)
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Dubai Sports 2 (Emiratos) (🇦🇪)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Dubai Sports 3 (Emiratos) (🇦🇪)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Eleven Sports 1 (Polonia) (🇵🇱)
-http://185.236.229.62:9981/play/a05w/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Eleven Sports 2 (Polonia) (🇵🇱)
-http://185.236.229.62:9981/play/a05y/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,ESPN Deportes (España) (🇪🇸)
-http://190.92.10.66:4000/play/a003/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Esportes Brasilia (Brasil) (🇧🇷)
-https://a.cdni.live/radioesporte/radioesporte/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,ESR eSports Network (USA) (🇺🇸)
-https://eyeonesports.com/ES2RA-628g.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,ETB Deportes (España) (🇪🇸)
-https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Eurosport 1 (España) (🇪🇸)
-http://185.189.225.157/EuroSport1/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Eurosport 1 (Polonia/UK) (🇵🇱🇬🇧)
-http://109.233.89.166/Eurosport_1_HD/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Eurosport 1 (Rusia/UK) (🇷🇺🇬🇧)
-http://45.159.74.14:80/Eurosport/playlist.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Eurosport 2 (España) (🇪🇸)
-http://185.189.225.157/EuroSport2/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Eurosport 2 (Polonia/UK) (🇵🇱🇬🇧)
-http://109.233.89.166/Eurosport_2_HD/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Eurosports 2 (UK) (🇬🇧)
-http://175.107.244.52:4457/play/a06w/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Fight Sports (USA) (🇺🇸)
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,FOX Deportes (España) (🇪🇸)
-http://181.78.105.146:2000/play/a093/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,FOX Sports (España) (🇪🇸)
-http://181.78.106.127:9000/play/ca031/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,FOX Sports (Mexico) (🇲🇽)
-http://200.115.120.1:8000/play/ca041/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,FOX Sports (USA) (🇺🇸)
-https://apollo.production-public.tubi.io/live/fox-sports.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,FOX Sports 1 (España) (🇪🇸)
-http://191.52.214.5:8000/play/a03u/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,FOX Sports Espanol (Mexico) (🇲🇽)
-https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,FOX Sports Español (España) (🇪🇸)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,FS1 (USA) (🇺🇸)
-https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,FS2 (USA) (🇺🇸)
-https://fl5.moveonjoy.com/FOX_Sports_2/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Horizon Sports (Italia) (🇮🇹)
-https://tinyurl.com/4trh5j6f?.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Horizon Sports (USA) (🇺🇸)
-https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Info Sport (Francia) (🇫🇷)
-http://212.102.60.80/Infosport/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,J Sports 1 (Japon) (🇯🇵)
-https://tinyurl.com/5dfffzru?.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,J Sports 2 (Japon) (🇯🇵)
-https://tinyurl.com/bdzhztdh?.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,J Sports 3 (Japon) (🇯🇵)
-https://tinyurl.com/5e3h4ayy?.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,J Sports 4 (Japon) (🇯🇵)
-https://tinyurl.com/4fb2xbsp?.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,LSN Lax Sports Network (USA) (🇺🇸)
-https://1840769862.rsc.cdn77.org/FTF/LSN.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,M-Net Sport (Macedonia) (🇲🇰)
-http://ares.mnet.mk/hls/mnet-sport.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,MAV Motor Sports (Canada) (🇨🇦)
-https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Oman Sports (Oman) (🇴🇲)
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Polsat Sport 1 (Polonia) (🇵🇱)
-http://178.219.128.68:64889/POLSSPORHD  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Sky Sports Bundesliga (España) (🇪🇸)
-http://190.92.10.66:4000/play/a006/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Solo Calcio (Italia) (🇮🇹)
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Sport (Italia) (🇮🇹)
-https://is.gd/6f1ShU?.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Sport Digital (Suiza) (🇨🇭)
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Sport Ext (Chile) (🇨🇱)
-https://marine2.miplay.cl/sportext/playlist.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Sport Italia (Italia) (🇮🇹)
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Sport Italia 24 (Italia) (🇮🇹)
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Sports Connect (Sudafrica) (🇿🇦)
-https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Star Sports 1 (India) (🇮🇳)
-http://41.205.93.154/STARSPORTS1/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,TEN Sports (Pakistan) (🇵🇰)
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Tigo Sports (Paraguay) (🇵🇾)
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,TNT Sports 1 (USA) (🇺🇸)
-http://175.107.244.52:4457/play/a070/index.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,TR Sport (Italia) (🇮🇹)
-https://livetr.teleromagna.it/mia/live/playlist.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Trace Sport Stars (USA) (🇺🇸)
-http://49.0.64.96:8007/Trace  # Fecha: 2025-10-11 16:23
-#EXTINF:0,Womens Sports Network (USA) (🇺🇸)
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8  # Fecha: 2025-10-11 16:23
-#EXTINF:0,X Sport+ (Ucrania) (🇺🇦)
-http://45.143.108.104:80/XSPORT_SD/index.m3u8  # Fecha: 2025-10-11 16:23
+http://179.51.136.19:8000/play/a1bp/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1569" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png", CHV Deportes ✪ | CL
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 COL (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 COL (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 1 CHI (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 CHI (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 1 CHI (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 CHI (PM)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 1 ARG (T)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="DEPORTES - Espn 1 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 1 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="DEPORTES - Espn 1 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 1 MEX (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="DEPORTES - Espn 1 MEX (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 2 ARG (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 2 ARG (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="DEPORTES - Espn 2 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="DEPORTES - Espn 2 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 COL (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 2 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 MEX (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 2 MEX (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 MEX (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 3 COL (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 COL (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar" tvg-name="DEPORTES - Espn 3 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 3 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.3.HDTV.North.(Latin.America).(ESPN3HD).mx" tvg-name="DEPORTES - Espn 3 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="DEPORTES - Espn 3 MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn 4 MEX (M)(1080)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 4 MEX (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.4.Latin.America.HDTV.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-name="DEPORTES - Espn 4 (T)(720)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 4 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="DEPORTES - Espn 5 (M)(1080)" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 5 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="DEPORTES - Espn 5 (TV)(720)" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 5 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="DEPORTES - Espn 6 (Z)(720)" tvg-logo="https://i.postimg.cc/XJYFwDsj/Proyecto-X-19.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 6 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - ESPN 7 (e)(1080)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN 7 (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="DEPORTES - Espn 7 (PM)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 7 (PM)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - ESPN 7 (e)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN 7 (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-name="DEPORTES - Espn Deportes (MEX) (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Deportes (MEX) (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="DEPORTES - Espn Extra ARG (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Extra ARG (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="DEPORTES - Espn Premium ARG (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Premium ARG (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn Extra MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Extra MEX (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn Deportes MEX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Deportes MEX (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-name="DEPORTES - ESPN Premium ARG (L)(SD)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-name="DEPORTES - ESPN Premium ARG (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(English).(beIn).us" tvg-name="DEPORTES - beIN Sport USA (M)(720)" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sport USA (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Xtra Ñ (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Ñ (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Ñ (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Ñ (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Ñ (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Claro Sports (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="CANALES-DEPORTES",DEPORTES - Claro Sports (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Claro Sports 2 (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="CANALES-DEPORTES",DEPORTES - Claro Sports 2 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DEPORTES - Directv Sports 1 (ARG) (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 (ARG) (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.Chile.cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 CHI (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 ECU (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 ECU (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (e)(1080)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.2.(DTS2).co" tvg-name="DEPORTES - Directv Sports 2 (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 ARG (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 ARG (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.Fight(DTSFHD).co" tvg-name="DEPORTES - Directv Sports Fight (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports Fight (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSports.Motor.dtvsp" tvg-name="DEPORTES - Directv Sports Motors (TV)(720)" tvg-logo="https://i.postimg.cc/4N481KNM/Dsports-Motors.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports Motors (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-name="DEPORTES - Fight BOX  (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png" group-title="CANALES-DEPORTES",DEPORTES - Fight BOX  (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Deportes (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="QVC3.(QVC3).us" tvg-name="DEPORTES - FOX DEPORTES (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="CANALES-DEPORTES",DEPORTES - FOX DEPORTES (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-name="DEPORTES - Fox Sports 1 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-name="DEPORTES - Fox Sports 1 ARG (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FOX.Sports.2.HD(FSP2HD).co" tvg-name="DEPORTES - Fox Sports 1 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 COL (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 1 LAT (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 LAT (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.Latin.America.HDTV.(Cono.Norte).(FOXSPHD).mx" tvg-name="DEPORTES - Fox Sports 1 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 MEX (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 2  LAT (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2  LAT (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Fox Sports 2 ARG (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.Latin.America.(FOXSP2HD).ar" tvg-name="DEPORTES - Fox Sports 2 ARG (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FOX.Sports.2.HD(FSP2HD).co" tvg-name="DEPORTES - Fox Sports 2 COL (TV)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 COL (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).mx" tvg-name="DEPORTES - Fox Sports 2 MEX (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MEX (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).mx" tvg-name="DEPORTES - Fox Sports 2 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MEX (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 2 MX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MX (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 3 (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).ar" tvg-name="DEPORTES - Fox Sports 3 ARG (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 ARG (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FOX.Sports.3.HD(FXS3HD).co" tvg-name="DEPORTES - Fox Sports 3 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 ARG (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FOX.Sports.3.HD(FXS3HD).co" tvg-name="DEPORTES - Fox Sports 3 COL (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 COL (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Fox Sports 3 MEX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MEX (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 3 MX (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MX (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="DEPORTES - Fox Sports Premium MX (L)(720)" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports Premium MX (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="GOL.TV.uy" tvg-name="DEPORTES - Gol TV ES (M)(720)" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="CANALES-DEPORTES",DEPORTES - Gol TV ES (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Gol.TV.USA.us" tvg-name="DEPORTES - Gol TV Internacional (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="CANALES-DEPORTES",DEPORTES - Gol TV Internacional (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="DEPORTES - NBA U (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png" group-title="CANALES-DEPORTES",DEPORTES - NBA U (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Sky sports (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-x_CIVSy5Fzg/YkytpLNmlVI/AAAAAAAADek/5sv89DCrHMofx0iph8leofRZIbMQZHyEACNcBGAsYHQ/w200-h200/1649192355948000-0.png" group-title="CANALES-DEPORTES",DEPORTES - Sky sports (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports Bundesliga (Z)" tvg-logo="https://i.postimg.cc/HLzWrYdb/Proyectox-sky-sports.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports Bundesliga (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-name="DEPORTES - SKY Sports La liga (TV)(720)" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports La liga (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="DEPORTES - Tennis Channel (L)(720)" tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png" group-title="CANALES-DEPORTES",DEPORTES - Tennis Channel (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEPORTES - TUDN - USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - USA (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.TVC.Deportes.mx" tvg-name="DEPORTES - TVC Deportes (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-fpt6Sm7APZ4/Xay_XGDKQ5I/AAAAAAAAAjw/--9czPX3msMJpPDjQcQx7FqDjyNMyPJfQCLcBGAsYHQ/s200/12.png" group-title="CANALES-DEPORTES",DEPORTES - TVC Deportes (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar" tvg-name="DEPORTES - TyC Sports INT (T)(720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar" tvg-name="DEPORTES - TyC Sports INT (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - UFC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="CANALES-DEPORTES",DEPORTES - UFC (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-name="DEPORTES - UFC Fight PASS (T)(720)" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="CANALES-DEPORTES",DEPORTES - UFC Fight PASS (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="DEPORTES - WWE  (T)(720)" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png" group-title="CANALES-DEPORTES",DEPORTES - WWE  (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="DEPORTES - WWE (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png" group-title="CANALES-DEPORTES",DEPORTES - WWE (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TyC Sports Local (L)(SD)" tvg-logo="http://23.153.216.121:25461/images/dc9f4c2291724375736a7d74ec88237d.png" group-title="ARGENTINA",ARG-TyC Sports Local (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-name="ARG-TYC Sports Local (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/dc9f4c2291724375736a7d74ec88237d.png" group-title="ARGENTINA",ARG-TYC Sports Local (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Tigo Sports (T)(720)" tvg-logo="http://l3d.us:8080/images/1e07aa6fbec1107166ed2353f2db8230.png" group-title="COSTARICA",CR-Tigo Sports (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Tigo Sports 1 (1080)(M)" tvg-logo="" group-title="COSTARICA",CR-Tigo Sports 1 (1080)(M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Claro Sports GT (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/3c59dc048e8850243be8079a5c74d079.png" group-title="GUATEMALA",GUA-Claro Sports GT (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Tigo Sport + (TV)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="GUATEMALA",GUA-Tigo Sport + (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Tigo Sports GT (Z)(1080)" tvg-logo="http://23.153.216.121:25461/images/c7424ad5d064a8515217042b168cf098.png" group-title="GUATEMALA",GUA-Tigo Sports GT (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Cable Onda Sports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-kZx7luoYfVI/X0g_Fu8rlyI/AAAAAAAABOA/wCZaINRGrsQbqaap8dHnxtbmE79ZtlGWgCLcBGAsYHQ/w200-h200/COS.png" group-title="PANAMA",PAN-Cable Onda Sports (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Cable Onda Sports (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-kZx7luoYfVI/X0g_Fu8rlyI/AAAAAAAABOA/wCZaINRGrsQbqaap8dHnxtbmE79ZtlGWgCLcBGAsYHQ/w200-h200/COS.png" group-title="PANAMA",PAN-Cable Onda Sports (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Cable Onda Sports (TV)(720)" tvg-logo="http://www.tvdigital.digital:80/images/aa14da9e47244d062e2191261f579d2d.png" group-title="PANAMA",PAN-Cable Onda Sports (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Cable Onda Sports FC (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ahxh6hpJLxM/X0g-IZuTc_I/AAAAAAAABN0/LAsJQzbLvo4frzt0j5Msm0aXStTDcN_ugCLcBGAsYHQ/w200-h200/COS%2BFC.png" group-title="PANAMA",PAN-Cable Onda Sports FC (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Cable Onda Sports FC (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ahxh6hpJLxM/X0g-IZuTc_I/AAAAAAAABN0/LAsJQzbLvo4frzt0j5Msm0aXStTDcN_ugCLcBGAsYHQ/w200-h200/COS%2BFC.png" group-title="PANAMA",PAN-Cable Onda Sports FC (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Tigo Sports Panama (M)(720)" tvg-logo="https://1.bp.blogspot.com/-IDav7Vp-Z2E/X3JubZhPwlI/AAAAAAAABn4/Cy7FSTJ0HUwmDws0sC8I_i5jCND6DlWoACLcBGAsYHQ/w200-h200/Tigo%2BSports%2Bhomduras.png" group-title="PANAMA",PAN-Tigo Sports Panama (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Tigo Sports Panama (M)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/c7424ad5d064a8515217042b168cf098.png" group-title="PANAMA",PAN-Tigo Sports Panama (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Deportes (L)(720)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="PERU",PER-Movistar Deportes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Deportes (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="PERU",PER-Movistar Deportes (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.Premium.HD(Win+HD).co" tvg-name="COL PPV 1 - (1080)" tvg-logo="https://i.postimg.cc/0jbbYF3T/PPV1.png" group-title="COLOMBIA",COL PPV 1 - (1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="COL-Claro Sports (M)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="COLOMBIA",COL-Claro Sports (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="COL-Directv Sports (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="COLOMBIA",COL-Directv Sports (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="COL-WinSports + (L)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.Premium(Win+).co" tvg-name="COL-WinSports + (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="COL-WinSports + (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Directv Sports 1 UY (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="URUGUAY",URU-Directv Sports 1 UY (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="ECU-Directv Sports (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="ECUADOR",ECU-Directv Sports (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co" tvg-name="ECU-Directv Sports (e)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="ECUADOR",ECU-Directv Sports (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Espn 1 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CHILE",CHI-Espn 1 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.7.Latin.America.HDTV.(Cono.Sur).(FOXSP2HD).cl" tvg-name="CHI-Espn 2 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CHILE",CHI-Espn 2 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="CHI-Espn 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CHILE",CHI-Espn 2 (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-ESPN Premium CL (PM)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CHILE",CHI-ESPN Premium CL (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-ESPN Premium CL (PM)(720)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CHILE",CHI-ESPN Premium CL (PM)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Fox Sports 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="CHILE",CHI-Fox Sports 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="CHILE [GEO BLOQUEO]",Claro Sports  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Chile" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="CHILE [GEO BLOQUEO]",Claro Sports Chile  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-TVC Deportes (L)(720)" tvg-logo="" group-title="HONDURAS",HON-TVC Deportes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN 2 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN Brasil (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN Brasil (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN Extra (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN Extra (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fox Sports 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fox Sports 2 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fox Sports (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fox Sports (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Band Sports (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Band Sports (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PR-Wapa Deportes (T)(720)" tvg-logo="" group-title="PUERTO RICO",PR-Wapa Deportes (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-Winsports + (T)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-Winsports + (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.Premium.HD(Win+HD).co" tvg-name="COL-Winsport + (T)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-Winsport + (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="COL-Claro Sports Colombia (HD)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="COLOMBIA",COL-Claro Sports Colombia (HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-ESPN CL(e)(SD)" tvg-logo="" group-title="CHILE",CHI-ESPN CL(e)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Espn Premium (e)(SD)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CHILE",CHI-Espn Premium (e)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(SD)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="MEXICO",MEX-Azteca Deportes (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(720)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="MEXICO",MEX-Azteca Deportes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Aym Sports (M)(720)" tvg-logo="https://1.bp.blogspot.com/-e9y9a28jbXM/Xg-MrwQCrJI/AAAAAAAAA6I/pOByATddwpU3laULegV5jkTZjwE2gqxIACLcBGAsYHQ/s200/24.png" group-title="MEXICO",MEX-Aym Sports (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVC Deportes (L)(SD)" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png" group-title="MEXICO",MEX-TVC Deportes (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVC Deportes (L)(720)" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png" group-title="MEXICO",MEX-TVC Deportes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (Orange)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (Orange)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (HEVC)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (HEVC)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 5 SD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_5.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 5 SD (Solo Eventos)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 7 (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_7.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 7 (Solo Eventos)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 8 (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_8.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 8 (Solo Eventos)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BOL-Tigo Sports 1 (TV)(720) (Solo Eventos)" tvg-logo="https://i.ibb.co/qjQkshS/tigobolivia.png" group-title="BOLIVIA",BOL-Tigo Sports 1 (TV)(720) (Solo Eventos)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BOL-Tigo Sports 2 (TV)(720) (Solo Eventos)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/tigosports.png" group-title="BOLIVIA",BOL-Tigo Sports 2 (TV)(720) (Solo Eventos)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BOL-Bolivia Deportes (TV)(720)" tvg-logo="http://swedtv.net:8080/images/7d2c1d088955c9ca1180bb21f4f78373.png" group-title="BOLIVIA",BOL-Bolivia Deportes (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga (TV)(Fibra Multi-Comentaristas)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EVENTOS PPV MUNDIAL",ES: M. LaLiga (TV)(Fibra Multi-Comentaristas)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga (TV) (4K)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EVENTOS PPV MUNDIAL",ES: M. LaLiga (TV) (4K)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="LALIGA.TV.BAR.es" tvg-name="ES: M. LaLiga (TV)(1080)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga.png" group-title="EVENTOS PPV MUNDIAL",ES: M. LaLiga (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Hypermotion (TV)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EVENTOS PPV MUNDIAL",ES: Liga Hypermotion (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Hypermotion 2 (TV)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EVENTOS PPV MUNDIAL",ES: Liga Hypermotion 2 (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga Hypermotion 3 (TV)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/LaLiga_Hypermotion.png" group-title="EVENTOS PPV MUNDIAL",ES: Liga Hypermotion 3 (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn La Liga 1 (TV)(720)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EVENTOS PPV MUNDIAL",ES: Dazn La Liga 1 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn La Liga 1 (TV)(1080)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EVENTOS PPV MUNDIAL",ES: Dazn La Liga 1 (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn La Liga 2 (TV)(1080)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/DAZN_La_Liga.png" group-title="EVENTOS PPV MUNDIAL",ES: Dazn La Liga 2 (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 3 (TV)(1080)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/Dazn.png" group-title="EVENTOS PPV MUNDIAL",ES: Dazn 3 (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SAL-Tigo Sports (TV)(SD)" tvg-logo="" group-title="SALVADOR",SAL-Tigo Sports (TV)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="UK | S-Ky Sports Bundesliga" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1024x219.png" group-title="CANALES-DEPORTES",UK | S-Ky Sports Bundesliga  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-ITV Deportes" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="MEXICO-LOCAL",MEX-ITV Deportes  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.ESPN.(Ecuador).ec" tvg-name="DEPORTES - ESPN Premium CL (PM)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium CL (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - ESPN Premium CL (PM)(720)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium CL (PM)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 1 (TV)(720)" tvg-logo="https://docdog.top/logo/countries/norway/eurosport.png" group-title="ESPAÑA",ESP - Eurosport 1 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 2 (TV)(720)" tvg-logo="https://docdog.top/logo/countries/norway/eurosport.png" group-title="ESPAÑA",ESP - Eurosport 2 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Deportes (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ESPAÑA",ESP - M. Deportes (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Teledeporte (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/dca55d4c00daa95a5856ecc9530fbc0d.png" group-title="ESPAÑA",ESP - Teledeporte (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-SPORTS NET 360 HD (L)" tvg-logo="http://live.detodotvplay.com:8080/images/46d3a8a08eb2cf06479b866ce87ba5b2.png" group-title="CANADA PREMIUM",CAN-SPORTS NET 360 HD (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-SPORTS NET EAST HD (L)" tvg-logo="" group-title="CANADA PREMIUM",CAN-SPORTS NET EAST HD (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-SPORTS NET ONTARIO HD (L)" tvg-logo="" group-title="CANADA PREMIUM",CAN-SPORTS NET ONTARIO HD (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-SPORTS NET WEST HD (L)" tvg-logo="" group-title="CANADA PREMIUM",CAN-SPORTS NET WEST HD (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-TSN SPORTS 1 (L)" tvg-logo="http://23.153.216.121:25461/images/e332e5181d3415c55225f406583c4d2d.png" group-title="CANADA PREMIUM",CAN-TSN SPORTS 1 (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-TSN SPORTS 2 (L)" tvg-logo="http://23.153.216.121:25461/images/e324ca08ff1b5d24373901863302eecb.png" group-title="CANADA PREMIUM",CAN-TSN SPORTS 2 (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-TSN SPORTS 3 (L)" tvg-logo="http://23.153.216.121:25461/images/e332e5181d3415c55225f406583c4d2d.png" group-title="CANADA PREMIUM",CAN-TSN SPORTS 3 (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-TSN SPORTS 4 (L)" tvg-logo="http://23.153.216.121:25461/images/06307c61c6134686ec199342a7ff423f.png" group-title="CANADA PREMIUM",CAN-TSN SPORTS 4 (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-TSN SPORTS 5 (L)" tvg-logo="http://23.153.216.121:25461/images/1ad19be89a6ed3a66a7050db2d47a0f0.png" group-title="CANADA PREMIUM",CAN-TSN SPORTS 5 (L)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Eleven Sports Networks (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/ELEVEN-Sports-NETWORK-RGB.png" group-title="USA-NEWS/MISC",USA-Eleven Sports Networks (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-AT&T SportsNet Pitsburgh (L)(720)" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/842/2017/06/09205755/att-pitts-splash.png" group-title="USA-SPORTS",USA-AT&T SportsNet Pitsburgh (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-AT&T SportsNet Southwest (L)(720)" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/843/2017/06/09210052/att-sw-splash.png" group-title="USA-SPORTS",USA-AT&T SportsNet Southwest (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports (L)(720)" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c785b6a93ac5824646c67f4/original/square/25.png" group-title="USA-SPORTS",USA-BEIN Sports (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports 4 (L)(720)" tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/beIN-Sports-logo-4-1024x389.png" group-title="USA-SPORTS",USA-BEIN Sports 4 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports 5 (L)(720)" tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" group-title="USA-SPORTS",USA-BEIN Sports 5 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports 6 (L)(720)" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png" group-title="USA-SPORTS",USA-BEIN Sports 6 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports 7 (L)(720)" tvg-logo="https://video.toggle.sg/image/10607094/16x9/947/533/7e72b84cee8ed6382e680e7b2c49935b/St/bein-Sports-max-7.png" group-title="USA-SPORTS",USA-BEIN Sports 7 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports 8 (L)(720)" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c86e6d5a775d3246996a182/original/square/25.png" group-title="USA-SPORTS",USA-BEIN Sports 8 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-BEIN Sports XTRA (L)(720)" tvg-logo="https://www.beinSportsxtra.com/images/icons/logo/beIN-Sports-XTRA_LOGO.png" group-title="USA-SPORTS",USA-BEIN Sports XTRA (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Fox Deportes (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png" group-title="USA-SPORTS",USA-Fox Deportes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FS1 (L)(720)" tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-Sports-fs1-logo-white.png" group-title="USA-SPORTS",USA-FS1 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FS2 (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA-SPORTS",USA-FS2 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Fubo Sports Network (L)(720)" tvg-logo="https://www.fubo.tv/stream/static/3d6c964891db478aa06dd7c46f3739c8/7c6a9/logo-fubo-Sports-network.png" group-title="USA-SPORTS",USA-Fubo Sports Network (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MASN (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="USA-SPORTS",USA-MASN (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MASN 2 (L)(720)" tvg-logo="https://adma.tmsimg.com/assets/s55433_ll_h9_aa.png" group-title="USA-SPORTS",USA-MASN 2 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Motortrend (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1200px-Motor_Trend_logo.svg.png" group-title="USA-SPORTS",USA-Motortrend (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG (L)(720)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/msg-logo-png-transparent.png" group-title="USA-SPORTS",USA-MSG (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBA TV (L)(720)" tvg-logo="https://www.Sportsmediawatch.com/wp-content/uploads/2017/07/nba-logo.png" group-title="USA-SPORTS",USA-NBA TV (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Sports Bay Area (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/NBC_Sports_Bay_Area.png" group-title="USA-SPORTS",USA-NBC Sports Bay Area (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Sports Philadelphia Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/ce3bc7ed47d99697c8e8e317d8eacaae.png" group-title="USA-SPORTS",USA-NBC Sports Philadelphia Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Sports Washington (L)(720)" tvg-logo="https://www.nbcSports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/washington/2017/08/23/nbcswas_pri_fc_pos.png" group-title="USA-SPORTS",USA-NBC Sports Washington (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Sports Washington Plus (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="USA-SPORTS",USA-NBC Sports Washington Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NESN (L)(720)" tvg-logo="https://nesn.com/wp-content/uploads/sites/5/2021/02/nesn_logo.png" group-title="USA-SPORTS",USA-NESN (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NESN PLUS (L)(720)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nesn-plus.png" group-title="USA-SPORTS",USA-NESN PLUS (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NFL Network (L)(720)" tvg-logo="https://www.netclipart.com/pp/m/351-3514505_vector-nfl-logo-png-nfl-network-logo-png.png" group-title="USA-SPORTS",USA-NFL Network (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-SEC Network (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png" group-title="USA-SPORTS",USA-SEC Network (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-SNY (L)(720)" tvg-logo="https://png.pngitem.com/pimgs/s/244-2442993_sny-logo-png-transparent-png.png" group-title="USA-SPORTS",USA-SNY (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Spectrum News 1 (L)(720)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/spectrum-news.png" group-title="USA-SPORTS",USA-Spectrum News 1 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-SPECTRUM Sports NET LA Dodgers (L)(720)" tvg-logo="https://logos.xbots.com.mx/41042.png" group-title="USA-SPORTS",USA-SPECTRUM Sports NET LA Dodgers (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Spectrum Sportsnet Lakers (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" group-title="USA-SPORTS",USA-Spectrum Sportsnet Lakers (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-SportsMAN Channel (L)(720)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/Sportsman-can.png" group-title="USA-SPORTS",USA-SportsMAN Channel (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Stadium (L)(720)" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="USA-SPORTS",USA-Stadium (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-T-UDN USA (L)(720)" tvg-logo="https://logos.xbots.com.mx/41040.png" group-title="USA-SPORTS",USA-T-UDN USA (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-YES Network (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/800px-YES_Network_logo.svg.png" group-title="USA-SPORTS",USA-YES Network (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-Sportsnet 360 (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Sportsnet 360 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-Sportsnet East (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Sportsnet East (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-Sportsnet Ontario (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Sportsnet Ontario (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-Sportsnet Pacific (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Sportsnet Pacific (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-Sportsnet West (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Sportsnet West (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-Bein Sports (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Bein Sports (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CAN-TVA Sports (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-TVA Sports (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ESPN (L)(720)" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="USA-SPORTS",USA-ESPN (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ESPN 2 (L)(720)" tvg-logo="https://logos.xbots.com.mx/espn2.png" group-title="USA-SPORTS",USA-ESPN 2 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ESPN Deportes (L)(720)" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="USA-SPORTS",USA-ESPN Deportes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ESPN U (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="USA-SPORTS",USA-ESPN U (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-ESPNews (L)(720)" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="USA-SPORTS",USA-ESPNews (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX Soccer PLUS (L)(720)" tvg-logo="https://tmsimg.fancybits.co/assets/s66880_ll_h3_aa.png" group-title="USA-SPORTS",USA-FOX Soccer PLUS (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-MLB Network (L)(720)" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2011/09/mlbnetworklogo.png" group-title="USA-SPORTS",USA-MLB Network (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-NHL Network (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/ZnoOU1h0YuL0kABn-QOHYEwW4jnbE64gH_UtXz_5d3YzMhLCw1et80UfrR3mJhM0hkuq4xDjmnuw8xWJIyyH9Li4GaFMmsl7g8RFZWgDFTVjy0RlDHBQ3Xmp9M7idjtkU8nZE2_2Ia1jhPv12dZ2NA.png" group-title="USA-SPORTS",USA-NHL Network (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally New Orleans Plus (L)(720)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bally-sports-new-orleans-plus-us.png" group-title="USA-SPORTS",USA-Bally New Orleans Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally South plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/1dafc83cd50169f7005443f7a71173fd.png" group-title="USA-SPORTS",USA-Bally South plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Detroit (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Detroit (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Detroit Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Detroit Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Florida (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Florida (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Great Lakes (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Great Lakes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Indiana (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Indiana (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Kansas City (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Kansas City (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Kansas City Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Kansas City Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports MidWest (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports MidWest (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Midwest Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Midwest Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports New Orleans (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports New Orleans (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports North (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports North (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports North Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports North Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Ohio (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Ohio (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Ohio Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Ohio Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Oklahoma (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Oklahoma (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Oklahoma Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Oklahoma Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports SoCal (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/71584b04f15b22dcce0447673a00a813.png" group-title="USA-SPORTS",USA-Bally Sports SoCal (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports South (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports South (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports SouthEast (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports SouthEast (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Southwest (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/99c4a598201a116684c7e8fb1e8017bf.png" group-title="USA-SPORTS",USA-Bally Sports Southwest (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Southwest Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Southwest Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Sun (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Sun (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports West (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports West (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Wisconsin (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Wisconsin (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bally Sports Wisconsin Plus (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/c72bfa33fb307c26bbb2b3e8c87c5db1.png" group-title="USA-SPORTS",USA-Bally Sports Wisconsin Plus (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 COL (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 COL (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 1 CHI (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 CHI (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Espn 1 CHI (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 CHI (PM)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 1 ARG (T)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="DEPORTES - Espn 1 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 1 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="DEPORTES - Espn 1 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 1 MEX (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="DEPORTES - Espn 1 MEX (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 2 ARG (e)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 2 ARG (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Latin.South.Sur.(ESPNS).ar" tvg-name="DEPORTES - Espn 2 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 ARG (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="DEPORTES - Espn 2 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 COL (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 2 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 MEX (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Espn 2 MEX (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 MEX (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 3 COL (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 COL (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar" tvg-name="DEPORTES - Espn 3 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Espn 3 ARG (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 ARG (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.3.HDTV.North.(Latin.America).(ESPN3HD).mx" tvg-name="DEPORTES - Espn 3 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="DEPORTES - Espn 3 MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn 4 MEX (M)(1080)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 4 MEX (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.4.Latin.America.HDTV.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-name="DEPORTES - Espn 4 (T)(720)" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 4 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="DEPORTES - Espn 5 (M)(1080)" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 5 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-name="DEPORTES - Espn 5 (TV)(720)" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 5 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.6.HD.co" tvg-name="DEPORTES - Espn 6 (Z)(720)" tvg-logo="https://i.postimg.cc/XJYFwDsj/Proyecto-X-19.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 6 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - ESPN 7 (e)(1080)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN 7 (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-name="DEPORTES - Espn 7 (PM)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 7 (PM)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - ESPN 7 (e)(720)" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN 7 (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-name="DEPORTES - Espn Deportes (MEX) (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Deportes (MEX) (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="DEPORTES - Espn Extra ARG (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Extra ARG (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" tvg-name="DEPORTES - Espn Premium ARG (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Premium ARG (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn Extra MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Extra MEX (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="DEPORTES - Espn Deportes MEX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Deportes MEX (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-name="DEPORTES - ESPN Premium ARG (L)(SD)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-name="DEPORTES - ESPN Premium ARG (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(English).(beIn).us" tvg-name="DEPORTES - beIN Sport USA (M)(720)" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sport USA (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Xtra Ñ (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Ñ (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Ñ (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Ñ (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Ñ (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Claro Sports (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="CANALES-DEPORTES",DEPORTES - Claro Sports (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Claro Sports 2 (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="CANALES-DEPORTES",DEPORTES - Claro Sports 2 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="DEPORTES - Directv Sports 1 (ARG) (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 (ARG) (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.Chile.cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 CHI (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 ECU (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="DEPORTES - Directv Sports 1 ECU (e)(720)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 ECU (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (e)(1080)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.2.(DTS2).co" tvg-name="DEPORTES - Directv Sports 2 (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 ARG (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 ARG (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (Z)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.Fight(DTSFHD).co" tvg-name="DEPORTES - Directv Sports Fight (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports Fight (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSports.Motor.dtvsp" tvg-name="DEPORTES - Directv Sports Motors (TV)(720)" tvg-logo="https://i.postimg.cc/4N481KNM/Dsports-Motors.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports Motors (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" tvg-name="DEPORTES - Fight BOX  (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png" group-title="CANALES-DEPORTES",DEPORTES - Fight BOX  (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Deportes (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="QVC3.(QVC3).us" tvg-name="DEPORTES - FOX DEPORTES (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="CANALES-DEPORTES",DEPORTES - FOX DEPORTES (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-name="DEPORTES - Fox Sports 1 ARG (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-name="DEPORTES - Fox Sports 1 ARG (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FOX.Sports.2.HD(FSP2HD).co" tvg-name="DEPORTES - Fox Sports 1 COL (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 COL (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 1 LAT (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 LAT (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.Latin.America.HDTV.(Cono.Norte).(FOXSPHD).mx" tvg-name="DEPORTES - Fox Sports 1 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 MEX (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 2  LAT (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2  LAT (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Fox Sports 2 ARG (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.Latin.America.(FOXSP2HD).ar" tvg-name="DEPORTES - Fox Sports 2 ARG (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FOX.Sports.2.HD(FSP2HD).co" tvg-name="DEPORTES - Fox Sports 2 COL (TV)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 COL (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).mx" tvg-name="DEPORTES - Fox Sports 2 MEX (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MEX (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).mx" tvg-name="DEPORTES - Fox Sports 2 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MEX (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 2 MX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MX (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 3 (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).ar" tvg-name="DEPORTES - Fox Sports 3 ARG (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 ARG (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FOX.Sports.3.HD(FXS3HD).co" tvg-name="DEPORTES - Fox Sports 3 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 ARG (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FOX.Sports.3.HD(FXS3HD).co" tvg-name="DEPORTES - Fox Sports 3 COL (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 COL (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Fox Sports 3 MEX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MEX (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 3 MX (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MX (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="DEPORTES - Fox Sports Premium MX (L)(720)" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports Premium MX (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="GOL.TV.uy" tvg-name="DEPORTES - Gol TV ES (M)(720)" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="CANALES-DEPORTES",DEPORTES - Gol TV ES (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Gol.TV.USA.us" tvg-name="DEPORTES - Gol TV Internacional (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="CANALES-DEPORTES",DEPORTES - Gol TV Internacional (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="DEPORTES - Golf Latin MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin MEX (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="DEPORTES - NBA U (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png" group-title="CANALES-DEPORTES",DEPORTES - NBA U (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Sky sports (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-x_CIVSy5Fzg/YkytpLNmlVI/AAAAAAAADek/5sv89DCrHMofx0iph8leofRZIbMQZHyEACNcBGAsYHQ/w200-h200/1649192355948000-0.png" group-title="CANALES-DEPORTES",DEPORTES - Sky sports (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports Bundesliga (Z)" tvg-logo="https://i.postimg.cc/HLzWrYdb/Proyectox-sky-sports.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports Bundesliga (Z)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-name="DEPORTES - SKY Sports La liga (TV)(720)" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png" group-title="CANALES-DEPORTES",DEPORTES - SKY Sports La liga (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="DEPORTES - Tennis Channel (L)(720)" tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png" group-title="CANALES-DEPORTES",DEPORTES - Tennis Channel (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - MEX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - MEX (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="DEPORTES - TUDN - USA (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="DEPORTES - TUDN - USA (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN - USA (Z)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.TVC.Deportes.mx" tvg-name="DEPORTES - TVC Deportes (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-fpt6Sm7APZ4/Xay_XGDKQ5I/AAAAAAAAAjw/--9czPX3msMJpPDjQcQx7FqDjyNMyPJfQCLcBGAsYHQ/s200/12.png" group-title="CANALES-DEPORTES",DEPORTES - TVC Deportes (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar" tvg-name="DEPORTES - TyC Sports INT (T)(720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar" tvg-name="DEPORTES - TyC Sports INT (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - UFC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="CANALES-DEPORTES",DEPORTES - UFC (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-name="DEPORTES - UFC Fight PASS (T)(720)" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="CANALES-DEPORTES",DEPORTES - UFC Fight PASS (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="DEPORTES - WWE  (T)(720)" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png" group-title="CANALES-DEPORTES",DEPORTES - WWE  (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="DEPORTES - WWE (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png" group-title="CANALES-DEPORTES",DEPORTES - WWE (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-TyC Sports Local (L)(SD)" tvg-logo="http://23.153.216.121:25461/images/dc9f4c2291724375736a7d74ec88237d.png" group-title="ARGENTINA",ARG-TyC Sports Local (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-name="ARG-TYC Sports Local (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/dc9f4c2291724375736a7d74ec88237d.png" group-title="ARGENTINA",ARG-TYC Sports Local (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Tigo Sports (T)(720)" tvg-logo="http://l3d.us:8080/images/1e07aa6fbec1107166ed2353f2db8230.png" group-title="COSTARICA",CR-Tigo Sports (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Tigo Sports 1 (1080)(M)" tvg-logo="" group-title="COSTARICA",CR-Tigo Sports 1 (1080)(M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Claro Sports GT (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/3c59dc048e8850243be8079a5c74d079.png" group-title="GUATEMALA",GUA-Claro Sports GT (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Tigo Sport + (TV)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="GUATEMALA",GUA-Tigo Sport + (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Tigo Sports GT (Z)(1080)" tvg-logo="http://23.153.216.121:25461/images/c7424ad5d064a8515217042b168cf098.png" group-title="GUATEMALA",GUA-Tigo Sports GT (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Cable Onda Sports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-kZx7luoYfVI/X0g_Fu8rlyI/AAAAAAAABOA/wCZaINRGrsQbqaap8dHnxtbmE79ZtlGWgCLcBGAsYHQ/w200-h200/COS.png" group-title="PANAMA",PAN-Cable Onda Sports (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Cable Onda Sports (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-kZx7luoYfVI/X0g_Fu8rlyI/AAAAAAAABOA/wCZaINRGrsQbqaap8dHnxtbmE79ZtlGWgCLcBGAsYHQ/w200-h200/COS.png" group-title="PANAMA",PAN-Cable Onda Sports (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Cable Onda Sports (TV)(720)" tvg-logo="http://www.tvdigital.digital:80/images/aa14da9e47244d062e2191261f579d2d.png" group-title="PANAMA",PAN-Cable Onda Sports (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Cable Onda Sports FC (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ahxh6hpJLxM/X0g-IZuTc_I/AAAAAAAABN0/LAsJQzbLvo4frzt0j5Msm0aXStTDcN_ugCLcBGAsYHQ/w200-h200/COS%2BFC.png" group-title="PANAMA",PAN-Cable Onda Sports FC (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Cable Onda Sports FC (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ahxh6hpJLxM/X0g-IZuTc_I/AAAAAAAABN0/LAsJQzbLvo4frzt0j5Msm0aXStTDcN_ugCLcBGAsYHQ/w200-h200/COS%2BFC.png" group-title="PANAMA",PAN-Cable Onda Sports FC (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Tigo Sports Panama (M)(720)" tvg-logo="https://1.bp.blogspot.com/-IDav7Vp-Z2E/X3JubZhPwlI/AAAAAAAABn4/Cy7FSTJ0HUwmDws0sC8I_i5jCND6DlWoACLcBGAsYHQ/w200-h200/Tigo%2BSports%2Bhomduras.png" group-title="PANAMA",PAN-Tigo Sports Panama (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Tigo Sports Panama (M)(720)" tvg-logo="http://tv.proyectox.vip:8080/images/c7424ad5d064a8515217042b168cf098.png" group-title="PANAMA",PAN-Tigo Sports Panama (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Deportes (L)(720)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="PERU",PER-Movistar Deportes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Deportes (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="PERU",PER-Movistar Deportes (T)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.Premium.HD(Win+HD).co" tvg-name="COL PPV 1 - (1080)" tvg-logo="https://i.postimg.cc/0jbbYF3T/PPV1.png" group-title="COLOMBIA",COL PPV 1 - (1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="COL-Claro Sports (M)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="COLOMBIA",COL-Claro Sports (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-name="COL-Directv Sports (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" group-title="COLOMBIA",COL-Directv Sports (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-WinSports (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-WinSports (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="COL-WinSports + (L)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.Premium(Win+).co" tvg-name="COL-WinSports + (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="COL-WinSports + (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-WinSports + (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="URU-Directv Sports 1 UY (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="URUGUAY",URU-Directv Sports 1 UY (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="ECU-Directv Sports (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="ECUADOR",ECU-Directv Sports (e)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co" tvg-name="ECU-Directv Sports (e)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="ECUADOR",ECU-Directv Sports (e)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Espn 1 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CHILE",CHI-Espn 1 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ESPN.7.Latin.America.HDTV.(Cono.Sur).(FOXSP2HD).cl" tvg-name="CHI-Espn 2 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CHILE",CHI-Espn 2 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="CHI-Espn 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CHILE",CHI-Espn 2 (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-ESPN Premium CL (PM)(1080)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CHILE",CHI-ESPN Premium CL (PM)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-ESPN Premium CL (PM)(720)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CHILE",CHI-ESPN Premium CL (PM)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Fox Sports 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="CHILE",CHI-Fox Sports 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="CHILE [GEO BLOQUEO]",Claro Sports  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Chile" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="CHILE [GEO BLOQUEO]",Claro Sports Chile  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="HON-TVC Deportes (L)(720)" tvg-logo="" group-title="HONDURAS",HON-TVC Deportes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN 2 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN Brasil (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN Brasil (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN Extra (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN Extra (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fox Sports 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fox Sports 2 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fox Sports (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fox Sports (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Band Sports (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Band Sports (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PR-Wapa Deportes (T)(720)" tvg-logo="" group-title="PUERTO RICO",PR-Wapa Deportes (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.co" tvg-name="COL-Winsports + (T)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" group-title="COLOMBIA",COL-Winsports + (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Win.Sports.Premium.HD(Win+HD).co" tvg-name="COL-Winsport + (T)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="COLOMBIA",COL-Winsport + (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="COL-Claro Sports Colombia (HD)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="COLOMBIA",COL-Claro Sports Colombia (HD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-ESPN CL(e)(SD)" tvg-logo="" group-title="CHILE",CHI-ESPN CL(e)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Espn Premium (e)(SD)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CHILE",CHI-Espn Premium (e)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(SD)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="MEXICO",MEX-Azteca Deportes (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(720)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="MEXICO",MEX-Azteca Deportes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Aym Sports (M)(720)" tvg-logo="https://1.bp.blogspot.com/-e9y9a28jbXM/Xg-MrwQCrJI/AAAAAAAAA6I/pOByATddwpU3laULegV5jkTZjwE2gqxIACLcBGAsYHQ/s200/24.png" group-title="MEXICO",MEX-Aym Sports (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVC Deportes (L)(SD)" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png" group-title="MEXICO",MEX-TVC Deportes (L)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVC Deportes (L)(720)" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png" group-title="MEXICO",MEX-TVC Deportes (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (Orange)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (Orange)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (HEVC)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (HEVC)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 5 SD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_5.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 5 SD (Solo Eventos)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 7 (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_7.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 7 (Solo Eventos)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 8 (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_8.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 8 (Solo Eventos)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="BOL-Tigo Sports 1 (TV)(720) (Solo Eventos)" tvg-logo="https://i.ibb.co/qjQkshS/tigobolivia.png" group-title="BOLIVIA",BOL-Tigo Sports 1 (TV)(720) (Solo Eventos)  # Fecha: 2025-10-11 19:10

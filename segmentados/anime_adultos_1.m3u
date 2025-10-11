@@ -1,0 +1,394 @@
+#EXTM3U
+#EXTINF:-1,Adult Swim ✅
+http://179.51.136.19:8000/play/a1io/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Adult Swim - Opción 2 ✅
+http://181.78.201.70:8000/play/a0tm/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,BITME ✅
+http://181.119.85.222:8000/play/a03j/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,BITME - Opción 2 ✅
+http://181.119.86.68:8000/play/c027/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://cdn.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV | AR
+http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime ✪ | CL
+https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los titanes (e)" tvg-logo="https://i.postimg.cc/FzDWs0Yd/Proyectox-24-7-Juveniles1-18.png" group-title="24/7 ANIME",24/7 Ataque a los titanes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BeyBlade (e)" tvg-logo="https://i.postimg.cc/5yxKVs2W/Proyectox-24-7-Juveniles1-20.png" group-title="24/7 ANIME",24/7 BeyBlade (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boruto: Naruto Next Generations (e)" tvg-logo="https://i.postimg.cc/4dRF8fCd/Proyectox-24-7-Juveniles1-21.png" group-title="24/7 ANIME",24/7 Boruto: Naruto Next Generations (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones (e)" tvg-logo="https://i.postimg.cc/8P7Br23n/Proyectox-24-7-Anime-22.png" group-title="24/7 ANIME",24/7 Supercampeones (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note (e)" tvg-logo="https://i.postimg.cc/hj8Z6kg0/Proyectox-24-7-Juveniles1-23.png" group-title="24/7 ANIME",24/7 Death Note (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demon Slayer: Kimetsu no Yaiba (e)" tvg-logo="https://i.postimg.cc/8kHnHgZp/Proyectox-24-7-Anime.png" group-title="24/7 ANIME",24/7 Demon Slayer: Kimetsu no Yaiba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://i.postimg.cc/zGLt8b8v/Proyectox-24-7-Anime-2.png" group-title="24/7 ANIME",24/7 Digimon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan (e)" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7 ANIME",24/7 Detective Conan (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball (e)" tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png" group-title="24/7 ANIME",24/7 Dragon Ball (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)" tvg-logo="https://i.postimg.cc/1RJJFcz4/Proyectox-24-7-Anime-10.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Frezzer (e)" tvg-logo="https://i.postimg.cc/d1F425dZ/Proyectox-24-7-Anime-7.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Frezzer (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)" tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)" tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT (e)" tvg-logo="https://i.postimg.cc/YSYdL54w/Proyectox-24-7-Anime-5.png" group-title="24/7 ANIME",24/7 Dragon Ball GT (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)" tvg-logo="https://i.postimg.cc/4NywQ7KP/Proyectox-24-7-Anime-11.png" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (e)" tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png" group-title="24/7 ANIME",24/7 Dragon Ball Super (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jujutsu Kaisen (e)" tvg-logo="https://i.postimg.cc/vHKhqYfs/Proyectox-24-7-Anime-12.png" group-title="24/7 ANIME",24/7 Jujutsu Kaisen (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)" tvg-logo="https://i.postimg.cc/vZ6zCJt6/Proyectox-24-7-Anime-14.png" group-title="24/7 ANIME",24/7 Naruto (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 1al10 (e)" tvg-logo="https://i.postimg.cc/pXVLdjG2/Proyectox-24-7-Anime-15.png" group-title="24/7 ANIME",24/7 Naruto Shippude 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 11al20 (e)" tvg-logo="https://i.postimg.cc/Pqs4HSSV/Proyectox-24-7-Anime-16.png" group-title="24/7 ANIME",24/7 Naruto Shippude 11al20 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 1al10 (e)" tvg-logo="https://i.postimg.cc/KzQrnxxC/Proyectox-24-7-Anime-18.png" group-title="24/7 ANIME",24/7 One Piece 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 11al21 (e)" tvg-logo="https://i.postimg.cc/vBGtgcFW/Proyectox-24-7-Anime-17.png" group-title="24/7 ANIME",24/7 One Piece 11al21 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="https://i.postimg.cc/VvVqVgSR/Proyectox-24-7-Anime-20.png" group-title="24/7 ANIME",24/7 Pokemon 1al9 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 10al18 (e)" tvg-logo="https://i.postimg.cc/prTQC4dr/Proyectox-24-7-Anime-19.png" group-title="24/7 ANIME",24/7 Pokemon 10al18 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ (e)" tvg-logo="https://i.postimg.cc/XNHkqj2C/Proyectox-24-7-Anime-21.png" group-title="24/7 ANIME",24/7 Ranma ½ (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (e)" tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los titanes (e)" tvg-logo="https://i.postimg.cc/FzDWs0Yd/Proyectox-24-7-Juveniles1-18.png" group-title="24/7 ANIME",24/7 Ataque a los titanes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BeyBlade (e)" tvg-logo="https://i.postimg.cc/5yxKVs2W/Proyectox-24-7-Juveniles1-20.png" group-title="24/7 ANIME",24/7 BeyBlade (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boruto: Naruto Next Generations (e)" tvg-logo="https://i.postimg.cc/4dRF8fCd/Proyectox-24-7-Juveniles1-21.png" group-title="24/7 ANIME",24/7 Boruto: Naruto Next Generations (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones (e)" tvg-logo="https://i.postimg.cc/8P7Br23n/Proyectox-24-7-Anime-22.png" group-title="24/7 ANIME",24/7 Supercampeones (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note (e)" tvg-logo="https://i.postimg.cc/hj8Z6kg0/Proyectox-24-7-Juveniles1-23.png" group-title="24/7 ANIME",24/7 Death Note (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demon Slayer: Kimetsu no Yaiba (e)" tvg-logo="https://i.postimg.cc/8kHnHgZp/Proyectox-24-7-Anime.png" group-title="24/7 ANIME",24/7 Demon Slayer: Kimetsu no Yaiba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://i.postimg.cc/zGLt8b8v/Proyectox-24-7-Anime-2.png" group-title="24/7 ANIME",24/7 Digimon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan (e)" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7 ANIME",24/7 Detective Conan (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball (e)" tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png" group-title="24/7 ANIME",24/7 Dragon Ball (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)" tvg-logo="https://i.postimg.cc/1RJJFcz4/Proyectox-24-7-Anime-10.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Frezzer (e)" tvg-logo="https://i.postimg.cc/d1F425dZ/Proyectox-24-7-Anime-7.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Frezzer (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)" tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)" tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT (e)" tvg-logo="https://i.postimg.cc/YSYdL54w/Proyectox-24-7-Anime-5.png" group-title="24/7 ANIME",24/7 Dragon Ball GT (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)" tvg-logo="https://i.postimg.cc/4NywQ7KP/Proyectox-24-7-Anime-11.png" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (e)" tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png" group-title="24/7 ANIME",24/7 Dragon Ball Super (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jujutsu Kaisen (e)" tvg-logo="https://i.postimg.cc/vHKhqYfs/Proyectox-24-7-Anime-12.png" group-title="24/7 ANIME",24/7 Jujutsu Kaisen (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)" tvg-logo="https://i.postimg.cc/vZ6zCJt6/Proyectox-24-7-Anime-14.png" group-title="24/7 ANIME",24/7 Naruto (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 1al10 (e)" tvg-logo="https://i.postimg.cc/pXVLdjG2/Proyectox-24-7-Anime-15.png" group-title="24/7 ANIME",24/7 Naruto Shippude 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 11al20 (e)" tvg-logo="https://i.postimg.cc/Pqs4HSSV/Proyectox-24-7-Anime-16.png" group-title="24/7 ANIME",24/7 Naruto Shippude 11al20 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 1al10 (e)" tvg-logo="https://i.postimg.cc/KzQrnxxC/Proyectox-24-7-Anime-18.png" group-title="24/7 ANIME",24/7 One Piece 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 11al21 (e)" tvg-logo="https://i.postimg.cc/vBGtgcFW/Proyectox-24-7-Anime-17.png" group-title="24/7 ANIME",24/7 One Piece 11al21 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="https://i.postimg.cc/VvVqVgSR/Proyectox-24-7-Anime-20.png" group-title="24/7 ANIME",24/7 Pokemon 1al9 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 10al18 (e)" tvg-logo="https://i.postimg.cc/prTQC4dr/Proyectox-24-7-Anime-19.png" group-title="24/7 ANIME",24/7 Pokemon 10al18 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ (e)" tvg-logo="https://i.postimg.cc/XNHkqj2C/Proyectox-24-7-Anime-21.png" group-title="24/7 ANIME",24/7 Ranma ½ (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (e)" tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los titanes (e)" tvg-logo="https://i.postimg.cc/FzDWs0Yd/Proyectox-24-7-Juveniles1-18.png" group-title="24/7 ANIME",24/7 Ataque a los titanes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BeyBlade (e)" tvg-logo="https://i.postimg.cc/5yxKVs2W/Proyectox-24-7-Juveniles1-20.png" group-title="24/7 ANIME",24/7 BeyBlade (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boruto: Naruto Next Generations (e)" tvg-logo="https://i.postimg.cc/4dRF8fCd/Proyectox-24-7-Juveniles1-21.png" group-title="24/7 ANIME",24/7 Boruto: Naruto Next Generations (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones (e)" tvg-logo="https://i.postimg.cc/8P7Br23n/Proyectox-24-7-Anime-22.png" group-title="24/7 ANIME",24/7 Supercampeones (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note (e)" tvg-logo="https://i.postimg.cc/hj8Z6kg0/Proyectox-24-7-Juveniles1-23.png" group-title="24/7 ANIME",24/7 Death Note (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demon Slayer: Kimetsu no Yaiba (e)" tvg-logo="https://i.postimg.cc/8kHnHgZp/Proyectox-24-7-Anime.png" group-title="24/7 ANIME",24/7 Demon Slayer: Kimetsu no Yaiba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://i.postimg.cc/zGLt8b8v/Proyectox-24-7-Anime-2.png" group-title="24/7 ANIME",24/7 Digimon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan (e)" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7 ANIME",24/7 Detective Conan (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball (e)" tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png" group-title="24/7 ANIME",24/7 Dragon Ball (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)" tvg-logo="https://i.postimg.cc/1RJJFcz4/Proyectox-24-7-Anime-10.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Frezzer (e)" tvg-logo="https://i.postimg.cc/d1F425dZ/Proyectox-24-7-Anime-7.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Frezzer (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)" tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)" tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT (e)" tvg-logo="https://i.postimg.cc/YSYdL54w/Proyectox-24-7-Anime-5.png" group-title="24/7 ANIME",24/7 Dragon Ball GT (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)" tvg-logo="https://i.postimg.cc/4NywQ7KP/Proyectox-24-7-Anime-11.png" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (e)" tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png" group-title="24/7 ANIME",24/7 Dragon Ball Super (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jujutsu Kaisen (e)" tvg-logo="https://i.postimg.cc/vHKhqYfs/Proyectox-24-7-Anime-12.png" group-title="24/7 ANIME",24/7 Jujutsu Kaisen (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)" tvg-logo="https://i.postimg.cc/vZ6zCJt6/Proyectox-24-7-Anime-14.png" group-title="24/7 ANIME",24/7 Naruto (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 1al10 (e)" tvg-logo="https://i.postimg.cc/pXVLdjG2/Proyectox-24-7-Anime-15.png" group-title="24/7 ANIME",24/7 Naruto Shippude 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 11al20 (e)" tvg-logo="https://i.postimg.cc/Pqs4HSSV/Proyectox-24-7-Anime-16.png" group-title="24/7 ANIME",24/7 Naruto Shippude 11al20 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 1al10 (e)" tvg-logo="https://i.postimg.cc/KzQrnxxC/Proyectox-24-7-Anime-18.png" group-title="24/7 ANIME",24/7 One Piece 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 11al21 (e)" tvg-logo="https://i.postimg.cc/vBGtgcFW/Proyectox-24-7-Anime-17.png" group-title="24/7 ANIME",24/7 One Piece 11al21 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="https://i.postimg.cc/VvVqVgSR/Proyectox-24-7-Anime-20.png" group-title="24/7 ANIME",24/7 Pokemon 1al9 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 10al18 (e)" tvg-logo="https://i.postimg.cc/prTQC4dr/Proyectox-24-7-Anime-19.png" group-title="24/7 ANIME",24/7 Pokemon 10al18 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ (e)" tvg-logo="https://i.postimg.cc/XNHkqj2C/Proyectox-24-7-Anime-21.png" group-title="24/7 ANIME",24/7 Ranma ½ (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (e)" tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Anime (Brasil) (🇧🇷)
+https://stmv1.srvif.com/animetv/animetv/.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Anime Station (Argentina) (🇦🇷)
+https://glb.bozztv.com/glb/ssh101/livestreamingtv/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,AZTV Anime Zone (España) (🇪🇸)
+http://animezonetv.net/hls/stream.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Taltal Anime (Chile) (🇨🇱)
+https://glb.bozztv.com/glb/ssh101/taltal/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪",AKIBA PASS TV Anime: Sport  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪",AKIBA PASS TV Anime: Sport  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Швейцария | Switzerland",AKIBA PASS TV Anime: Sport  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/bYZtd0G.png",Anime All Day  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="https://img.vintera.tv/img/ico/anime2.png",AnimeTV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Crunchyroll  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪",Pluto TV Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://i.imgur.com/GHW6prH.png",Pluto TV Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Швейцария | Switzerland",Pluto TV Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Pluto TV Anime (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="http://epg.one/img2/4592.png",VF Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪",AKIBA PASS TV Anime: Sport  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪",AKIBA PASS TV Anime: Sport  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Швейцария | Switzerland",AKIBA PASS TV Anime: Sport  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States" tvg-logo="https://i.imgur.com/bYZtd0G.png",Anime All Day  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="https://img.vintera.tv/img/ico/anime2.png",AnimeTV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Crunchyroll  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪",Pluto TV Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-logo="https://i.imgur.com/GHW6prH.png",Pluto TV Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Швейцария | Switzerland",Pluto TV Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Pluto TV Anime (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Детские 😄" tvg-logo="http://epg.one/img2/4592.png",VF Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los titanes (e)" tvg-logo="https://i.postimg.cc/FzDWs0Yd/Proyectox-24-7-Juveniles1-18.png" group-title="24/7 ANIME",24/7 Ataque a los titanes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BeyBlade (e)" tvg-logo="https://i.postimg.cc/5yxKVs2W/Proyectox-24-7-Juveniles1-20.png" group-title="24/7 ANIME",24/7 BeyBlade (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boruto: Naruto Next Generations (e)" tvg-logo="https://i.postimg.cc/4dRF8fCd/Proyectox-24-7-Juveniles1-21.png" group-title="24/7 ANIME",24/7 Boruto: Naruto Next Generations (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones (e)" tvg-logo="https://i.postimg.cc/8P7Br23n/Proyectox-24-7-Anime-22.png" group-title="24/7 ANIME",24/7 Supercampeones (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note (e)" tvg-logo="https://i.postimg.cc/hj8Z6kg0/Proyectox-24-7-Juveniles1-23.png" group-title="24/7 ANIME",24/7 Death Note (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demon Slayer: Kimetsu no Yaiba (e)" tvg-logo="https://i.postimg.cc/8kHnHgZp/Proyectox-24-7-Anime.png" group-title="24/7 ANIME",24/7 Demon Slayer: Kimetsu no Yaiba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://i.postimg.cc/zGLt8b8v/Proyectox-24-7-Anime-2.png" group-title="24/7 ANIME",24/7 Digimon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan (e)" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7 ANIME",24/7 Detective Conan (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball (e)" tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png" group-title="24/7 ANIME",24/7 Dragon Ball (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)" tvg-logo="https://i.postimg.cc/1RJJFcz4/Proyectox-24-7-Anime-10.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Frezzer (e)" tvg-logo="https://i.postimg.cc/d1F425dZ/Proyectox-24-7-Anime-7.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Frezzer (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)" tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)" tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT (e)" tvg-logo="https://i.postimg.cc/YSYdL54w/Proyectox-24-7-Anime-5.png" group-title="24/7 ANIME",24/7 Dragon Ball GT (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)" tvg-logo="https://i.postimg.cc/4NywQ7KP/Proyectox-24-7-Anime-11.png" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (e)" tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png" group-title="24/7 ANIME",24/7 Dragon Ball Super (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jujutsu Kaisen (e)" tvg-logo="https://i.postimg.cc/vHKhqYfs/Proyectox-24-7-Anime-12.png" group-title="24/7 ANIME",24/7 Jujutsu Kaisen (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)" tvg-logo="https://i.postimg.cc/vZ6zCJt6/Proyectox-24-7-Anime-14.png" group-title="24/7 ANIME",24/7 Naruto (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 1al10 (e)" tvg-logo="https://i.postimg.cc/pXVLdjG2/Proyectox-24-7-Anime-15.png" group-title="24/7 ANIME",24/7 Naruto Shippude 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 11al20 (e)" tvg-logo="https://i.postimg.cc/Pqs4HSSV/Proyectox-24-7-Anime-16.png" group-title="24/7 ANIME",24/7 Naruto Shippude 11al20 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 1al10 (e)" tvg-logo="https://i.postimg.cc/KzQrnxxC/Proyectox-24-7-Anime-18.png" group-title="24/7 ANIME",24/7 One Piece 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 11al21 (e)" tvg-logo="https://i.postimg.cc/vBGtgcFW/Proyectox-24-7-Anime-17.png" group-title="24/7 ANIME",24/7 One Piece 11al21 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="https://i.postimg.cc/VvVqVgSR/Proyectox-24-7-Anime-20.png" group-title="24/7 ANIME",24/7 Pokemon 1al9 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 10al18 (e)" tvg-logo="https://i.postimg.cc/prTQC4dr/Proyectox-24-7-Anime-19.png" group-title="24/7 ANIME",24/7 Pokemon 10al18 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ (e)" tvg-logo="https://i.postimg.cc/XNHkqj2C/Proyectox-24-7-Anime-21.png" group-title="24/7 ANIME",24/7 Ranma ½ (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (e)" tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los titanes (e)" tvg-logo="https://i.postimg.cc/FzDWs0Yd/Proyectox-24-7-Juveniles1-18.png" group-title="24/7 ANIME",24/7 Ataque a los titanes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BeyBlade (e)" tvg-logo="https://i.postimg.cc/5yxKVs2W/Proyectox-24-7-Juveniles1-20.png" group-title="24/7 ANIME",24/7 BeyBlade (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boruto: Naruto Next Generations (e)" tvg-logo="https://i.postimg.cc/4dRF8fCd/Proyectox-24-7-Juveniles1-21.png" group-title="24/7 ANIME",24/7 Boruto: Naruto Next Generations (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones (e)" tvg-logo="https://i.postimg.cc/8P7Br23n/Proyectox-24-7-Anime-22.png" group-title="24/7 ANIME",24/7 Supercampeones (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note (e)" tvg-logo="https://i.postimg.cc/hj8Z6kg0/Proyectox-24-7-Juveniles1-23.png" group-title="24/7 ANIME",24/7 Death Note (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demon Slayer: Kimetsu no Yaiba (e)" tvg-logo="https://i.postimg.cc/8kHnHgZp/Proyectox-24-7-Anime.png" group-title="24/7 ANIME",24/7 Demon Slayer: Kimetsu no Yaiba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://i.postimg.cc/zGLt8b8v/Proyectox-24-7-Anime-2.png" group-title="24/7 ANIME",24/7 Digimon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan (e)" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7 ANIME",24/7 Detective Conan (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball (e)" tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png" group-title="24/7 ANIME",24/7 Dragon Ball (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)" tvg-logo="https://i.postimg.cc/1RJJFcz4/Proyectox-24-7-Anime-10.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Frezzer (e)" tvg-logo="https://i.postimg.cc/d1F425dZ/Proyectox-24-7-Anime-7.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Frezzer (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)" tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)" tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT (e)" tvg-logo="https://i.postimg.cc/YSYdL54w/Proyectox-24-7-Anime-5.png" group-title="24/7 ANIME",24/7 Dragon Ball GT (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)" tvg-logo="https://i.postimg.cc/4NywQ7KP/Proyectox-24-7-Anime-11.png" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (e)" tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png" group-title="24/7 ANIME",24/7 Dragon Ball Super (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jujutsu Kaisen (e)" tvg-logo="https://i.postimg.cc/vHKhqYfs/Proyectox-24-7-Anime-12.png" group-title="24/7 ANIME",24/7 Jujutsu Kaisen (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)" tvg-logo="https://i.postimg.cc/vZ6zCJt6/Proyectox-24-7-Anime-14.png" group-title="24/7 ANIME",24/7 Naruto (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 1al10 (e)" tvg-logo="https://i.postimg.cc/pXVLdjG2/Proyectox-24-7-Anime-15.png" group-title="24/7 ANIME",24/7 Naruto Shippude 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 11al20 (e)" tvg-logo="https://i.postimg.cc/Pqs4HSSV/Proyectox-24-7-Anime-16.png" group-title="24/7 ANIME",24/7 Naruto Shippude 11al20 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 1al10 (e)" tvg-logo="https://i.postimg.cc/KzQrnxxC/Proyectox-24-7-Anime-18.png" group-title="24/7 ANIME",24/7 One Piece 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 11al21 (e)" tvg-logo="https://i.postimg.cc/vBGtgcFW/Proyectox-24-7-Anime-17.png" group-title="24/7 ANIME",24/7 One Piece 11al21 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="https://i.postimg.cc/VvVqVgSR/Proyectox-24-7-Anime-20.png" group-title="24/7 ANIME",24/7 Pokemon 1al9 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 10al18 (e)" tvg-logo="https://i.postimg.cc/prTQC4dr/Proyectox-24-7-Anime-19.png" group-title="24/7 ANIME",24/7 Pokemon 10al18 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ (e)" tvg-logo="https://i.postimg.cc/XNHkqj2C/Proyectox-24-7-Anime-21.png" group-title="24/7 ANIME",24/7 Ranma ½ (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (e)" tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los titanes (e)" tvg-logo="https://i.postimg.cc/FzDWs0Yd/Proyectox-24-7-Juveniles1-18.png" group-title="24/7 ANIME",24/7 Ataque a los titanes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BeyBlade (e)" tvg-logo="https://i.postimg.cc/5yxKVs2W/Proyectox-24-7-Juveniles1-20.png" group-title="24/7 ANIME",24/7 BeyBlade (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boruto: Naruto Next Generations (e)" tvg-logo="https://i.postimg.cc/4dRF8fCd/Proyectox-24-7-Juveniles1-21.png" group-title="24/7 ANIME",24/7 Boruto: Naruto Next Generations (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones (e)" tvg-logo="https://i.postimg.cc/8P7Br23n/Proyectox-24-7-Anime-22.png" group-title="24/7 ANIME",24/7 Supercampeones (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note (e)" tvg-logo="https://i.postimg.cc/hj8Z6kg0/Proyectox-24-7-Juveniles1-23.png" group-title="24/7 ANIME",24/7 Death Note (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demon Slayer: Kimetsu no Yaiba (e)" tvg-logo="https://i.postimg.cc/8kHnHgZp/Proyectox-24-7-Anime.png" group-title="24/7 ANIME",24/7 Demon Slayer: Kimetsu no Yaiba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://i.postimg.cc/zGLt8b8v/Proyectox-24-7-Anime-2.png" group-title="24/7 ANIME",24/7 Digimon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan (e)" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7 ANIME",24/7 Detective Conan (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball (e)" tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png" group-title="24/7 ANIME",24/7 Dragon Ball (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)" tvg-logo="https://i.postimg.cc/1RJJFcz4/Proyectox-24-7-Anime-10.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Frezzer (e)" tvg-logo="https://i.postimg.cc/d1F425dZ/Proyectox-24-7-Anime-7.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Frezzer (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)" tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)" tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT (e)" tvg-logo="https://i.postimg.cc/YSYdL54w/Proyectox-24-7-Anime-5.png" group-title="24/7 ANIME",24/7 Dragon Ball GT (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)" tvg-logo="https://i.postimg.cc/4NywQ7KP/Proyectox-24-7-Anime-11.png" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (e)" tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png" group-title="24/7 ANIME",24/7 Dragon Ball Super (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jujutsu Kaisen (e)" tvg-logo="https://i.postimg.cc/vHKhqYfs/Proyectox-24-7-Anime-12.png" group-title="24/7 ANIME",24/7 Jujutsu Kaisen (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)" tvg-logo="https://i.postimg.cc/vZ6zCJt6/Proyectox-24-7-Anime-14.png" group-title="24/7 ANIME",24/7 Naruto (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 1al10 (e)" tvg-logo="https://i.postimg.cc/pXVLdjG2/Proyectox-24-7-Anime-15.png" group-title="24/7 ANIME",24/7 Naruto Shippude 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 11al20 (e)" tvg-logo="https://i.postimg.cc/Pqs4HSSV/Proyectox-24-7-Anime-16.png" group-title="24/7 ANIME",24/7 Naruto Shippude 11al20 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 1al10 (e)" tvg-logo="https://i.postimg.cc/KzQrnxxC/Proyectox-24-7-Anime-18.png" group-title="24/7 ANIME",24/7 One Piece 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 11al21 (e)" tvg-logo="https://i.postimg.cc/vBGtgcFW/Proyectox-24-7-Anime-17.png" group-title="24/7 ANIME",24/7 One Piece 11al21 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="https://i.postimg.cc/VvVqVgSR/Proyectox-24-7-Anime-20.png" group-title="24/7 ANIME",24/7 Pokemon 1al9 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 10al18 (e)" tvg-logo="https://i.postimg.cc/prTQC4dr/Proyectox-24-7-Anime-19.png" group-title="24/7 ANIME",24/7 Pokemon 10al18 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ (e)" tvg-logo="https://i.postimg.cc/XNHkqj2C/Proyectox-24-7-Anime-21.png" group-title="24/7 ANIME",24/7 Ranma ½ (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (e)" tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los titanes (e)" tvg-logo="https://i.postimg.cc/FzDWs0Yd/Proyectox-24-7-Juveniles1-18.png" group-title="24/7 ANIME",24/7 Ataque a los titanes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BeyBlade (e)" tvg-logo="https://i.postimg.cc/5yxKVs2W/Proyectox-24-7-Juveniles1-20.png" group-title="24/7 ANIME",24/7 BeyBlade (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boruto: Naruto Next Generations (e)" tvg-logo="https://i.postimg.cc/4dRF8fCd/Proyectox-24-7-Juveniles1-21.png" group-title="24/7 ANIME",24/7 Boruto: Naruto Next Generations (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones (e)" tvg-logo="https://i.postimg.cc/8P7Br23n/Proyectox-24-7-Anime-22.png" group-title="24/7 ANIME",24/7 Supercampeones (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note (e)" tvg-logo="https://i.postimg.cc/hj8Z6kg0/Proyectox-24-7-Juveniles1-23.png" group-title="24/7 ANIME",24/7 Death Note (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demon Slayer: Kimetsu no Yaiba (e)" tvg-logo="https://i.postimg.cc/8kHnHgZp/Proyectox-24-7-Anime.png" group-title="24/7 ANIME",24/7 Demon Slayer: Kimetsu no Yaiba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://i.postimg.cc/zGLt8b8v/Proyectox-24-7-Anime-2.png" group-title="24/7 ANIME",24/7 Digimon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan (e)" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7 ANIME",24/7 Detective Conan (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball (e)" tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png" group-title="24/7 ANIME",24/7 Dragon Ball (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)" tvg-logo="https://i.postimg.cc/1RJJFcz4/Proyectox-24-7-Anime-10.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Frezzer (e)" tvg-logo="https://i.postimg.cc/d1F425dZ/Proyectox-24-7-Anime-7.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Frezzer (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)" tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)" tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT (e)" tvg-logo="https://i.postimg.cc/YSYdL54w/Proyectox-24-7-Anime-5.png" group-title="24/7 ANIME",24/7 Dragon Ball GT (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)" tvg-logo="https://i.postimg.cc/4NywQ7KP/Proyectox-24-7-Anime-11.png" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (e)" tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png" group-title="24/7 ANIME",24/7 Dragon Ball Super (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jujutsu Kaisen (e)" tvg-logo="https://i.postimg.cc/vHKhqYfs/Proyectox-24-7-Anime-12.png" group-title="24/7 ANIME",24/7 Jujutsu Kaisen (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)" tvg-logo="https://i.postimg.cc/vZ6zCJt6/Proyectox-24-7-Anime-14.png" group-title="24/7 ANIME",24/7 Naruto (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 1al10 (e)" tvg-logo="https://i.postimg.cc/pXVLdjG2/Proyectox-24-7-Anime-15.png" group-title="24/7 ANIME",24/7 Naruto Shippude 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 11al20 (e)" tvg-logo="https://i.postimg.cc/Pqs4HSSV/Proyectox-24-7-Anime-16.png" group-title="24/7 ANIME",24/7 Naruto Shippude 11al20 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 1al10 (e)" tvg-logo="https://i.postimg.cc/KzQrnxxC/Proyectox-24-7-Anime-18.png" group-title="24/7 ANIME",24/7 One Piece 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 11al21 (e)" tvg-logo="https://i.postimg.cc/vBGtgcFW/Proyectox-24-7-Anime-17.png" group-title="24/7 ANIME",24/7 One Piece 11al21 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="https://i.postimg.cc/VvVqVgSR/Proyectox-24-7-Anime-20.png" group-title="24/7 ANIME",24/7 Pokemon 1al9 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 10al18 (e)" tvg-logo="https://i.postimg.cc/prTQC4dr/Proyectox-24-7-Anime-19.png" group-title="24/7 ANIME",24/7 Pokemon 10al18 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ (e)" tvg-logo="https://i.postimg.cc/XNHkqj2C/Proyectox-24-7-Anime-21.png" group-title="24/7 ANIME",24/7 Ranma ½ (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (e)" tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los titanes (e)" tvg-logo="https://i.postimg.cc/FzDWs0Yd/Proyectox-24-7-Juveniles1-18.png" group-title="24/7 ANIME",24/7 Ataque a los titanes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BeyBlade (e)" tvg-logo="https://i.postimg.cc/5yxKVs2W/Proyectox-24-7-Juveniles1-20.png" group-title="24/7 ANIME",24/7 BeyBlade (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boruto: Naruto Next Generations (e)" tvg-logo="https://i.postimg.cc/4dRF8fCd/Proyectox-24-7-Juveniles1-21.png" group-title="24/7 ANIME",24/7 Boruto: Naruto Next Generations (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones (e)" tvg-logo="https://i.postimg.cc/8P7Br23n/Proyectox-24-7-Anime-22.png" group-title="24/7 ANIME",24/7 Supercampeones (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note (e)" tvg-logo="https://i.postimg.cc/hj8Z6kg0/Proyectox-24-7-Juveniles1-23.png" group-title="24/7 ANIME",24/7 Death Note (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demon Slayer: Kimetsu no Yaiba (e)" tvg-logo="https://i.postimg.cc/8kHnHgZp/Proyectox-24-7-Anime.png" group-title="24/7 ANIME",24/7 Demon Slayer: Kimetsu no Yaiba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://i.postimg.cc/zGLt8b8v/Proyectox-24-7-Anime-2.png" group-title="24/7 ANIME",24/7 Digimon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan (e)" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7 ANIME",24/7 Detective Conan (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball (e)" tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png" group-title="24/7 ANIME",24/7 Dragon Ball (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)" tvg-logo="https://i.postimg.cc/1RJJFcz4/Proyectox-24-7-Anime-10.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Frezzer (e)" tvg-logo="https://i.postimg.cc/d1F425dZ/Proyectox-24-7-Anime-7.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Frezzer (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)" tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)" tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT (e)" tvg-logo="https://i.postimg.cc/YSYdL54w/Proyectox-24-7-Anime-5.png" group-title="24/7 ANIME",24/7 Dragon Ball GT (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)" tvg-logo="https://i.postimg.cc/4NywQ7KP/Proyectox-24-7-Anime-11.png" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (e)" tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png" group-title="24/7 ANIME",24/7 Dragon Ball Super (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jujutsu Kaisen (e)" tvg-logo="https://i.postimg.cc/vHKhqYfs/Proyectox-24-7-Anime-12.png" group-title="24/7 ANIME",24/7 Jujutsu Kaisen (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)" tvg-logo="https://i.postimg.cc/vZ6zCJt6/Proyectox-24-7-Anime-14.png" group-title="24/7 ANIME",24/7 Naruto (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 1al10 (e)" tvg-logo="https://i.postimg.cc/pXVLdjG2/Proyectox-24-7-Anime-15.png" group-title="24/7 ANIME",24/7 Naruto Shippude 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 11al20 (e)" tvg-logo="https://i.postimg.cc/Pqs4HSSV/Proyectox-24-7-Anime-16.png" group-title="24/7 ANIME",24/7 Naruto Shippude 11al20 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 1al10 (e)" tvg-logo="https://i.postimg.cc/KzQrnxxC/Proyectox-24-7-Anime-18.png" group-title="24/7 ANIME",24/7 One Piece 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 11al21 (e)" tvg-logo="https://i.postimg.cc/vBGtgcFW/Proyectox-24-7-Anime-17.png" group-title="24/7 ANIME",24/7 One Piece 11al21 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="https://i.postimg.cc/VvVqVgSR/Proyectox-24-7-Anime-20.png" group-title="24/7 ANIME",24/7 Pokemon 1al9 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 10al18 (e)" tvg-logo="https://i.postimg.cc/prTQC4dr/Proyectox-24-7-Anime-19.png" group-title="24/7 ANIME",24/7 Pokemon 10al18 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ (e)" tvg-logo="https://i.postimg.cc/XNHkqj2C/Proyectox-24-7-Anime-21.png" group-title="24/7 ANIME",24/7 Ranma ½ (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (e)" tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los titanes (e)" tvg-logo="https://i.postimg.cc/FzDWs0Yd/Proyectox-24-7-Juveniles1-18.png" group-title="24/7 ANIME",24/7 Ataque a los titanes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BeyBlade (e)" tvg-logo="https://i.postimg.cc/5yxKVs2W/Proyectox-24-7-Juveniles1-20.png" group-title="24/7 ANIME",24/7 BeyBlade (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boruto: Naruto Next Generations (e)" tvg-logo="https://i.postimg.cc/4dRF8fCd/Proyectox-24-7-Juveniles1-21.png" group-title="24/7 ANIME",24/7 Boruto: Naruto Next Generations (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones (e)" tvg-logo="https://i.postimg.cc/8P7Br23n/Proyectox-24-7-Anime-22.png" group-title="24/7 ANIME",24/7 Supercampeones (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note (e)" tvg-logo="https://i.postimg.cc/hj8Z6kg0/Proyectox-24-7-Juveniles1-23.png" group-title="24/7 ANIME",24/7 Death Note (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demon Slayer: Kimetsu no Yaiba (e)" tvg-logo="https://i.postimg.cc/8kHnHgZp/Proyectox-24-7-Anime.png" group-title="24/7 ANIME",24/7 Demon Slayer: Kimetsu no Yaiba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://i.postimg.cc/zGLt8b8v/Proyectox-24-7-Anime-2.png" group-title="24/7 ANIME",24/7 Digimon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan (e)" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7 ANIME",24/7 Detective Conan (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball (e)" tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png" group-title="24/7 ANIME",24/7 Dragon Ball (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)" tvg-logo="https://i.postimg.cc/1RJJFcz4/Proyectox-24-7-Anime-10.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Frezzer (e)" tvg-logo="https://i.postimg.cc/d1F425dZ/Proyectox-24-7-Anime-7.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Frezzer (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)" tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)" tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT (e)" tvg-logo="https://i.postimg.cc/YSYdL54w/Proyectox-24-7-Anime-5.png" group-title="24/7 ANIME",24/7 Dragon Ball GT (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)" tvg-logo="https://i.postimg.cc/4NywQ7KP/Proyectox-24-7-Anime-11.png" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (e)" tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png" group-title="24/7 ANIME",24/7 Dragon Ball Super (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jujutsu Kaisen (e)" tvg-logo="https://i.postimg.cc/vHKhqYfs/Proyectox-24-7-Anime-12.png" group-title="24/7 ANIME",24/7 Jujutsu Kaisen (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)" tvg-logo="https://i.postimg.cc/vZ6zCJt6/Proyectox-24-7-Anime-14.png" group-title="24/7 ANIME",24/7 Naruto (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 1al10 (e)" tvg-logo="https://i.postimg.cc/pXVLdjG2/Proyectox-24-7-Anime-15.png" group-title="24/7 ANIME",24/7 Naruto Shippude 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 11al20 (e)" tvg-logo="https://i.postimg.cc/Pqs4HSSV/Proyectox-24-7-Anime-16.png" group-title="24/7 ANIME",24/7 Naruto Shippude 11al20 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 1al10 (e)" tvg-logo="https://i.postimg.cc/KzQrnxxC/Proyectox-24-7-Anime-18.png" group-title="24/7 ANIME",24/7 One Piece 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 11al21 (e)" tvg-logo="https://i.postimg.cc/vBGtgcFW/Proyectox-24-7-Anime-17.png" group-title="24/7 ANIME",24/7 One Piece 11al21 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="https://i.postimg.cc/VvVqVgSR/Proyectox-24-7-Anime-20.png" group-title="24/7 ANIME",24/7 Pokemon 1al9 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 10al18 (e)" tvg-logo="https://i.postimg.cc/prTQC4dr/Proyectox-24-7-Anime-19.png" group-title="24/7 ANIME",24/7 Pokemon 10al18 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ (e)" tvg-logo="https://i.postimg.cc/XNHkqj2C/Proyectox-24-7-Anime-21.png" group-title="24/7 ANIME",24/7 Ranma ½ (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (e)" tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="MEX-BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" group-title="MEXICO",MEX-BitMe (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los titanes (e)" tvg-logo="https://i.postimg.cc/FzDWs0Yd/Proyectox-24-7-Juveniles1-18.png" group-title="24/7 ANIME",24/7 Ataque a los titanes (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BeyBlade (e)" tvg-logo="https://i.postimg.cc/5yxKVs2W/Proyectox-24-7-Juveniles1-20.png" group-title="24/7 ANIME",24/7 BeyBlade (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Boruto: Naruto Next Generations (e)" tvg-logo="https://i.postimg.cc/4dRF8fCd/Proyectox-24-7-Juveniles1-21.png" group-title="24/7 ANIME",24/7 Boruto: Naruto Next Generations (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones (e)" tvg-logo="https://i.postimg.cc/8P7Br23n/Proyectox-24-7-Anime-22.png" group-title="24/7 ANIME",24/7 Supercampeones (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note (e)" tvg-logo="https://i.postimg.cc/hj8Z6kg0/Proyectox-24-7-Juveniles1-23.png" group-title="24/7 ANIME",24/7 Death Note (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Demon Slayer: Kimetsu no Yaiba (e)" tvg-logo="https://i.postimg.cc/8kHnHgZp/Proyectox-24-7-Anime.png" group-title="24/7 ANIME",24/7 Demon Slayer: Kimetsu no Yaiba (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://i.postimg.cc/zGLt8b8v/Proyectox-24-7-Anime-2.png" group-title="24/7 ANIME",24/7 Digimon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan (e)" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7 ANIME",24/7 Detective Conan (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball (e)" tvg-logo="https://i.postimg.cc/QdR6t8db/Proyectox-24-7-Anime-4.png" group-title="24/7 ANIME",24/7 Dragon Ball (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin (e)" tvg-logo="https://i.postimg.cc/1RJJFcz4/Proyectox-24-7-Anime-10.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Saiyajin (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Frezzer (e)" tvg-logo="https://i.postimg.cc/d1F425dZ/Proyectox-24-7-Anime-7.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Frezzer (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Cell (e)" tvg-logo="https://i.postimg.cc/4yNPMnWJ/Proyectox-24-7-Anime-8.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Cell (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Majin Buu (e)" tvg-logo="https://i.postimg.cc/Y0nRwkPQ/Proyectox-24-7-Anime-9.png" group-title="24/7 ANIME",24/7 Dragon Ball Z - Saga Majin Buu (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT (e)" tvg-logo="https://i.postimg.cc/YSYdL54w/Proyectox-24-7-Anime-5.png" group-title="24/7 ANIME",24/7 Dragon Ball GT (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Kai (e)" tvg-logo="https://i.postimg.cc/4NywQ7KP/Proyectox-24-7-Anime-11.png" group-title="24/7 ANIME",24/7 Dragon Ball Z Kai (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super (e)" tvg-logo="https://i.postimg.cc/qRGQj2Xb/Proyectox-24-7-Anime-6.png" group-title="24/7 ANIME",24/7 Dragon Ball Super (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jujutsu Kaisen (e)" tvg-logo="https://i.postimg.cc/vHKhqYfs/Proyectox-24-7-Anime-12.png" group-title="24/7 ANIME",24/7 Jujutsu Kaisen (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto (e)" tvg-logo="https://i.postimg.cc/vZ6zCJt6/Proyectox-24-7-Anime-14.png" group-title="24/7 ANIME",24/7 Naruto (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 1al10 (e)" tvg-logo="https://i.postimg.cc/pXVLdjG2/Proyectox-24-7-Anime-15.png" group-title="24/7 ANIME",24/7 Naruto Shippude 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Shippude 11al20 (e)" tvg-logo="https://i.postimg.cc/Pqs4HSSV/Proyectox-24-7-Anime-16.png" group-title="24/7 ANIME",24/7 Naruto Shippude 11al20 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 1al10 (e)" tvg-logo="https://i.postimg.cc/KzQrnxxC/Proyectox-24-7-Anime-18.png" group-title="24/7 ANIME",24/7 One Piece 1al10 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece 11al21 (e)" tvg-logo="https://i.postimg.cc/vBGtgcFW/Proyectox-24-7-Anime-17.png" group-title="24/7 ANIME",24/7 One Piece 11al21 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="https://i.postimg.cc/VvVqVgSR/Proyectox-24-7-Anime-20.png" group-title="24/7 ANIME",24/7 Pokemon 1al9 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon 10al18 (e)" tvg-logo="https://i.postimg.cc/prTQC4dr/Proyectox-24-7-Anime-19.png" group-title="24/7 ANIME",24/7 Pokemon 10al18 (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://i.postimg.cc/pdfBLK7W/Proyectox-24-7-Anime-13.png" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ranma ½ (e)" tvg-logo="https://i.postimg.cc/XNHkqj2C/Proyectox-24-7-Anime-21.png" group-title="24/7 ANIME",24/7 Ranma ½ (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh (e)" tvg-logo="https://i.postimg.cc/Gh6PPMn3/Proyectox-24-7-Anime-23.png" group-title="24/7 ANIME",24/7 Yu-Gi-Oh (e)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Adult Swim ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Adult Swim - Opción 2 ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,BITME ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,BITME - Opción 2 ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AKIBA PASS TV Anime: Sport  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AKIBA PASS TV Anime: Sport  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AKIBA PASS TV Anime: Sport  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Animation",Anime All Day  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Anime on Verizon  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AnimeVision.es" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Animation",Anime Vision (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AnimeVisionClassics.es" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Animation",Anime Vision Classics (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Animation",Anime Zone TV (480p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Entertainment",bitMe (576p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Crunchyroll  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mr. Bean Anime (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mr. Bean Anime Italy (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mr. Bean Anime Spain (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@Austria" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="Entertainment",Pluto TV Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@Germany" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="Entertainment",Pluto TV Anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-logo="https://i.imgur.com/S31utcQ.png" group-title="Animation",Pluto TV Animé Acción (684p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@Italy" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="Entertainment",Pluto TV Anime Italy (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wasabi la chaîne anime  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AKIBA PASS TV Anime: Sport
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/659e598ab9adc4000843c574/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5242-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=77cfb04f-c3c0-44b8-b6e2-07ddce76c467  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AKIBA PASS TV Anime: Sport
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/659e598ab9adc4000843c574/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8293f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a10e7bc2-27d2-4246-858e-3b550009b794  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AKIBA PASS TV Anime: Sport
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/659e598ab9adc4000843c574/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac0871-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1aca10c2-09e3-4dba-9e0e-6d174d5eb77f  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Animation",Anime All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Anime on Verizon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ca98dc3a116800079c268a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a782-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=352f43dc-f857-4884-a01f-3960316a27d1  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AnimeVision.es" tvg-logo="https://i.imgur.com/pUpKznl.png" group-title="Animation",Anime Vision (1080p)
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AnimeVisionClassics.es" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Animation",Anime Vision Classics (1080p)
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Animation",Anime Zone TV (480p)
+http://animezonetv.net/hls/stream.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Entertainment",bitMe (576p)
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Crunchyroll
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mr. Bean Anime (1080p)
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mr. Bean Anime Italy (1080p)
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mr. Bean Anime Spain (1080p)
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Anime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc852c04-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7712194d-f819-4c85-b762-cb0449cb4928  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@Austria" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="Entertainment",Pluto TV Anime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f82-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95e1f29c-bf6d-41bb-9fce-486049aaae5d  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@Germany" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="Entertainment",Pluto TV Anime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7970-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=042724a5-f12e-43ab-9538-dac62e47d082  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-logo="https://i.imgur.com/S31utcQ.png" group-title="Animation",Pluto TV Animé Acción (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@Italy" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="Entertainment",Pluto TV Anime Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wasabi la chaîne anime
+https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8  # Fecha: 2025-10-11 19:10

@@ -1,0 +1,412 @@
+#EXTM3U
+#EXTINF:-1,El Trece ✅
+http://179.51.136.19:8000/play/a1bn/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,El Trece - Opción 2 ✅
+http://179.51.136.19:8000/play/a1bn/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="227" tvg-name="Canal 13 La Rioja" tvg-logo="https://cdn.m3u.cl/logo/227_Canal_13_La_Rioja.png", Canal 13 La Rioja | AR
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1351" tvg-name="Canal 9 La Rioja" tvg-logo="https://cdn.m3u.cl/logo/1351_Canal_9_La_Rioja.png", Canal 9 La Rioja | AR
+https://inliveserver.com:1936/12014/12014/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="236" tvg-name="Canal 9 Litoral" tvg-logo="https://cdn.m3u.cl/logo/236_Canal_9_Litoral.png", Canal 9 Litoral | AR
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="273" tvg-name="Canal 907 FM Comunicar" tvg-logo="https://cdn.m3u.cl/logo/273_Canal_907_FM_Comunicar.png", Canal 907 FM Comunicar | AR
+https://panel.host-live.com:19360/canal907/canal907.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="1358" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png", El Trece | AR
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="246" tvg-name="Telefe Rosario" tvg-logo="https://cdn.m3u.cl/logo/246_Telefe_Rosario.png", Telefe Rosario | AR
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 ✪ | CL
+https://m3u.cl/channel/c13.php?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="353" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png", Canal 9 Bío Bí­o TV | CL
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (M)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (T)(720)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (L)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 13 (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU" group-title="COSTARICA",CR-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (M)(720)" tvg-logo="" group-title="CHILE",CHI-Canal 13 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 Opc 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 Opc 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (L)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-America TV (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/america_tv.png" group-title="CUBA",CU-America TV (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (T)(720)" tvg-logo="/-sPa6cL9DRaI/YgalgdG4PrI/AAAAAAAADSg/thhuzwdYtfEOy0QEa4Yl3pNByFDNjIS6ACNcBGAsYHQ/s1600/1644602752090238-10.png" group-title="CHILE",CHI-Canal 13 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13C (T)(720)" tvg-logo="/-LdQnpSZ_eS4/Ygalfw2XsiI/AAAAAAAADSc/M25QdjlQMZMfKzAco0Wpv7vHf9PUb576wCNcBGAsYHQ/s1600/1644602750375692-11.png" group-title="CHILE",CHI-Canal 13C (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 92 (Z)(1080)" tvg-logo="http://svtv.xyz:8000/images/20a7ec530b361b2f1db890c6482be551.png" group-title="NICARAGUA",NIC-Canal 92 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 13 (M)(SD)" tvg-logo="" group-title="NICARAGUA",NIC-Canal 13 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="CANALES-RELIGIOSOS",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (M)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (T)(720)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (L)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 13 (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU" group-title="COSTARICA",CR-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (M)(720)" tvg-logo="" group-title="CHILE",CHI-Canal 13 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 Opc 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 Opc 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (L)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-America TV (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/america_tv.png" group-title="CUBA",CU-America TV (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (T)(720)" tvg-logo="/-sPa6cL9DRaI/YgalgdG4PrI/AAAAAAAADSg/thhuzwdYtfEOy0QEa4Yl3pNByFDNjIS6ACNcBGAsYHQ/s1600/1644602752090238-10.png" group-title="CHILE",CHI-Canal 13 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13C (T)(720)" tvg-logo="/-LdQnpSZ_eS4/Ygalfw2XsiI/AAAAAAAADSc/M25QdjlQMZMfKzAco0Wpv7vHf9PUb576wCNcBGAsYHQ/s1600/1644602750375692-11.png" group-title="CHILE",CHI-Canal 13C (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 92 (Z)(1080)" tvg-logo="http://svtv.xyz:8000/images/20a7ec530b361b2f1db890c6482be551.png" group-title="NICARAGUA",NIC-Canal 92 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 13 (M)(SD)" tvg-logo="" group-title="NICARAGUA",NIC-Canal 13 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="CANALES-RELIGIOSOS",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (M)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (T)(720)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (L)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 13 (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU" group-title="COSTARICA",CR-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (M)(720)" tvg-logo="" group-title="CHILE",CHI-Canal 13 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 Opc 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 Opc 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (L)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-America TV (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/america_tv.png" group-title="CUBA",CU-America TV (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (T)(720)" tvg-logo="/-sPa6cL9DRaI/YgalgdG4PrI/AAAAAAAADSg/thhuzwdYtfEOy0QEa4Yl3pNByFDNjIS6ACNcBGAsYHQ/s1600/1644602752090238-10.png" group-title="CHILE",CHI-Canal 13 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13C (T)(720)" tvg-logo="/-LdQnpSZ_eS4/Ygalfw2XsiI/AAAAAAAADSc/M25QdjlQMZMfKzAco0Wpv7vHf9PUb576wCNcBGAsYHQ/s1600/1644602750375692-11.png" group-title="CHILE",CHI-Canal 13C (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 92 (Z)(1080)" tvg-logo="http://svtv.xyz:8000/images/20a7ec530b361b2f1db890c6482be551.png" group-title="NICARAGUA",NIC-Canal 92 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 13 (M)(SD)" tvg-logo="" group-title="NICARAGUA",NIC-Canal 13 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="CANALES-RELIGIOSOS",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Barbe Canal 9 (Guatemala) (🇬🇹)
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,Ciudad Magazine (Argentina) (🇦🇷)
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:0,El Trece (Argentina) (🇦🇷)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/INKZvlN.png",Canal 13 Esquipulas (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/OI97Sgq.png",Canal 13 La Rioja (480p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png",Canal 9 Litoral (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/xqgRFpC.png",Canal 9 Resistencia (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/JUtAzg4.png",Canal 9 Televida (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Ciudad Magazine (1080p) [Geo-blocked]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",El Trece (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Спорт+ ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/INKZvlN.png",Canal 13 Esquipulas (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/OI97Sgq.png",Canal 13 La Rioja (480p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png",Canal 9 Litoral (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/xqgRFpC.png",Canal 9 Resistencia (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/JUtAzg4.png",Canal 9 Televida (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",Ciudad Magazine (1080p) [Geo-blocked]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="США | USA PindosUnited States",El Trece (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 group-title="Спорт+ ⚽⛸🏀🏈🏋️‍🏒 🏆" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png",Moto America TV  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (M)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (T)(720)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (L)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 13 (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU" group-title="COSTARICA",CR-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (M)(720)" tvg-logo="" group-title="CHILE",CHI-Canal 13 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 Opc 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 Opc 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (L)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-America TV (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/america_tv.png" group-title="CUBA",CU-America TV (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (T)(720)" tvg-logo="/-sPa6cL9DRaI/YgalgdG4PrI/AAAAAAAADSg/thhuzwdYtfEOy0QEa4Yl3pNByFDNjIS6ACNcBGAsYHQ/s1600/1644602752090238-10.png" group-title="CHILE",CHI-Canal 13 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13C (T)(720)" tvg-logo="/-LdQnpSZ_eS4/Ygalfw2XsiI/AAAAAAAADSc/M25QdjlQMZMfKzAco0Wpv7vHf9PUb576wCNcBGAsYHQ/s1600/1644602750375692-11.png" group-title="CHILE",CHI-Canal 13C (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 92 (Z)(1080)" tvg-logo="http://svtv.xyz:8000/images/20a7ec530b361b2f1db890c6482be551.png" group-title="NICARAGUA",NIC-Canal 92 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 13 (M)(SD)" tvg-logo="" group-title="NICARAGUA",NIC-Canal 13 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="CANALES-RELIGIOSOS",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (M)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (T)(720)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (L)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 13 (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU" group-title="COSTARICA",CR-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (M)(720)" tvg-logo="" group-title="CHILE",CHI-Canal 13 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 Opc 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 Opc 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (L)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-America TV (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/america_tv.png" group-title="CUBA",CU-America TV (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (T)(720)" tvg-logo="/-sPa6cL9DRaI/YgalgdG4PrI/AAAAAAAADSg/thhuzwdYtfEOy0QEa4Yl3pNByFDNjIS6ACNcBGAsYHQ/s1600/1644602752090238-10.png" group-title="CHILE",CHI-Canal 13 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13C (T)(720)" tvg-logo="/-LdQnpSZ_eS4/Ygalfw2XsiI/AAAAAAAADSc/M25QdjlQMZMfKzAco0Wpv7vHf9PUb576wCNcBGAsYHQ/s1600/1644602750375692-11.png" group-title="CHILE",CHI-Canal 13C (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 92 (Z)(1080)" tvg-logo="http://svtv.xyz:8000/images/20a7ec530b361b2f1db890c6482be551.png" group-title="NICARAGUA",NIC-Canal 92 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 13 (M)(SD)" tvg-logo="" group-title="NICARAGUA",NIC-Canal 13 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="CANALES-RELIGIOSOS",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (M)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (T)(720)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (L)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 13 (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU" group-title="COSTARICA",CR-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (M)(720)" tvg-logo="" group-title="CHILE",CHI-Canal 13 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 Opc 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 Opc 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (L)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-America TV (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/america_tv.png" group-title="CUBA",CU-America TV (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (T)(720)" tvg-logo="/-sPa6cL9DRaI/YgalgdG4PrI/AAAAAAAADSg/thhuzwdYtfEOy0QEa4Yl3pNByFDNjIS6ACNcBGAsYHQ/s1600/1644602752090238-10.png" group-title="CHILE",CHI-Canal 13 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13C (T)(720)" tvg-logo="/-LdQnpSZ_eS4/Ygalfw2XsiI/AAAAAAAADSc/M25QdjlQMZMfKzAco0Wpv7vHf9PUb576wCNcBGAsYHQ/s1600/1644602750375692-11.png" group-title="CHILE",CHI-Canal 13C (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 92 (Z)(1080)" tvg-logo="http://svtv.xyz:8000/images/20a7ec530b361b2f1db890c6482be551.png" group-title="NICARAGUA",NIC-Canal 92 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 13 (M)(SD)" tvg-logo="" group-title="NICARAGUA",NIC-Canal 13 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="CANALES-RELIGIOSOS",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (M)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (T)(720)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (L)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 13 (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU" group-title="COSTARICA",CR-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (M)(720)" tvg-logo="" group-title="CHILE",CHI-Canal 13 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 Opc 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 Opc 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (L)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-America TV (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/america_tv.png" group-title="CUBA",CU-America TV (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (T)(720)" tvg-logo="/-sPa6cL9DRaI/YgalgdG4PrI/AAAAAAAADSg/thhuzwdYtfEOy0QEa4Yl3pNByFDNjIS6ACNcBGAsYHQ/s1600/1644602752090238-10.png" group-title="CHILE",CHI-Canal 13 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13C (T)(720)" tvg-logo="/-LdQnpSZ_eS4/Ygalfw2XsiI/AAAAAAAADSc/M25QdjlQMZMfKzAco0Wpv7vHf9PUb576wCNcBGAsYHQ/s1600/1644602750375692-11.png" group-title="CHILE",CHI-Canal 13C (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 92 (Z)(1080)" tvg-logo="http://svtv.xyz:8000/images/20a7ec530b361b2f1db890c6482be551.png" group-title="NICARAGUA",NIC-Canal 92 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 13 (M)(SD)" tvg-logo="" group-title="NICARAGUA",NIC-Canal 13 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="CANALES-RELIGIOSOS",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (M)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (T)(720)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (L)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 13 (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU" group-title="COSTARICA",CR-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (M)(720)" tvg-logo="" group-title="CHILE",CHI-Canal 13 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 Opc 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 Opc 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (L)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-America TV (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/america_tv.png" group-title="CUBA",CU-America TV (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (T)(720)" tvg-logo="/-sPa6cL9DRaI/YgalgdG4PrI/AAAAAAAADSg/thhuzwdYtfEOy0QEa4Yl3pNByFDNjIS6ACNcBGAsYHQ/s1600/1644602752090238-10.png" group-title="CHILE",CHI-Canal 13 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13C (T)(720)" tvg-logo="/-LdQnpSZ_eS4/Ygalfw2XsiI/AAAAAAAADSc/M25QdjlQMZMfKzAco0Wpv7vHf9PUb576wCNcBGAsYHQ/s1600/1644602750375692-11.png" group-title="CHILE",CHI-Canal 13C (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 92 (Z)(1080)" tvg-logo="http://svtv.xyz:8000/images/20a7ec530b361b2f1db890c6482be551.png" group-title="NICARAGUA",NIC-Canal 92 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 13 (M)(SD)" tvg-logo="" group-title="NICARAGUA",NIC-Canal 13 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="CANALES-RELIGIOSOS",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (M)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (T)(720)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (L)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 13 (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU" group-title="COSTARICA",CR-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (M)(720)" tvg-logo="" group-title="CHILE",CHI-Canal 13 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 Opc 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 Opc 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (L)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-America TV (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/america_tv.png" group-title="CUBA",CU-America TV (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (T)(720)" tvg-logo="/-sPa6cL9DRaI/YgalgdG4PrI/AAAAAAAADSg/thhuzwdYtfEOy0QEa4Yl3pNByFDNjIS6ACNcBGAsYHQ/s1600/1644602752090238-10.png" group-title="CHILE",CHI-Canal 13 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13C (T)(720)" tvg-logo="/-LdQnpSZ_eS4/Ygalfw2XsiI/AAAAAAAADSc/M25QdjlQMZMfKzAco0Wpv7vHf9PUb576wCNcBGAsYHQ/s1600/1644602750375692-11.png" group-title="CHILE",CHI-Canal 13C (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 92 (Z)(1080)" tvg-logo="http://svtv.xyz:8000/images/20a7ec530b361b2f1db890c6482be551.png" group-title="NICARAGUA",NIC-Canal 92 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 13 (M)(SD)" tvg-logo="" group-title="NICARAGUA",NIC-Canal 13 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="CANALES-RELIGIOSOS",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (M)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (M)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-El Trece (T)(720)" tvg-logo="http://23.153.216.121:25461/images/00f165e38ba27ac417ccf07c6473d692.png" group-title="ARGENTINA",ARG-El Trece (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (L)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (L)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (TV)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CR-Canal 13 (TV)(720)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU" group-title="COSTARICA",CR-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America tv (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png" group-title="PERU",PER-America tv (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="PER-America TV (Z)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c62160d1863936012a4e8d55af0026c7.png" group-title="PERU",PER-America TV (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (M)(720)" tvg-logo="" group-title="CHILE",CHI-Canal 13 (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 (TV)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 Opc 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png" group-title="CHILE",CHI-Canal 13 Opc 2 (M)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (L)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (L)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13c (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png" group-title="CHILE",CHI-Canal 13c (M)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CU-America TV (TV)" tvg-logo="http://swedtv.vip/logos/LAT_centroamerica/america_tv.png" group-title="CUBA",CU-America TV (TV)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="PER-America TV (T)(720)" tvg-logo="" group-title="PERU",PER-America TV (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Telefe (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3bd85cd4eae732493bf2484fd56d751d.png" group-title="ARGENTINA",ARG-Telefe (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13 (T)(720)" tvg-logo="/-sPa6cL9DRaI/YgalgdG4PrI/AAAAAAAADSg/thhuzwdYtfEOy0QEa4Yl3pNByFDNjIS6ACNcBGAsYHQ/s1600/1644602752090238-10.png" group-title="CHILE",CHI-Canal 13 (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="CHI-Canal 13C (T)(720)" tvg-logo="/-LdQnpSZ_eS4/Ygalfw2XsiI/AAAAAAAADSc/M25QdjlQMZMfKzAco0Wpv7vHf9PUb576wCNcBGAsYHQ/s1600/1644602750375692-11.png" group-title="CHILE",CHI-Canal 13C (T)(720)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 92 (Z)(1080)" tvg-logo="http://svtv.xyz:8000/images/20a7ec530b361b2f1db890c6482be551.png" group-title="NICARAGUA",NIC-Canal 92 (Z)(1080)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="NIC-Canal 13 (M)(SD)" tvg-logo="" group-title="NICARAGUA",NIC-Canal 13 (M)(SD)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 Jujuy TV (720p)" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="CANALES-RELIGIOSOS",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ARG: Canal 9 imagen del Nordeste DASH ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 13 ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 13 HD - Opción 2 ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 13 Jujuy TV (720p) ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 13 La Rioja ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 9 Bio Bio Television ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 9 Bío Bí­o TV | CL ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,El Trece ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,El Trece - Opción 2 ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,PUE: CANAL 13 ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,TAB: CANAL 13 ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Telefe ✅  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9.cr" tvg-logo="https://i.imgur.com/7knekJU.png" group-title="General",Canal 9 (720p) [Geo-blocked]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="General",Canal 9 Barbe TV (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="Undefined",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="Undefined",Canal 9 en Français (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="IxchiguanEstereoTV.gt" tvg-logo="https://i.imgur.com/FMrB17k.png" group-title="Entertainment",Canal 9 Ixchiguán (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Undefined",Canal 9 Litoral (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 9 Resistencia (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Undefined",Canal 9 Televida (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9Toliman.gt" tvg-logo="https://i.imgur.com/ytg9oTf.png" group-title="Undefined",Canal 9 Tolimán (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Undefined",Canal 13 (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Bajio.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Bajío (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Campeche.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Campeche (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Chiapas.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Chiapas (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Esquipulas.gt" tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="General",Canal 13 Esquipulas (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Guadalajara.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Guadalajara (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Jujuy.ar" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religious",Canal 13 Jujuy TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Undefined",Canal 13 La Rioja (480p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Michoacan.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Michoacán (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Oaxaca.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Oaxaca (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Puebla.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Puebla (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Tabasco.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Tabasco (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Tapachula.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Tapachula (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13TierraCaliente.mx" tvg-logo="https://i.imgur.com/v4o9q3u.jpg" group-title="General",Canal 13 Tierra Caliente (768p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Yucatan.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Yucatán (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="JesusTV.gt" tvg-logo="https://i.imgur.com/WR2QoZn.png" group-title="Religious",Canal 98 Jesús TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CanalAmericaTV.do@SD" tvg-logo="" group-title="General",Canal America TV (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General",Ciudad Magazine (1080p) [Geo-blocked]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="General",El Trece (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="IberoamericaTV.es" tvg-logo="https://i.imgur.com/N3K6PAG.png" group-title="Entertainment",IberoAmerica TV (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MotoAmerica TV (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="PlutoTVTelefeClasico.us" tvg-logo="https://i.imgur.com/3fuWMmy.png" group-title="Undefined",Pluto TV Telefe Clásico (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TeleDanli.hn" tvg-logo="https://i.imgur.com/BACuUSc.png" group-title="Undefined",TeleDanlí Canal 9 (720p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Telefe (1080p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (720p)  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="Undefined",TV Sur Canal 9 (620p) [Not 24/7]  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,ARG: Canal 9 imagen del Nordeste DASH ✅
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 13 ✅
+http://179.51.136.19:8000/play/a1gf/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 13 HD - Opción 2 ✅
+http://181.78.201.70:8000/play/a0pd/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 13 Jujuy TV (720p) ✅
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 13 La Rioja ✅
+http://arcast.net:1935/mp/mp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 9 Bio Bio Television ✅
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Canal 9 Bío Bí­o TV | CL ✅
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,PUE: CANAL 13 ✅
+https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/tracks-a1/index.fmp4.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,TAB: CANAL 13 ✅
+https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/tracks-a1/index.fmp4.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1,Telefe ✅
+http://tv.teleclub.xyz/stream/server_1/mundo/telefe/master.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9.cr" tvg-logo="https://i.imgur.com/7knekJU.png" group-title="General",Canal 9 (720p) [Geo-blocked]
+http://201.201.149.86:8080/livestream/stream.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="BarbeTV.gt" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="General",Canal 9 Barbe TV (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="Undefined",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-logo="https://i.imgur.com/TNciMh2.png" group-title="Undefined",Canal 9 en Français (1080p)
+https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="IxchiguanEstereoTV.gt" tvg-logo="https://i.imgur.com/FMrB17k.png" group-title="Entertainment",Canal 9 Ixchiguán (720p)
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Undefined",Canal 9 Litoral (720p)
+https://stream.arcast.live/ahora/ahora/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 9 Resistencia (720p)
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Undefined",Canal 9 Televida (720p)
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal9Toliman.gt" tvg-logo="https://i.imgur.com/ytg9oTf.png" group-title="Undefined",Canal 9 Tolimán (720p)
+https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Undefined",Canal 13 (1080p)
+http://38.250.127.17:9800/play/a067/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Bajio.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Bajío (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13bajio/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Campeche.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Campeche (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13campeche/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Chiapas.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Chiapas (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13chiapas/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Esquipulas.gt" tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="General",Canal 13 Esquipulas (720p)
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Guadalajara.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Guadalajara (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13guadalajara/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Jujuy.ar" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" group-title="Religious",Canal 13 Jujuy TV (720p)
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="Undefined",Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Michoacan.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Michoacán (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13michoacan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Oaxaca.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Oaxaca (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13oaxaca/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Puebla.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Puebla (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Tabasco.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Tabasco (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Tapachula.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Tapachula (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13tapachula/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13TierraCaliente.mx" tvg-logo="https://i.imgur.com/v4o9q3u.jpg" group-title="General",Canal 13 Tierra Caliente (768p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder30/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Canal13Yucatan.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Yucatán (720p) [Not 24/7]
+https://dbdfj5y8nz2u4.cloudfront.net/c13yucatan/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="JesusTV.gt" tvg-logo="https://i.imgur.com/WR2QoZn.png" group-title="Religious",Canal 98 Jesús TV (720p)
+https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CanalAmericaTV.do@SD" tvg-logo="" group-title="General",Canal America TV (720p)
+http://newyorkstream.ddns.net:5854/enlacecanalamerica/encoderRD/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General",Ciudad Magazine (1080p) [Geo-blocked]
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="General",El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="IberoamericaTV.es" tvg-logo="https://i.imgur.com/N3K6PAG.png" group-title="Entertainment",IberoAmerica TV (1080p)
+https://limited39.todostreaming.es/live/salome-livestream.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MotoAmerica TV (1080p)
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="PlutoTVTelefeClasico.us" tvg-logo="https://i.imgur.com/3fuWMmy.png" group-title="Undefined",Pluto TV Telefe Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TeleDanli.hn" tvg-logo="https://i.imgur.com/BACuUSc.png" group-title="Undefined",TeleDanlí Canal 9 (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Telefe (1080p)
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350/master.m3u8?advertisingId=PSID&appVersion=unknown&deviceDNT=TARGETOPT&deviceId=PSID&deviceLat=90&deviceLon=0&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&deviceVersion=unknown&embedPartner=&profileFloor=&profileLimit=&us_privacy=1YNY  # Fecha: 2025-10-11 19:10
+#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="Undefined",TV Sur Canal 9 (620p) [Not 24/7]
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8  # Fecha: 2025-10-11 19:10
