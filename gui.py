@@ -244,7 +244,6 @@ def verificar_peliculas_series():
 
     threading.Thread(target=tarea).start()
 
-
 # 🖼️ GUI principal
 ventana = tk.Tk()
 ventana.title("Beluga IPTV — Curaduría GUI")
