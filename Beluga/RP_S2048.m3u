@@ -1,5 +1,5 @@
 #EXTM3U
-# Generado por Beluga - 2025-10-11 19:36
+# Generado por Beluga - 2025-10-11 20:20
 
 # 🔹 Categoría: abiertos_arg_1
 #EXTINF:-1 tvg-id="abiertos_arg_1" group-title="abiertos_arg_1",abiertos_arg_1
@@ -12,6 +12,246 @@
 # 🔹 Categoría: anime_adultos_1
 #EXTINF:-1 tvg-id="anime_adultos_1" group-title="anime_adultos_1",anime_adultos_1
 ./segmentados/anime_adultos_1.m3u
+
+# 🔹 Categoría: argentina_general_1
+#EXTINF:-1 tvg-id="argentina_general_1" group-title="argentina_general_1",argentina_general_1
+./segmentados/argentina_general_1.m3u
+
+# 🔹 Categoría: argentina_general_10
+#EXTINF:-1 tvg-id="argentina_general_10" group-title="argentina_general_10",argentina_general_10
+./segmentados/argentina_general_10.m3u
+
+# 🔹 Categoría: argentina_general_100
+#EXTINF:-1 tvg-id="argentina_general_100" group-title="argentina_general_100",argentina_general_100
+./segmentados/argentina_general_100.m3u
+
+# 🔹 Categoría: argentina_general_101
+#EXTINF:-1 tvg-id="argentina_general_101" group-title="argentina_general_101",argentina_general_101
+./segmentados/argentina_general_101.m3u
+
+# 🔹 Categoría: argentina_general_102
+#EXTINF:-1 tvg-id="argentina_general_102" group-title="argentina_general_102",argentina_general_102
+./segmentados/argentina_general_102.m3u
+
+# 🔹 Categoría: argentina_general_103
+#EXTINF:-1 tvg-id="argentina_general_103" group-title="argentina_general_103",argentina_general_103
+./segmentados/argentina_general_103.m3u
+
+# 🔹 Categoría: argentina_general_104
+#EXTINF:-1 tvg-id="argentina_general_104" group-title="argentina_general_104",argentina_general_104
+./segmentados/argentina_general_104.m3u
+
+# 🔹 Categoría: argentina_general_105
+#EXTINF:-1 tvg-id="argentina_general_105" group-title="argentina_general_105",argentina_general_105
+./segmentados/argentina_general_105.m3u
+
+# 🔹 Categoría: argentina_general_106
+#EXTINF:-1 tvg-id="argentina_general_106" group-title="argentina_general_106",argentina_general_106
+./segmentados/argentina_general_106.m3u
+
+# 🔹 Categoría: argentina_general_107
+#EXTINF:-1 tvg-id="argentina_general_107" group-title="argentina_general_107",argentina_general_107
+./segmentados/argentina_general_107.m3u
+
+# 🔹 Categoría: argentina_general_108
+#EXTINF:-1 tvg-id="argentina_general_108" group-title="argentina_general_108",argentina_general_108
+./segmentados/argentina_general_108.m3u
+
+# 🔹 Categoría: argentina_general_109
+#EXTINF:-1 tvg-id="argentina_general_109" group-title="argentina_general_109",argentina_general_109
+./segmentados/argentina_general_109.m3u
+
+# 🔹 Categoría: argentina_general_11
+#EXTINF:-1 tvg-id="argentina_general_11" group-title="argentina_general_11",argentina_general_11
+./segmentados/argentina_general_11.m3u
+
+# 🔹 Categoría: argentina_general_110
+#EXTINF:-1 tvg-id="argentina_general_110" group-title="argentina_general_110",argentina_general_110
+./segmentados/argentina_general_110.m3u
+
+# 🔹 Categoría: argentina_general_111
+#EXTINF:-1 tvg-id="argentina_general_111" group-title="argentina_general_111",argentina_general_111
+./segmentados/argentina_general_111.m3u
+
+# 🔹 Categoría: argentina_general_112
+#EXTINF:-1 tvg-id="argentina_general_112" group-title="argentina_general_112",argentina_general_112
+./segmentados/argentina_general_112.m3u
+
+# 🔹 Categoría: argentina_general_113
+#EXTINF:-1 tvg-id="argentina_general_113" group-title="argentina_general_113",argentina_general_113
+./segmentados/argentina_general_113.m3u
+
+# 🔹 Categoría: argentina_general_114
+#EXTINF:-1 tvg-id="argentina_general_114" group-title="argentina_general_114",argentina_general_114
+./segmentados/argentina_general_114.m3u
+
+# 🔹 Categoría: argentina_general_115
+#EXTINF:-1 tvg-id="argentina_general_115" group-title="argentina_general_115",argentina_general_115
+./segmentados/argentina_general_115.m3u
+
+# 🔹 Categoría: argentina_general_116
+#EXTINF:-1 tvg-id="argentina_general_116" group-title="argentina_general_116",argentina_general_116
+./segmentados/argentina_general_116.m3u
+
+# 🔹 Categoría: argentina_general_12
+#EXTINF:-1 tvg-id="argentina_general_12" group-title="argentina_general_12",argentina_general_12
+./segmentados/argentina_general_12.m3u
+
+# 🔹 Categoría: argentina_general_13
+#EXTINF:-1 tvg-id="argentina_general_13" group-title="argentina_general_13",argentina_general_13
+./segmentados/argentina_general_13.m3u
+
+# 🔹 Categoría: argentina_general_14
+#EXTINF:-1 tvg-id="argentina_general_14" group-title="argentina_general_14",argentina_general_14
+./segmentados/argentina_general_14.m3u
+
+# 🔹 Categoría: argentina_general_15
+#EXTINF:-1 tvg-id="argentina_general_15" group-title="argentina_general_15",argentina_general_15
+./segmentados/argentina_general_15.m3u
+
+# 🔹 Categoría: argentina_general_16
+#EXTINF:-1 tvg-id="argentina_general_16" group-title="argentina_general_16",argentina_general_16
+./segmentados/argentina_general_16.m3u
+
+# 🔹 Categoría: argentina_general_17
+#EXTINF:-1 tvg-id="argentina_general_17" group-title="argentina_general_17",argentina_general_17
+./segmentados/argentina_general_17.m3u
+
+# 🔹 Categoría: argentina_general_18
+#EXTINF:-1 tvg-id="argentina_general_18" group-title="argentina_general_18",argentina_general_18
+./segmentados/argentina_general_18.m3u
+
+# 🔹 Categoría: argentina_general_19
+#EXTINF:-1 tvg-id="argentina_general_19" group-title="argentina_general_19",argentina_general_19
+./segmentados/argentina_general_19.m3u
+
+# 🔹 Categoría: argentina_general_2
+#EXTINF:-1 tvg-id="argentina_general_2" group-title="argentina_general_2",argentina_general_2
+./segmentados/argentina_general_2.m3u
+
+# 🔹 Categoría: argentina_general_20
+#EXTINF:-1 tvg-id="argentina_general_20" group-title="argentina_general_20",argentina_general_20
+./segmentados/argentina_general_20.m3u
+
+# 🔹 Categoría: argentina_general_21
+#EXTINF:-1 tvg-id="argentina_general_21" group-title="argentina_general_21",argentina_general_21
+./segmentados/argentina_general_21.m3u
+
+# 🔹 Categoría: argentina_general_22
+#EXTINF:-1 tvg-id="argentina_general_22" group-title="argentina_general_22",argentina_general_22
+./segmentados/argentina_general_22.m3u
+
+# 🔹 Categoría: argentina_general_23
+#EXTINF:-1 tvg-id="argentina_general_23" group-title="argentina_general_23",argentina_general_23
+./segmentados/argentina_general_23.m3u
+
+# 🔹 Categoría: argentina_general_24
+#EXTINF:-1 tvg-id="argentina_general_24" group-title="argentina_general_24",argentina_general_24
+./segmentados/argentina_general_24.m3u
+
+# 🔹 Categoría: argentina_general_25
+#EXTINF:-1 tvg-id="argentina_general_25" group-title="argentina_general_25",argentina_general_25
+./segmentados/argentina_general_25.m3u
+
+# 🔹 Categoría: argentina_general_26
+#EXTINF:-1 tvg-id="argentina_general_26" group-title="argentina_general_26",argentina_general_26
+./segmentados/argentina_general_26.m3u
+
+# 🔹 Categoría: argentina_general_27
+#EXTINF:-1 tvg-id="argentina_general_27" group-title="argentina_general_27",argentina_general_27
+./segmentados/argentina_general_27.m3u
+
+# 🔹 Categoría: argentina_general_28
+#EXTINF:-1 tvg-id="argentina_general_28" group-title="argentina_general_28",argentina_general_28
+./segmentados/argentina_general_28.m3u
+
+# 🔹 Categoría: argentina_general_29
+#EXTINF:-1 tvg-id="argentina_general_29" group-title="argentina_general_29",argentina_general_29
+./segmentados/argentina_general_29.m3u
+
+# 🔹 Categoría: argentina_general_3
+#EXTINF:-1 tvg-id="argentina_general_3" group-title="argentina_general_3",argentina_general_3
+./segmentados/argentina_general_3.m3u
+
+# 🔹 Categoría: argentina_general_30
+#EXTINF:-1 tvg-id="argentina_general_30" group-title="argentina_general_30",argentina_general_30
+./segmentados/argentina_general_30.m3u
+
+# 🔹 Categoría: argentina_general_31
+#EXTINF:-1 tvg-id="argentina_general_31" group-title="argentina_general_31",argentina_general_31
+./segmentados/argentina_general_31.m3u
+
+# 🔹 Categoría: argentina_general_32
+#EXTINF:-1 tvg-id="argentina_general_32" group-title="argentina_general_32",argentina_general_32
+./segmentados/argentina_general_32.m3u
+
+# 🔹 Categoría: argentina_general_33
+#EXTINF:-1 tvg-id="argentina_general_33" group-title="argentina_general_33",argentina_general_33
+./segmentados/argentina_general_33.m3u
+
+# 🔹 Categoría: argentina_general_34
+#EXTINF:-1 tvg-id="argentina_general_34" group-title="argentina_general_34",argentina_general_34
+./segmentados/argentina_general_34.m3u
+
+# 🔹 Categoría: argentina_general_35
+#EXTINF:-1 tvg-id="argentina_general_35" group-title="argentina_general_35",argentina_general_35
+./segmentados/argentina_general_35.m3u
+
+# 🔹 Categoría: argentina_general_36
+#EXTINF:-1 tvg-id="argentina_general_36" group-title="argentina_general_36",argentina_general_36
+./segmentados/argentina_general_36.m3u
+
+# 🔹 Categoría: argentina_general_37
+#EXTINF:-1 tvg-id="argentina_general_37" group-title="argentina_general_37",argentina_general_37
+./segmentados/argentina_general_37.m3u
+
+# 🔹 Categoría: argentina_general_38
+#EXTINF:-1 tvg-id="argentina_general_38" group-title="argentina_general_38",argentina_general_38
+./segmentados/argentina_general_38.m3u
+
+# 🔹 Categoría: argentina_general_39
+#EXTINF:-1 tvg-id="argentina_general_39" group-title="argentina_general_39",argentina_general_39
+./segmentados/argentina_general_39.m3u
+
+# 🔹 Categoría: argentina_general_4
+#EXTINF:-1 tvg-id="argentina_general_4" group-title="argentina_general_4",argentina_general_4
+./segmentados/argentina_general_4.m3u
+
+# 🔹 Categoría: argentina_general_5
+#EXTINF:-1 tvg-id="argentina_general_5" group-title="argentina_general_5",argentina_general_5
+./segmentados/argentina_general_5.m3u
+
+# 🔹 Categoría: argentina_general_6
+#EXTINF:-1 tvg-id="argentina_general_6" group-title="argentina_general_6",argentina_general_6
+./segmentados/argentina_general_6.m3u
+
+# 🔹 Categoría: argentina_general_7
+#EXTINF:-1 tvg-id="argentina_general_7" group-title="argentina_general_7",argentina_general_7
+./segmentados/argentina_general_7.m3u
+
+# 🔹 Categoría: argentina_general_8
+#EXTINF:-1 tvg-id="argentina_general_8" group-title="argentina_general_8",argentina_general_8
+./segmentados/argentina_general_8.m3u
+
+# 🔹 Categoría: argentina_general_9
+#EXTINF:-1 tvg-id="argentina_general_9" group-title="argentina_general_9",argentina_general_9
+./segmentados/argentina_general_9.m3u
+
+# 🔹 Categoría: argentina_general_96
+#EXTINF:-1 tvg-id="argentina_general_96" group-title="argentina_general_96",argentina_general_96
+./segmentados/argentina_general_96.m3u
+
+# 🔹 Categoría: argentina_general_97
+#EXTINF:-1 tvg-id="argentina_general_97" group-title="argentina_general_97",argentina_general_97
+./segmentados/argentina_general_97.m3u
+
+# 🔹 Categoría: argentina_general_98
+#EXTINF:-1 tvg-id="argentina_general_98" group-title="argentina_general_98",argentina_general_98
+./segmentados/argentina_general_98.m3u
+
+# 🔹 Categoría: argentina_general_99
+#EXTINF:-1 tvg-id="argentina_general_99" group-title="argentina_general_99",argentina_general_99
+./segmentados/argentina_general_99.m3u
 
 # 🔹 Categoría: deportes_1
 #EXTINF:-1 tvg-id="deportes_1" group-title="deportes_1",deportes_1
@@ -72,6 +312,14 @@
 # 🔹 Categoría: infantil_4
 #EXTINF:-1 tvg-id="infantil_4" group-title="infantil_4",infantil_4
 ./segmentados/infantil_4.m3u
+
+# 🔹 Categoría: ingles_general_17
+#EXTINF:-1 tvg-id="ingles_general_17" group-title="ingles_general_17",ingles_general_17
+./segmentados/ingles_general_17.m3u
+
+# 🔹 Categoría: ingles_general_37
+#EXTINF:-1 tvg-id="ingles_general_37" group-title="ingles_general_37",ingles_general_37
+./segmentados/ingles_general_37.m3u
 
 # 🔹 Categoría: musica_1
 #EXTINF:-1 tvg-id="musica_1" group-title="musica_1",musica_1
@@ -205,109 +453,9 @@
 #EXTINF:-1 tvg-id="series_comedia_6" group-title="series_comedia_6",series_comedia_6
 ./segmentados/series_comedia_6.m3u
 
-# 🔹 Categoría: sin_clasificar_1
-#EXTINF:-1 tvg-id="sin_clasificar_1" group-title="sin_clasificar_1",sin_clasificar_1
-./segmentados/sin_clasificar_1.m3u
-
-# 🔹 Categoría: sin_clasificar_10
-#EXTINF:-1 tvg-id="sin_clasificar_10" group-title="sin_clasificar_10",sin_clasificar_10
-./segmentados/sin_clasificar_10.m3u
-
-# 🔹 Categoría: sin_clasificar_100
-#EXTINF:-1 tvg-id="sin_clasificar_100" group-title="sin_clasificar_100",sin_clasificar_100
-./segmentados/sin_clasificar_100.m3u
-
-# 🔹 Categoría: sin_clasificar_101
-#EXTINF:-1 tvg-id="sin_clasificar_101" group-title="sin_clasificar_101",sin_clasificar_101
-./segmentados/sin_clasificar_101.m3u
-
-# 🔹 Categoría: sin_clasificar_102
-#EXTINF:-1 tvg-id="sin_clasificar_102" group-title="sin_clasificar_102",sin_clasificar_102
-./segmentados/sin_clasificar_102.m3u
-
-# 🔹 Categoría: sin_clasificar_103
-#EXTINF:-1 tvg-id="sin_clasificar_103" group-title="sin_clasificar_103",sin_clasificar_103
-./segmentados/sin_clasificar_103.m3u
-
-# 🔹 Categoría: sin_clasificar_104
-#EXTINF:-1 tvg-id="sin_clasificar_104" group-title="sin_clasificar_104",sin_clasificar_104
-./segmentados/sin_clasificar_104.m3u
-
-# 🔹 Categoría: sin_clasificar_105
-#EXTINF:-1 tvg-id="sin_clasificar_105" group-title="sin_clasificar_105",sin_clasificar_105
-./segmentados/sin_clasificar_105.m3u
-
-# 🔹 Categoría: sin_clasificar_106
-#EXTINF:-1 tvg-id="sin_clasificar_106" group-title="sin_clasificar_106",sin_clasificar_106
-./segmentados/sin_clasificar_106.m3u
-
-# 🔹 Categoría: sin_clasificar_107
-#EXTINF:-1 tvg-id="sin_clasificar_107" group-title="sin_clasificar_107",sin_clasificar_107
-./segmentados/sin_clasificar_107.m3u
-
-# 🔹 Categoría: sin_clasificar_108
-#EXTINF:-1 tvg-id="sin_clasificar_108" group-title="sin_clasificar_108",sin_clasificar_108
-./segmentados/sin_clasificar_108.m3u
-
-# 🔹 Categoría: sin_clasificar_109
-#EXTINF:-1 tvg-id="sin_clasificar_109" group-title="sin_clasificar_109",sin_clasificar_109
-./segmentados/sin_clasificar_109.m3u
-
-# 🔹 Categoría: sin_clasificar_11
-#EXTINF:-1 tvg-id="sin_clasificar_11" group-title="sin_clasificar_11",sin_clasificar_11
-./segmentados/sin_clasificar_11.m3u
-
-# 🔹 Categoría: sin_clasificar_110
-#EXTINF:-1 tvg-id="sin_clasificar_110" group-title="sin_clasificar_110",sin_clasificar_110
-./segmentados/sin_clasificar_110.m3u
-
-# 🔹 Categoría: sin_clasificar_111
-#EXTINF:-1 tvg-id="sin_clasificar_111" group-title="sin_clasificar_111",sin_clasificar_111
-./segmentados/sin_clasificar_111.m3u
-
-# 🔹 Categoría: sin_clasificar_112
-#EXTINF:-1 tvg-id="sin_clasificar_112" group-title="sin_clasificar_112",sin_clasificar_112
-./segmentados/sin_clasificar_112.m3u
-
-# 🔹 Categoría: sin_clasificar_113
-#EXTINF:-1 tvg-id="sin_clasificar_113" group-title="sin_clasificar_113",sin_clasificar_113
-./segmentados/sin_clasificar_113.m3u
-
-# 🔹 Categoría: sin_clasificar_114
-#EXTINF:-1 tvg-id="sin_clasificar_114" group-title="sin_clasificar_114",sin_clasificar_114
-./segmentados/sin_clasificar_114.m3u
-
-# 🔹 Categoría: sin_clasificar_115
-#EXTINF:-1 tvg-id="sin_clasificar_115" group-title="sin_clasificar_115",sin_clasificar_115
-./segmentados/sin_clasificar_115.m3u
-
-# 🔹 Categoría: sin_clasificar_116
-#EXTINF:-1 tvg-id="sin_clasificar_116" group-title="sin_clasificar_116",sin_clasificar_116
-./segmentados/sin_clasificar_116.m3u
-
-# 🔹 Categoría: sin_clasificar_12
-#EXTINF:-1 tvg-id="sin_clasificar_12" group-title="sin_clasificar_12",sin_clasificar_12
-./segmentados/sin_clasificar_12.m3u
-
-# 🔹 Categoría: sin_clasificar_13
-#EXTINF:-1 tvg-id="sin_clasificar_13" group-title="sin_clasificar_13",sin_clasificar_13
-./segmentados/sin_clasificar_13.m3u
-
-# 🔹 Categoría: sin_clasificar_14
-#EXTINF:-1 tvg-id="sin_clasificar_14" group-title="sin_clasificar_14",sin_clasificar_14
-./segmentados/sin_clasificar_14.m3u
-
-# 🔹 Categoría: sin_clasificar_15
-#EXTINF:-1 tvg-id="sin_clasificar_15" group-title="sin_clasificar_15",sin_clasificar_15
-./segmentados/sin_clasificar_15.m3u
-
 # 🔹 Categoría: sin_clasificar_16
 #EXTINF:-1 tvg-id="sin_clasificar_16" group-title="sin_clasificar_16",sin_clasificar_16
 ./segmentados/sin_clasificar_16.m3u
-
-# 🔹 Categoría: sin_clasificar_17
-#EXTINF:-1 tvg-id="sin_clasificar_17" group-title="sin_clasificar_17",sin_clasificar_17
-./segmentados/sin_clasificar_17.m3u
 
 # 🔹 Categoría: sin_clasificar_18
 #EXTINF:-1 tvg-id="sin_clasificar_18" group-title="sin_clasificar_18",sin_clasificar_18
@@ -316,10 +464,6 @@
 # 🔹 Categoría: sin_clasificar_19
 #EXTINF:-1 tvg-id="sin_clasificar_19" group-title="sin_clasificar_19",sin_clasificar_19
 ./segmentados/sin_clasificar_19.m3u
-
-# 🔹 Categoría: sin_clasificar_2
-#EXTINF:-1 tvg-id="sin_clasificar_2" group-title="sin_clasificar_2",sin_clasificar_2
-./segmentados/sin_clasificar_2.m3u
 
 # 🔹 Categoría: sin_clasificar_20
 #EXTINF:-1 tvg-id="sin_clasificar_20" group-title="sin_clasificar_20",sin_clasificar_20
@@ -361,10 +505,6 @@
 #EXTINF:-1 tvg-id="sin_clasificar_29" group-title="sin_clasificar_29",sin_clasificar_29
 ./segmentados/sin_clasificar_29.m3u
 
-# 🔹 Categoría: sin_clasificar_3
-#EXTINF:-1 tvg-id="sin_clasificar_3" group-title="sin_clasificar_3",sin_clasificar_3
-./segmentados/sin_clasificar_3.m3u
-
 # 🔹 Categoría: sin_clasificar_30
 #EXTINF:-1 tvg-id="sin_clasificar_30" group-title="sin_clasificar_30",sin_clasificar_30
 ./segmentados/sin_clasificar_30.m3u
@@ -392,10 +532,6 @@
 # 🔹 Categoría: sin_clasificar_36
 #EXTINF:-1 tvg-id="sin_clasificar_36" group-title="sin_clasificar_36",sin_clasificar_36
 ./segmentados/sin_clasificar_36.m3u
-
-# 🔹 Categoría: sin_clasificar_37
-#EXTINF:-1 tvg-id="sin_clasificar_37" group-title="sin_clasificar_37",sin_clasificar_37
-./segmentados/sin_clasificar_37.m3u
 
 # 🔹 Categoría: sin_clasificar_38
 #EXTINF:-1 tvg-id="sin_clasificar_38" group-title="sin_clasificar_38",sin_clasificar_38
@@ -652,140 +788,4 @@
 # 🔹 Categoría: sin_clasificar_95
 #EXTINF:-1 tvg-id="sin_clasificar_95" group-title="sin_clasificar_95",sin_clasificar_95
 ./segmentados/sin_clasificar_95.m3u
-
-# 🔹 Categoría: sin_clasificar_96
-#EXTINF:-1 tvg-id="sin_clasificar_96" group-title="sin_clasificar_96",sin_clasificar_96
-./segmentados/sin_clasificar_96.m3u
-
-# 🔹 Categoría: sin_clasificar_97
-#EXTINF:-1 tvg-id="sin_clasificar_97" group-title="sin_clasificar_97",sin_clasificar_97
-./segmentados/sin_clasificar_97.m3u
-
-# 🔹 Categoría: sin_clasificar_98
-#EXTINF:-1 tvg-id="sin_clasificar_98" group-title="sin_clasificar_98",sin_clasificar_98
-./segmentados/sin_clasificar_98.m3u
-
-# 🔹 Categoría: sin_clasificar_99
-#EXTINF:-1 tvg-id="sin_clasificar_99" group-title="sin_clasificar_99",sin_clasificar_99
-./segmentados/sin_clasificar_99.m3u
-
-# 🔹 Categoría: television_1
-#EXTINF:-1 tvg-id="television_1" group-title="television_1",television_1
-./segmentados/television_1.m3u
-
-# 🔹 Categoría: television_10
-#EXTINF:-1 tvg-id="television_10" group-title="television_10",television_10
-./segmentados/television_10.m3u
-
-# 🔹 Categoría: television_11
-#EXTINF:-1 tvg-id="television_11" group-title="television_11",television_11
-./segmentados/television_11.m3u
-
-# 🔹 Categoría: television_12
-#EXTINF:-1 tvg-id="television_12" group-title="television_12",television_12
-./segmentados/television_12.m3u
-
-# 🔹 Categoría: television_13
-#EXTINF:-1 tvg-id="television_13" group-title="television_13",television_13
-./segmentados/television_13.m3u
-
-# 🔹 Categoría: television_14
-#EXTINF:-1 tvg-id="television_14" group-title="television_14",television_14
-./segmentados/television_14.m3u
-
-# 🔹 Categoría: television_15
-#EXTINF:-1 tvg-id="television_15" group-title="television_15",television_15
-./segmentados/television_15.m3u
-
-# 🔹 Categoría: television_16
-#EXTINF:-1 tvg-id="television_16" group-title="television_16",television_16
-./segmentados/television_16.m3u
-
-# 🔹 Categoría: television_17
-#EXTINF:-1 tvg-id="television_17" group-title="television_17",television_17
-./segmentados/television_17.m3u
-
-# 🔹 Categoría: television_18
-#EXTINF:-1 tvg-id="television_18" group-title="television_18",television_18
-./segmentados/television_18.m3u
-
-# 🔹 Categoría: television_19
-#EXTINF:-1 tvg-id="television_19" group-title="television_19",television_19
-./segmentados/television_19.m3u
-
-# 🔹 Categoría: television_2
-#EXTINF:-1 tvg-id="television_2" group-title="television_2",television_2
-./segmentados/television_2.m3u
-
-# 🔹 Categoría: television_20
-#EXTINF:-1 tvg-id="television_20" group-title="television_20",television_20
-./segmentados/television_20.m3u
-
-# 🔹 Categoría: television_21
-#EXTINF:-1 tvg-id="television_21" group-title="television_21",television_21
-./segmentados/television_21.m3u
-
-# 🔹 Categoría: television_22
-#EXTINF:-1 tvg-id="television_22" group-title="television_22",television_22
-./segmentados/television_22.m3u
-
-# 🔹 Categoría: television_23
-#EXTINF:-1 tvg-id="television_23" group-title="television_23",television_23
-./segmentados/television_23.m3u
-
-# 🔹 Categoría: television_24
-#EXTINF:-1 tvg-id="television_24" group-title="television_24",television_24
-./segmentados/television_24.m3u
-
-# 🔹 Categoría: television_25
-#EXTINF:-1 tvg-id="television_25" group-title="television_25",television_25
-./segmentados/television_25.m3u
-
-# 🔹 Categoría: television_26
-#EXTINF:-1 tvg-id="television_26" group-title="television_26",television_26
-./segmentados/television_26.m3u
-
-# 🔹 Categoría: television_27
-#EXTINF:-1 tvg-id="television_27" group-title="television_27",television_27
-./segmentados/television_27.m3u
-
-# 🔹 Categoría: television_28
-#EXTINF:-1 tvg-id="television_28" group-title="television_28",television_28
-./segmentados/television_28.m3u
-
-# 🔹 Categoría: television_29
-#EXTINF:-1 tvg-id="television_29" group-title="television_29",television_29
-./segmentados/television_29.m3u
-
-# 🔹 Categoría: television_3
-#EXTINF:-1 tvg-id="television_3" group-title="television_3",television_3
-./segmentados/television_3.m3u
-
-# 🔹 Categoría: television_30
-#EXTINF:-1 tvg-id="television_30" group-title="television_30",television_30
-./segmentados/television_30.m3u
-
-# 🔹 Categoría: television_4
-#EXTINF:-1 tvg-id="television_4" group-title="television_4",television_4
-./segmentados/television_4.m3u
-
-# 🔹 Categoría: television_5
-#EXTINF:-1 tvg-id="television_5" group-title="television_5",television_5
-./segmentados/television_5.m3u
-
-# 🔹 Categoría: television_6
-#EXTINF:-1 tvg-id="television_6" group-title="television_6",television_6
-./segmentados/television_6.m3u
-
-# 🔹 Categoría: television_7
-#EXTINF:-1 tvg-id="television_7" group-title="television_7",television_7
-./segmentados/television_7.m3u
-
-# 🔹 Categoría: television_8
-#EXTINF:-1 tvg-id="television_8" group-title="television_8",television_8
-./segmentados/television_8.m3u
-
-# 🔹 Categoría: television_9
-#EXTINF:-1 tvg-id="television_9" group-title="television_9",television_9
-./segmentados/television_9.m3u
 
