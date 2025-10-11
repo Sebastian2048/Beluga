@@ -8,12 +8,14 @@ import subprocess
 import os
 
 # 🔧 Funciones utilitarias importadas
+
 from utils import (
-    resolver_redireccion,
-    obtener_assets_de_release,
     github_blob_a_raw,
-    extraer_enlaces_m3u,
-    verificar_enlaces,
+    es_lista_final,
+    guardar_en_categoria,
+    guardar_lista_original,
+    clasificar_por_metadato,
+    verificar_historial,
 )
 
 from main import ejecutar_proceso_completo
@@ -122,10 +124,6 @@ def ejecutar_proceso_ligero(url_lista):
 # 🚀 Iniciar procesamiento de listas detectadas
 def iniciar_proceso():
     def tarea():
-        # 🧱 Crear archivos base si no existen
-        categorias_base = ["peliculas", "series", "sagas", "television", "otros"]
-        asegurar_archivos_categoria(categorias_base)
-
         base = resultado_url.get().strip()
         texto = texto_listas.get("1.0", tk.END).strip().splitlines()
         total = len(texto)
@@ -167,6 +165,7 @@ def iniciar_proceso():
 
                 contenido = r.text
 
+                # 🧠 Verificar si es una lista final (con streams .m3u8)
                 if not es_lista_final(contenido):
                     menus += 1
                     inicio = f"{idx+1}.0"
@@ -174,21 +173,15 @@ def iniciar_proceso():
                     texto_listas.tag_add("menu", inicio, fin)
                     continue
 
-                ejecutar_proceso_ligero(url_lista)
+                # 🧩 Clasificar por metadato y guardar
+                categoria = clasificar_por_metadato(contenido)
+                guardar_en_categoria(categoria, contenido)
+
+                # 🧾 Guardar copia original para auditoría
+                nombre_archivo = nombre.replace(" ", "_").replace("/", "_")
+                guardar_lista_original(nombre_archivo, contenido)
+
                 exitosas += 1
-
-                nombre_mayus = nombre.upper()
-                if "PELICULAS" in nombre_mayus or "PELIS" in nombre_mayus:
-                    guardar_en_categoria("peliculas", contenido)
-                elif "SERIES" in nombre_mayus:
-                    guardar_en_categoria("series", contenido)
-                elif "SAGAS" in nombre_mayus or "COLECCION" in nombre_mayus:
-                    guardar_en_categoria("sagas", contenido)
-                elif "TV" in nombre_mayus or "IPTV" in nombre_mayus or "TELEVISION" in nombre_mayus:
-                    guardar_en_categoria("television", contenido)
-                else:
-                    guardar_en_categoria("otros", contenido)
-
                 inicio = f"{idx+1}.0"
                 fin = f"{idx+1}.end"
                 texto_listas.tag_add("procesada", inicio, fin)
@@ -209,39 +202,12 @@ def iniciar_proceso():
         if exitosas > 0:
             boton_git.config(state="normal")
 
-    threading.Thread(target=tarea).start()
+        # 🔍 Verificar si alguna lista fue modificada
+        def reconstruir_url_desde_nombre(nombre_archivo):
+            base = "https://raw.githubusercontent.com/Sebastian2048/Beluga/main/listas/"
+            return base + nombre_archivo
 
-# 🔍 Verificar enlaces en películas y series
-def verificar_peliculas_series():
-    entrada_lista.delete(0, tk.END)
-    entrada_lista.insert(0, "🔍 Verificando enlaces de películas y series...")
-
-    def tarea():
-        rutas = ["compilados/peliculas.m3u", "compilados/series.m3u"]
-        enlaces = []  # ✅ Inicializar correctamente la lista
-
-        # 📥 Extraer enlaces válidos desde los archivos
-        for ruta in rutas:
-            if os.path.exists(ruta):
-                with open(ruta, encoding="utf-8") as f:
-                    enlaces += extraer_enlaces_m3u(f.read())
-
-        if not enlaces:
-            entrada_lista.delete(0, tk.END)
-            entrada_lista.insert(0, "⚠️ No se encontraron enlaces en películas o series.")
-            return
-
-        # 🔍 Limitar cantidad para evitar bloqueo
-        import random
-        muestra = random.sample(enlaces, min(50, len(enlaces)))
-        resultados = verificar_enlaces(muestra)
-
-        exitosos = sum(1 for _, estado in resultados if estado == "✅")
-        fallidos = len(resultados) - exitosos
-
-        # 📊 Mostrar resultados en la interfaz
-        entrada_lista.delete(0, tk.END)
-        entrada_lista.insert(0, f"✅ {exitosos} válidos | ❌ {fallidos} fallidos | Total verificados: {len(resultados)}")
+        verificar_historial(reconstruir_url_desde_nombre)
 
     threading.Thread(target=tarea).start()
 

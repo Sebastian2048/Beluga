@@ -3,9 +3,10 @@
 import requests
 import re
 import os
+import hashlib
 from urllib.parse import urlparse
 
-# 📥 Extraer bloques válidos desde texto .m3u
+# 📥 Extraer bloques válidos desde texto .m3u (EXTINF + URL)
 def extraer_enlaces_m3u(texto):
     bloques = []
     lineas = texto.strip().splitlines()
@@ -22,7 +23,7 @@ def verificar_disponibilidad(url):
     except:
         return False
 
-# 🔗 Convertir GitHub blob a raw
+# 🔗 Convertir GitHub blob a raw (para acceso directo)
 def github_blob_a_raw(url):
     if "github.com" in url and "/blob/" in url:
         return url.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
@@ -56,7 +57,7 @@ def obtener_assets_de_release(url_repo):
     except:
         return []
 
-# 🧠 Detecta si una lista contiene streams reales
+# 🧠 Detecta si una lista contiene streams reales (.m3u8)
 def es_lista_final(texto_m3u):
     return any(line.strip().startswith("http") and ".m3u8" in line for line in texto_m3u.splitlines())
 
@@ -74,6 +75,7 @@ def verificar_enlaces(lista_enlaces):
             resultados.append((url, f"❌ {e}"))
     return resultados
 
+# 📂 Guardar contenido en archivo por categoría (evita duplicados)
 def guardar_en_categoria(nombre_categoria, contenido):
     os.makedirs("compilados", exist_ok=True)
     ruta = f"compilados/{nombre_categoria}.m3u"
@@ -83,7 +85,7 @@ def guardar_en_categoria(nombre_categoria, contenido):
         with open(ruta, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
 
-    # Leer contenido existente solo si el archivo ya existe
+    # Leer contenido existente
     try:
         with open(ruta, "r", encoding="utf-8") as f:
             existente = f.read()
@@ -95,4 +97,45 @@ def guardar_en_categoria(nombre_categoria, contenido):
         with open(ruta, "a", encoding="utf-8") as f:
             f.write(contenido.strip() + "\n")
 
+# 🧾 Guardar copia original de una lista procesada
+def guardar_lista_original(nombre_archivo, contenido):
+    os.makedirs("historial_listas", exist_ok=True)
+    ruta = os.path.join("historial_listas", nombre_archivo)
+    with open(ruta, "w", encoding="utf-8") as f:
+        f.write(contenido.strip() + "\n")
+
+# 🧪 Verificar si una lista fue modificada desde su última versión
+def lista_modificada(nombre_archivo, nuevo_contenido):
+    ruta = os.path.join("historial_listas", nombre_archivo)
+    if not os.path.exists(ruta):
+        return True  # Nunca fue guardada antes
+
+    with open(ruta, "r", encoding="utf-8") as f:
+        contenido_anterior = f.read()
+
+    hash_anterior = hashlib.md5(contenido_anterior.encode()).hexdigest()
+    hash_nuevo = hashlib.md5(nuevo_contenido.encode()).hexdigest()
+
+    return hash_anterior != hash_nuevo
+
+# 🔁 Verifica todas las listas guardadas en historial contra su fuente
+def verificar_historial(reconstruir_url_func):
+    if not os.path.exists("historial_listas"):
+        print("⚠️ No hay historial para verificar.")
+        return
+
+    for archivo in os.listdir("historial_listas"):
+        url = reconstruir_url_func(archivo)
+        try:
+            r = requests.get(url, timeout=5)
+            if r.status_code == 200:
+                nuevo = r.text
+                if lista_modificada(archivo, nuevo):
+                    print(f"⚠️ La lista {archivo} fue modificada.")
+                else:
+                    print(f"✅ La lista {archivo} no cambió.")
+            else:
+                print(f"❌ Error HTTP {r.status_code} al verificar {archivo}")
+        except Exception as e:
+            print(f"❌ No se pudo verificar {archivo}: {e}")
 
