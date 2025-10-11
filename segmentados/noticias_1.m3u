@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,BBC World ✅
+http://181.78.201.70:8000/play/a0se/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN Chile ✅
+http://179.51.136.19:8000/play/a1if/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN Chile - Opción 2 ✅
+http://179.51.136.19:8000/play/a1if/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN Espanol ✅
+http://181.78.23.26:45000/play/a00i  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN Espaæol ✅
+http://179.51.136.19:8000/play/a1fq/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN Espaæol - Opción 2 ✅
+http://179.51.136.19:8000/play/a1fq/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN Español ✅
+http://45.176.71.20:1689/play/a0mk  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN Español - Opción 2 ✅
+http://45.176.71.20:1689/play/a0mk  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN Internacional ✅
+http://179.51.136.19:8000/play/a0z7/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN Internacional - Opción 2 ✅
+http://179.51.136.19:8000/play/a0z7/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN International ✅
+http://179.51.136.19:8000/play/a1ff/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNN International - Opción 2 ✅
+http://181.78.201.70:8000/play/a0gz/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNNE ✅
+http://179.51.136.19:8000/play/a0ur/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,CNNE - Opción 2 ✅
+http://179.51.136.19:8000/play/a1av/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,NN CNN Espanol ✅
+http://45.176.193.222:2405/play/a019  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,NoticiaUnivisión 24/7 ✅
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,57 (USA) (🇺🇸)
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Atacama Noticias (Chile) (🇨🇱)
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,BBC America (USA) (🇺🇸)
+https://tinyurl.com/msv8bpv8?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,BBC Earth (USA) (🇺🇸)
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,BBC News (UK) (🇬🇧)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Berita Satu (Indonesia) (🇮🇩)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Cablenoticias (Colombia) (🇨🇴)
+http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,CBC News Network (Canada) (🇨🇦)
+https://tinyurl.com/5n86wu2h?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,CBN News (USA) (🇺🇸)
+https://tinyurl.com/mr48ka2a?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,CBS News (USA) (🇺🇸)
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,CBS News Bay Area (USA) (🇺🇸)
+https://d2x315csff27o1.cloudfront.net/cbs_news_bay_area.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,City News (Canada) (🇨🇦)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,CNN (Brasil) (🇧🇷)
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,CNN (Chile) (🇨🇱)
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,CNN News 18 (India) (🇮🇳)
+https://tinyurl.com/37n729kk?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,County News Center (USA) (🇺🇸)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,ESPN News (USA) (🇺🇸)
+https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Euronews (España) (🇪🇸)
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,HMI Promz News (Haiti) (🇭🇹)
+https://video1.getstreamhosting.com:1936/8326/8326/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Milenial (Peru) (🇵🇪)
+https://www.milenial.news/salida/milenial.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,RTL 102.5 News (Italia) (🇮🇹)
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Top Gear (UK) (🇬🇧)
+https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Unsolved Mysteries (USA) (🇺🇸)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,VNP (Peru) (🇵🇪)
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8  # Fecha: 2025-10-11 16:23

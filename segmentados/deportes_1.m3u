@@ -1,0 +1,233 @@
+#EXTM3U
+#EXTINF:-1,127_Eurosport HD ✅
+http://87.120.179.187:8000/play/a02c  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,142_Nova Sport HD ✅
+http://87.120.179.187:8000/play/a00l  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,167_Max Sport 1 HD ✅
+http://87.120.179.187:8000/play/a00k  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,168_Max Sport 2 HD ✅
+http://87.120.179.187:8000/play/a00f  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,169_MAX Sport 3 HD ✅
+http://87.120.179.187:8000/play/a02j  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Africa 24 English (1080p) ✅
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Arena Sport 1 HD ✅
+http://78.130.250.2:8023/play/a02o/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Claro Sports 1 SD ✅
+http://179.51.136.19:8000/play/a18m/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Claro Sports 1 SD - Opción 2 ✅
+http://179.51.136.19:8000/play/a18m/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Claro Sports 2 SD ✅
+http://179.51.136.19:8000/play/a16q/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Claro Sports 2 SD - Opción 2 ✅
+http://179.51.136.19:8000/play/a16q/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,DSPORTS ✅
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,DSPORTS - Opción 2 ✅
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,DSPORTS 2 ✅
+http://179.51.136.19:8000/play/a112/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,DSPORTS 2 - Opción 2 ✅
+http://179.51.136.19:8000/play/a112/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Dubai Sport 2 ✅
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Dubai Sport 3 ✅
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Dubai Sports 2 FHD ✅
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Dubai Sports 2 FHD - Opción 2 ✅
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Dubai Sports 3 FHD ✅
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Dubai Sports 3 FHD - Opción 2 ✅
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,FOX SPORT ✅
+http://190.61.117.35:8000/play/a05n  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Fox Sport 3 ✅
+http://179.51.136.19:8000/play/a0ul/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Fox Sport 3 - Opción 2 ✅
+http://179.51.136.19:8000/play/a0ul/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Fox Sport2 ✅
+http://181.78.23.26:45000/play/a01r  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Fox Sport3 ✅
+http://181.78.23.26:45000/play/a01s  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Fox Sports ✅
+http://181.78.106.127:9000/play/ca031/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Fox Sports 2 ✅
+http://181.78.106.127:9000/play/ca032/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Fox Sports 3 HD ✅
+http://45.176.71.20:1689/play/a0cw  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Fox Sports 3 HD - Opción 2 ✅
+http://45.176.71.20:1689/play/a0cw  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Movistar Deportes ✅
+http://179.51.136.19:8000/play/a0zj/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Movistar Deportes - Opción 2 ✅
+http://179.51.136.19:8000/play/a0zj/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Nova Sport 2 HD ✅
+http://78.130.250.2:8023/play/a004/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Teletrak ✅
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?null=0  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Teletrak - Opción 2 ✅
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Tigo sports ✅
+http://181.78.106.127:9000/play/ca038/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,TNT SPORTS ✅
+http://179.51.136.19:8000/play/a1im/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,TNT SPORTS HD - Opción 2 ✅
+http://179.51.136.19:8000/play/a0px/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,TNT Sports Premiun HD ✅
+http://179.51.136.19:8000/play/a16a/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,TNT Sports Premiun HD - Opción 2 ✅
+http://179.51.136.19:8000/play/a16a/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,TyC Sports ✅
+http://179.51.136.19:8000/play/a1h0/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,TyC Sports - Opción 2 ✅
+http://179.51.136.19:8000/play/a1h0/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Universo Sports ✅
+http://181.78.106.127:9000/play/ca088/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Valparaiso Sporting | CL ✅
+https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Via X Esports ✅
+http://179.51.136.19:8000/play/a1h1/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Via X Esports - Opción 2 ✅
+http://181.78.201.70:8000/play/a0ig/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Win Sport+ HD ✅
+http://181.78.23.26:45000/play/a03d  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Win Sports+ ✅
+http://179.51.136.19:8000/play/a1it/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:-1,Win Sports+ - Opción 2 ✅
+http://179.51.136.19:8000/play/a1bp/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,ACI Sport (Italia) (🇮🇹)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Adventure Sports (UK) (🇬🇧)
+https://tinyurl.com/2fw79tx8?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,America Sports (Argentina) (🇦🇷)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/AMERICASPORTS/__op/hls-default/__f/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Arena Sport 1 (Eslovaquia) (🇸🇰)
+http://78.130.250.2:8023/play/a02o/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Auto Motor Sport (Alemania) (🇩🇪)
+https://tinyurl.com/33upthx3?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,AYM Sports (Mexico) (🇲🇽)
+https://aym-as.otteravision.com/aym/as/as.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Bahrain Sports 1 (Barein) (🇧🇭)
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Bahrain Sports 2 (Barein) (🇧🇭)
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Bein Sports (USA) (🇺🇸)
+https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Bein Sports Xtra Ñ (España) (🇪🇸)
+https://tinyurl.com/yc6az36h?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,BEK Sports West (USA) (🇺🇸)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Campus Lore Sports (USA) (🇺🇸)
+https://linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Campus Lore Sports (USA) (🇺🇸)
+https://tinyurl.com/4t54ftdy?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,CBS Sports Network (USA) (🇺🇸)
+https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Dubai Sports 1 (Emiratos) (🇦🇪)
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Dubai Sports 2 (Emiratos) (🇦🇪)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Dubai Sports 3 (Emiratos) (🇦🇪)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Eleven Sports 1 (Polonia) (🇵🇱)
+http://185.236.229.62:9981/play/a05w/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Eleven Sports 2 (Polonia) (🇵🇱)
+http://185.236.229.62:9981/play/a05y/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,ESPN Deportes (España) (🇪🇸)
+http://190.92.10.66:4000/play/a003/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Esportes Brasilia (Brasil) (🇧🇷)
+https://a.cdni.live/radioesporte/radioesporte/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,ESR eSports Network (USA) (🇺🇸)
+https://eyeonesports.com/ES2RA-628g.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,ETB Deportes (España) (🇪🇸)
+https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Eurosport 1 (España) (🇪🇸)
+http://185.189.225.157/EuroSport1/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Eurosport 1 (Polonia/UK) (🇵🇱🇬🇧)
+http://109.233.89.166/Eurosport_1_HD/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Eurosport 1 (Rusia/UK) (🇷🇺🇬🇧)
+http://45.159.74.14:80/Eurosport/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Eurosport 2 (España) (🇪🇸)
+http://185.189.225.157/EuroSport2/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Eurosport 2 (Polonia/UK) (🇵🇱🇬🇧)
+http://109.233.89.166/Eurosport_2_HD/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Eurosports 2 (UK) (🇬🇧)
+http://175.107.244.52:4457/play/a06w/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Fight Sports (USA) (🇺🇸)
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,FOX Deportes (España) (🇪🇸)
+http://181.78.105.146:2000/play/a093/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,FOX Sports (España) (🇪🇸)
+http://181.78.106.127:9000/play/ca031/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,FOX Sports (Mexico) (🇲🇽)
+http://200.115.120.1:8000/play/ca041/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,FOX Sports (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,FOX Sports 1 (España) (🇪🇸)
+http://191.52.214.5:8000/play/a03u/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,FOX Sports Espanol (Mexico) (🇲🇽)
+https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,FOX Sports Español (España) (🇪🇸)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,FS1 (USA) (🇺🇸)
+https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,FS2 (USA) (🇺🇸)
+https://fl5.moveonjoy.com/FOX_Sports_2/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Horizon Sports (Italia) (🇮🇹)
+https://tinyurl.com/4trh5j6f?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Horizon Sports (USA) (🇺🇸)
+https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Info Sport (Francia) (🇫🇷)
+http://212.102.60.80/Infosport/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,J Sports 1 (Japon) (🇯🇵)
+https://tinyurl.com/5dfffzru?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,J Sports 2 (Japon) (🇯🇵)
+https://tinyurl.com/bdzhztdh?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,J Sports 3 (Japon) (🇯🇵)
+https://tinyurl.com/5e3h4ayy?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,J Sports 4 (Japon) (🇯🇵)
+https://tinyurl.com/4fb2xbsp?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,LSN Lax Sports Network (USA) (🇺🇸)
+https://1840769862.rsc.cdn77.org/FTF/LSN.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,M-Net Sport (Macedonia) (🇲🇰)
+http://ares.mnet.mk/hls/mnet-sport.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,MAV Motor Sports (Canada) (🇨🇦)
+https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Oman Sports (Oman) (🇴🇲)
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Polsat Sport 1 (Polonia) (🇵🇱)
+http://178.219.128.68:64889/POLSSPORHD  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Sky Sports Bundesliga (España) (🇪🇸)
+http://190.92.10.66:4000/play/a006/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Solo Calcio (Italia) (🇮🇹)
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Sport (Italia) (🇮🇹)
+https://is.gd/6f1ShU?.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Sport Digital (Suiza) (🇨🇭)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?country=CH&vendor=samsung  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Sport Ext (Chile) (🇨🇱)
+https://marine2.miplay.cl/sportext/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Sport Italia (Italia) (🇮🇹)
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Sport Italia 24 (Italia) (🇮🇹)
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Sports Connect (Sudafrica) (🇿🇦)
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Star Sports 1 (India) (🇮🇳)
+http://41.205.93.154/STARSPORTS1/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,TEN Sports (Pakistan) (🇵🇰)
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Tigo Sports (Paraguay) (🇵🇾)
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,TNT Sports 1 (USA) (🇺🇸)
+http://175.107.244.52:4457/play/a070/index.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,TR Sport (Italia) (🇮🇹)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Trace Sport Stars (USA) (🇺🇸)
+http://49.0.64.96:8007/Trace  # Fecha: 2025-10-11 16:23
+#EXTINF:0,Womens Sports Network (USA) (🇺🇸)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8  # Fecha: 2025-10-11 16:23
+#EXTINF:0,X Sport+ (Ucrania) (🇺🇦)
+http://45.143.108.104:80/XSPORT_SD/index.m3u8  # Fecha: 2025-10-11 16:23
