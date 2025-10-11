@@ -2,9 +2,15 @@
 
 import os
 
-# 📁 Carpeta de salida
+# 📁 Carpetas base
 CARPETA_SALIDA = "Beluga"
-os.makedirs(CARPETA_SALIDA, exist_ok=True)
+CARPETA_ORIGEN = "compilados"
+CARPETA_SEGMENTADOS = "segmentados"
+CARPETA_LOGS = "logs"
+
+# 🧱 Crear carpetas si no existen
+for carpeta in [CARPETA_SALIDA, CARPETA_ORIGEN, CARPETA_SEGMENTADOS, CARPETA_LOGS]:
+    os.makedirs(carpeta, exist_ok=True)
 
 # 🧹 Palabras clave para excluir contenido no deseado
 exclusiones = [
@@ -14,11 +20,43 @@ exclusiones = [
 ]
 
 # 🎯 Palabras clave deseadas (prioridad temática)
-preferencias = ["español", "latino", "anime", "infantil", "dibujos", "comedia", "drama"]
+preferencias = [
+    "español", "latino", "anime", "infantil", "dibujos", "comedia", "drama",
+    "documental", "educativo", "cultural", "películas", "series"
+]
 
-# 🗂️ Diccionario para clasificar contenido por categoría
-categorias = {
-    "canales": set(),
-    "peliculas": set(),
-    "series": {}
+# 🔢 Límite de bloques por archivo segmentado
+LIMITE_BLOQUES = 500
+
+# 🗂️ Diccionario extendido para clasificación por nombre de canal
+CLAVES_CATEGORIA = {
+    "peliculas": [
+        "cinecanal", "tnt", "hbo", "cinemax", "amc", "golden", "space",
+        "studio universal", "sony movies"
+    ],
+    "series_comedia": [
+        "warner", "axn", "sony channel", "universal tv", "fx",
+        "comedy central", "star channel"
+    ],
+    "anime_adultos": [
+        "crunchyroll", "adult swim", "bitme", "senpai tv"
+    ],
+    "infantil": [
+        "cartoon", "disney channel", "nickelodeon", "discovery kids",
+        "disney junior", "boomerang", "paka paka", "babytv"
+    ],
+    "documentales": [
+        "discovery", "national geographic", "history", "animal planet",
+        "discovery science", "investigation discovery", "encuentro", "canal rural"
+    ],
+    "deportes": [
+        "espn", "fox sports", "tyc", "tnt sports", "espn premium", "eurosport"
+    ],
+    "noticias": [
+        "cnn", "bbc", "al jazeera", "todo noticias", "tn", "c5n", "a24", "cronica"
+    ],
+    "abiertos_arg": [
+        "telefe", "el trece", "canal 13", "canal 9", "televisión pública",
+        "america tv", "ciudad magazine"
+    ]
 }
