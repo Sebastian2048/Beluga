@@ -1,5 +1,3 @@
-# generador.py
-
 import os
 import hashlib
 import subprocess
@@ -11,6 +9,25 @@ from config import CARPETA_SEGMENTADOS, CARPETA_SALIDA, URL_BASE_SEGMENTADOS, ex
 ARCHIVO_SALIDA = os.path.join(CARPETA_SALIDA, "RP_S2048.m3u")
 MAX_BLOQUES_POR_LISTA = 1000
 MINIMO_BLOQUES_VALIDOS = 5
+
+# 🖼️ Diccionario de logos por categoría
+LOGOS_CATEGORIA = {
+    "series": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png",
+    "peliculas": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png",
+    "sagas": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SAGAS.png",
+    "iptv": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.IPTV.png",
+    "estrenos": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.ESTRENOS.png"
+}
+LOGO_DEFAULT = "https://github.com/Sebastian2048/Beluga/blob/main/beluga.png"
+
+# ✨ Títulos visuales por categoría
+TITULOS_VISUALES = {
+    "series": "★ SERIES ★",
+    "peliculas": "★ PELICULAS ★",
+    "sagas": "★ SAGAS ★",
+    "iptv": "★ TELEVISION ★",
+    "estrenos": "★ ESTRENOS ★"
+}
 
 def ejecutar_segmentador():
     print("🔁 Ejecutando segmentador.py...")
@@ -37,46 +54,6 @@ def verificar_y_eliminar():
         except:
             os.remove(ruta)
             print(f"❌ Eliminada por error de lectura: {archivo}")
-
-def generar_menu_visual(destino="MENU.m3u"):
-    secciones = [
-        {
-            "titulo": "★ ESTRENOS ★",
-            "logo": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.ESTRENOS.png",
-            "url": "https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/K_3STR3N0S.m3u"
-        },
-        {
-            "titulo": "★ SERIES ★",
-            "logo": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png",
-            "url": "https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/S3R13S_M3NU.m3u"
-        },
-        {
-            "titulo": "★ SAGAS ★",
-            "logo": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SAGAS.png",
-            "url": "https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/C0L3CC10N3S.M3Nu.m3u"
-        },
-        {
-            "titulo": "★ IPTV ★",
-            "logo": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.IPTV.png",
-            "url": "https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/Pce3t3v3.m3u"
-        },
-        {
-            "titulo": "★ PELICULAS ★",
-            "logo": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png",
-            "url": "https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/S3rv3r.P3l1s.m3u"
-        }
-    ]
-
-    ruta = os.path.join(CARPETA_SALIDA, destino)
-    with open(ruta, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-        f.write(f"# Menú visual generado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
-        for item in secciones:
-            entrada = f'#EXTINF:-1 tvg-logo="{item["logo"]}" group-title="{item["titulo"]}",{item["titulo"]}\n{item["url"]}\n\n'
-            f.write(entrada)
-
-    print(f"\n✅ Menú visual generado: {destino}")
-    print(f"📁 Ubicación: {ruta}")
 
 def generar_listas_finales():
     ejecutar_segmentador()
@@ -141,15 +118,21 @@ def generar_listas_finales():
         print("⚠️ No quedaron listas válidas tras depuración.")
         return
 
+    # 🧠 Generar RP_S2048.m3u como menú visual
     with open(ARCHIVO_SALIDA, "w", encoding="utf-8") as salida:
         salida.write("#EXTM3U\n")
         salida.write(f"# Generado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
 
         for archivo in sorted(listas_finales):
-            categoria = archivo.replace(".m3u", "")
+            categoria_raw = archivo.replace(".m3u", "")
+            partes = categoria_raw.split("_")
+            base = partes[0].lower()
+
+            titulo = TITULOS_VISUALES.get(base, categoria_raw.upper())
+            logo = LOGOS_CATEGORIA.get(base, LOGO_DEFAULT)
             ruta_url = f"{URL_BASE_SEGMENTADOS}/{archivo}"
-            salida.write(f"# 🔹 Categoría: {categoria}\n")
-            salida.write(f"#EXTINF:-1 tvg-id=\"{categoria}\" group-title=\"{categoria}\",{categoria}\n")
+
+            salida.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{titulo}",{titulo}\n')
             salida.write(f"{ruta_url}\n\n")
 
     print(f"\n✅ RP_S2048.m3u generado con {len(listas_finales)} listas.")
@@ -159,8 +142,6 @@ def generar_listas_finales():
     for cat, count in totales_por_categoria.most_common():
         print(f"  - {cat}: {count} lista(s)")
 
-    # ✅ Generar menú visual al final
-    generar_menu_visual()
-
 if __name__ == "__main__":
     generar_listas_finales()
+

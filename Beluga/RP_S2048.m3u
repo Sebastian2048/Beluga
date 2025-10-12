@@ -1,255 +1,192 @@
 #EXTM3U
-# Generado por Beluga - 2025-10-12 14:55
+# Generado por Beluga - 2025-10-12 15:23
 
-# 🔹 Categoría: Cine_Accion_argentina
-#EXTINF:-1 tvg-id="Cine_Accion_argentina" group-title="Cine_Accion_argentina",Cine_Accion_argentina
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="CINE_ACCION_ARGENTINA",CINE_ACCION_ARGENTINA
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/Cine_Accion_argentina.m3u
 
-# 🔹 Categoría: Cine_Drama_argentina
-#EXTINF:-1 tvg-id="Cine_Drama_argentina" group-title="Cine_Drama_argentina",Cine_Drama_argentina
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="CINE_DRAMA_ARGENTINA",CINE_DRAMA_ARGENTINA
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/Cine_Drama_argentina.m3u
 
-# 🔹 Categoría: General_Global
-#EXTINF:-1 tvg-id="General_Global" group-title="General_Global",General_Global
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="GENERAL_GLOBAL",GENERAL_GLOBAL
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/General_Global.m3u
 
-# 🔹 Categoría: General_Naruto
-#EXTINF:-1 tvg-id="General_Naruto" group-title="General_Naruto",General_Naruto
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="GENERAL_NARUTO",GENERAL_NARUTO
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/General_Naruto.m3u
 
-# 🔹 Categoría: General_argentina
-#EXTINF:-1 tvg-id="General_argentina" group-title="General_argentina",General_argentina
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="GENERAL_ARGENTINA",GENERAL_ARGENTINA
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/General_argentina.m3u
 
-# 🔹 Categoría: Infantil_Educativo_argentina
-#EXTINF:-1 tvg-id="Infantil_Educativo_argentina" group-title="Infantil_Educativo_argentina",Infantil_Educativo_argentina
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="INFANTIL_EDUCATIVO_ARGENTINA",INFANTIL_EDUCATIVO_ARGENTINA
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/Infantil_Educativo_argentina.m3u
 
-# 🔹 Categoría: Series_24_7_Global
-#EXTINF:-1 tvg-id="Series_24_7_Global" group-title="Series_24_7_Global",Series_24_7_Global
+#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="★ SERIES ★",★ SERIES ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/Series_24_7_Global.m3u
 
-# 🔹 Categoría: Series_24_7_argentina
-#EXTINF:-1 tvg-id="Series_24_7_argentina" group-title="Series_24_7_argentina",Series_24_7_argentina
+#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="★ SERIES ★",★ SERIES ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/Series_24_7_argentina.m3u
 
-# 🔹 Categoría: abiertos_arg_1
-#EXTINF:-1 tvg-id="abiertos_arg_1" group-title="abiertos_arg_1",abiertos_arg_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="ABIERTOS_ARG_1",ABIERTOS_ARG_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/abiertos_arg_1.m3u
 
-# 🔹 Categoría: anime_adultos_1
-#EXTINF:-1 tvg-id="anime_adultos_1" group-title="anime_adultos_1",anime_adultos_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="ANIME_ADULTOS_1",ANIME_ADULTOS_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/anime_adultos_1.m3u
 
-# 🔹 Categoría: contenido_adulto_global_1
-#EXTINF:-1 tvg-id="contenido_adulto_global_1" group-title="contenido_adulto_global_1",contenido_adulto_global_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="CONTENIDO_ADULTO_GLOBAL_1",CONTENIDO_ADULTO_GLOBAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/contenido_adulto_global_1.m3u
 
-# 🔹 Categoría: deportes_1
-#EXTINF:-1 tvg-id="deportes_1" group-title="deportes_1",deportes_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="DEPORTES_1",DEPORTES_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/deportes_1.m3u
 
-# 🔹 Categoría: deportes_2
-#EXTINF:-1 tvg-id="deportes_2" group-title="deportes_2",deportes_2
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="DEPORTES_2",DEPORTES_2
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/deportes_2.m3u
 
-# 🔹 Categoría: deportes_argentina_general_1
-#EXTINF:-1 tvg-id="deportes_argentina_general_1" group-title="deportes_argentina_general_1",deportes_argentina_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="DEPORTES_ARGENTINA_GENERAL_1",DEPORTES_ARGENTINA_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/deportes_argentina_general_1.m3u
 
-# 🔹 Categoría: deportes_españa_general_1
-#EXTINF:-1 tvg-id="deportes_españa_general_1" group-title="deportes_españa_general_1",deportes_españa_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="DEPORTES_ESPAÑA_GENERAL_1",DEPORTES_ESPAÑA_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/deportes_españa_general_1.m3u
 
-# 🔹 Categoría: documentales_1
-#EXTINF:-1 tvg-id="documentales_1" group-title="documentales_1",documentales_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="DOCUMENTALES_1",DOCUMENTALES_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/documentales_1.m3u
 
-# 🔹 Categoría: espanol_general_1
-#EXTINF:-1 tvg-id="espanol_general_1" group-title="espanol_general_1",espanol_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="ESPANOL_GENERAL_1",ESPANOL_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/espanol_general_1.m3u
 
-# 🔹 Categoría: españa_general_1
-#EXTINF:-1 tvg-id="españa_general_1" group-title="españa_general_1",españa_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="ESPAÑA_GENERAL_1",ESPAÑA_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/españa_general_1.m3u
 
-# 🔹 Categoría: españa_general_2
-#EXTINF:-1 tvg-id="españa_general_2" group-title="españa_general_2",españa_general_2
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="ESPAÑA_GENERAL_2",ESPAÑA_GENERAL_2
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/españa_general_2.m3u
 
-# 🔹 Categoría: españa_general_3
-#EXTINF:-1 tvg-id="españa_general_3" group-title="españa_general_3",españa_general_3
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="ESPAÑA_GENERAL_3",ESPAÑA_GENERAL_3
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/españa_general_3.m3u
 
-# 🔹 Categoría: españa_general_4
-#EXTINF:-1 tvg-id="españa_general_4" group-title="españa_general_4",españa_general_4
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="ESPAÑA_GENERAL_4",ESPAÑA_GENERAL_4
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/españa_general_4.m3u
 
-# 🔹 Categoría: españa_movistar_1
-#EXTINF:-1 tvg-id="españa_movistar_1" group-title="españa_movistar_1",españa_movistar_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="ESPAÑA_MOVISTAR_1",ESPAÑA_MOVISTAR_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/españa_movistar_1.m3u
 
-# 🔹 Categoría: general_argentina_general_1
-#EXTINF:-1 tvg-id="general_argentina_general_1" group-title="general_argentina_general_1",general_argentina_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="GENERAL_ARGENTINA_GENERAL_1",GENERAL_ARGENTINA_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/general_argentina_general_1.m3u
 
-# 🔹 Categoría: general_argentina_general_2
-#EXTINF:-1 tvg-id="general_argentina_general_2" group-title="general_argentina_general_2",general_argentina_general_2
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="GENERAL_ARGENTINA_GENERAL_2",GENERAL_ARGENTINA_GENERAL_2
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/general_argentina_general_2.m3u
 
-# 🔹 Categoría: general_argentina_general_3
-#EXTINF:-1 tvg-id="general_argentina_general_3" group-title="general_argentina_general_3",general_argentina_general_3
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="GENERAL_ARGENTINA_GENERAL_3",GENERAL_ARGENTINA_GENERAL_3
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/general_argentina_general_3.m3u
 
-# 🔹 Categoría: general_ingles_general_1
-#EXTINF:-1 tvg-id="general_ingles_general_1" group-title="general_ingles_general_1",general_ingles_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="GENERAL_INGLES_GENERAL_1",GENERAL_INGLES_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/general_ingles_general_1.m3u
 
-# 🔹 Categoría: general_mexico_general_1
-#EXTINF:-1 tvg-id="general_mexico_general_1" group-title="general_mexico_general_1",general_mexico_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="GENERAL_MEXICO_GENERAL_1",GENERAL_MEXICO_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/general_mexico_general_1.m3u
 
-# 🔹 Categoría: infantil_1
-#EXTINF:-1 tvg-id="infantil_1" group-title="infantil_1",infantil_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="INFANTIL_1",INFANTIL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/infantil_1.m3u
 
-# 🔹 Categoría: infantil_argentina_general_1
-#EXTINF:-1 tvg-id="infantil_argentina_general_1" group-title="infantil_argentina_general_1",infantil_argentina_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="INFANTIL_ARGENTINA_GENERAL_1",INFANTIL_ARGENTINA_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/infantil_argentina_general_1.m3u
 
-# 🔹 Categoría: kuerba2
-#EXTINF:-1 tvg-id="kuerba2" group-title="kuerba2",kuerba2
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="KUERBA2",KUERBA2
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/kuerba2.m3u
 
-# 🔹 Categoría: mexico_general_1
-#EXTINF:-1 tvg-id="mexico_general_1" group-title="mexico_general_1",mexico_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="MEXICO_GENERAL_1",MEXICO_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/mexico_general_1.m3u
 
-# 🔹 Categoría: noticias_1
-#EXTINF:-1 tvg-id="noticias_1" group-title="noticias_1",noticias_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="NOTICIAS_1",NOTICIAS_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/noticias_1.m3u
 
-# 🔹 Categoría: noticias_2
-#EXTINF:-1 tvg-id="noticias_2" group-title="noticias_2",noticias_2
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="NOTICIAS_2",NOTICIAS_2
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/noticias_2.m3u
 
-# 🔹 Categoría: noticias_3
-#EXTINF:-1 tvg-id="noticias_3" group-title="noticias_3",noticias_3
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="NOTICIAS_3",NOTICIAS_3
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/noticias_3.m3u
 
-# 🔹 Categoría: noticias_argentina_general_1
-#EXTINF:-1 tvg-id="noticias_argentina_general_1" group-title="noticias_argentina_general_1",noticias_argentina_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="NOTICIAS_ARGENTINA_GENERAL_1",NOTICIAS_ARGENTINA_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/noticias_argentina_general_1.m3u
 
-# 🔹 Categoría: peliculas_1
-#EXTINF:-1 tvg-id="peliculas_1" group-title="peliculas_1",peliculas_1
+#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png" group-title="★ PELICULAS ★",★ PELICULAS ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/peliculas_1.m3u
 
-# 🔹 Categoría: peliculas_2
-#EXTINF:-1 tvg-id="peliculas_2" group-title="peliculas_2",peliculas_2
+#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png" group-title="★ PELICULAS ★",★ PELICULAS ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/peliculas_2.m3u
 
-# 🔹 Categoría: peliculas_argentina_general_1
-#EXTINF:-1 tvg-id="peliculas_argentina_general_1" group-title="peliculas_argentina_general_1",peliculas_argentina_general_1
+#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png" group-title="★ PELICULAS ★",★ PELICULAS ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/peliculas_argentina_general_1.m3u
 
-# 🔹 Categoría: religioso_argentina_general_1
-#EXTINF:-1 tvg-id="religioso_argentina_general_1" group-title="religioso_argentina_general_1",religioso_argentina_general_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="RELIGIOSO_ARGENTINA_GENERAL_1",RELIGIOSO_ARGENTINA_GENERAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/religioso_argentina_general_1.m3u
 
-# 🔹 Categoría: religioso_global_1
-#EXTINF:-1 tvg-id="religioso_global_1" group-title="religioso_global_1",religioso_global_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="RELIGIOSO_GLOBAL_1",RELIGIOSO_GLOBAL_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/religioso_global_1.m3u
 
-# 🔹 Categoría: religioso_global_2
-#EXTINF:-1 tvg-id="religioso_global_2" group-title="religioso_global_2",religioso_global_2
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="RELIGIOSO_GLOBAL_2",RELIGIOSO_GLOBAL_2
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/religioso_global_2.m3u
 
-# 🔹 Categoría: series_comedia_1
-#EXTINF:-1 tvg-id="series_comedia_1" group-title="series_comedia_1",series_comedia_1
+#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="★ SERIES ★",★ SERIES ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/series_comedia_1.m3u
 
-# 🔹 Categoría: series_comedia_argentina_general_1
-#EXTINF:-1 tvg-id="series_comedia_argentina_general_1" group-title="series_comedia_argentina_general_1",series_comedia_argentina_general_1
+#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="★ SERIES ★",★ SERIES ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/series_comedia_argentina_general_1.m3u
 
-# 🔹 Categoría: sin_clasificar_1
-#EXTINF:-1 tvg-id="sin_clasificar_1" group-title="sin_clasificar_1",sin_clasificar_1
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_1",SIN_CLASIFICAR_1
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_1.m3u
 
-# 🔹 Categoría: sin_clasificar_10
-#EXTINF:-1 tvg-id="sin_clasificar_10" group-title="sin_clasificar_10",sin_clasificar_10
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_10",SIN_CLASIFICAR_10
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_10.m3u
 
-# 🔹 Categoría: sin_clasificar_11
-#EXTINF:-1 tvg-id="sin_clasificar_11" group-title="sin_clasificar_11",sin_clasificar_11
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_11",SIN_CLASIFICAR_11
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_11.m3u
 
-# 🔹 Categoría: sin_clasificar_12
-#EXTINF:-1 tvg-id="sin_clasificar_12" group-title="sin_clasificar_12",sin_clasificar_12
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_12",SIN_CLASIFICAR_12
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_12.m3u
 
-# 🔹 Categoría: sin_clasificar_13
-#EXTINF:-1 tvg-id="sin_clasificar_13" group-title="sin_clasificar_13",sin_clasificar_13
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_13",SIN_CLASIFICAR_13
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_13.m3u
 
-# 🔹 Categoría: sin_clasificar_14
-#EXTINF:-1 tvg-id="sin_clasificar_14" group-title="sin_clasificar_14",sin_clasificar_14
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_14",SIN_CLASIFICAR_14
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_14.m3u
 
-# 🔹 Categoría: sin_clasificar_15
-#EXTINF:-1 tvg-id="sin_clasificar_15" group-title="sin_clasificar_15",sin_clasificar_15
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_15",SIN_CLASIFICAR_15
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_15.m3u
 
-# 🔹 Categoría: sin_clasificar_16
-#EXTINF:-1 tvg-id="sin_clasificar_16" group-title="sin_clasificar_16",sin_clasificar_16
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_16",SIN_CLASIFICAR_16
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_16.m3u
 
-# 🔹 Categoría: sin_clasificar_17
-#EXTINF:-1 tvg-id="sin_clasificar_17" group-title="sin_clasificar_17",sin_clasificar_17
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_17",SIN_CLASIFICAR_17
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_17.m3u
 
-# 🔹 Categoría: sin_clasificar_18
-#EXTINF:-1 tvg-id="sin_clasificar_18" group-title="sin_clasificar_18",sin_clasificar_18
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_18",SIN_CLASIFICAR_18
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_18.m3u
 
-# 🔹 Categoría: sin_clasificar_19
-#EXTINF:-1 tvg-id="sin_clasificar_19" group-title="sin_clasificar_19",sin_clasificar_19
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_19",SIN_CLASIFICAR_19
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_19.m3u
 
-# 🔹 Categoría: sin_clasificar_2
-#EXTINF:-1 tvg-id="sin_clasificar_2" group-title="sin_clasificar_2",sin_clasificar_2
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_2",SIN_CLASIFICAR_2
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_2.m3u
 
-# 🔹 Categoría: sin_clasificar_20
-#EXTINF:-1 tvg-id="sin_clasificar_20" group-title="sin_clasificar_20",sin_clasificar_20
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_20",SIN_CLASIFICAR_20
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_20.m3u
 
-# 🔹 Categoría: sin_clasificar_3
-#EXTINF:-1 tvg-id="sin_clasificar_3" group-title="sin_clasificar_3",sin_clasificar_3
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_3",SIN_CLASIFICAR_3
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_3.m3u
 
-# 🔹 Categoría: sin_clasificar_4
-#EXTINF:-1 tvg-id="sin_clasificar_4" group-title="sin_clasificar_4",sin_clasificar_4
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_4",SIN_CLASIFICAR_4
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_4.m3u
 
-# 🔹 Categoría: sin_clasificar_5
-#EXTINF:-1 tvg-id="sin_clasificar_5" group-title="sin_clasificar_5",sin_clasificar_5
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_5",SIN_CLASIFICAR_5
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_5.m3u
 
-# 🔹 Categoría: sin_clasificar_6
-#EXTINF:-1 tvg-id="sin_clasificar_6" group-title="sin_clasificar_6",sin_clasificar_6
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_6",SIN_CLASIFICAR_6
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_6.m3u
 
-# 🔹 Categoría: sin_clasificar_7
-#EXTINF:-1 tvg-id="sin_clasificar_7" group-title="sin_clasificar_7",sin_clasificar_7
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_7",SIN_CLASIFICAR_7
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_7.m3u
 
-# 🔹 Categoría: sin_clasificar_8
-#EXTINF:-1 tvg-id="sin_clasificar_8" group-title="sin_clasificar_8",sin_clasificar_8
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_8",SIN_CLASIFICAR_8
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_8.m3u
 
-# 🔹 Categoría: sin_clasificar_9
-#EXTINF:-1 tvg-id="sin_clasificar_9" group-title="sin_clasificar_9",sin_clasificar_9
+#EXTINF:-1 tvg-logo="https://github.com/Sebastian2048/Beluga/blob/main/beluga.png" group-title="SIN_CLASIFICAR_9",SIN_CLASIFICAR_9
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/sin_clasificar_9.m3u
 
