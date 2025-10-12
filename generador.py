@@ -4,13 +4,12 @@ import os
 import hashlib
 from datetime import datetime
 from collections import Counter
-from clasificador import extraer_bloques_m3u, extraer_url
-from config import CARPETA_SEGMENTADOS, CARPETA_SALIDA
+from clasificador import extraer_bloques_m3u, extraer_url, clasificar_por_url
+from config import CARPETA_SEGMENTADOS, CARPETA_SALIDA, URL_BASE_SEGMENTADOS
 from clasificador_experiencia import clasificar_por_experiencia
 
 ARCHIVO_SALIDA = os.path.join(CARPETA_SALIDA, "RP_S2048.m3u")
 
-# 🔍 Verifica si la lista tiene encabezado y al menos un bloque válido
 def es_lista_util(ruta):
     try:
         with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
@@ -22,12 +21,11 @@ def es_lista_util(ruta):
     except:
         return False
 
-# 🔐 Genera hash para detectar duplicados
 def hash_contenido(ruta):
     with open(ruta, "rb") as f:
         return hashlib.md5(f.read()).hexdigest()
 
-# 🔁 Reclasifica listas genéricas si detecta categoría por experiencia
+# 🔁 Reclasifica listas genéricas combinando país + experiencia
 def reclasificar_lista(ruta, nombre_original):
     with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
         lineas = f.readlines()
@@ -35,31 +33,34 @@ def reclasificar_lista(ruta, nombre_original):
 
     categorias_detectadas = set()
     for bloque in bloques:
-        sugerida = clasificar_por_experiencia(bloque)
-        if sugerida:
-            categorias_detectadas.add(sugerida)
+        url = extraer_url(bloque)
+        pais = clasificar_por_url(url) or "generico"
+        experiencia = clasificar_por_experiencia(bloque) or "otros"
+        if "_" in pais:
+            pais = pais.split("_")[0]  # Ej: argentina_telecentro → argentina
+        categoria_compuesta = f"{pais}_{experiencia}"
+        categorias_detectadas.add(categoria_compuesta)
 
     if categorias_detectadas:
         base_categoria = sorted(categorias_detectadas)[0]
-        base_nombre = f"{base_categoria}_"
+        base_nombre = f"{base_categoria}.m3u"
+        nueva_ruta = os.path.join(CARPETA_SEGMENTADOS, base_nombre)
 
-        contador_str = nombre_original.replace(".m3u", "").split("_")[-1]
-        contador = int(contador_str) if contador_str.isdigit() else 1
-
-        while True:
-            nuevo_nombre = f"{base_nombre}{contador}.m3u"
-            nueva_ruta = os.path.join(CARPETA_SEGMENTADOS, nuevo_nombre)
-            if not os.path.exists(nueva_ruta):
-                break
-            contador += 1
-
-        os.rename(ruta, nueva_ruta)
-        print(f"🔁 Reclasificada: {nombre_original} → {nuevo_nombre}")
-        return nuevo_nombre
+        if not os.path.exists(nueva_ruta):
+            os.rename(ruta, nueva_ruta)
+            print(f"🔁 Reclasificada: {nombre_original} → {base_nombre}")
+            return base_nombre
+        else:
+            # Si ya existe, fusionamos contenido
+            with open(ruta, "r", encoding="utf-8", errors="ignore") as f1, \
+                 open(nueva_ruta, "a", encoding="utf-8") as f2:
+                f2.write("\n".join(f1.readlines()) + "\n")
+            os.remove(ruta)
+            print(f"🔁 Fusionada en: {base_nombre}")
+            return base_nombre
 
     return nombre_original
 
-# 🔎 Verificador embebido: elimina listas rotas, vacías y duplicadas
 def verificar_y_eliminar():
     archivos = [f for f in os.listdir(CARPETA_SEGMENTADOS) if f.endswith(".m3u")]
     duplicados = {}
@@ -117,7 +118,6 @@ def verificar_y_eliminar():
     if not (vacias or rotas or duplicados):
         print("✅ Todas las listas están en buen estado.")
 
-# ✅ Función principal para generar el archivo final
 def generar_listas_finales():
     verificar_y_eliminar()
 
@@ -165,10 +165,10 @@ def generar_listas_finales():
 
         for archivo in listas_validas:
             categoria = archivo.replace(".m3u", "")
-            ruta_relativa = f"./segmentados/{archivo}"
+            ruta_url = f"{URL_BASE_SEGMENTADOS}/{archivo}"
             salida.write(f"# 🔹 Categoría: {categoria}\n")
             salida.write(f"#EXTINF:-1 tvg-id=\"{categoria}\" group-title=\"{categoria}\",{categoria}\n")
-            salida.write(f"{ruta_relativa}\n\n")
+            salida.write(f"{ruta_url}\n\n")
 
     print(f"\n✅ RP_S2048.m3u regenerado con {len(listas_validas)} listas válidas.")
     print(f"📁 Ubicación: {ARCHIVO_SALIDA}")

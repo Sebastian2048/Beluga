@@ -1,31 +1,29 @@
-# config.py
-
 import os
 
-# 📁 Carpetas base
-CARPETA_SALIDA = "Beluga"
-CARPETA_ORIGEN = "compilados"
-CARPETA_SEGMENTADOS = "segmentados"
-CARPETA_LOGS = "logs"
+# 📁 Carpetas base utilizadas por el sistema
+CARPETA_SALIDA = "Beluga"            # Carpeta donde se guarda RP_S2048.m3u y archivos finales
+CARPETA_ORIGEN = "compilados"        # Carpeta donde se almacenan listas clasificadas por categoría
+CARPETA_SEGMENTADOS = "segmentados"  # Carpeta donde se guardan listas segmentadas por experiencia
+CARPETA_LOGS = "logs"                # Carpeta para guardar auditorías, reportes y estadísticas
 
-# 🧱 Crear carpetas si no existen
+# 🧱 Crear carpetas si no existen (evita errores en primera ejecución)
 for carpeta in [CARPETA_SALIDA, CARPETA_ORIGEN, CARPETA_SEGMENTADOS, CARPETA_LOGS]:
     os.makedirs(carpeta, exist_ok=True)
 
-# 🧹 Palabras clave para excluir contenido no deseado
+# 🧹 Palabras clave para excluir contenido no deseado (filtrado ético)
 exclusiones = [
     "religion", "adult", "xxx", "porno", "france", "french", "holanda", "netherlands",
     "russia", "ruso", "ukraine", "ucrania", "hindu", "india", "brasil", "portugues",
     "radio", "arabe", "arabic"
 ]
 
-# 🎯 Palabras clave deseadas (prioridad temática)
+# 🎯 Palabras clave deseadas (prioridad temática para curaduría)
 preferencias = [
     "español", "latino", "anime", "infantil", "dibujos", "comedia", "drama",
     "documental", "educativo", "cultural", "películas", "series"
 ]
 
-# 🔢 Límite de bloques por archivo segmentado
+# 🔢 Límite de bloques por archivo segmentado (control de tamaño y rendimiento)
 LIMITE_BLOQUES = 500
 
 # 🗂️ Diccionario extendido para clasificación por nombre de canal
@@ -60,3 +58,6 @@ CLAVES_CATEGORIA = {
         "america tv", "ciudad magazine"
     ]
 }
+
+# 🌐 URL base para acceder a listas segmentadas desde GitHub (usada en RP_S2048.m3u)
+URL_BASE_SEGMENTADOS = "https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados"
