@@ -1,9 +1,0 @@
-#EXTM3U
-# Segmentado por Beluga - 2025-10-12 15:43
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Horror Machine (720p) [Geo-blocked]
-https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Horror
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc855319-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06931d84-a426-40a9-a48b-79153be696f3
-
