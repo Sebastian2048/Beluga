@@ -25,7 +25,7 @@ def hash_contenido(ruta):
     with open(ruta, "rb") as f:
         return hashlib.md5(f.read()).hexdigest()
 
-# 🔁 Reclasifica listas genéricas combinando país + experiencia
+# 🔁 Reclasifica listas genéricas combinando tema + país/proveedor
 def reclasificar_lista(ruta, nombre_original):
     with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
         lineas = f.readlines()
@@ -34,11 +34,14 @@ def reclasificar_lista(ruta, nombre_original):
     categorias_detectadas = set()
     for bloque in bloques:
         url = extraer_url(bloque)
-        pais = clasificar_por_url(url) or "generico"
-        experiencia = clasificar_por_experiencia(bloque) or "otros"
-        if "_" in pais:
-            pais = pais.split("_")[0]  # Ej: argentina_telecentro → argentina
-        categoria_compuesta = f"{pais}_{experiencia}"
+        tema = clasificar_por_experiencia(bloque) or "General"
+        contexto = clasificar_por_url(url) or "Global"
+
+        # Normalizar nombres
+        tema = tema.replace(" ", "_").replace("/", "_")
+        contexto = contexto.split("_")[0].replace(" ", "_").replace("/", "_")
+
+        categoria_compuesta = f"{tema}_{contexto}"
         categorias_detectadas.add(categoria_compuesta)
 
     if categorias_detectadas:
@@ -51,7 +54,7 @@ def reclasificar_lista(ruta, nombre_original):
             print(f"🔁 Reclasificada: {nombre_original} → {base_nombre}")
             return base_nombre
         else:
-            # Si ya existe, fusionamos contenido
+            # Fusionar contenido si ya existe
             with open(ruta, "r", encoding="utf-8", errors="ignore") as f1, \
                  open(nueva_ruta, "a", encoding="utf-8") as f2:
                 f2.write("\n".join(f1.readlines()) + "\n")
@@ -84,7 +87,7 @@ def verificar_y_eliminar():
             continue
 
         bloques = extraer_bloques_m3u(lineas)
-        if not bloques:
+        if not bloques or len(bloques) < 3:
             vacias.append(archivo)
             continue
 
@@ -103,7 +106,7 @@ def verificar_y_eliminar():
             os.remove(os.path.join(CARPETA_SEGMENTADOS, f))
 
     if vacias:
-        print("❌ Eliminadas por estar vacías:")
+        print("❌ Eliminadas por estar vacías o con pocos bloques:")
         for f in vacias:
             print(f"  - {f}")
     if rotas:
@@ -140,7 +143,7 @@ def generar_listas_finales():
         if not es_lista_util(ruta):
             continue
 
-        if archivo.startswith("sin_clasificar") or archivo.startswith("television"):
+        if archivo.startswith("sin_clasificar") or archivo.startswith("television") or archivo.startswith("argentina_general"):
             archivo = reclasificar_lista(ruta, archivo)
 
         ruta_actualizada = os.path.join(CARPETA_SEGMENTADOS, archivo)
