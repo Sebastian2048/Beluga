@@ -1,4 +1,4 @@
-# segmentador.py
+#segmentador.py
 
 import os
 from datetime import datetime
@@ -21,7 +21,12 @@ def guardar_segmentado(categoria, bloques, contador):
     with open(ruta, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for bloque in bloques:
-            f.write(bloque.strip() + f"  # Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
+            # 🔍 Asegura que el bloque sea una lista de líneas
+            if isinstance(bloque, str):
+                lineas = bloque.strip().splitlines()
+            else:
+                lineas = bloque
+            f.write("\n".join(lineas) + f"\n# Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
 
 # 🧩 Segmenta todos los archivos en compilados/
 def segmentar():
