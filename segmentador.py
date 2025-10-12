@@ -21,12 +21,17 @@ def guardar_segmentado(categoria, bloques, contador):
     with open(ruta, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for bloque in bloques:
-            # 🔍 Asegura que el bloque sea una lista de líneas
+            # 🔐 Asegura que sea lista de líneas
             if isinstance(bloque, str):
                 lineas = bloque.strip().splitlines()
+            elif isinstance(bloque, list):
+                lineas = [line.strip() for line in bloque if line.strip()]
             else:
-                lineas = bloque
-            f.write("\n".join(lineas) + f"\n# Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
+                continue  # ignora formatos inesperados
+
+            if lineas:
+                f.write("\n".join(lineas) + f"\n# Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
+
 
 # 🧩 Segmenta todos los archivos en compilados/
 def segmentar():

@@ -1,39 +1,49 @@
-# clasificador.py
-
 import os
 from config import CARPETA_ORIGEN, CLAVES_CATEGORIA
 
-# 🧱 Extrae bloques M3U completos (EXTINF + URL)
+# 🧱 Extrae bloques M3U completos (EXTINF + URL) como listas de líneas
 def extraer_bloques_m3u(lineas):
     bloques = []
     buffer = []
 
     for linea in lineas:
         linea = linea.strip()
-        if not linea or linea.startswith("#") and not linea.startswith("#EXTINF"):
+        if not linea or (linea.startswith("#") and not linea.startswith("#EXTINF")):
             continue
         if linea.startswith("#EXTINF"):
             buffer = [linea]
         elif buffer:
             buffer.append(linea)
-            bloques.append("\n".join(buffer))
+            bloques.append(buffer)
             buffer = []
     return bloques
 
 # 🎯 Extrae el nombre del canal desde EXTINF
 def extraer_nombre_canal(bloque):
-    for linea in bloque.splitlines():
-        if linea.startswith("#EXTINF"):
-            partes = linea.split(",", 1)
-            if len(partes) > 1:
-                return partes[1].strip()
+    if isinstance(bloque, list):
+        for linea in bloque:
+            if linea.startswith("#EXTINF"):
+                partes = linea.split(",", 1)
+                if len(partes) > 1:
+                    return partes[1].strip()
+    elif isinstance(bloque, str):
+        for linea in bloque.splitlines():
+            if linea.startswith("#EXTINF"):
+                partes = linea.split(",", 1)
+                if len(partes) > 1:
+                    return partes[1].strip()
     return "Sin nombre"
 
 # 🌐 Extrae la URL del canal
 def extraer_url(bloque):
-    for linea in bloque.splitlines():
-        if linea.startswith("http"):
-            return linea.strip()
+    if isinstance(bloque, list):
+        for linea in bloque:
+            if linea.startswith("http"):
+                return linea.strip()
+    elif isinstance(bloque, str):
+        for linea in bloque.splitlines():
+            if linea.startswith("http"):
+                return linea.strip()
     return ""
 
 # 🧠 Clasifica por nombre del canal usando claves definidas
@@ -46,7 +56,11 @@ def clasificar_por_nombre(nombre):
 
 # 🧬 Clasifica por metadatos del bloque (texto libre)
 def clasificar_por_metadato(bloque):
-    texto = bloque.lower()
+    if isinstance(bloque, list):
+        texto = " ".join(bloque).lower()
+    else:
+        texto = bloque.lower()
+
     if any(palabra in texto for palabra in ["deporte", "sports", "fútbol", "nba", "espn"]):
         return "deportes"
     if any(palabra in texto for palabra in ["noticia", "news", "cnn", "bbc", "tn"]):
@@ -67,7 +81,6 @@ def clasificar_por_metadato(bloque):
 def clasificar_por_url(url):
     url = url.lower()
 
-    # Proveedores específicos
     if "telecentro" in url:
         return "argentina_telecentro"
     if "megacable" in url:
@@ -75,7 +88,6 @@ def clasificar_por_url(url):
     if "movistar" in url:
         return "españa_movistar"
 
-    # Idiomas
     if "latino" in url or "espanol" in url:
         return "espanol_general"
     if "portugues" in url:
@@ -83,7 +95,6 @@ def clasificar_por_url(url):
     if "english" in url:
         return "ingles_general"
 
-    # Países (evita colisiones como "en" dentro de "espn")
     if "arg" in url or "ar" in url:
         return "argentina_general"
     if "mx" in url:
@@ -103,6 +114,7 @@ def guardar_en_categoria(categoria, bloque):
             f.write("#EXTM3U\n")
 
     with open(ruta, "a", encoding="utf-8") as f:
-        f.write(bloque.strip() + "\n")
-
-
+        if isinstance(bloque, list):
+            f.write("\n".join(bloque) + "\n")
+        elif isinstance(bloque, str):
+            f.write(bloque.strip() + "\n")
