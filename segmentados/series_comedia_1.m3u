@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0DEST.SERIES.png",★ SERIES ★
-https://kuerba.com
 #EXTINF:0,AXN (Colombia/USA) (🇨🇴🇺🇸)
 http://190.83.2.172:8081/play/a06t/index.m3u8
 #EXTINF:0,AXN (España/UK) (🇪🇸🇬🇧)

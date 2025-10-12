@@ -1,14 +1,10 @@
-#segmentador.py
-
 import os
 from datetime import datetime
 from clasificador import (
     extraer_bloques_m3u,
     extraer_nombre_canal,
     extraer_url,
-    clasificar_por_nombre,
-    clasificar_por_metadato,
-    clasificar_por_url
+    clasificacion_doble  # ✅ Usamos la función semántica doble
 )
 from config import CARPETA_ORIGEN, CARPETA_SEGMENTADOS, LIMITE_BLOQUES
 
@@ -32,7 +28,6 @@ def guardar_segmentado(categoria, bloques, contador):
             if lineas:
                 f.write("\n".join(lineas) + f"\n# Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
 
-
 # 🧩 Segmenta todos los archivos en compilados/
 def segmentar():
     archivos = [f for f in os.listdir(CARPETA_ORIGEN) if f.endswith(".m3u")]
@@ -48,16 +43,7 @@ def segmentar():
             bloques = extraer_bloques_m3u(lineas)
 
         for bloque in bloques:
-            nombre = extraer_nombre_canal(bloque)
-            url = extraer_url(bloque)
-
-            # 🧠 Clasificación combinada
-            categoria = (
-                clasificar_por_nombre(nombre)
-                or clasificar_por_url(url)
-                or clasificar_por_metadato(bloque)
-                or "sin_clasificar"
-            )
+            categoria = clasificacion_doble(bloque)  # ✅ Clasificación semántica doble
 
             contadores.setdefault(categoria, 1)
             buffers.setdefault(categoria, [])
@@ -80,3 +66,4 @@ def segmentar():
 
 if __name__ == "__main__":
     segmentar()
+

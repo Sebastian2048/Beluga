@@ -1,15 +1,16 @@
 # generador.py
+
 import os
 import hashlib
 import subprocess
 from datetime import datetime
 from collections import Counter, defaultdict
-from clasificador import extraer_bloques_m3u, extraer_url, clasificar_por_url
+from clasificador import extraer_bloques_m3u, extraer_url, clasificacion_doble
 from config import CARPETA_SEGMENTADOS, CARPETA_SALIDA, URL_BASE_SEGMENTADOS, exclusiones
-from clasificador_experiencia import clasificar_por_experiencia
 
 ARCHIVO_SALIDA = os.path.join(CARPETA_SALIDA, "RP_S2048.m3u")
 MAX_BLOQUES_POR_LISTA = 1000
+MINIMO_BLOQUES_VALIDOS = 5
 
 def ejecutar_segmentador():
     print("🔁 Ejecutando segmentador.py...")
@@ -22,69 +23,6 @@ def contiene_exclusion(bloque):
     texto = " ".join(bloque).lower()
     return any(palabra in texto for palabra in exclusiones)
 
-def detectar_nombre_tematico(bloque):
-    texto = " ".join(bloque).lower()
-    for palabra in ["dragonball", "naruto", "peppa", "simpsons", "one piece", "pokemon"]:
-        if palabra in texto:
-            return palabra.replace(" ", "_").capitalize()
-    return None
-
-def reclasificar_lista(ruta, nombre_original):
-    with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
-        bloques = extraer_bloques_m3u(f.readlines())
-
-    bloques_filtrados = []
-    hashes_vistos = set()
-    categorias_detectadas = defaultdict(list)
-
-    for bloque in bloques:
-        if contiene_exclusion(bloque):
-            continue
-        h = hash_bloque(bloque)
-        if h in hashes_vistos:
-            continue
-        hashes_vistos.add(h)
-
-        url = extraer_url(bloque)
-        tema = clasificar_por_experiencia(bloque) or "General"
-        contexto = clasificar_por_url(url) or "Global"
-        nombre_tematico = detectar_nombre_tematico(bloque)
-
-        tema = tema.replace(" ", "_").replace("/", "_")
-        contexto = contexto.split("_")[0].replace(" ", "_").replace("/", "_")
-
-        if nombre_tematico:
-            categoria = f"{tema}_{nombre_tematico}"
-        else:
-            categoria = f"{tema}_{contexto}"
-
-        categorias_detectadas[categoria].append(bloque)
-
-    if not categorias_detectadas:
-        os.remove(ruta)
-        print(f"⚠️ Eliminada por no tener categoría válida: {nombre_original}")
-        return []
-
-    nuevas_listas = []
-
-    for categoria, bloques in categorias_detectadas.items():
-        for i in range(0, len(bloques), MAX_BLOQUES_POR_LISTA):
-            parte = bloques[i:i+MAX_BLOQUES_POR_LISTA]
-            sufijo = f"_{i//MAX_BLOQUES_POR_LISTA + 1}" if len(bloques) > MAX_BLOQUES_POR_LISTA else ""
-            nombre_final = f"{categoria}{sufijo}.m3u"
-            ruta_final = os.path.join(CARPETA_SEGMENTADOS, nombre_final)
-
-            with open(ruta_final, "w", encoding="utf-8") as out:
-                out.write("#EXTM3U\n")
-                for b in parte:
-                    out.write("\n".join(b) + "\n")
-
-            nuevas_listas.append(nombre_final)
-            print(f"✅ Generada: {nombre_final} ({len(parte)} bloques)")
-
-    os.remove(ruta)
-    return nuevas_listas
-
 def verificar_y_eliminar():
     archivos = [f for f in os.listdir(CARPETA_SEGMENTADOS) if f.endswith(".m3u")]
     for archivo in archivos:
@@ -93,12 +31,52 @@ def verificar_y_eliminar():
             with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
                 lineas = f.readlines()
             bloques = extraer_bloques_m3u(lineas)
-            if not bloques or len(bloques) < 1:
+            if not bloques or len(bloques) < MINIMO_BLOQUES_VALIDOS:
                 os.remove(ruta)
-                print(f"❌ Eliminada por estar vacía o rota: {archivo}")
+                print(f"❌ Eliminada por estar vacía o tener pocos bloques: {archivo}")
         except:
             os.remove(ruta)
             print(f"❌ Eliminada por error de lectura: {archivo}")
+
+def generar_menu_visual(destino="MENU.m3u"):
+    secciones = [
+        {
+            "titulo": "★ ESTRENOS ★",
+            "logo": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.ESTRENOS.png",
+            "url": "https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/K_3STR3N0S.m3u"
+        },
+        {
+            "titulo": "★ SERIES ★",
+            "logo": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png",
+            "url": "https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/S3R13S_M3NU.m3u"
+        },
+        {
+            "titulo": "★ SAGAS ★",
+            "logo": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SAGAS.png",
+            "url": "https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/C0L3CC10N3S.M3Nu.m3u"
+        },
+        {
+            "titulo": "★ IPTV ★",
+            "logo": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.IPTV.png",
+            "url": "https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/Pce3t3v3.m3u"
+        },
+        {
+            "titulo": "★ PELICULAS ★",
+            "logo": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png",
+            "url": "https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/S3rv3r.P3l1s.m3u"
+        }
+    ]
+
+    ruta = os.path.join(CARPETA_SALIDA, destino)
+    with open(ruta, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n")
+        f.write(f"# Menú visual generado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
+        for item in secciones:
+            entrada = f'#EXTINF:-1 tvg-logo="{item["logo"]}" group-title="{item["titulo"]}",{item["titulo"]}\n{item["url"]}\n\n'
+            f.write(entrada)
+
+    print(f"\n✅ Menú visual generado: {destino}")
+    print(f"📁 Ubicación: {ruta}")
 
 def generar_listas_finales():
     ejecutar_segmentador()
@@ -116,14 +94,10 @@ def generar_listas_finales():
     listas_finales = []
     totales_por_categoria = Counter()
     hashes_globales = set()
+    buffer_por_categoria = defaultdict(list)
 
     for archivo in archivos:
         ruta = os.path.join(CARPETA_SEGMENTADOS, archivo)
-
-        if archivo.startswith("sin_clasificar") or archivo.startswith("television") or archivo.startswith("argentina_general"):
-            nuevas = reclasificar_lista(ruta, archivo)
-            listas_finales.extend(nuevas)
-            continue
 
         with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
             bloques = extraer_bloques_m3u(f.readlines())
@@ -135,9 +109,10 @@ def generar_listas_finales():
                 hashes_globales.add(h)
                 bloques_unicos.append(b)
 
-        if not bloques_unicos:
+        if len(bloques_unicos) < MINIMO_BLOQUES_VALIDOS:
+            buffer_por_categoria[archivo.replace(".m3u", "")].extend(bloques_unicos)
             os.remove(ruta)
-            print(f"⚠️ Eliminada por quedar vacía tras depuración: {archivo}")
+            print(f"⚠️ Lista fusionable: {archivo} ({len(bloques_unicos)} bloques)")
             continue
 
         with open(ruta, "w", encoding="utf-8") as f:
@@ -148,6 +123,19 @@ def generar_listas_finales():
         listas_finales.append(archivo)
         categoria = archivo.replace(".m3u", "")
         totales_por_categoria[categoria] += 1
+
+    # 🔗 Fusionar listas pequeñas por categoría
+    for categoria, bloques in buffer_por_categoria.items():
+        if len(bloques) >= MINIMO_BLOQUES_VALIDOS:
+            nombre = f"{categoria}_fusionada.m3u"
+            ruta = os.path.join(CARPETA_SEGMENTADOS, nombre)
+            with open(ruta, "w", encoding="utf-8") as f:
+                f.write("#EXTM3U\n")
+                for b in bloques:
+                    f.write("\n".join(b) + "\n")
+            listas_finales.append(nombre)
+            totales_por_categoria[categoria] += 1
+            print(f"🔗 Fusionada: {nombre} ({len(bloques)} bloques)")
 
     if not listas_finales:
         print("⚠️ No quedaron listas válidas tras depuración.")
@@ -170,6 +158,9 @@ def generar_listas_finales():
     print("\n📊 Totales por categoría:")
     for cat, count in totales_por_categoria.most_common():
         print(f"  - {cat}: {count} lista(s)")
+
+    # ✅ Generar menú visual al final
+    generar_menu_visual()
 
 if __name__ == "__main__":
     generar_listas_finales()

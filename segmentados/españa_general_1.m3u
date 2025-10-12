@@ -31,8 +31,6 @@ https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/TW1ST3D.M3T4L.m
 https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/D1V1S10N.P4L3RM0.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbKYhTd/pack-futbol.png", PACK FUTBOL ARG
 https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/P4cK.FUtB0L.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sKQ5bFv/deportes.png", DEPORTES
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/D3P0RT3S.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xXHnRcV/cineyseries.png", CINE & SERIES
 https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/C1N3_Y_S3R13S.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/1CRmzGA0KyuGI9YFFb7XLm7wQYg.jpg",Mision Imposible
@@ -145,8 +143,6 @@ https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:0,Escambia County (USA) (🇺🇸)
 https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/.m3u8
-#EXTINF:0,ESR eSports Network (USA) (🇺🇸)
-https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:0,Euronews (España) (🇪🇸)
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 #EXTINF:0,Extasy (Rep. Checa) (+18) (🇨🇿)
@@ -431,8 +427,6 @@ https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:0,Bebeto (Rep. Dominicana) (🇩🇴)
 https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
-#EXTINF:0,Bein Sports Xtra Ñ (Mexico) (🇲🇽)
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:0,Bioskop (Indonesia) (🇮🇩)
 https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 #EXTINF:0,Bonce (Curazao) (🇨🇼)
@@ -441,8 +435,6 @@ https://seswa.bonce.tv/hls/bonceswa.m3u8
 https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:0,BTA (Venezuela) (🇻🇪)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:0,BTV Bajo Techo (Rep. Dominicana) (🇩🇴)
-https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 #EXTINF:0,C2 Misiones (Argentina) (🇦🇷)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:0,Canal 3 Biar (España) (🇪🇸)
@@ -461,8 +453,6 @@ https://movil.ejeserver.com/live/mundovisiontv.m3u8
 https://d35x6iaiw8f75z.cloudfront.net/canal_sur_andalucia_es.m3u8
 #EXTINF:0,Canal Terres De L'Ebre (España) (🇪🇸)
 https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8
-#EXTINF:0,Canal Terres De L'Ebre 24 (España) (🇪🇸)
-https://ingest1-video.streaming-pro.com/esportsteABR/etestream/playlist.m3u8
 #EXTINF:0,Celestial Movies (Indonesia) (🇮🇩)
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 #EXTINF:0,Clan (España) (🇪🇸)
@@ -659,8 +649,6 @@ https://live.obslivestream.com/supercanal/index.m3u8
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/.m3u8
 #EXTINF:0,SyFy (España) (🇪🇸)
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/.m3u8
-#EXTINF:0, TDP Teledeporte (España) (🇪🇸)
-https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF:0,Tele Elx (España) (🇪🇸)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 #EXTINF:0,Television Del Este (Rep. Dominicana) (🇩🇴)
@@ -765,8 +753,6 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,BabyFirst Spanish ✅
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
-#EXTINF:-1,Bein Sports Extra Ñ ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
 #EXTINF:-1,Bloomberg TV EMEA Live Event (720p) ✅
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1,Bolivia TV (720p) [Not 24/7] ✅
@@ -823,12 +809,6 @@ https://video2.lhdserver.es/pjtv/live.m3u8
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1,Digital809 TV ✅
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
-#EXTINF:-1,Directv Sports ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/directvsports/master.m3u8
-#EXTINF:-1,Directv Sports + - Opción 2 ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/directvsportsplus/master.m3u8
-#EXTINF:-1,Directv Sports 2 ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/directvsports2/master.m3u8
 #EXTINF:-1,E: REAL MADRID TV ✅
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1,ES: ACTIVA TV HD ✅
@@ -853,8 +833,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?null=0
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,Finest TV ✅
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:-1,Gol Peru ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/golperu/master.m3u8
 #EXTINF:-1,IND: Fashion TV Midnight Secrets DASH ✅
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1,Intuitiva TV (720p) ✅

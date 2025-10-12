@@ -71,10 +71,14 @@ def clasificar_por_metadato(bloque):
         return "peliculas"
     if any(palabra in texto for palabra in ["serie", "comedia", "sitcom", "drama"]):
         return "series_comedia"
-    if any(palabra in texto for palabra in ["anime", "manga", "otaku"]):
+    if any(palabra in texto for palabra in ["anime", "manga", "otaku", "hentai", "ecchi"]):
         return "anime_adultos"
     if any(palabra in texto for palabra in ["documental", "history", "natgeo", "discovery"]):
         return "documentales"
+    if any(palabra in texto for palabra in ["religioso", "cristo", "biblia", "evangelio", "fe"]):
+        return "religioso"
+    if any(palabra in texto for palabra in ["xxx", "adult", "porno", "erotic", "hot"]):
+        return "contenido_adulto"
     return None
 
 # 🌍 Clasifica por URL (proveedor, país, idioma)
@@ -118,3 +122,25 @@ def guardar_en_categoria(categoria, bloque):
             f.write("\n".join(bloque) + "\n")
         elif isinstance(bloque, str):
             f.write(bloque.strip() + "\n")
+
+# 🧠 Clasificación semántica doble con detección de colisiones
+def clasificacion_doble(bloque):
+    nombre = extraer_nombre_canal(bloque)
+    url = extraer_url(bloque)
+
+    tema = clasificar_por_nombre(nombre) or clasificar_por_metadato(bloque)
+    contexto = clasificar_por_url(url)
+
+    # 🚫 Detección de colisiones temáticas
+    if tema == "infantil" and contexto in ["anime_adultos", "contenido_adulto", "religioso"]:
+        return "contenido_sensible"
+    if tema in ["religioso", "contenido_adulto"] and contexto == "infantil":
+        return "contenido_sensible"
+
+    if not tema and not contexto:
+        return "sin_clasificar"
+
+    tema = tema or "general"
+    contexto = contexto or "global"
+
+    return f"{tema}_{contexto}"
