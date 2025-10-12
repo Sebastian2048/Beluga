@@ -4,29 +4,37 @@ import subprocess
 from datetime import datetime
 from collections import Counter, defaultdict
 from clasificador import extraer_bloques_m3u, extraer_url, clasificacion_doble
+from clasificador_experiencia import clasificar_por_experiencia
+from auditor_visual import auditar_segmentados
 from config import CARPETA_SEGMENTADOS, CARPETA_SALIDA, URL_BASE_SEGMENTADOS, exclusiones
 
 ARCHIVO_SALIDA = os.path.join(CARPETA_SALIDA, "RP_S2048.m3u")
 MAX_BLOQUES_POR_LISTA = 1000
 MINIMO_BLOQUES_VALIDOS = 5
 
-# 🖼️ Diccionario de logos por categoría
 LOGOS_CATEGORIA = {
     "series": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png",
     "peliculas": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png",
     "sagas": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SAGAS.png",
     "iptv": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.IPTV.png",
-    "estrenos": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.ESTRENOS.png"
+    "estrenos": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.ESTRENOS.png",
+    "infantil_educativo": "https://github.com/Sebastian2048/Beluga/blob/main/beluga.png",
+    "musica_latina": "https://github.com/Sebastian2048/Beluga/blob/main/beluga.png",
+    "documental_cultural": "https://github.com/Sebastian2048/Beluga/blob/main/beluga.png",
+    "cine_terror": "https://github.com/Sebastian2048/Beluga/blob/main/beluga.png"
 }
 LOGO_DEFAULT = "https://github.com/Sebastian2048/Beluga/blob/main/beluga.png"
 
-# ✨ Títulos visuales por categoría
 TITULOS_VISUALES = {
     "series": "★ SERIES ★",
     "peliculas": "★ PELICULAS ★",
     "sagas": "★ SAGAS ★",
     "iptv": "★ TELEVISION ★",
-    "estrenos": "★ ESTRENOS ★"
+    "estrenos": "★ ESTRENOS ★",
+    "infantil_educativo": "★ INFANTIL EDUCATIVO ★",
+    "musica_latina": "★ MÚSICA LATINA ★",
+    "documental_cultural": "★ DOCUMENTALES ★",
+    "cine_terror": "★ TERROR ★"
 }
 
 def ejecutar_segmentador():
@@ -58,6 +66,7 @@ def verificar_y_eliminar():
 def generar_listas_finales():
     ejecutar_segmentador()
     verificar_y_eliminar()
+    auditar_segmentados()  # ✅ Auditoría visual integrada
 
     archivos = sorted([
         f for f in os.listdir(CARPETA_SEGMENTADOS)
@@ -101,7 +110,6 @@ def generar_listas_finales():
         categoria = archivo.replace(".m3u", "")
         totales_por_categoria[categoria] += 1
 
-    # 🔗 Fusionar listas pequeñas por categoría
     for categoria, bloques in buffer_por_categoria.items():
         if len(bloques) >= MINIMO_BLOQUES_VALIDOS:
             nombre = f"{categoria}_fusionada.m3u"
@@ -118,7 +126,6 @@ def generar_listas_finales():
         print("⚠️ No quedaron listas válidas tras depuración.")
         return
 
-    # 🧠 Generar RP_S2048.m3u como menú visual
     with open(ARCHIVO_SALIDA, "w", encoding="utf-8") as salida:
         salida.write("#EXTM3U\n")
         salida.write(f"# Generado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
@@ -127,6 +134,11 @@ def generar_listas_finales():
             categoria_raw = archivo.replace(".m3u", "")
             partes = categoria_raw.split("_")
             base = partes[0].lower()
+
+            # 🧠 Enriquecer con experiencia si aplica
+            experiencia = clasificar_por_experiencia([f"#EXTINF:-1,{categoria_raw}"])
+            if experiencia:
+                base = experiencia.lower()
 
             titulo = TITULOS_VISUALES.get(base, categoria_raw.upper())
             logo = LOGOS_CATEGORIA.get(base, LOGO_DEFAULT)

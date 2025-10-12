@@ -1,5 +1,4 @@
 # reclasificador.py
-
 import os
 import shutil
 from datetime import datetime
@@ -11,7 +10,11 @@ from clasificador import (
     clasificar_por_metadato,
     clasificar_por_url
 )
-from config import CARPETA_ORIGEN, CARPETA_SEGMENTADOS, LIMITE_BLOQUES
+from clasificador_experiencia import clasificar_por_experiencia
+from config import CARPETA_SEGMENTADOS, LIMITE_BLOQUES
+
+# Usamos segmentados como origen
+CARPETA_ORIGEN = CARPETA_SEGMENTADOS
 
 def guardar_segmentado(categoria, bloques, contador):
     os.makedirs(CARPETA_SEGMENTADOS, exist_ok=True)
@@ -20,11 +23,15 @@ def guardar_segmentado(categoria, bloques, contador):
 
     with open(ruta, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
+        f.write(f"# Segmentado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
         for bloque in bloques:
-            f.write(bloque.strip() + f"  # Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
+            f.write("\n".join(bloque).strip() + "\n\n")
 
 def reclasificar():
-    archivos = [f for f in os.listdir(CARPETA_ORIGEN) if f.endswith(".m3u")]
+    archivos = [
+        f for f in os.listdir(CARPETA_ORIGEN)
+        if f.startswith("sin_clasificar") and f.endswith(".m3u")
+    ]
     contadores = {}
     buffers = {}
 
@@ -43,12 +50,14 @@ def reclasificar():
             url = extraer_url(bloque)
 
             categoria = (
-                clasificar_por_nombre(nombre)
+                clasificar_por_experiencia(bloque)
+                or clasificar_por_nombre(nombre)
                 or clasificar_por_url(url)
                 or clasificar_por_metadato(bloque)
                 or "sin_clasificar"
             )
 
+            categoria = categoria.lower().replace(" ", "_")
             contadores.setdefault(categoria, 1)
             buffers.setdefault(categoria, [])
 
