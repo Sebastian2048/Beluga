@@ -167,8 +167,7 @@ def iniciar_proceso(resultado_url, texto_listas, entrada_lista, contador_resulta
             if url:
                 urls.append(url)
 
-        for url in urls:
-            verificar_historial(url)
+        verificar_historial(reconstruir_url_desde_nombre)
 
         # 🧩 Generar matriz y guía actualizada
         generar_listas_finales()

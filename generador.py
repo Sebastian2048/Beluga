@@ -2,126 +2,107 @@
 
 import os
 import hashlib
+import subprocess
 from datetime import datetime
-from collections import Counter
+from collections import Counter, defaultdict
 from clasificador import extraer_bloques_m3u, extraer_url, clasificar_por_url
-from config import CARPETA_SEGMENTADOS, CARPETA_SALIDA, URL_BASE_SEGMENTADOS
+from config import CARPETA_SEGMENTADOS, CARPETA_SALIDA, URL_BASE_SEGMENTADOS, exclusiones
 from clasificador_experiencia import clasificar_por_experiencia
 
 ARCHIVO_SALIDA = os.path.join(CARPETA_SALIDA, "RP_S2048.m3u")
+MAX_BLOQUES_POR_LISTA = 1000
 
-def es_lista_util(ruta):
-    try:
-        with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
-            lineas = f.readlines()
-            if not lineas or not lineas[0].strip().startswith("#EXTM3U"):
-                return False
-            bloques = extraer_bloques_m3u(lineas)
-            return bool(bloques)
-    except:
-        return False
+def ejecutar_segmentador():
+    print("🔁 Ejecutando segmentador.py...")
+    subprocess.run(["python", "segmentador.py"], check=False)
 
-def hash_contenido(ruta):
-    with open(ruta, "rb") as f:
-        return hashlib.md5(f.read()).hexdigest()
+def hash_bloque(bloque):
+    return hashlib.md5("".join(bloque).encode("utf-8")).hexdigest()
 
-# 🔁 Reclasifica listas genéricas combinando tema + país/proveedor
+def contiene_exclusion(bloque):
+    texto = " ".join(bloque).lower()
+    return any(palabra in texto for palabra in exclusiones)
+
+def detectar_nombre_tematico(bloque):
+    texto = " ".join(bloque).lower()
+    for palabra in ["dragonball", "naruto", "peppa", "simpsons", "one piece", "pokemon"]:
+        if palabra in texto:
+            return palabra.replace(" ", "_").capitalize()
+    return None
+
 def reclasificar_lista(ruta, nombre_original):
     with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
-        lineas = f.readlines()
-        bloques = extraer_bloques_m3u(lineas)
+        bloques = extraer_bloques_m3u(f.readlines())
 
-    categorias_detectadas = set()
+    bloques_filtrados = []
+    hashes_vistos = set()
+    categorias_detectadas = defaultdict(list)
+
     for bloque in bloques:
+        if contiene_exclusion(bloque):
+            continue
+        h = hash_bloque(bloque)
+        if h in hashes_vistos:
+            continue
+        hashes_vistos.add(h)
+
         url = extraer_url(bloque)
         tema = clasificar_por_experiencia(bloque) or "General"
         contexto = clasificar_por_url(url) or "Global"
+        nombre_tematico = detectar_nombre_tematico(bloque)
 
-        # Normalizar nombres
         tema = tema.replace(" ", "_").replace("/", "_")
         contexto = contexto.split("_")[0].replace(" ", "_").replace("/", "_")
 
-        categoria_compuesta = f"{tema}_{contexto}"
-        categorias_detectadas.add(categoria_compuesta)
-
-    if categorias_detectadas:
-        base_categoria = sorted(categorias_detectadas)[0]
-        base_nombre = f"{base_categoria}.m3u"
-        nueva_ruta = os.path.join(CARPETA_SEGMENTADOS, base_nombre)
-
-        if not os.path.exists(nueva_ruta):
-            os.rename(ruta, nueva_ruta)
-            print(f"🔁 Reclasificada: {nombre_original} → {base_nombre}")
-            return base_nombre
+        if nombre_tematico:
+            categoria = f"{tema}_{nombre_tematico}"
         else:
-            # Fusionar contenido si ya existe
-            with open(ruta, "r", encoding="utf-8", errors="ignore") as f1, \
-                 open(nueva_ruta, "a", encoding="utf-8") as f2:
-                f2.write("\n".join(f1.readlines()) + "\n")
-            os.remove(ruta)
-            print(f"🔁 Fusionada en: {base_nombre}")
-            return base_nombre
+            categoria = f"{tema}_{contexto}"
 
-    return nombre_original
+        categorias_detectadas[categoria].append(bloque)
+
+    if not categorias_detectadas:
+        os.remove(ruta)
+        print(f"⚠️ Eliminada por no tener categoría válida: {nombre_original}")
+        return []
+
+    nuevas_listas = []
+
+    for categoria, bloques in categorias_detectadas.items():
+        for i in range(0, len(bloques), MAX_BLOQUES_POR_LISTA):
+            parte = bloques[i:i+MAX_BLOQUES_POR_LISTA]
+            sufijo = f"_{i//MAX_BLOQUES_POR_LISTA + 1}" if len(bloques) > MAX_BLOQUES_POR_LISTA else ""
+            nombre_final = f"{categoria}{sufijo}.m3u"
+            ruta_final = os.path.join(CARPETA_SEGMENTADOS, nombre_final)
+
+            with open(ruta_final, "w", encoding="utf-8") as out:
+                out.write("#EXTM3U\n")
+                for b in parte:
+                    out.write("\n".join(b) + "\n")
+
+            nuevas_listas.append(nombre_final)
+            print(f"✅ Generada: {nombre_final} ({len(parte)} bloques)")
+
+    os.remove(ruta)
+    return nuevas_listas
 
 def verificar_y_eliminar():
     archivos = [f for f in os.listdir(CARPETA_SEGMENTADOS) if f.endswith(".m3u")]
-    duplicados = {}
-    vacias = []
-    rotas = []
-    hashes = {}
-
-    print(f"\n🔍 Verificando {len(archivos)} listas en {CARPETA_SEGMENTADOS}/...\n")
-
     for archivo in archivos:
         ruta = os.path.join(CARPETA_SEGMENTADOS, archivo)
         try:
             with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
                 lineas = f.readlines()
+            bloques = extraer_bloques_m3u(lineas)
+            if not bloques or len(bloques) < 1:
+                os.remove(ruta)
+                print(f"❌ Eliminada por estar vacía o rota: {archivo}")
         except:
-            rotas.append(archivo)
-            continue
-
-        if not lineas or not lineas[0].strip().startswith("#EXTM3U"):
-            rotas.append(archivo)
-            continue
-
-        bloques = extraer_bloques_m3u(lineas)
-        if not bloques or len(bloques) < 3:
-            vacias.append(archivo)
-            continue
-
-        hash_actual = hash_contenido(ruta)
-        if hash_actual in hashes:
-            duplicados.setdefault(hashes[hash_actual], []).append(archivo)
-        else:
-            hashes[hash_actual] = archivo
-
-    for f in vacias:
-        os.remove(os.path.join(CARPETA_SEGMENTADOS, f))
-    for f in rotas:
-        os.remove(os.path.join(CARPETA_SEGMENTADOS, f))
-    for original, copias in duplicados.items():
-        for f in copias:
-            os.remove(os.path.join(CARPETA_SEGMENTADOS, f))
-
-    if vacias:
-        print("❌ Eliminadas por estar vacías o con pocos bloques:")
-        for f in vacias:
-            print(f"  - {f}")
-    if rotas:
-        print("\n❌ Eliminadas por estar rotas:")
-        for f in rotas:
-            print(f"  - {f}")
-    if duplicados:
-        print("\n♻️ Eliminadas por ser duplicadas:")
-        for original, copias in duplicados.items():
-            for f in copias:
-                print(f"  - {f} (duplicado de {original})")
-    if not (vacias or rotas or duplicados):
-        print("✅ Todas las listas están en buen estado.")
+            os.remove(ruta)
+            print(f"❌ Eliminada por error de lectura: {archivo}")
 
 def generar_listas_finales():
+    ejecutar_segmentador()
     verificar_y_eliminar()
 
     archivos = sorted([
@@ -133,52 +114,63 @@ def generar_listas_finales():
         print("⚠️ No se encontraron listas válidas en segmentados/. Abortando.")
         return
 
-    hashes = set()
-    listas_validas = []
+    listas_finales = []
     totales_por_categoria = Counter()
+    hashes_globales = set()
 
     for archivo in archivos:
         ruta = os.path.join(CARPETA_SEGMENTADOS, archivo)
 
-        if not es_lista_util(ruta):
-            continue
-
         if archivo.startswith("sin_clasificar") or archivo.startswith("television") or archivo.startswith("argentina_general"):
-            archivo = reclasificar_lista(ruta, archivo)
-
-        ruta_actualizada = os.path.join(CARPETA_SEGMENTADOS, archivo)
-        hash_actual = hash_contenido(ruta_actualizada)
-        if hash_actual in hashes:
-            os.remove(ruta_actualizada)
-            print(f"♻️ Eliminada (duplicada): {archivo}")
+            nuevas = reclasificar_lista(ruta, archivo)
+            listas_finales.extend(nuevas)
             continue
 
-        hashes.add(hash_actual)
-        listas_validas.append(archivo)
-        categoria_detectada = archivo.replace(".m3u", "")
-        totales_por_categoria[categoria_detectada] += 1
+        with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
+            bloques = extraer_bloques_m3u(f.readlines())
 
-    if not listas_validas:
-        print("⚠️ Todas las listas fueron ignoradas por estar vacías, rotas o duplicadas.")
+        bloques_unicos = []
+        for b in bloques:
+            h = hash_bloque(b)
+            if h not in hashes_globales and not contiene_exclusion(b):
+                hashes_globales.add(h)
+                bloques_unicos.append(b)
+
+        if not bloques_unicos:
+            os.remove(ruta)
+            print(f"⚠️ Eliminada por quedar vacía tras depuración: {archivo}")
+            continue
+
+        with open(ruta, "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
+            for b in bloques_unicos:
+                f.write("\n".join(b) + "\n")
+
+        listas_finales.append(archivo)
+        categoria = archivo.replace(".m3u", "")
+        totales_por_categoria[categoria] += 1
+
+    if not listas_finales:
+        print("⚠️ No quedaron listas válidas tras depuración.")
         return
 
     with open(ARCHIVO_SALIDA, "w", encoding="utf-8") as salida:
         salida.write("#EXTM3U\n")
         salida.write(f"# Generado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
 
-        for archivo in listas_validas:
+        for archivo in sorted(listas_finales):
             categoria = archivo.replace(".m3u", "")
             ruta_url = f"{URL_BASE_SEGMENTADOS}/{archivo}"
             salida.write(f"# 🔹 Categoría: {categoria}\n")
             salida.write(f"#EXTINF:-1 tvg-id=\"{categoria}\" group-title=\"{categoria}\",{categoria}\n")
             salida.write(f"{ruta_url}\n\n")
 
-    print(f"\n✅ RP_S2048.m3u regenerado con {len(listas_validas)} listas válidas.")
+    print(f"\n✅ RP_S2048.m3u generado con {len(listas_finales)} listas.")
     print(f"📁 Ubicación: {ARCHIVO_SALIDA}")
 
     print("\n📊 Totales por categoría:")
-    for categoria, cantidad in totales_por_categoria.most_common():
-        print(f"  - {categoria}: {cantidad} listas")
+    for cat, count in totales_por_categoria.most_common():
+        print(f"  - {cat}: {count} lista(s)")
 
 if __name__ == "__main__":
     generar_listas_finales()
