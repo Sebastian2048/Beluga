@@ -8,6 +8,7 @@ from clasificador_experiencia import clasificar_por_experiencia
 from auditor_visual import auditar_segmentados
 from config import CARPETA_SEGMENTADOS, CARPETA_SALIDA, URL_BASE_SEGMENTADOS, exclusiones
 from reclasificador import reclasificar
+from verificar_compatibilidad_movian import verificar_archivos_movian
 
 # 📁 Archivo final de salida
 ARCHIVO_SALIDA = os.path.join(CARPETA_SALIDA, "RP_S2048.m3u")
@@ -21,11 +22,6 @@ LOGO_DEFAULT = "https://raw.githubusercontent.com/Sebastian2048/Beluga/main/belu
 
 # 🖼️ Logos específicos por categoría
 LOGOS_CATEGORIA = {
-    "series": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png",
-    "peliculas": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png",
-    "sagas": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SAGAS.png",
-    "iptv": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.IPTV.png",
-    "estrenos": "https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.ESTRENOS.png",
     "infantil_educativo": LOGO_DEFAULT,
     "musica_latina": LOGO_DEFAULT,
     "documental_cultural": LOGO_DEFAULT,
@@ -81,6 +77,7 @@ def generar_listas_finales():
     verificar_y_eliminar()    # 🧹 Depura listas inválidas
     auditar_segmentados()     # 🔍 Diagnóstico visual
     reclasificar()            # ✅ Paso previo: reclasifica sin_clasificar_X.m3u
+    verificar_archivos_movian()  # ✅ Diagnóstico automático de compatibilidad
 
     archivos = sorted([
         f for f in os.listdir(CARPETA_SEGMENTADOS)

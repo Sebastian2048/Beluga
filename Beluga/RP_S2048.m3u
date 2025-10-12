@@ -1,5 +1,5 @@
 #EXTM3U
-# Generado por Beluga - 2025-10-12 19:36
+# Generado por Beluga - 2025-10-12 20:20
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ CINE ★",★ CINE ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/Cine_Accion_argentina.m3u
@@ -19,10 +19,10 @@ https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/General_
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ INFANTIL ★",★ INFANTIL ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/Infantil_Educativo_argentina.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="★ SERIES ★",★ SERIES ★
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",★ SERIES ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/Series_24_7_Global.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="★ SERIES ★",★ SERIES ★
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",★ SERIES ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/Series_24_7_argentina.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ABIERTOS ★",★ ABIERTOS ★
@@ -109,13 +109,13 @@ https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/noticias
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",★ NOTICIAS ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/noticias_argentina_general_1.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png" group-title="★ PELICULAS ★",★ PELICULAS ★
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",★ PELICULAS ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/peliculas_1.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png" group-title="★ PELICULAS ★",★ PELICULAS ★
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",★ PELICULAS ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/peliculas_2.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png" group-title="★ PELICULAS ★",★ PELICULAS ★
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",★ PELICULAS ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/peliculas_argentina_general_1.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",★ RELIGIOSO ★
@@ -127,15 +127,15 @@ https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/religios
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",★ RELIGIOSO ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/religioso_global_2.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="★ SERIES ★",★ SERIES ★
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",★ SERIES ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/series_24_7_1.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="★ SERIES ★",★ SERIES ★
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",★ SERIES ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/series_24_7_2.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="★ SERIES ★",★ SERIES ★
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",★ SERIES ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/series_comedia_1.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="★ SERIES ★",★ SERIES ★
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",★ SERIES ★
 https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados/series_comedia_argentina_general_1.m3u
 
