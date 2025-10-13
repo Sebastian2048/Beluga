@@ -16,10 +16,11 @@ from config import CARPETA_SEGMENTADOS, LIMITE_BLOQUES
 # 📁 Carpeta de origen para reclasificación
 CARPETA_ORIGEN = CARPETA_SEGMENTADOS
 
-# 🧠 Diccionario de categorías conocidas (puede extenderse desde TITULOS_VISUALES si se importa)
+# 🧠 Categorías conocidas que no deben reclasificarse
 CATEGORIAS_CONOCIDAS = {
     "series", "peliculas", "sagas", "iptv", "estrenos",
-    "infantil_educativo", "musica_latina", "documental_cultural", "cine_terror"
+    "infantil_educativo", "musica_latina", "documental_cultural", "cine_terror",
+    "anime", "kuerba"
 }
 
 # 🧾 Guarda bloques en archivo segmentado por categoría
@@ -39,6 +40,7 @@ def guardar_segmentado(categoria, bloques, contador):
 
 # 🔁 Reclasifica listas genéricas y ambiguas
 def reclasificar():
+    # 🔍 Detecta listas que no están bien clasificadas
     archivos = [
         f for f in os.listdir(CARPETA_ORIGEN)
         if f.endswith(".m3u") and (
@@ -65,6 +67,10 @@ def reclasificar():
             print(f"❌ Error al leer {archivo}: {e}")
             continue
 
+        # ⚠️ Si la lista es genérica y tiene más de 500 bloques, forzar reclasificación
+        nombre_base = archivo.split("_")[0].lower()
+        forzar_reclasificacion = nombre_base in ["television", "otros"] and len(bloques) > 500
+
         for bloque in bloques:
             nombre = extraer_nombre_canal(bloque)
             url = extraer_url(bloque)
@@ -78,6 +84,11 @@ def reclasificar():
             )
 
             categoria = categoria.lower().replace(" ", "_")
+
+            # 🧠 Si se detecta categoría genérica y es extensa, forzar reclasificación
+            if forzar_reclasificacion and categoria in ["television", "otros"]:
+                categoria = "sin_clasificar"
+
             contadores.setdefault(categoria, 1)
             buffers.setdefault(categoria, [])
 
@@ -95,7 +106,7 @@ def reclasificar():
             guardar_segmentado(categoria, bloques_restantes, contadores[categoria])
             print(f"📤 Segmentado: {categoria}_{contadores[categoria]}.m3u ({len(bloques_restantes)} bloques)")
 
-    # 🧹 Limpieza: borrar archivos originales
+    # 🧹 Limpieza: borrar archivos originales procesados
     print(f"\n🧹 Eliminando archivos antiguos de {CARPETA_ORIGEN}/...")
     for archivo in archivos:
         try:

@@ -8,15 +8,19 @@ from collections import Counter, defaultdict
 from clasificador import extraer_bloques_m3u
 from clasificador_experiencia import clasificar_por_experiencia
 from auditor_visual import auditar_segmentados
-from config import CARPETA_SEGMENTADOS, CARPETA_SALIDA, URL_BASE_SEGMENTADOS, exclusiones
+from config import (
+    CARPETA_ORIGEN,
+    CARPETA_SEGMENTADOS,
+    CARPETA_SALIDA,
+    URL_BASE_SEGMENTADOS,
+    exclusiones,
+    MINIMO_BLOQUES_VALIDOS
+)
 from reclasificador import reclasificar
 from verificar_compatibilidad_movian import verificar_archivos_movian
 
 # 📁 Ruta del archivo final
 ARCHIVO_SALIDA = os.path.join(CARPETA_SALIDA, "RP_S2048.m3u")
-
-# 🔢 Parámetros de control
-MINIMO_BLOQUES_VALIDOS = 5
 
 # 🐳 Imagen por defecto (formato raw para compatibilidad IPTV)
 LOGO_DEFAULT = "https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png"
@@ -41,6 +45,7 @@ TITULOS_VISUALES = {
     "documental_cultural": "★ DOCUMENTALES ★",
     "cine_terror": "★ TERROR ★"
 }
+
 def ejecutar_segmentador():
     print("🔁 Ejecutando segmentador.py...")
     subprocess.run(["python", "segmentador.py"], check=False)
@@ -63,15 +68,48 @@ def verificar_y_eliminar():
             if not bloques or len(bloques) < MINIMO_BLOQUES_VALIDOS:
                 os.remove(ruta)
                 print(f"❌ Eliminada por estar vacía o tener pocos bloques: {archivo}")
-        except:
+        except Exception:
             os.remove(ruta)
             print(f"❌ Eliminada por error de lectura: {archivo}")
+
+def procesar_compilados():
+    print("\n🔁 Procesando listas en compilados/...\n")
+    archivos = sorted([
+        f for f in os.listdir(CARPETA_ORIGEN)
+        if f.endswith(".m3u")
+    ])
+
+    for archivo in archivos:
+        ruta_origen = os.path.join(CARPETA_ORIGEN, archivo)
+        try:
+            with open(ruta_origen, "r", encoding="utf-8", errors="ignore") as f:
+                lineas = f.readlines()
+        except Exception as e:
+            print(f"❌ Error al leer {archivo}: {e}")
+            continue
+
+        if len(lineas) > 500:
+            print(f"📤 Segmentando lista extensa: {archivo} ({len(lineas)} líneas)")
+            subprocess.run(["python", "segmentador.py"], check=False)
+        else:
+            print(f"📦 Migrando lista corta directamente: {archivo} ({len(lineas)} líneas)")
+            ruta_destino = os.path.join(CARPETA_SEGMENTADOS, archivo)
+            try:
+                with open(ruta_destino, "w", encoding="utf-8") as f:
+                    f.write("#EXTM3U\n")
+                    f.write(f"# Migrado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
+                    f.writelines(lineas)
+            except Exception as e:
+                print(f"❌ Error al migrar {archivo}: {e}")
+                continue
+        os.remove(ruta_origen)
+
 def generar_listas_finales():
-    ejecutar_segmentador()             # 🔁 Paso 1: segmenta compilados/
-    verificar_y_eliminar()             # 🧹 Paso 2: elimina listas vacías o inválidas
-    auditar_segmentados()              # 🔍 Paso 3: diagnóstico visual
-    reclasificar()                     # 🧠 Paso 4: reclasifica listas sin_clasificar_X.m3u
-    verificar_y_eliminar()             # 🧹 Paso 5: limpieza post-reclasificación
+    procesar_compilados()             # 🔁 Paso 1: procesa listas en compilados/
+    verificar_y_eliminar()            # 🧹 Paso 2: elimina listas vacías o inválidas
+    auditar_segmentados()             # 🔍 Paso 3: diagnóstico visual
+    reclasificar()                    # 🧠 Paso 4: reclasifica listas ambiguas
+    verificar_y_eliminar()            # 🧹 Paso 5: limpieza post-reclasificación
 
     archivos = sorted([
         f for f in os.listdir(CARPETA_SEGMENTADOS)

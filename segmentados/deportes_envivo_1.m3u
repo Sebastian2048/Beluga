@@ -1,174 +1,10 @@
 #EXTM3U
-#EXTINF:0,ACCN ESPN (USA) (🇺🇸)
-https://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:0,ESPN (Argentina) (🇦🇷)
-http://181.78.106.127:9000/play/ca033/index.m3u8
-#EXTINF:0,ESPN (Chile) (🇨🇱)
-http://38.180.133.31:8000/play/a0tb/index.m3u8
-#EXTINF:0,ESPN (Colombia) (🇨🇴)
-http://38.180.133.31:8000/play/a0wa/index.m3u8
-#EXTINF:0,ESPN (España) (🇪🇸)
-http://191.52.214.5:8000/play/a02s/index.m3u8
-#EXTINF:0,ESPN (Mexico) (🇲🇽)
-http://181.78.82.6:46090/play/a00q/index.m3u8
-#EXTINF:0,ESPN (USA) (🇺🇸)
-https://fl5.moveonjoy.com/ESPN/index.m3u8
-#EXTINF:0,ESPN 2 (Argentina) (🇦🇷)
-http://38.180.133.31:8000/play/a0w4/index.m3u8
-#EXTINF:0,ESPN 2 (Chile) (🇨🇱)
-http://191.52.214.5:8000/play/a027/index.m3u8
-#EXTINF:0,ESPN 2 (Colombia) (🇨🇴)
-http://181.78.106.127:9000/play/ca034/index.m3u8
-#EXTINF:0,ESPN 2 (España) (🇪🇸)
-http://181.78.82.6:46090/play/a00i/index.m3u8
-#EXTINF:0,ESPN 2 (Mexico) (🇲🇽)
-http://181.78.105.146:8800/play/a08t/index.m3u8
-#EXTINF:0,ESPN 2 (USA) (🇺🇸)
-https://fl5.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:0,ESPN 3 (Argentina) (🇦🇷)
-http://181.78.105.146:8800/play/a053/index.m3u8
-#EXTINF:0,ESPN 3 (Chile) (🇨🇱)
-http://190.102.246.93:9005/play/a02l/index.m3u8
-#EXTINF:0,ESPN 3 (Colombia) (🇨🇴)
-http://191.52.214.5:8000/play/a025/index.m3u8
-#EXTINF:0,ESPN 3 (España) (🇪🇸)
-http://38.180.133.31:8000/play/a0w5/index.m3u8
-#EXTINF:0,ESPN 3 (Mexico) (🇲🇽)
-http://181.78.82.6:46090/play/a00v/index.m3u8
-#EXTINF:0,ESPN 3 (Peru) (🇵🇪)
-http://190.61.42.218:9000/play/a061/index.m3u8
-#EXTINF:0,ESPN 4 (Colombia) (🇨🇴)
-http://38.180.133.31:8000/play/a0wd/index.m3u8
-#EXTINF:0,ESPN 4 (España) (🇪🇸)
-http://190.102.246.93:9005/play/a019/index.m3u8
-#EXTINF:0,ESPN 4 (Mexico) (🇲🇽)
-http://181.78.106.127:9000/play/ca036/index.m3u8
-#EXTINF:0,ESPN 5 (España) (🇪🇸)
-http://190.83.2.172:8081/play/a07g/index.m3u8
-#EXTINF:0,ESPN 5 (Mexico) (🇲🇽)
-http://38.180.133.31:8000/play/a0w7/index.m3u8
-#EXTINF:0,ESPN 6 (Argentina) (🇦🇷)
-http://190.102.246.93:9005/play/a02m/index.m3u8
-#EXTINF:0,ESPN 6 (Chile) (🇨🇱)
-http://181.78.82.6:46090/play/a00w/index.m3u8
-#EXTINF:0,ESPN 6 (Colombia) (🇨🇴)
-http://190.61.42.218:9000/play/a062/index.m3u8
-#EXTINF:0,ESPN 6 (España) (🇪🇸)
-http://181.78.105.146:8800/play/a056/index.m3u8
-#EXTINF:0,ESPN 6 (Mexico) (🇲🇽)
-http://38.180.133.31:8000/play/a0qo/index.m3u8
-#EXTINF:0,ESPN 6 (Peru) (🇵🇪)
-http://191.52.214.5:8000/play/a026/index.m3u8
-#EXTINF:0,ESPN 7 (España) (🇪🇸)
-http://nxt.plus:8080/jesus01/jesus01/13229
-#EXTINF:0,ESPN Deportes (España) (🇪🇸)
-http://190.92.10.66:4000/play/a003/index.m3u8
-#EXTINF:0,ESPN News (USA) (🇺🇸)
-https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:0,ESPN Premium (Colombia) (🇨🇴)
-http://45.184.87.142:8000/play/a045/index.m3u8
-#EXTINF:0,ESPN Premium (España) (🇪🇸)
-http://190.123.90.146:8000/play/a00f/index.m3u8
-#EXTINF:0,ESPN Premium (Mexico) (🇲🇽)
-http://190.102.246.93:9005/play/a00x/index.m3u8
-#EXTINF:0,ESPN U (USA) (🇺🇸)
-https://fl5.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:0,ETB Deportes (España) (🇪🇸)
-https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
-#EXTINF:0,FOX Deportes (España) (🇪🇸)
-http://181.78.105.146:2000/play/a093/index.m3u8
-#EXTINF:0,FOX Sports (España) (🇪🇸)
-http://181.78.106.127:9000/play/ca031/index.m3u8
-#EXTINF:0,FOX Sports (Mexico) (🇲🇽)
-http://200.115.120.1:8000/play/ca041/index.m3u8
-#EXTINF:0,FOX Sports (USA) (🇺🇸)
-https://apollo.production-public.tubi.io/live/fox-sports.m3u8
-#EXTINF:0,FOX Sports 1 (España) (🇪🇸)
-http://191.52.214.5:8000/play/a03u/index.m3u8
-#EXTINF:0,FOX Sports Espanol (Mexico) (🇲🇽)
-https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
-#EXTINF:0,FOX Sports Español (España) (🇪🇸)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-#EXTINF:-1 group-title="Orden-090",090. ESPN 5 HD ✅ ✅
-http://181.119.85.222:8000/play/a02a/index.m3u8
-#EXTINF:-1,15.1 ESPN 7 ✅
-http://200.60.124.19:29000/play/a01e/index.m3u8
-#EXTINF:-1,ESPN HD ✅
-http://181.119.85.222:8000/play/a01q/index.m3u8
-#EXTINF:-1,ESPN - Opción 2 ✅
-http://181.119.86.68:8000/play/b031/index.m3u8
-#EXTINF:-1,ESPN 1 ✅
-http://181.205.130.194:4000/play/a07j
-#EXTINF:-1,ESPN 2 ✅
-http://181.78.23.26:45000/play/a00m
-#EXTINF:-1,ESPN 2 HD - Opción 2 ✅
-http://45.176.71.20:1689/play/a0cx
-#EXTINF:-1,ESPN 2 Latin ✅
-http://181.78.23.26:45000/play/a01h
-#EXTINF:-1,ESPN 3 HD ✅
-http://138.0.228.250:44380/play/a00q/index.m3u8
-#EXTINF:-1,ESPN 3 - Opción 2 ✅
-http://181.119.86.68:8000/play/b033/index.m3u8
-#EXTINF:-1,ESPN 4 ✅
-http://181.78.106.127:9000/play/ca036/index.m3u8 HD
-#EXTINF:-1,ESPN 4 - Opción 2 ✅
-http://181.119.85.222:8000/play/a00j/index.m3u8
-#EXTINF:-1,ESPN 4HD ✅
-http://45.176.71.20:1689/play/a0hm
-#EXTINF:-1,ESPN 4HD - Opción 2 ✅
-http://45.176.71.20:1689/play/a0hm
-#EXTINF:-1,ESPN 5 HD ✅
-http://181.119.85.222:8000/play/a02a/index.m3u8
-#EXTINF:-1,ESPN 5 HD - Opción 2 ✅
-http://181.119.85.222:8000/play/a02a/index.m3u8
-#EXTINF:-1,ESPN 5HD ✅
-http://179.51.136.19:8000/play/a1a6/index.m3u8
-#EXTINF:-1,ESPN 5HD - Opción 2 ✅
-http://179.51.136.19:8000/play/a1a6/index.m3u8
-#EXTINF:-1,ESPN 6 ✅
-http://181.119.86.68:8000/play/b030/index.m3u8
-#EXTINF:-1,ESPN 6 - Opción 2 ✅
-http://181.205.130.194:4000/play/a07t
-#EXTINF:-1,ESPN 6 mx ✅
-http://190.60.32.178:8178/play/a0aa/index.m3u8
-#EXTINF:-1,ESPN 6 MX - Opción 2 ✅
-http://200.60.124.19:29000/play/a01f
-#EXTINF:-1,ESPN 6HD ✅
-http://45.176.71.20:1689/play/a0ho
-#EXTINF:-1,ESPN 6HD - Opción 2 ✅
-http://179.51.136.19:8000/play/a1ai/index.m3u8
-#EXTINF:-1,ESPN 7 ✅
-http://181.119.86.68:8000/play/b029/index.m3u8
-#EXTINF:-1,ESPN 7 - Opción 2 ✅
-http://181.119.85.222:8000/play/a00k/index.m3u8
-#EXTINF:-1,ESPN 7 mx ✅
-http://181.205.130.194:4000/play/a07s
-#EXTINF:-1,ESPN 7HD ✅
-http://45.176.71.20:1689/play/a0oo
-#EXTINF:-1,ESPN 7HD - Opción 2 ✅
-http://45.176.71.20:1689/play/a0oo
-#EXTINF:-1,ESPN CO ✅
-http://181.78.23.26:45000/play/a02p
-#EXTINF:-1,ESPN Premium HD - Opción 2 ✅
-http://179.51.136.19:8000/play/a1ar/index.m3u8
-#EXTINF:-1,Fox Sports ✅
-http://181.78.106.127:9000/play/ca031/index.m3u8
-#EXTINF:-1,Fox Sports 2 ✅
-http://181.78.106.127:9000/play/ca032/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD ✅
-http://45.176.71.20:1689/play/a0cw
-#EXTINF:-1,Fox Sports 3 HD - Opción 2 ✅
-http://45.176.71.20:1689/play/a0cw
-#EXTINF:-1,Movistar Deportes ✅
-http://179.51.136.19:8000/play/a0zj/index.m3u8
-#EXTINF:-1,Movistar Deportes - Opción 2 ✅
-http://179.51.136.19:8000/play/a0zj/index.m3u8
-#EXTINF:-1,tyc ✅
-http://181.78.23.26:45000/play/a04m
-#EXTINF:-1,TyC Sports ✅
-http://179.51.136.19:8000/play/a1h0/index.m3u8
-#EXTINF:-1,TyC Sports - Opción 2 ✅
-http://179.51.136.19:8000/play/a1h0/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-logo="https://i.imgur.com/0pDy6f4.png" group-title="Sports",Pluto TV Deportes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,Fox Sports 1 ✅
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1/master.m3u8
+#EXTINF:-1,Fox Sports 2 - Opción 2 ✅
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2/master.m3u8
 #EXTINF:0,Canela Deportes (Mexico) (🇲🇽)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
 #EXTINF:0,Deportes TVC (Honduras) (🇭🇳)
@@ -257,20 +93,6 @@ http://fortv.cc:8080/90820916/64752029/86765
 http://tv.teleclub.xyz/stream/server_2/deportes/espn1/master.m3u8
 #EXTINF:-1,ESPN Premium ✅
 http://tv.teleclub.xyz/stream/server_2/deportes/espnpremium/master.m3u8
-#EXTINF:-1,Fox Sports 1 ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1/master.m3u8
-#EXTINF:-1,Fox Sports 1 MX ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1mx/master.m3u8
-#EXTINF:-1,Fox Sports 2 - Opción 2 ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2/master.m3u8
-#EXTINF:-1,Fox Sports 2 MX ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2mx/master.m3u8
-#EXTINF:-1,Fox Sports 2 MX - Opción 2 ✅
-http://tv.teleclub.xyz/stream/server_3/deportes/foxsports2mx/master.m3u8
-#EXTINF:-1,Fox Sports 3 MX ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3mx/master.m3u8
-#EXTINF:-1,Fox Sports Premium MX ✅
-http://tv.teleclub.xyz/stream/server_2/deportes/foxsportspremiummx/master.m3u8
 #EXTINF:-1,WEBY ESPN Pensacola live ✅
 http://fortv.cc:8080/90820916/64752029/138677
 #EXTINF:-1,WMTD ESPN 102.3 ThTicket live ✅
@@ -293,8 +115,6 @@ https://ott.udptv.com/stream/udptv/foxsports/master.m3u8?p=eeaf011ae6d8cdbf0200c
 https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2 (720p)
 http://23.237.104.106:8080/USA_FS2/index.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",Fox Sports en Espanol (720p)
-https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-logo="https://i.imgur.com/3lOZWeD.png" group-title="Sports",Fox Sports Premium (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ITV Deportes
@@ -305,7 +125,15 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATVCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="Sports",NBA TV Canada (1080p)
 http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
-#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-logo="https://i.imgur.com/0pDy6f4.png" group-title="Sports",Pluto TV Deportes (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1,Fox Sports 1 MX ✅
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1mx/master.m3u8
+#EXTINF:-1,Fox Sports 2 MX ✅
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2mx/master.m3u8
+#EXTINF:-1,Fox Sports 2 MX - Opción 2 ✅
+http://tv.teleclub.xyz/stream/server_3/deportes/foxsports2mx/master.m3u8
+#EXTINF:-1,Fox Sports 3 MX ✅
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3mx/master.m3u8
+#EXTINF:-1,Fox Sports Premium MX ✅
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsportspremiummx/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sKQ5bFv/deportes.png", DEPORTES
 https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/D3P0RT3S.m3u

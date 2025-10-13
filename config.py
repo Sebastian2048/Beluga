@@ -13,20 +13,29 @@ for carpeta in [CARPETA_SALIDA, CARPETA_ORIGEN, CARPETA_SEGMENTADOS, CARPETA_LOG
     os.makedirs(carpeta, exist_ok=True)
 
 # 🧹 Palabras clave para excluir contenido no deseado (filtrado ético)
+# Se aplican tanto por bloque como por archivo completo (si más del 80% del contenido coincide)
 exclusiones = [
-    "religion", "adult", "xxx", "porno", "france", "french", "holanda", "netherlands",
+    "religion", "xxx", "porno", "france", "french", "holanda", "netherlands",
     "russia", "ruso", "ukraine", "ucrania", "hindu", "india", "brasil", "portugues",
-    "radio", "arabe", "arabic", "onlyfans", "camgirl", "escort", "fetish", "nsfw"
+    "radio", "arabe", "arabic", "onlyfans", "camgirl", "escort", "fetish", "nsfw",
+    "adult", "sex", "nude", "explicit", "erotic", "violence", "propaganda"
 ]
 
 # 🎯 Palabras clave deseadas (prioridad temática para curaduría)
+# Se pueden usar para destacar listas o priorizar en el menú visual
 preferencias = [
     "español", "latino", "anime", "infantil", "dibujos", "comedia", "drama",
-    "documental", "educativo", "cultural", "películas", "series", "musica", "cine"
+    "documental", "educativo", "cultural", "películas", "series", "musica", "cine",
+    "fútbol", "deportes", "historia", "naturaleza", "estrenos", "concierto"
 ]
 
-# 🔢 Límite de bloques por archivo segmentado (control de tamaño y rendimiento)
+MINIMO_BLOQUES_VALIDOS = 5
+
+# 🔢 Límite de bloques por archivo segmentado (usado en reclasificador.py)
 LIMITE_BLOQUES = 500
+
+# 🧠 Umbral de exclusión por archivo completo (ej. si 80% de los bloques contienen palabras excluidas)
+UMBRAL_EXCLUSION_ARCHIVO = 0.8
 
 # 🗂️ Diccionario extendido para clasificación por nombre de canal
 CLAVES_CATEGORIA = {

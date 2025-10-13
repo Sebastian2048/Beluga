@@ -1,20 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0DEST.SERIES.png",★ SERIES ★
+https://kuerba.com
 #EXTINF:0,13 Teleseries (Chile) (🇨🇱)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:0,Series (España) (🇪🇸)
 https://is.gd/BRVOiZ?.m3u8
 #EXTINF:0,Series (España) (🇪🇸)
 https://is.gd/ZSBZPX?.m3u8
-#EXTINF:0,Series Comedia (España) (🇪🇸)
-https://is.gd/tit1cW?.m3u8
 #EXTINF:0,Series Con Ñ (España) (🇪🇸)
 https://is.gd/d5rzud?.m3u8
 #EXTINF:0,Series Retro (España) (🇪🇸)
 https://is.gd/IyWDEJ?.m3u8
-#EXTINF:0,TNT Series (España) (🇪🇸)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TNTSERIESHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 group-title="Orden-054",054. TNT Series ✅ ✅
-http://179.51.136.19:8000/play/a1a3/index.m3u8
 #EXTINF:-1,A3SERIES ✅
 http://181.119.85.222:8000/play/a02g/index.m3u8
 #EXTINF:-1,A3SERIES - Opción 2 ✅
@@ -23,10 +19,6 @@ http://181.119.85.222:8000/play/a02g/index.m3u8
 http://179.51.136.19:8000/play/a1bw/index.m3u8
 #EXTINF:-1,ATRES SERIES - Opción 2 ✅
 http://179.51.136.19:8000/play/a1bw/index.m3u8
-#EXTINF:-1,TNT Series ✅
-http://179.51.136.19:8000/play/a1a3/index.m3u8
-#EXTINF:-1,TNT Series HD - Opción 2 ✅
-http://179.51.136.19:8000/play/a1al/index.m3u8
 #EXTINF:-1,USA SERIES ✅
 http://181.119.86.68:8000/play/b041/index.m3u8
 #EXTINF:-1,USA SERIES - Opción 2 ✅

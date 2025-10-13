@@ -130,17 +130,35 @@ def verificar_historial(reconstruir_url_func):
             print(f"❌ No se pudo verificar {archivo}: {e}")
 
 def clasificar_por_metadato(bloque):
-    bloque_mayus = bloque.upper()
-    if "TV" in bloque_mayus or "IPTV" in bloque_mayus or "CANAL" in bloque_mayus or "TELEVISION" in bloque_mayus:
+    bloque_mayus = " ".join(bloque).upper()
+
+    if any(pal in bloque_mayus for pal in ["TV", "IPTV", "CANAL", "SEÑAL", "TELEVISION"]):
         return "television"
-    elif "PELICULA" in bloque_mayus or "MOVIE" in bloque_mayus or "FILM" in bloque_mayus or "ESTRENO" in bloque_mayus:
+    elif any(pal in bloque_mayus for pal in ["PELICULA", "MOVIE", "FILM", "ESTRENO"]):
         return "peliculas"
-    elif "SERIE" in bloque_mayus or "EPISODIO" in bloque_mayus or "S3R13S" in bloque_mayus:
+    elif any(pal in bloque_mayus for pal in ["SERIE", "EPISODIO", "TEMPORADA", "S3R13S"]):
         return "series"
-    elif "SAGA" in bloque_mayus or "COLECCION" in bloque_mayus:
+    elif any(pal in bloque_mayus for pal in ["SAGA", "COLECCION", "TRILOGIA"]):
         return "sagas"
-    else:
-        return "otros"
+    elif any(pal in bloque_mayus for pal in ["ANIME", "MANGA", "OTAKU", "JAPAN"]):
+        return "anime"
+    elif any(pal in bloque_mayus for pal in ["INFANTIL", "KIDS", "DIBUJOS", "CARTOON", "EDUCATIVO"]):
+        return "infantil_educativo"
+    elif any(pal in bloque_mayus for pal in ["DOCUMENTAL", "CULTURAL", "HISTORIA", "NATURALEZA"]):
+        return "documental_cultural"
+    elif any(pal in bloque_mayus for pal in ["MUSICA", "LATINA", "CONCIERTO", "CUMBIA", "REGGAETON"]):
+        return "musica_latina"
+    elif any(pal in bloque_mayus for pal in ["TERROR", "HORROR", "MISTERIO", "SUSPENSO"]):
+        return "cine_terror"
+    elif any(pal in bloque_mayus for pal in ["FUTBOL", "DEPORTES", "NBA", "TENIS", "BOXEO"]):
+        return "deportes"
+    elif any(pal in bloque_mayus for pal in ["NOTICIAS", "NEWS", "INFORME", "PERIODICO"]):
+        return "noticias"
+    elif any(pal in bloque_mayus for pal in ["KUERBA2", "KUERBA"]):
+        return "kuerba"
+
+    # Si no se detecta ninguna categoría, no devolver "otros"
+    return None
 
 def reconstruir_url_desde_nombre(nombre_archivo):
     if not nombre_archivo or nombre_archivo.startswith("http"):
