@@ -27,8 +27,8 @@ preferencias = [
 
 # 🔢 Parámetros de control
 MINIMO_BLOQUES_VALIDOS = 5
-LIMITE_BLOQUES = 500
-UMBRAL_EXCLUSION_ARCHIVO = 0.5
+LIMITE_BLOQUES = 100
+UMBRAL_EXCLUSION_ARCHIVO = 0.85
 
 # 🗂️ Clasificación semántica extendida por nombre de canal
 CLAVES_CATEGORIA = {

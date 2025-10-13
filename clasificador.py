@@ -88,12 +88,12 @@ def clasificar_por_url(url):
     if "telecentro" in url:
         return "argentina_telecentro"
     if "megacable" in url:
-        return "mexico_megacable"
+        return "peliculas_mexico_megacable"
     if "movistar" in url:
         return "españa_movistar"
 
     if "latino" in url or "espanol" in url:
-        return "espanol_general"
+        return "espanol_general_drama"
     if "portugues" in url:
         return "portugues_general"
     if "english" in url:
