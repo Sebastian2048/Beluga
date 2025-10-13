@@ -1,3 +1,4 @@
+# Bloque 1
 import os
 import hashlib
 import subprocess
@@ -12,10 +13,10 @@ from config import (
     CARPETA_ORIGEN,
     CARPETA_SEGMENTADOS,
     CARPETA_SALIDA,
-    URL_BASE_SEGMENTADOS,
     exclusiones,
     MINIMO_BLOQUES_VALIDOS
 )
+
 from reclasificador import reclasificar
 from verificar_compatibilidad_movian import verificar_archivos_movian
 
@@ -272,5 +273,3 @@ def generar_listas_finales():
 # 🚀 Punto de entrada
 if __name__ == "__main__":
     generar_listas_finales()
-
-

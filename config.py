@@ -10,12 +10,9 @@ CARPETA_LOGS = "logs"
 for carpeta in [CARPETA_SALIDA, CARPETA_ORIGEN, CARPETA_SEGMENTADOS, CARPETA_LOGS]:
     os.makedirs(carpeta, exist_ok=True)
 
-# 🧹 Palabras clave para excluir contenido no deseado
+# 🧹 Palabras clave para excluir contenido no deseado (solo religioso)
 exclusiones = [
-    "religion", "xxx", "porno", "france", "french", "holanda", "netherlands",
-    "russia", "ruso", "ukraine", "ucrania", "hindu", "india", "brasil", "portugues",
-    "radio", "arabe", "arabic", "onlyfans", "camgirl", "escort", "fetish", "nsfw",
-    "adult", "sex", "nude", "explicit", "erotic", "violence", "propaganda"
+    "religion", "evangelio", "cristo", "biblia", "jesus", "adoracion", "misa", "rosario"
 ]
 
 # 🎯 Palabras clave deseadas
@@ -26,9 +23,9 @@ preferencias = [
 ]
 
 # 🔢 Parámetros de control
-MINIMO_BLOQUES_VALIDOS = 5
+MINIMO_BLOQUES_VALIDOS = 0  # Ya no descartamos por cantidad mínima
 LIMITE_BLOQUES = 100
-UMBRAL_EXCLUSION_ARCHIVO = 0.85
+UMBRAL_EXCLUSION_ARCHIVO = 0.999999  # Se mantiene alto para evitar exclusión por porcentaje
 
 # 🗂️ Clasificación semántica extendida por nombre de canal
 CLAVES_CATEGORIA = {
@@ -54,3 +51,46 @@ CLAVES_CATEGORIA = {
 
 # 🌐 URL base para acceder a listas segmentadas desde GitHub
 URL_BASE_SEGMENTADOS = "https://raw.githubusercontent.com/Sebastian2048/Beluga/main/segmentados"
+
+# 🐳 Imagen por defecto (formato raw para compatibilidad IPTV)
+LOGO_DEFAULT = "https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png"
+
+# 🖼️ Logos específicos por categoría
+LOGOS_CATEGORIA = {
+    "infantil_educativo": LOGO_DEFAULT,
+    "musica_latina": LOGO_DEFAULT,
+    "documental_cultural": LOGO_DEFAULT,
+    "deportes": LOGO_DEFAULT,
+    "cine_terror": LOGO_DEFAULT
+}
+
+# ✨ Títulos visuales por categoría
+TITULOS_VISUALES = {
+    "series": "★ SERIES ★",
+    "peliculas": "★ PELICULAS ★",
+    "sagas": "★ SAGAS ★",
+    "iptv": "★ TELEVISION ★",
+    "estrenos": "★ ESTRENOS ★",
+    "infantil_educativo": "★ INFANTIL EDUCATIVO ★",
+    "musica_latina": "★ MÚSICA LATINA ★",
+    "deportes": "★ DEPORTES ★",
+    "documental_cultural": "★ DOCUMENTALES ★",
+    "cine_terror": "★ TERROR ★"
+}
+
+# 🔍 Función para detectar contenido religioso
+def contiene_exclusion(texto):
+    texto = texto.lower()
+    return any(palabra in texto for palabra in exclusiones)
+
+# 🧠 Clasificación dinámica si no coincide con categorías predefinidas
+def clasificar_categoria_dinamica(nombre_canal):
+    nombre = nombre_canal.lower()
+    for categoria, claves in CLAVES_CATEGORIA.items():
+        if any(clave in nombre for clave in claves):
+            return categoria
+    palabras = nombre.split()
+    for palabra in palabras:
+        if len(palabra) > 4 and palabra.isalpha():
+            return f"auto_{palabra}"
+    return "auto_misc"

@@ -1,5 +1,5 @@
 #EXTM3U
-# Lista plana generada por Beluga - 2025-10-13 17:31
+# Lista plana generada por Beluga - 2025-10-13 18:24
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES 24 7 GLOBAL ★",Arkadag TV (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch000.m3u8
@@ -472,23 +472,197 @@ https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ADULTOS GLOBAL 1 ★",Anime Zone TV | AR
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ACCION 1 ★",TNT SPORTS
-http://201.217.246.177:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ARGENTINA GENERAL 1 ★",Film & Arts (Portugal/Brasil) (🇵🇹🇧🇷)
+https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ACCION 1 ★",TNT SPORTS
-http://190.123.90.146:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ARGENTINA GENERAL 1 ★",Coleccion Harry Potter ✅
+https://dl.dropbox.com/s/s015fswwaoast67/COLEHARRYPOTT3R.M3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ACCION 1 ★",TNT SPORTS
-http://143.0.67.77:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ CINE ACCION 1 ★",Movies Thriller (1080p) ✅
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ACCION 1 ★",TNT SPORTS
-http://186.148.196.82:8001/play/a00p
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ CINE TERROR 1 ★",FilmRise Horror (Canada) (🇨🇦)
+https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ACCION 1 ★",TNT SPORTS
-http://190.104.67.112:234/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ CINE TERROR 1 ★",FilmRise Horror (Canada) (🇨🇦)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror-Canada.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ACCION 1 ★",TNT SPORTS
-http://190.104.67.111:234/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ CINE TERROR 1 ★",FilmRise Horror (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ENVIVO 1 ★",DEPORTES
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/D3P0RT3S.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",group-title="--> Kuerba V2 <--",ESTRENOS
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/K_3STR3N0S.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",TELEVISION
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/Pce3t3v3.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",SERIES
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.M3NU/S3R13S_M3NU.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",SAGAS
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/C0L3CC10N3S.M3Nu.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",PELICULAS
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/S3rv3r.P3l1s.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Dexter Resurreccion (2025)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/D3XT3R.R3SURR3CC10N.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Merlina (2022)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/M3RL1N4.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Dragon Ball GT (1996)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M3/DR4G0N.B4LL.GT.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Dragon Ball (1986)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M3/DR4G0N.B4LL.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",La casa del dragon (2022)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/L4.C4s4.D3l.Dr4g0n.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Belleza verdadera (2020)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/B3ll3z4.V3rd4d3r4.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Peacemaker (2022)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/P34C3.M4K3R.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",El gran guerrero (2025)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/El.Gr4n.Gu3rr3r0.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Twisted Metal (2023)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/TW1ST3D.M3T4L.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Division Palermo (2023)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/D1V1S10N.P4L3RM0.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",PACK FUTBOL ARG
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/P4cK.FUtB0L.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",CINE & SERIES
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/C1N3_Y_S3R13S.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Mision Imposible
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C0L3CC10N3S.V4R10S/M1S10N.IMP0S1BL3.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Exterminio
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C0L3CC10N3S.V4R10S/ExT3rm1n10.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Los 4 Fantasticos
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C0L3CC10N3S.M4RV3L/4.F4nt4st1c0S.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Jurassic Park
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C0L3CC10N3S.V4R10S/JUR4SS1C.P4RK.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Coleccion Destino Final ✅
+https://dl.dropbox.com/s/ow0yowq2f6hfi39/COLEDESTINO.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Coleccion Pesadilla en Elm Street ✅
+https://dl.dropbox.com/s/ip05rhs5rb34sax/COLEPESADILLAENELM.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Coleccion Resident evil ✅
+https://dl.dropbox.com/s/92t06xo981701v3/COLERESIDENT3VIL.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Coleccion Saw ✅
+https://dl.dropbox.com/s/racjg6rhpbwcfos/COLESAW.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Coleccion Semana Santa ✅
+https://dl.dropbox.com/s/nqbaawh0e0ahi33/COLESEMANASANTA.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ESPAÑA GENERAL 1 ★",Coleccion Un detective suelto en Hollywood ✅
+https://dl.dropbox.com/s/tp3pqy7uazah11v/COLEDETECTIVESUELTO.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",24 Hour Free Movies (USA) (🇺🇸)
+https://tinyurl.com/4azsc6z4?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Action Hollywood Movies (Nueva Zelanda) (🇳🇿)
+https://tinyurl.com/rw75jur3?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",British Films Rakuten (UK) (🇬🇧)
+https://tinyurl.com/4n2rua7u?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Cowboy Movie Channel (USA) (🇺🇸)
+https://tinyurl.com/y942vm3e?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Douyu Movies (China) (🇨🇳)
+https://tinyurl.com/2xccsvzz?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Dr. G Medical Examiner (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/ac-dr-g-filmrise.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Film & Arts (Chile) (🇨🇱)
+http://181.78.105.146:8800/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Film & Arts (Colombia) (🇨🇴)
+http://38.180.133.31:8000/play/a0nx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Film & Arts (España) (🇪🇸)
+http://181.78.105.146:6060/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Film & Arts (Mexico) (🇲🇽)
+http://190.83.2.172:8080/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Film Al Femminile (Italia) (🇮🇹)
+https://tinyurl.com/yc554uwp?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Film Cafe (Polonia) (🇵🇱)
+http://175.107.244.52:4457/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Film E Sorrisi (Italia) (🇮🇹)
+https://tinyurl.com/jzcwbemr?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Film Gold (Alemania) (🇩🇪)
+https://tinyurl.com/y8ywcf4x?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",FilmRise (USA) (🇺🇸)
+https://tinyurl.com/zs7eujat?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",FilmRise Action (Canada) (🇨🇦)
+https://d3fmqi91qduj7.cloudfront.net/11401/88814502/hls/master.m3u8?ads.xumo_channelId=88814502
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",FilmRise Classic (UK) (🇬🇧)
+https://tinyurl.com/57ca82u4?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",FilmRise Classic (USA) (🇺🇸)
+https://d3fmqi91qduj7.cloudfront.net/11401/88814514/hls/master.m3u8?ads.xumo_channelId=88814514
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",FilmRise Free Movies (Canada) (🇨🇦)
+https://d3fmqi91qduj7.cloudfront.net/11401/88814500/hls/master.m3u8?ads.xumo_channelId=88814500
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",FilmRise Sci-Fi (USA) (🇺🇸)
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?ads.xumo_channelId=88885513
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Filmzon (Armenia) (🇦🇲)
+http://ott-cdn.ucom.am/s48/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",True Crime FilmRise (Canada) (🇨🇦)
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime-canada.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",True Crime FilmRise (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",True Crime FilmRise (USA) (🇺🇸)
+https://d3fmqi91qduj7.cloudfront.net/11401/88814506/hls/master.m3u8?ads.xumo_channelId=88814506
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",126_Filmbox ✅
+http://87.120.179.187:8000/play/a021
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",Movies Action (1080p) ✅
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS 1 ★",SONY MOVIEHD ✅
+http://181.119.85.222:8000/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ACCION 1 ★",HBO PREMIUM
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/HB0_PR3M1Um.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ACCION 1 ★",SONY MOVIES ✅
+http://181.119.86.68:8000/play/b040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ACCION 1 ★",SONY MOVIES - Opción 2 ✅
+http://181.119.86.68:8000/play/b040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ACCION GLOBAL 1 ★",Khushboo Bangla (720p)
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -609,6 +783,12 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ARGENTINA GENERAL 1 ★",Zylo Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS DRAMA 1 ★",Film&Arts ✅
+http://179.51.136.19:8000/play/a1go/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS DRAMA 1 ★",Film&Arts - Opción 2 ✅
+http://179.51.136.19:8000/play/a1go/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ESPAÑA GENERAL 1 ★",KTV (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/ktvhd/master.m3u8
@@ -1425,6 +1605,9 @@ http://125.210.152.18:9090/live/FXZL_750.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",江苏影视 (576p)
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO 1 ★",Coleccion Terminator ✅
+https://dl.dropbox.com/s/g694rv3um7bsfe5/COLETERMINATOR.M3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES 24 7 1 ★",TeleDanlí Canal 9 (720p) [Not 24/7]
 https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
@@ -3010,39 +3193,6 @@ http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",★ SERIES ★
 https://kuerba.com
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",13 Teleseries (Chile) (🇨🇱)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",Series (España) (🇪🇸)
-https://is.gd/BRVOiZ?.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",Series (España) (🇪🇸)
-https://is.gd/ZSBZPX?.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",Series Con Ñ (España) (🇪🇸)
-https://is.gd/d5rzud?.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",Series Retro (España) (🇪🇸)
-https://is.gd/IyWDEJ?.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",A3SERIES ✅
-http://181.119.85.222:8000/play/a02g/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",A3SERIES - Opción 2 ✅
-http://181.119.85.222:8000/play/a02g/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",ATRES SERIES ✅
-http://179.51.136.19:8000/play/a1bw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",ATRES SERIES - Opción 2 ✅
-http://179.51.136.19:8000/play/a1bw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",USA SERIES ✅
-http://181.119.86.68:8000/play/b041/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA 1 ★",USA SERIES - Opción 2 ✅
-http://181.119.86.68:8000/play/b041/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA ARGENTINA GENERAL 1 ★",Nosey
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8
 
@@ -3522,4 +3672,103 @@ https://tv.ddns.vn/tv/axnhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES DRAMA GLOBAL 1 ★",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",★ ESTRENOS ★
+https://kuerba.com
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Los 4 Fantasticos Primeros pasos (2025) WEBDL
+https://1a-1791.com/video/fww1/81/s8/2/I/2/w/f/I2wfz.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",La hora de la desaparicion (2025) HDTS
+https://1a-1791.com/video/fww1/49/s8/2/S/d/J/a/SdJaz.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Los tipos malos 2 (2025)
+https://1a-1791.com/video/fww1/22/s8/2/I/a/M/a/IaMaz.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Mision Imposible La sentencia final (2025)
+https://1a-1791.com/video/fww1/50/s8/2/S/A/g/a/SAgaz.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",★ RECIENTES ★
+https://kuerba.com
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Del cielo al infierno (2025)
+https://1a-1791.com/video/fww1/62/s8/2/C/M/t/f/CMtfz.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Los Condenados (2025)
+https://1a-1791.com/video/fww1/ca/s8/2/A/i/a/f/Aiafz.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Los 4 Fantasticos Primeros pasos (2025) WEBDL
+https://1a-1791.com/video/fww1/81/s8/2/I/2/w/f/I2wfz.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Y donde esta el policia (2025)
+https://1a-1791.com/video/fww1/35/s8/2/U/b/Z/e/UbZez.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Riesgo bajo cero venganza (2025)
+https://1a-1791.com/video/fww1/1f/s8/2/o/G/X/e/oGXez.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Nadie 2 (2025)
+https://1a-1791.com/video/fww1/97/s8/2/2/U/Y/e/2UYez.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",En la linea de fuego (2025)
+https://1a-1791.com/video/fww1/13/s8/2/2/T/Y/e/2TYez.aaa.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",★ REPARADOS ★
+https://kuerba.com
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",★ TELEVISION ★
+https://kuerba.com
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",★ SAGAS ★
+https://kuerba.com
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",De Pelicula (España) (🇪🇸)
+http://181.78.105.146:2000/play/a090/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",De Pelicula (Mexico) (🇲🇽)
+http://190.121.42.18:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",DE PELICULA ✅
+http://181.119.85.222:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",DE PELICULA - Opción 2 ✅
+http://181.119.86.68:8000/play/b035/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",DPELICULA ✅
+http://181.119.86.68:8000/play/b035/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",DPELICULA - Opción 2 ✅
+http://181.119.85.222:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion 007 ✅
+https://dl.dropbox.com/s/bsk3yxqgazg79s0/COLE007.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion Blade ✅
+https://dl.dropbox.com/s/hh9ur2duwizthxv/COLEBLAD3.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion Crepusculo ✅
+https://dl.dropbox.com/s/ew830ge1x0ixkre/COLECREPU.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion Depredador ✅
+https://dl.dropbox.com/s/uo7u3hyqcw30w9a/COLEDEPREDADOR.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion Fragmentado ✅
+https://dl.dropbox.com/s/h0xay3zjszdo6ua/COLEFR4GMENT4DO.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion Hombres de Negro ✅
+https://dl.dropbox.com/s/57o6kcnj0f2x89f/COLEHOMBR3SDENEGRO.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion Jurasic Park ✅
+https://dl.dropbox.com/s/v1um7szqrq85f8q/COLEJURASSIC.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion Los Focker ✅
+https://dl.dropbox.com/s/1aagcamf6w3b35n/COLETHEFOCKERS.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion Matrix ✅
+https://dl.dropbox.com/s/nhorkl75vfi9q24/COLEMATRIX.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion Maze runner ✅
+https://dl.dropbox.com/s/1ztanzi5mufm7e0/COLEMAZE.M3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SIN CLASIFICAR 1 ★",Coleccion Rec ✅
+https://dl.dropbox.com/s/seqvp2qasjt8ai0/COLEREC.M3U
 
