@@ -1,5 +1,3 @@
-# paso 1
-
 import os
 import hashlib
 import subprocess
@@ -43,10 +41,6 @@ TITULOS_VISUALES = {
     "documental_cultural": "★ DOCUMENTALES ★",
     "cine_terror": "★ TERROR ★"
 }
-
-
-# paso 2
-
 def ejecutar_segmentador():
     print("🔁 Ejecutando segmentador.py...")
     subprocess.run(["python", "segmentador.py"], check=False)
@@ -72,26 +66,13 @@ def verificar_y_eliminar():
         except:
             os.remove(ruta)
             print(f"❌ Eliminada por error de lectura: {archivo}")
-
-# paso 3
-
 def generar_listas_finales():
-    # 🔁 Paso 1: segmenta compilados/
-    ejecutar_segmentador()
+    ejecutar_segmentador()             # 🔁 Paso 1: segmenta compilados/
+    verificar_y_eliminar()             # 🧹 Paso 2: elimina listas vacías o inválidas
+    auditar_segmentados()              # 🔍 Paso 3: diagnóstico visual
+    reclasificar()                     # 🧠 Paso 4: reclasifica listas sin_clasificar_X.m3u
+    verificar_y_eliminar()             # 🧹 Paso 5: limpieza post-reclasificación
 
-    # 🧹 Paso 2: elimina listas vacías o inválidas
-    verificar_y_eliminar()
-
-    # 🔍 Paso 3: diagnóstico visual
-    auditar_segmentados()
-
-    # 🧠 Paso 4: reclasifica listas sin_clasificar_X.m3u
-    reclasificar()
-
-    # 🧹 Paso 5: vuelve a eliminar listas vacías post-reclasificación
-    verificar_y_eliminar()
-
-    # 📦 Paso 6: compila listas válidas y únicas
     archivos = sorted([
         f for f in os.listdir(CARPETA_SEGMENTADOS)
         if f.endswith(".m3u")
@@ -178,10 +159,16 @@ def generar_listas_finales():
             logo = LOGOS_CATEGORIA.get(base, LOGO_DEFAULT)
 
             for bloque in bloques:
-                salida.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{titulo}",{titulo}\n')
-                salida.write("\n".join(bloque).strip() + "\n\n")
+                url_line = next((ln.strip() for ln in bloque if ln.strip().startswith(("http", "rtmp", "rtsp", "udp"))), None)
+                if not url_line:
+                    continue
 
-    # ✅ Paso 9: diagnóstico final de compatibilidad
+                nombre_canal = next((ln.split(",", 1)[1].strip() for ln in bloque if ln.strip().startswith("#EXTINF")), titulo)
+
+                salida.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{titulo}",{nombre_canal}\n')
+                salida.write(f"{url_line}\n\n")
+
+        # ✅ Paso 9: diagnóstico final de compatibilidad
     verificar_archivos_movian()
 
     # 📊 Reporte final
@@ -191,7 +178,6 @@ def generar_listas_finales():
     for cat, count in totales_por_categoria.most_common():
         print(f"  - {cat}: {count} lista(s)")
 
-# paso 4
-
 if __name__ == "__main__":
     generar_listas_finales()
+

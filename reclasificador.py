@@ -1,6 +1,6 @@
 # reclasificador.py
+
 import os
-import shutil
 from datetime import datetime
 from clasificador import (
     extraer_bloques_m3u,
@@ -13,25 +13,41 @@ from clasificador import (
 from clasificador_experiencia import clasificar_por_experiencia
 from config import CARPETA_SEGMENTADOS, LIMITE_BLOQUES
 
-# Usamos segmentados como origen
+# 📁 Carpeta de origen para reclasificación
 CARPETA_ORIGEN = CARPETA_SEGMENTADOS
 
+# 🧠 Diccionario de categorías conocidas (puede extenderse desde TITULOS_VISUALES si se importa)
+CATEGORIAS_CONOCIDAS = {
+    "series", "peliculas", "sagas", "iptv", "estrenos",
+    "infantil_educativo", "musica_latina", "documental_cultural", "cine_terror"
+}
+
+# 🧾 Guarda bloques en archivo segmentado por categoría
 def guardar_segmentado(categoria, bloques, contador):
     os.makedirs(CARPETA_SEGMENTADOS, exist_ok=True)
     nombre = f"{categoria}_{contador}.m3u"
     ruta = os.path.join(CARPETA_SEGMENTADOS, nombre)
 
-    with open(ruta, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-        f.write(f"# Segmentado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
-        for bloque in bloques:
-            f.write("\n".join(bloque).strip() + "\n\n")
+    try:
+        with open(ruta, "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
+            f.write(f"# Segmentado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
+            for bloque in bloques:
+                f.write("\n".join(bloque).strip() + "\n\n")
+    except Exception as e:
+        print(f"❌ Error al guardar {nombre}: {e}")
 
+# 🔁 Reclasifica listas genéricas y ambiguas
 def reclasificar():
     archivos = [
         f for f in os.listdir(CARPETA_ORIGEN)
-        if f.startswith("sin_clasificar") and f.endswith(".m3u")
+        if f.endswith(".m3u") and (
+            f.startswith("sin_clasificar") or
+            f.startswith("sin_categoria") or
+            f.split("_")[0].lower() not in CATEGORIAS_CONOCIDAS
+        )
     ]
+
     contadores = {}
     buffers = {}
 
@@ -41,9 +57,13 @@ def reclasificar():
         ruta = os.path.join(CARPETA_ORIGEN, archivo)
         print(f"🔍 Procesando: {archivo}")
 
-        with open(ruta, "r", encoding="utf-8") as f:
-            lineas = f.readlines()
+        try:
+            with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
+                lineas = f.readlines()
             bloques = extraer_bloques_m3u(lineas)
+        except Exception as e:
+            print(f"❌ Error al leer {archivo}: {e}")
+            continue
 
         for bloque in bloques:
             nombre = extraer_nombre_canal(bloque)
@@ -69,7 +89,7 @@ def reclasificar():
                 contadores[categoria] += 1
                 buffers[categoria] = []
 
-    # Guardar lo que queda en buffer
+    # 🧾 Guarda lo que queda en buffer
     for categoria, bloques_restantes in buffers.items():
         if bloques_restantes:
             guardar_segmentado(categoria, bloques_restantes, contadores[categoria])
@@ -78,10 +98,14 @@ def reclasificar():
     # 🧹 Limpieza: borrar archivos originales
     print(f"\n🧹 Eliminando archivos antiguos de {CARPETA_ORIGEN}/...")
     for archivo in archivos:
-        os.remove(os.path.join(CARPETA_ORIGEN, archivo))
+        try:
+            os.remove(os.path.join(CARPETA_ORIGEN, archivo))
+        except Exception as e:
+            print(f"❌ Error al eliminar {archivo}: {e}")
     print("✅ Limpieza completada.")
 
     print(f"\n✅ Reclasificación finalizada. Nuevas listas en {CARPETA_SEGMENTADOS}/")
 
+# 🚀 Punto de entrada
 if __name__ == "__main__":
     reclasificar()
