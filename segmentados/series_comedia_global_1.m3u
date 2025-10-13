@@ -1,11 +1,5 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-10-13 14:05
-
-#EXTINF:0,Citra Drama (Indonesia) (🇮🇩)
-https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
-
-#EXTINF:0,TFX (Francia) (🇫🇷)
-https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/11.ts
+# Segmentado por Beluga - 2025-10-13 14:54
 
 #EXTINF:-1 tvg-id="39" tvg-name="FX" tvg-logo="https://i.imgur.com/fx-logo.png" group-title="Películas",FX
 http://181.119.85.222:8000/play/a00s/index.m3u8

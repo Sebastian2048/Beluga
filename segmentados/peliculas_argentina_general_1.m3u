@@ -1,5 +1,5 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-10-13 14:05
+# Segmentado por Beluga - 2025-10-13 14:54
 
 #EXTINF:0,Bizzarro Movies (Italia) (🇮🇹)
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
@@ -61,15 +61,6 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dog Whisperer with Cesar Millan [Geo-blocked]
 https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Undefined",Golden Edge Panregional (576p)
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Undefined",Golden Multiplex (576p)
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Undefined",Golden Plus (576p)
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Movies",Golden Premier (576p)
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
@@ -84,9 +75,6 @@ https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlis
 
 #EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East" tvg-logo="https://i.imgur.com/GPRGA9C.png" group-title="Movies",Hallmark Movies Mysteries East
 https://fl7.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-
-#EXTINF:-1 tvg-id="ParamountChannel.fr@SD" tvg-logo="https://i.imgur.com/BqmDlC2.png" group-title="Movies;Series",Paramount Channel (1080p)
-https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCineAccion.us@US" tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="Movies",Pluto TV Cine Accion
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=

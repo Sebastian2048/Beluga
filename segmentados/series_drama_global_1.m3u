@@ -1,8 +1,5 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-10-13 14:05
-
-#EXTINF:0,AXN (Indonesia) (🇮🇩)
-https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/index.m3u8
+# Segmentado por Beluga - 2025-10-13 14:54
 
 #EXTINF:-1 tvg-id="49" tvg-name="Universal TV" tvg-logo="https://i.imgur.com/universal-tv-logo.png" group-title="Series",Universal TV
 http://181.119.85.222:8000/play/a00x/index.m3u8

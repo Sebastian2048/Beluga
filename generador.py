@@ -30,6 +30,7 @@ LOGOS_CATEGORIA = {
     "infantil_educativo": LOGO_DEFAULT,
     "musica_latina": LOGO_DEFAULT,
     "documental_cultural": LOGO_DEFAULT,
+    "deportes": LOGO_DEFAULT,
     "cine_terror": LOGO_DEFAULT
 }
 
@@ -42,6 +43,7 @@ TITULOS_VISUALES = {
     "estrenos": "★ ESTRENOS ★",
     "infantil_educativo": "★ INFANTIL EDUCATIVO ★",
     "musica_latina": "★ MÚSICA LATINA ★",
+    "deportes": "★ DEPORTES ★",
     "documental_cultural": "★ DOCUMENTALES ★",
     "cine_terror": "★ TERROR ★"
 }
@@ -96,7 +98,7 @@ def procesar_compilados():
             print(f"❌ Error al leer {archivo}: {e}")
             continue
 
-        if len(lineas) > 500:
+        if len(lineas) > 100:
             print(f"📤 Segmentando lista extensa: {archivo} ({len(lineas)} líneas)")
             subprocess.run(["python", "segmentador.py"], check=False)
         else:
