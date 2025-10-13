@@ -111,6 +111,37 @@ def procesar_compilados():
                 print(f"❌ Error al migrar {archivo}: {e}")
                 continue
         os.remove(ruta_origen)
+        
+def es_lista_valida(ruta):
+    try:
+        with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
+            lineas = f.readlines()
+
+        bloques = extraer_bloques_m3u(lineas)
+        if not bloques or len(bloques) < MINIMO_BLOQUES_VALIDOS:
+            return False
+
+        for bloque in bloques:
+            for linea in bloque:
+                if linea.startswith(("http", "rtmp", "udp")) and not contiene_exclusion(linea):
+                    return True
+        return False
+    except Exception:
+        return False
+    
+def extraer_nombre_canal(bloque):
+    for linea in bloque:
+        if linea.startswith("#EXTINF:"):
+            partes = linea.split(",", 1)
+            if len(partes) == 2:
+                return partes[1].strip()
+    return None
+
+def extraer_url_canal(bloque):
+    for linea in bloque:
+        if linea.startswith(("http", "rtmp", "udp")):
+            return linea.strip()
+    return None
 
 def generar_listas_finales():
     procesar_compilados()             # 🔁 Paso 1: procesa listas en compilados/
@@ -135,6 +166,13 @@ def generar_listas_finales():
 
     for archivo in archivos:
         ruta = os.path.join(CARPETA_SEGMENTADOS, archivo)
+
+        # ✅ Validación previa: descartar listas rotas o inválidas
+        if not es_lista_valida(ruta):
+            os.remove(ruta)
+            print(f"❌ Lista inválida o rota: {archivo}")
+            continue
+
         with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
             bloques = extraer_bloques_m3u(f.readlines())
 
@@ -178,24 +216,27 @@ def generar_listas_finales():
         print("⚠️ No quedaron listas válidas tras depuración.")
         return
 
-    # 🧠 Paso 7: extiende logos y títulos visuales
+    # 🧠 Paso 7: extiende logos y títulos visuales para cada categoría detectada
     for archivo in listas_finales:
         categoria_raw = archivo.replace(".m3u", "")
         base = categoria_raw.split("_")[0].lower()
+
         if base not in LOGOS_CATEGORIA:
             LOGOS_CATEGORIA[base] = LOGO_DEFAULT
+
         if base not in TITULOS_VISUALES:
             TITULOS_VISUALES[base] = f"★ {base.upper()} ★"
 
-    # 🧾 Paso 8: genera RP_S2048.m3u como menú visual con enlaces remotos
-    print("\n🧾 Generando menú visual RP_S2048.m3u con enlaces remotos...\n")
+    # 🧾 Paso 8: genera RP_S2048.m3u como lista plana categorizada
+    print("\n🧾 Generando lista plana categorizada RP_S2048.m3u...\n")
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
 
     with open(ARCHIVO_SALIDA, "w", encoding="utf-8") as salida:
         salida.write("#EXTM3U\n")
-        salida.write(f"# Menú generado por Beluga - {timestamp}\n\n")
+        salida.write(f"# Lista plana generada por Beluga - {timestamp}\n\n")
 
         for archivo in sorted(listas_finales):
+            ruta = os.path.join(CARPETA_SEGMENTADOS, archivo)
             categoria_raw = archivo.replace(".m3u", "")
             base = categoria_raw.split("_")[0].lower()
 
@@ -205,10 +246,16 @@ def generar_listas_finales():
 
             titulo = f"★ {categoria_raw.replace('_', ' ').upper()} ★"
             logo = LOGOS_CATEGORIA.get(base, LOGO_DEFAULT)
-            url = f"{URL_BASE_SEGMENTADOS}/{archivo}"
 
-            salida.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{titulo}",{titulo}\n')
-            salida.write(f"{url}\n\n")
+            with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
+                bloques = extraer_bloques_m3u(f.readlines())
+
+            for bloque in bloques:
+                nombre = extraer_nombre_canal(bloque) or "Canal sin nombre"
+                url = extraer_url_canal(bloque)
+                if url:
+                    salida.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{titulo}",{nombre}\n')
+                    salida.write(f"{url}\n\n")
 
     # ✅ Paso 9: diagnóstico final de compatibilidad
     verificar_archivos_movian()
@@ -223,4 +270,5 @@ def generar_listas_finales():
 # 🚀 Punto de entrada
 if __name__ == "__main__":
     generar_listas_finales()
+
 
