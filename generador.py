@@ -195,37 +195,32 @@ def generar_listas_finales():
         salida.write("#EXTM3U\n")
         salida.write(f"# Menú generado por Beluga - {timestamp}\n\n")
 
-        categorias_agregadas = set()
-
         for archivo in sorted(listas_finales):
             categoria_raw = archivo.replace(".m3u", "")
             base = categoria_raw.split("_")[0].lower()
+
             experiencia = clasificar_por_experiencia([f"#EXTINF:-1,{categoria_raw}"])
             if experiencia:
                 base = experiencia.lower()
 
-            if base in categorias_agregadas:
-                continue
-
-            titulo = TITULOS_VISUALES.get(base, base.upper())
+            titulo = TITULOS_VISUALES.get(base, f"★ {categoria_raw.upper()} ★")
             logo = LOGOS_CATEGORIA.get(base, LOGO_DEFAULT)
             url = f"{URL_BASE_SEGMENTADOS}/{archivo}"
 
             salida.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{titulo}",{titulo}\n')
             salida.write(f"{url}\n\n")
 
-            categorias_agregadas.add(base)
-
     # ✅ Paso 9: diagnóstico final de compatibilidad
     verificar_archivos_movian()
 
     # 📊 Reporte final
-    print(f"\n✅ RP_S2048.m3u generado como menú con {len(categorias_agregadas)} categorías.")
+    print(f"\n✅ RP_S2048.m3u generado con {len(listas_finales)} listas.")
     print(f"📁 Ubicación: {ARCHIVO_SALIDA}")
     print("\n📊 Totales por categoría:")
     for cat, count in totales_por_categoria.most_common():
         print(f"  - {cat}: {count} lista(s)")
 
+# 🚀 Punto de entrada
 if __name__ == "__main__":
     generar_listas_finales()
 
