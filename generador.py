@@ -203,7 +203,7 @@ def generar_listas_finales():
             if experiencia:
                 base = experiencia.lower()
 
-            titulo = TITULOS_VISUALES.get(base, f"★ {categoria_raw.upper()} ★")
+            titulo = f"★ {categoria_raw.replace('_', ' ').upper()} ★"
             logo = LOGOS_CATEGORIA.get(base, LOGO_DEFAULT)
             url = f"{URL_BASE_SEGMENTADOS}/{archivo}"
 
