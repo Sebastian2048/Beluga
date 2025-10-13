@@ -61,9 +61,17 @@ def verificar_y_eliminar():
     archivos = [f for f in os.listdir(CARPETA_SEGMENTADOS) if f.endswith(".m3u")]
     for archivo in archivos:
         ruta = os.path.join(CARPETA_SEGMENTADOS, archivo)
+
         try:
             with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
                 lineas = f.readlines()
+
+            # ✅ No eliminar si fue migrada directamente desde compilados
+            encabezado = next((l for l in lineas if "Migrado por Beluga" in l), None)
+            if encabezado:
+                print(f"✅ Conservada por migración directa: {archivo}")
+                continue
+
             bloques = extraer_bloques_m3u(lineas)
             if not bloques or len(bloques) < MINIMO_BLOQUES_VALIDOS:
                 os.remove(ruta)
@@ -107,8 +115,8 @@ def procesar_compilados():
 def generar_listas_finales():
     procesar_compilados()             # 🔁 Paso 1: procesa listas en compilados/
     verificar_y_eliminar()            # 🧹 Paso 2: elimina listas vacías o inválidas
-    auditar_segmentados()             # 🔍 Paso 3: diagnóstico visual
     reclasificar()                    # 🧠 Paso 4: reclasifica listas ambiguas
+    auditar_segmentados()             # 🔍 Paso 3: diagnóstico visual
     verificar_y_eliminar()            # 🧹 Paso 5: limpieza post-reclasificación
 
     archivos = sorted([
@@ -145,8 +153,9 @@ def generar_listas_finales():
 
         with open(ruta, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
+            f.write(f"# Segmentado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
             for b in bloques_unicos:
-                f.write("\n".join(b) + "\n")
+                f.write("\n".join(b).strip() + "\n\n")
 
         listas_finales.append(archivo)
         categoria = archivo.replace(".m3u", "")
@@ -158,8 +167,9 @@ def generar_listas_finales():
             ruta = os.path.join(CARPETA_SEGMENTADOS, nombre)
             with open(ruta, "w", encoding="utf-8") as f:
                 f.write("#EXTM3U\n")
+                f.write(f"# Fusionada por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
                 for b in bloques:
-                    f.write("\n".join(b) + "\n")
+                    f.write("\n".join(b).strip() + "\n\n")
             listas_finales.append(nombre)
             totales_por_categoria[categoria] += 1
             print(f"🔗 Fusionada: {nombre} ({len(bloques)} bloques)")
@@ -177,40 +187,40 @@ def generar_listas_finales():
         if base not in TITULOS_VISUALES:
             TITULOS_VISUALES[base] = f"★ {base.upper()} ★"
 
-    # 🧾 Paso 8: genera RP_S2048.m3u como lista plana
+    # 🧾 Paso 8: genera RP_S2048.m3u como menú visual con enlaces remotos
+    print("\n🧾 Generando menú visual RP_S2048.m3u con enlaces remotos...\n")
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
+
     with open(ARCHIVO_SALIDA, "w", encoding="utf-8") as salida:
         salida.write("#EXTM3U\n")
-        salida.write(f"# Generado por Beluga - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
+        salida.write(f"# Menú generado por Beluga - {timestamp}\n\n")
+
+        categorias_agregadas = set()
 
         for archivo in sorted(listas_finales):
-            ruta = os.path.join(CARPETA_SEGMENTADOS, archivo)
-            with open(ruta, "r", encoding="utf-8", errors="ignore") as f:
-                bloques = extraer_bloques_m3u(f.readlines())
-
             categoria_raw = archivo.replace(".m3u", "")
             base = categoria_raw.split("_")[0].lower()
             experiencia = clasificar_por_experiencia([f"#EXTINF:-1,{categoria_raw}"])
             if experiencia:
                 base = experiencia.lower()
 
-            titulo = TITULOS_VISUALES.get(base, categoria_raw.upper())
+            if base in categorias_agregadas:
+                continue
+
+            titulo = TITULOS_VISUALES.get(base, base.upper())
             logo = LOGOS_CATEGORIA.get(base, LOGO_DEFAULT)
+            url = f"{URL_BASE_SEGMENTADOS}/{archivo}"
 
-            for bloque in bloques:
-                url_line = next((ln.strip() for ln in bloque if ln.strip().startswith(("http", "rtmp", "rtsp", "udp"))), None)
-                if not url_line:
-                    continue
+            salida.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{titulo}",{titulo}\n')
+            salida.write(f"{url}\n\n")
 
-                nombre_canal = next((ln.split(",", 1)[1].strip() for ln in bloque if ln.strip().startswith("#EXTINF")), titulo)
+            categorias_agregadas.add(base)
 
-                salida.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{titulo}",{nombre_canal}\n')
-                salida.write(f"{url_line}\n\n")
-
-        # ✅ Paso 9: diagnóstico final de compatibilidad
+    # ✅ Paso 9: diagnóstico final de compatibilidad
     verificar_archivos_movian()
 
     # 📊 Reporte final
-    print(f"\n✅ RP_S2048.m3u generado con {len(listas_finales)} listas.")
+    print(f"\n✅ RP_S2048.m3u generado como menú con {len(categorias_agregadas)} categorías.")
     print(f"📁 Ubicación: {ARCHIVO_SALIDA}")
     print("\n📊 Totales por categoría:")
     for cat, count in totales_por_categoria.most_common():
