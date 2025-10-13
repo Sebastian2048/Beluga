@@ -283,8 +283,6 @@ http://181.119.85.222:8000/play/a02b/index.m3u8
 http://181.119.86.68:8000/play/b040/index.m3u8
 #EXTINF:-1,SONY MOVIES - Opción 2 ✅
 http://181.119.86.68:8000/play/b040/index.m3u8
-#EXTINF:0,TNT Series (España) (🇪🇸)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TNTSERIESHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 group-title="Orden-054",054. TNT Series ✅ ✅
 http://179.51.136.19:8000/play/a1a3/index.m3u8
 #EXTINF:-1,TNT Series ✅
@@ -293,8 +291,6 @@ http://179.51.136.19:8000/play/a1a3/index.m3u8
 http://179.51.136.19:8000/play/a1al/index.m3u8
 #EXTINF:0,+Cine Classic (Chile) (🇨🇱)
 https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
-#EXTINF:0,AMC (Mexico) (🇲🇽)
-https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0,Aurora Media Films (Guatemala) (🇬🇹)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:0,Bref Cinema (Francia) (🇫🇷)
@@ -571,8 +567,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1,RUNTIME CINE Y SERIES ✅
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:-1,Space & Science Now ✅
-https://amg00376-magellan-amg00376c14-rakuten-uk-1694.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowcauk-rakutenuk/playlist.m3u8
 #EXTINF:-1,SpaceD ✅
 http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278515/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
 #EXTINF:-1,Tejano To ThBonlive ✅
@@ -761,8 +755,6 @@ https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 #EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-logo="https://i.imgur.com/isRfHYZ.png" group-title="Business",Entrepreneur TV [Geo-blocked]
 https://amg01201-amg01201c31-cineverse-us-2915.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-entrepreneurtv-cineverseus/playlist.m3u8
-#EXTINF:-1 tvg-id="EspaceTV.gn" tvg-logo="https://i.imgur.com/R5tbzFI.png" group-title="News",Espace TV (1080p)
-https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
 #EXTINF:-1 tvg-id="ETVCinema.in@HD" tvg-logo="https://i.imgur.com/iMxePjI.png" group-title="Movies",ETV Cinema HD (1080p)
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="FilamchiBhojpuri.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg" group-title="Movies",Filamchi Bhojpuri (1080p)
@@ -841,14 +833,6 @@ https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
 https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-logo="https://i.imgur.com/xfVHrKQ.png" group-title="Animation;Kids",Golden Eagle Cartoon
 http://1.24.190.98:10080/hls/51/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Undefined",Golden Edge Panregional (576p)
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Undefined",Golden Multiplex (576p)
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Undefined",Golden Plus (576p)
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Movies",Golden Premier (576p)
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV (240p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
 #EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Religious",Gospel Movie TV (360p)

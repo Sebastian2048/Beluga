@@ -13,8 +13,12 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 https://app.viloud.tv/hls/channel/07c8b76fa3a98409d527cede85852d55.m3u8
 #EXTINF:-1,Black Hot FirNetwork live ✅
 http://fortv.cc:8080/90820916/64752029/125350
-#EXTINF:-1 tvg-id="Famatv.pt" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" group-title="Music",Famatv (1080p) [Not 24/7]
-https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 tvg-id="BulshoTV.so" tvg-logo="https://i.imgur.com/7qo4rb7.png" group-title="Undefined",Bulsho TV
+https://cdn.mediavisionuk.com:9000/bulshotv/index.m3u8
+#EXTINF:-1 tvg-id="Canal47TV.mx" tvg-logo="https://i.ibb.co/P6CBtbs/Screenshot-20231201-163704.jpg" group-title="General",Canal 47 TV Puerto Escondido (480p)
+https://stream.oursnetworktv.com/latin/encoder28/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalOchoTV.mx" tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="General",Canal Ocho TV (1080p)
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hot Bench
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7b2a6dda-f21b-4de6-9d06-1457daf9aa31
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hot Ones
@@ -31,8 +35,6 @@ https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist.m
 https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
 #EXTINF:-1 tvg-id="LapachoTVCanal11.ar" tvg-logo="https://i.imgur.com/PmFBL7x.png" group-title="General",Lapacho TV Canal 11 (720p)
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
-#EXTINF:-1 tvg-id="UrejeshoTVAfrica.ke" tvg-logo="https://i.imgur.com/u7xDXEt.jpg" group-title="Religious",Urejesho TV Africa (360p) [Not 24/7]
-https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
 #EXTINF:-1 tvg-id="VeracruzMultimediosTV.mx" tvg-logo="https://i.ibb.co/8sDvnT2/Screenshot-20231201-165527.jpg" group-title="Entertainment",Veracruz Multimedios TV (720p)
 https://stream.oursnetworktv.com/latin/VeracruZMulTimedios/playlist.m3u8
 #EXTINF:-1 tvg-id="WeHoTV.us" tvg-logo="https://i.imgur.com/p3L2vSL.png" group-title="Undefined",West Hollywood WeHoTV (West Hollywood CA) (360p)

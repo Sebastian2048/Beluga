@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0DEST.SERIES.png",★ SERIES ★
+https://kuerba.com
 #EXTINF:0,AXN (Colombia/USA) (🇨🇴🇺🇸)
 http://190.83.2.172:8081/play/a06t/index.m3u8
 #EXTINF:0,AXN (España/UK) (🇪🇸🇬🇧)
@@ -311,8 +313,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f90e39183b000769f12b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=385f93fc-8e79-4ac3-9478-5758ce4a3181
 #EXTINF:-1 tvg-id="Frasier.us@Germany" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Series",Frasier
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebf042ffc6d0007c4e59a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad6800-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f552b359-8c8e-4816-8106-6f91f060d965
-#EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png" group-title="Undefined",FX (1080p) [Geo-blocked]
-https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="FX.us@East" tvg-logo="https://i.postimg.cc/263GFb0J/fx.png" group-title="Entertainment",FX East
 https://fl7.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FX Movie Channel (720p) [Not 24/7]
@@ -469,8 +469,6 @@ https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddc3485efec00085b0369/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3876-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=09f836b5-3c59-462d-95a2-726c229b62d4
 #EXTINF:-1 tvg-id="PersianaSeries.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png" group-title="Series",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PlutoTVComedyCentralLatino.us" tvg-logo="https://i.imgur.com/FiM7Rbz.png" group-title="Comedy",Pluto TV Comedy Central Latino (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVFantastic.us" tvg-logo="https://i.imgur.com/MCu7YTA.png" group-title="Series",Pluto TV Fantastic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2
 #EXTINF:-1 tvg-id="PlutoTVLives.us@Austria" tvg-logo="https://i.imgur.com/laupYwG.png" group-title="Series",Pluto TV Lives
@@ -541,8 +539,6 @@ https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbaladdrama/playl
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/633354b63df9700007f6a1b7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb091-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=54f06638-b224-4723-bc88-9b4986c6cd72
 #EXTINF:-1 tvg-id="SonyChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Undefined",Sony Channel
 https://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.gr" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="Entertainment",Star Channel (720p)
-http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel Latin America South (1080p)
 http://181.188.216.5:18000/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-id="StarTrek.us@SD" tvg-logo="https://i.imgur.com/8cvXYiT.png" group-title="Series",Star Trek

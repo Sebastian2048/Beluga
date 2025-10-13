@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Unentdeckt – Mörder unter uns
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adc3198020f000862eed4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b215b56-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c5e0fe7d-ae8a-431d-aa6b-6e2ec7ab5d73
-#EXTINF:-1 tvg-id="UnifeTV.pe" tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religious",Unife TV
-https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" http-referrer="https://tvu.umsa.bo/en-vivo",UniversidadMayordeSanAndres (1080p) [Not 24/7]
-https://live.enhdtv.com:8081/8190/index.m3u8
-#EXTINF:-1 tvg-id="UTV.cz" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="Undefined",ÚTV (1080p)
-https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",V.I.P. Die Bodyguards
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650adc0ba1217e00091a3f4e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afb1f6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c9a9f8b4-c92b-43f1-9731-033cc5efe425
-#EXTINF:-1 tvg-id="VasanthTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Vasanth_TV_logo.png" group-title="Undefined",Vasanth TV (240p)
-https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8
-#EXTINF:-1 tvg-id="VelayatTV.ir" tvg-logo="https://static.telewebion.com/channelsLogo/ae05de5b-9fe4-4012-900a-4d0763d6fafc/default" group-title="Undefined",Velayat TV
-https://ncdn.telewebion.com/velayat/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
-#EXTINF:-1 tvg-id="Vevo70s.us" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Vevo '70s
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
-#EXTINF:-1 tvg-id="Vevo80s.us" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo '80s
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
-#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",Vevo '90s
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
-#EXTINF:-1 tvg-id="VevoCountry.us" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Vevo Country
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe
-#EXTINF:-1 tvg-id="VevoRB.us" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music",Vevo R&B
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
-#EXTINF:-1 tvg-id="VevoReggaetonTrap.us" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="Music",Vevo Reggaeton & Trap
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce915-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c81eefb9-90f6-4a75-9397-7b98312cde71
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vevo Regional Mexicano
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce916-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a80400b9-d4b6-4bbf-812e-2c1959206e6b
-#EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",VIP TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:-1 tvg-id="VisionPlusTV.cl" tvg-logo="https://i.imgur.com/mpNcG5F.png" group-title="Undefined" http-referrer="https://visionplustv.cl/",Vision Plus TV (1080i)
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vogue Europe
@@ -77,16 +43,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 tvg-id="WXWZLD1.pr" tvg-logo="https://i.imgur.com/rjmGc9p.png" group-title="Undefined",WXWZ-LD1 (MásTV Canal 23) (720p)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-#EXTINF:-1 tvg-id="X1027FM.aw" tvg-logo="https://i.imgur.com/28b810Y.png" group-title="Music" http-referrer="https://player.castr.com/live_21e811c0d60d11eeaa1a471c2c967e4a",X 102.7 FM (720p) [Not 24/7]
-https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",X-Factor: Das Unfassbare
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d7e029189ce0008958af5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00011-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0a16fea-9491-49e8-8a50-ca6716fb7976
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="General",Xezer TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",XITE Classic Country
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3732-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9a2470b0-2c67-4210-9c3e-4f3cfd8315af
-#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="Undefined" http-referrer="https://www.sccbolivia.com/",XTOTV (1280p) [Not 24/7]
-http://190.104.15.135/0.ts
 #EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science" http-referrer="https://xtrematv.com/?p=1504",Xtrema Animal
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id="YleTeemaFem.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/512px-Yle_Teema_%26_Fem.svg.png" group-title="Undefined",YLE TV Teema & Fem (1080p) [Geo-blocked]
@@ -115,8 +77,6 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-logo="https://i.imgur.com/7orZOJA.png" group-title="Lifestyle",Открытый мир. Здоровье
 https://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenMedZdrav.ru" tvg-logo="https://i.imgur.com/BM4E0Kr.png" group-title="Lifestyle",Сити Эдем МедЗдрав [Not 24/7]
-https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-logo="https://i.imgur.com/1H3h1HL.png" group-title="Cooking",Телекафе
 http://31.148.48.15/Telekafe/index.m3u8
 #EXTINF:-1 tvg-id="Gribuvisuzinat.lv" tvg-logo="" group-title="General" http-referrer="https://void.greenhosting.ru/",Хочу всё знать (576p)
