@@ -1,0 +1,21 @@
+#EXTM3U
+# Segmentado por Beluga - 2025-10-13 15:22
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-06/Cr0ni1c4.png"group-title="",CRONICA
+http://201.217.246.177:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-06/Cr0ni1c4.png"group-title="",CRONICA
+https://val02.ride.com.ar/tvmia/an10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-06/a24.png"group-title="",A24
+http://201.217.246.177:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-06/c5n.png"group-title="",C5N
+http://201.217.246.177:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-06/c5n.png"group-title="",C5N
+https://val02.ride.com.ar/tvmia/an06/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-06/Tn.png"group-title="",TN
+http://201.217.246.177:8000/play/a058/index.m3u8
+

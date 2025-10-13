@@ -1,0 +1,120 @@
+#EXTM3U
+# Segmentado por Beluga - 2025-10-13 15:22
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-06/C26.png"group-title="",CANAL 26
+https://val04.ride.com.ar/tvmia/an15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC1MBkz/C4n4l79.png"group-title="",CANAL 79 MAR DEL PLATA
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/B4n3y.png",Barney
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29882-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=daaec956-b0c6-4701-a551-d3b7bab3a563&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/bob.esponja.png",BOB ESPONJA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/pistasdeblu.png",Las pistas de blue
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49450-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2dab1e46-b757-41f4-af9a-7a988974b383&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/rugrats.png",Rugrats
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/turtlesNick.png",Las Tortugas Ninja
+https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/nikcjrclub.png",Nick Jr. Club
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/nickteen.png",Nick Teen
+https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/nickclasico.png",Nickelodeon Clásico
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/nick.png",Nickelodeon Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/rocketpower.png",Nickelodeon Rocket Power
+https://stitcher.pluto.tv/stitch/hls/channel/6202ab549654c800076ee13f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/retro.cartoon.png",RETRO CARTOONS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/chiquititas.png",Chiquititas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06bb2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/icarly.png",Icarly
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/padrinos.magicos.png",Los Padrinos Mágicos
+https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/rincondeluz.png",Rincon de luz
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63f6294449839300085c4bd2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-03/supercampeones.png",SUPER CAMPEONES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/avatar.png",Avatar: La Leyenda de Aang
+https://stitcher.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/shark.png",Baby Shark TV
+https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/babyfirts.png",Babyfirst
+https://stitcher.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/B4n3y.png",Barney
+https://stitcher.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/bob.esponja.png",Bob Esponja Pantalones Cuadrados
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/daria.png",Daria
+https://stitcher.pluto.tv/stitch/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/dora.png",Dora La Exploradora
+https://stitcher.pluto.tv/stitch/hls/channel/656e28a2954b020008ed133a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/arnold.png",Hey Arnold
+https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/icarly.png",Icarly
+https://stitcher.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png",Kenan y Kel
+https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png",La Familia del Barrio
+https://stitcher.pluto.tv/stitch/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/pistasdeblu.png",Las Pistas de Blue
+https://stitcher.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/paq.patrol.png",PAW Patrol Patrulla de Cachorros
+https://stitcher.pluto.tv/stitch/hls/channel/6495c6ad115d060008bf6b52/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png",Pluto TV Junior
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png",Pluto TV Teen
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/rugrats.png",Rugrats
+https://stitcher.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/South.Park.png",South Park
+https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/South.Park.png",South Park: Colección Cartman
+https://stitcher.pluto.tv/stitch/hls/channel/65df731cec9fda0008b7aa8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/South.Park.png",South Park: Colección Kenny
+https://stitcher.pluto.tv/stitch/hls/channel/65df7272ec9fda0008b7a970/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/South.Park.png",South Park: Colección Kyle
+https://stitcher.pluto.tv/stitch/hls/channel/65df73520d4561000817c29b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-01/South.Park.png",South Park: Colección Stan
+https://stitcher.pluto.tv/stitch/hls/channel/65df72db18036500081a8292/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+

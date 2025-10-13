@@ -1,0 +1,21 @@
+#EXTM3U
+# Segmentado por Beluga - 2025-10-13 15:22
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/TntSp0rts.png",TNT SPORTS
+http://201.217.246.177:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/TntSp0rts.png",TNT SPORTS
+http://190.123.90.146:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/TntSp0rts.png",TNT SPORTS
+http://143.0.67.77:8000/play/a0bc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/TntSp0rts.png",TNT SPORTS
+http://186.148.196.82:8001/play/a00p
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/TntSp0rts.png",TNT SPORTS
+http://190.104.67.112:234/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/TntSp0rts.png",TNT SPORTS
+http://190.104.67.111:234/play/a06z/index.m3u8
+

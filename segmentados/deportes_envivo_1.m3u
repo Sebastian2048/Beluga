@@ -1,0 +1,30 @@
+#EXTM3U
+# Segmentado por Beluga - 2025-10-13 15:22
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/3spnPr3m1um.png",ESPN PREMIUM
+http://190.123.90.146:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/3spnPr3m1um.png",ESPN PREMIUM
+http://181.10.123.154:14000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/3spnPr3m1um.png",ESPN PREMIUM
+http://tv.masterplaytv.club:8080/yadiyram2/F58rM7NQlM/9549
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/3spnPr3m1um.png",ESPN PREMIUM
+http://143.0.67.77:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/3spnPr3m1um.png",ESPN PREMIUM
+http://201.217.246.177:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/3spnPr3m1um.png",ESPN PREMIUM
+http://186.148.196.82:8001/play/a04r
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/3spnPr3m1um.png",ESPN PREMIUM
+http://190.104.67.112:234/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/3spnPr3m1um.png",ESPN PREMIUM
+http://190.104.67.111:234/play/a086/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-02/3spnPr3m1um.png",ESPN PREMIUM
+http://user.tvcluboficial.com/live/m/m/952.m3u8
+

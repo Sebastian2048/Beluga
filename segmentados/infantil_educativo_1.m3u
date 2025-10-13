@@ -1,0 +1,30 @@
+#EXTM3U
+# Segmentado por Beluga - 2025-10-13 15:22
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-06/3ncu3ntr0.png"group-title="",CANAL ENCUENTRO
+http://201.217.246.177:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-06/3ncu3ntr0.png"group-title="",CANAL ENCUENTRO
+https://val02.ride.com.ar/tvmia/an13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MKc-06/CRur4l.png"group-title="",CANAL RURAL
+http://201.217.246.177:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png",El Reino Infantil
+https://stitcher.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png",Pluto TV Kids
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=669164d0-fe18-11ef-ac90-32bdc4e57b56
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/diostevekids.png",DIOS TV VE KIDS
+https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/extremakids.png",EXTREMA KIDS
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/logostv.png",LOGOS TV KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w1199347001.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0002/magickids.png",Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
