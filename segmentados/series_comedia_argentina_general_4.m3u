@@ -1,12 +1,3 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-10-15 10:57
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA ARGENTINA GENERAL 3 ★",Popular TV Murcia (1080p) [Not 24/7]
-https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA ARGENTINA GENERAL 3 ★",Saarland Fernsehen 2 (720p) [Not 24/7]
-https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES COMEDIA ARGENTINA GENERAL 3 ★",TeleTusciaSabina 2000 (576p) [Not 24/7]
-http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
+# Segmentado por Beluga - 2025-10-15 13:10
 
