@@ -1,0 +1,282 @@
+#EXTM3U
+# Segmentado por Beluga - 2025-10-15 10:57
+
+#EXTINF:-1 tvg-id="MilitaryHistory.us" tvg-logo="https://i.imgur.com/S1SnpoA.png" group-title="Documentary",Military History
+https://fl7.moveonjoy.com/Military_History/index.m3u8
+
+#EXTINF:-1 tvg-id="TrueHistory.us" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="Undefined",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",True History Channel
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History.si@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History Channel (1080p)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:0,Animal Planet (España) (🇪🇸)
+http://181.78.105.146:6060/play/a02d/index.m3u8
+
+#EXTINF:0,Animal Planet (Mexico) (🇲🇽)
+http://190.83.2.172:8080/play/a02x/index.m3u8
+
+#EXTINF:0,History (España) (🇪🇸)
+http://181.78.105.146:6060/play/a026/index.m3u8
+
+#EXTINF:-1 group-title="Orden-021",021. 03.4Animal Planet ✅ ✅
+http://200.60.124.19:29000/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="Orden-030",030. HISTORY ✅ ✅
+http://181.119.86.68:8000/play/c020/index.m3u8
+
+#EXTINF:-1 group-title="Orden-034",034. HISTORY ✅ ✅
+http://181.119.86.68:8000/play/c020/index.m3u8
+
+#EXTINF:-1,03.4Animal Planet ✅
+http://200.60.124.19:29000/play/a012/index.m3u8
+
+#EXTINF:-1,ANIMAL PLANET ✅
+http://181.119.85.222:8000/play/a01e/index.m3u8
+
+#EXTINF:-1,Animal Planet - Opción 2 ✅
+http://181.78.23.26:45000/play/a01d
+
+#EXTINF:-1,DISCOVERY SCIENCE ✅
+http://181.119.85.222:8000/play/a01c/index.m3u8
+
+#EXTINF:-1,DISCOVERY SCIENCE - Opción 2 ✅
+http://181.119.86.68:8000/play/b049/index.m3u8
+
+#EXTINF:-1,HISTORY ✅
+http://181.119.86.68:8000/play/c020/index.m3u8
+
+#EXTINF:-1,HISTORY - Opción 2 ✅
+http://181.119.85.222:8000/play/a01z/index.m3u8
+
+#EXTINF:-1,History 2 ✅
+http://45.176.71.20:1689/play/a0l4
+
+#EXTINF:-1,HISTORY 2 - Opción 2 ✅
+http://181.119.85.222:8000/play/a022/index.m3u8
+
+#EXTINF:-1,History Channel ✅
+http://181.78.23.26:45000/play/a005
+
+#EXTINF:-1,History Channel - Opción 2 ✅
+http://179.51.136.19:8000/play/a1be/index.m3u8
+
+#EXTINF:-1,HISTORY2 ✅
+http://181.119.86.68:8000/play/c019/index.m3u8
+
+#EXTINF:-1,HISTORY2 - Opción 2 ✅
+http://181.119.86.68:8000/play/c019/index.m3u8
+
+#EXTINF:-1,NATGEO ✅
+http://181.119.86.68:8000/play/b004/index.m3u8
+
+#EXTINF:-1,NATGEO - Opción 2 ✅
+http://181.119.86.68:8000/play/b004/index.m3u8
+
+#EXTINF:0,Animal Planet (Indonesia) (🇮🇩)
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
+
+#EXTINF:0,Autentic History (UK) (🇬🇧)
+https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/discovery-science-logo.png" group-title="Documentales",Discovery Science
+http://181.119.85.222:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/animal-planet-logo.png" group-title="Documentales",Animal Planet
+http://181.119.85.222:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="History" tvg-logo="https://i.imgur.com/history-logo.png" group-title="Documentales",History
+http://181.119.86.68:8000/play/c020/index.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="History 2" tvg-logo="https://i.imgur.com/history2-logo.png" group-title="Documentales",History 2
+http://181.119.85.222:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_logo.svg/512px-Discovery_Science_logo.svg.png" group-title="📚 Documentales",Discovery Science
+http://181.119.85.222:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="📚 Documentales",Animal Planet
+http://181.119.85.222:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="history" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" group-title="📚 Documentales",History Channel
+http://181.119.86.68:8000/play/c020/index.m3u8
+
+#EXTINF:-1 tvg-id="history2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" group-title="📚 Documentales",History 2
+http://181.119.85.222:8000/play/a022/index.m3u8
+
+#EXTINF:-1,History Hunters ✅
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1,NatGeo Mundo ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158865/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
+#EXTINF:-1,NatGeo Mundo - Opción 2 ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/161262/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Beyond History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb9844db5a4a0007ebc2a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a42-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3e7f565-b65d-418f-9f3a-1da5e2c255f3
+
+#EXTINF:-1 tvg-id="CSHistory.cz" tvg-logo="https://i.imgur.com/rtYj21D.png" group-title="Documentary" http-referrer="https://media.joj.sk/",CS History (720p)
+https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8
+
+#EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History
+https://fl7.moveonjoy.com/history_channel/index.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",History Hunters (1080p)
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History Latin America (480p)
+http://181.188.216.5:18000/play/a0cf/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Modern Marvels Presented by HISTORY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ed6ccc7-6463-4bcb-ac69-b4dfa479016d
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc855317-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4501eafa-6139-46c8-821f-a9a1465f54b4
+
+#EXTINF:-1 tvg-id="PlutoTVHistory.us@Austria" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f8696-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48a854a2-55e8-45ea-9da1-dc34e62691ed
+
+#EXTINF:-1 tvg-id="PlutoTVHistory.us@Germany" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea081-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d66523d-c59b-4354-aedb-17d13edf0d26
+
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed48-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b0c9a3d-9786-4dee-8eea-1dfcbea2ee1b
+
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="Classic",TVS Hollywood History (582p)
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Xtreme Outdoor Presented by HISTORY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3736-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d082e15e-9214-4119-8638-15c2c0edce25
+
+#EXTINF:-1,History Hit - Golden Cinema ✅
+https://lds-timeline-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-timeline-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",ANIMAL PLANET ✅
+http://181.119.85.222:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Animal Planet - Opción 2 ✅
+http://181.78.23.26:45000/play/a01d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",DISCOVERY SCIENCE ✅
+http://181.119.85.222:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",DISCOVERY SCIENCE - Opción 2 ✅
+http://181.119.86.68:8000/play/b049/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",HISTORY ✅
+http://181.119.86.68:8000/play/c020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",HISTORY - Opción 2 ✅
+http://181.119.85.222:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History 2 ✅
+http://45.176.71.20:1689/play/a0l4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",HISTORY 2 - Opción 2 ✅
+http://181.119.85.222:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History Channel ✅
+http://181.78.23.26:45000/play/a005
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History Channel - Opción 2 ✅
+http://179.51.136.19:8000/play/a1be/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",HISTORY2 ✅
+http://181.119.86.68:8000/play/c019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",HISTORY2 - Opción 2 ✅
+http://181.119.86.68:8000/play/c019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",NATGEO ✅
+http://181.119.86.68:8000/play/b004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",NATGEO - Opción 2 ✅
+http://181.119.86.68:8000/play/b004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Animal Planet (Indonesia) (🇮🇩)
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Autentic History (UK) (🇬🇧)
+https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Discovery Science
+http://181.119.85.222:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Animal Planet
+http://181.119.85.222:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History
+http://181.119.86.68:8000/play/c020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History 2
+http://181.119.85.222:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History Channel
+http://181.119.86.68:8000/play/c020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History Hunters ✅
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",NatGeo Mundo ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158865/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",NatGeo Mundo - Opción 2 ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/161262/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Beyond History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb9844db5a4a0007ebc2a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a42-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3e7f565-b65d-418f-9f3a-1da5e2c255f3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",CS History (720p)
+https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History
+https://fl7.moveonjoy.com/history_channel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History 2 Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History Hunters (1080p)
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History Latin America (480p)
+http://181.188.216.5:18000/play/a0cf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Modern Marvels Presented by HISTORY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ed6ccc7-6463-4bcb-ac69-b4dfa479016d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc855317-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4501eafa-6139-46c8-821f-a9a1465f54b4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f8696-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48a854a2-55e8-45ea-9da1-dc34e62691ed
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea081-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d66523d-c59b-4354-aedb-17d13edf0d26
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed48-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b0c9a3d-9786-4dee-8eea-1dfcbea2ee1b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",TVS Hollywood History (582p)
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",Xtreme Outdoor Presented by HISTORY
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3736-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d082e15e-9214-4119-8638-15c2c0edce25
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES CIENCIA 1 ★",History Hit - Golden Cinema ✅
+https://lds-timeline-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-timeline-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="documentales",Animal Planet - Opción 2 ✅
+http://181.78.23.26:45000/play/a01d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="documentales",History 2 ✅
+http://45.176.71.20:1689/play/a0l4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="documentales",History Channel ✅
+http://181.78.23.26:45000/play/a005
+

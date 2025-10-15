@@ -1,0 +1,12 @@
+#EXTM3U
+# Segmentado por Beluga - 2025-10-15 10:57
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Zo'r TV (576p)
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Zylo Cine Friki (1080p)
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:0,SyFy (España) (🇪🇸)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/.m3u8
+

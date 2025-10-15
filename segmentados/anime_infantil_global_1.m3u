@@ -1,0 +1,30 @@
+#EXTM3U
+# Segmentado por Beluga - 2025-10-15 10:57
+
+#EXTINF:0,DK Discovery Kids (Argentina) (🇦🇷)
+http://191.52.214.5:8000/play/a02h/index.m3u8
+
+#EXTINF:0,DK Discovery Kids (Chile) (🇨🇱)
+http://181.78.105.146:8800/play/a00r/index.m3u8
+
+#EXTINF:0,DK Discovery Kids (Colombia) (🇨🇴)
+http://190.83.2.172:8080/play/a015/index.m3u8
+
+#EXTINF:0,DK Discovery Kids (España) (🇪🇸)
+http://8.242.176.45:1013/play/a01q/index.m3u8
+
+#EXTINF:0,DK Discovery Kids (Mexico) (🇲🇽)
+http://179.49.163.34:45000/play/a009/index.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS ✅
+http://181.119.86.68:8000/play/b020/index.m3u8
+
+#EXTINF:-1,Discovery Kids - Opción 2 ✅
+http://181.78.23.26:45000/play/a00h
+
+#EXTINF:-1 tvg-id="26" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/discovery-kids-logo.png" group-title="Infantil",Discovery Kids
+http://181.119.85.222:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/512px-2016_Discovery_Kids_logo.svg.png" group-title="👶 Infantil",Discovery Kids
+http://181.119.85.222:8000/play/a009/index.m3u8
+

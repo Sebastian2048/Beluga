@@ -1,6 +1,12 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-10-13 18:24
+# Segmentado por Beluga - 2025-10-15 10:57
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0DEST.SERIES.png",★ SERIES ★
-https://kuerba.com
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="series",Zee Alwan (576p)
+http://213.57.91.138:8000/play/a05t
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="series",Zee Alwan Egypt (576p)
+http://213.57.91.138:8000/play/a05u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="series",U&Alibi (576p)
+http://92.114.85.72:8000/play/a0bi
 

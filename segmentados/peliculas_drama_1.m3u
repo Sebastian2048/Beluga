@@ -1,9 +1,18 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-10-13 18:24
+# Segmentado por Beluga - 2025-10-15 10:57
 
-#EXTINF:-1,Film&Arts ✅
-http://179.51.136.19:8000/play/a1go/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="peliculas",03.Cinemax ✅
+http://200.60.124.19:29000/play/a025
 
-#EXTINF:-1,Film&Arts - Opción 2 ✅
-http://179.51.136.19:8000/play/a1go/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="peliculas",Cinemax HD ✅
+http://45.176.71.20:1689/play/a0mz
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="peliculas",Cinemax HD - Opción 2 ✅
+http://45.176.71.20:1689/play/a0mz
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="peliculas",NN STUDIO UNIVERSAL ✅
+http://45.176.193.222:2405/play/a05v
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="peliculas",Studio Universal ✅
+http://190.61.117.35:8000/play/a029
 

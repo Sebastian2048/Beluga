@@ -1,5 +1,26 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-10-13 18:24
+# Segmentado por Beluga - 2025-10-15 10:57
+
+#EXTINF:0,AXN (España/UK) (🇪🇸🇬🇧)
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:0,AXN (Mexico) (🇲🇽)
+http://181.78.105.146:6060/play/a04m/index.m3u8
+
+#EXTINF:-1,07.8AXN ✅
+http://200.60.124.19:29000/play/a027/index.m3u8
+
+#EXTINF:-1,07.8AXN - Opción 2 ✅
+http://200.60.124.19:29000/play/a027
+
+#EXTINF:-1,122_AXN ✅
+http://87.120.179.187:8000/play/a00o
+
+#EXTINF:-1,AXN ✅
+http://181.119.86.68:8000/play/c016/index.m3u8
+
+#EXTINF:-1,AXN - Opción 2 ✅
+http://181.119.86.68:8000/play/c016/index.m3u8
 
 #EXTINF:-1 tvg-id="49" tvg-name="Universal TV" tvg-logo="https://i.imgur.com/universal-tv-logo.png" group-title="Series",Universal TV
 http://181.119.85.222:8000/play/a00x/index.m3u8

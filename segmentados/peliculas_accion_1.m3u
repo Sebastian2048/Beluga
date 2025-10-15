@@ -1,12 +1,9 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-10-13 18:24
+# Segmentado por Beluga - 2025-10-15 10:57
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJgMp7s/hbo.png", HBO PREMIUM
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/HB0_PR3M1Um.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="peliculas",Tejano To ThBonlive ✅
+http://fortv.cc:8080/90820916/64752029/124495
 
-#EXTINF:-1,SONY MOVIES ✅
-http://181.119.86.68:8000/play/b040/index.m3u8
-
-#EXTINF:-1,SONY MOVIES - Opción 2 ✅
-http://181.119.86.68:8000/play/b040/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="peliculas",WWJB ThBoot live ✅
+http://fortv.cc:8080/90820916/64752029/125367
 

@@ -1,0 +1,9 @@
+#EXTM3U
+# Segmentado por Beluga - 2025-10-15 10:57
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="series",07.8AXN - Opción 2 ✅
+http://200.60.124.19:29000/play/a027
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="series",122_AXN ✅
+http://87.120.179.187:8000/play/a00o
+
