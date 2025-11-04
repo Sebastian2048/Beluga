@@ -1,0 +1,90 @@
+#EXTM3U
+# Segmentado por Beluga - 2025-11-04 12:52
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fZXturIugHYCl7T6oLeMj1AWm7p.jpg",THE PERFECT FIND
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11916
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg",THE MACHINE
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11917
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/do9UvkcDJeYbhYVoQPS00yOCYdc.jpg",YOU HURT MY FEELINGS
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11918
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg",NIMONA
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11919
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p3MqxGqMdq4eqzWN6H7ugEdYv1W.jpg",CONFIDENTIAL INFORMANT
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11920
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5ZUANbEwkNztD9qdr83zKBGzE0p.jpg",AWOKEN
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11921
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p5x729JI6wZs9hCqX7tc7oH87ih.jpg",LUST STORIES 2
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11923
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/88yU3QJKafHNqc5NprIJ3Cd6Svn.jpg",MAQUILLAME OTRA VEZ
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11924
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/n5wyq9UljWRqED1JjadF0X5CICh.jpg",THE SCRAPPER
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11925
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg",THE OFFERING
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11927
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mSlOwJ87IUhrGl85gQg3pYWv1wS.jpg",SAVING SLOANE
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11928
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3FPnDTlX0LsaU4VD5mc82BMbchA.jpg",NOCEBO
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11929
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/i9a6dEBMR4gDObkd6V5ZuK1ZInp.jpg",THE STORY OF NINTENDO
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11930
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/36wyM5ceCCIpu8lU88mxonYET71.jpg",UN LUGAR POR EL QUE LUCHAR
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11931
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fAI5YihOSY2CcLPRN4gYZEdP69e.jpg",7 DAYS TO VEGAS
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11922
+
+#EXTINF:-1 group-title="Pelis 2"  type="movie" tvg-logo="TRANSFOMERS: RISE THE BEASTS",TRANSFOrMERS: RISE THE BEASTS
+https://m3ukodi.com/developers/myworldtv/pelisx.php?11940
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Kinoteatr (1080p)
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",LATV [Geo-blocked]
+https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Legend Films (720p)
+https://a-cdn.klowdtv.com/live3/legendfilms_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Lenz Film
+https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Lifetime Movies East
+https://fl7.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Madaniyat va ma'rifat (576p)
+https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Maha Movie (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0q7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Mahalla (576p)
+https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Manoranjan Movies (720p)
+https://cdn-2.pishow.tv/live/228/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Maverick Black Cinema (1080p)
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",MeatEater
+https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS GLOBAL 1 ★",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+
