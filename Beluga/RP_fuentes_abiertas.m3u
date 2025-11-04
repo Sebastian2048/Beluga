@@ -1,1197 +1,789 @@
 #EXTM3U
-# Lista depurada - 2025-11-04 15:14
-
-# ---- ★ ANIME ★ ----
+# Auditoría de Fuentes abiertas - 2025-11-04 16:12
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Z PLAY ANIME
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",ANIME ONEGAI 1
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",ANIME ONEGAI 2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",ANIME ONEGAI 3
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",ANIME ONEGAI 4
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",ANIME ONEGAI 5
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",ANIME ONEGAI TV PLUS 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",ANIME ONEGAI TV PLUS 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",ANIME ONEGAI TV PLUS 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",ANIME ONEGAI TV PLUS 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",ANIME ONEGAI TV PLUS 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",AZTV Anime Zone (España) (🇪🇸)
 http://animezonetv.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",AKIBA PASS TV Anime: Sport
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/659e598ab9adc4000843c574/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c5242-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=77cfb04f-c3c0-44b8-b6e2-07ddce76c467
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",AKIBA PASS TV Anime: Sport
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/659e598ab9adc4000843c574/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8293f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a10e7bc2-27d2-4246-858e-3b550009b794
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",AKIBA PASS TV Anime: Sport
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/659e598ab9adc4000843c574/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac0871-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1aca10c2-09e3-4dba-9e0e-6d174d5eb77f
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Anime Vision (1080p)
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Anime Vision Classics (1080p)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Crunchyroll
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Mr. Bean Anime (1080p)
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Pluto TV Anime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc852c04-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7712194d-f819-4c85-b762-cb0449cb4928
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Pluto TV Anime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f82-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95e1f29c-bf6d-41bb-9fce-486049aaae5d
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Pluto TV Anime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7970-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=042724a5-f12e-43ab-9538-dac62e47d082
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Wasabi la chaîne anime
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Anime Zone TV | AR
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Mr. Bean Anime Italy (1080p)
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",BITME
 http://user.tvcluboficial.com/live/m/m/946.m3u8
-
-# ---- ★ PELICULAS ★ ----
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",AMC (1080p)
 https://amchls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",AMC
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",AMC Absolute Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Filamchi Bhojpuri (1080p)
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Khushboo Bangla (720p)
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Mister Rogers' Neighborhood
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e23f340d4561000821540d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=18721deb-08cc-4fc5-b3dd-89d418b508de
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c846-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=107edfdc-70b3-44a9-b352-7604fe6120d9
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23eefcec-8774-42a3-8e77-66e6e59575a3
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aee0c343-6689-49c1-9090-319522e3c837
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Star Trek Deep Space Nine
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Star Trek: Deep Space Nine
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d200c7ff50008cb131a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b210d34-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=35795be0-a9bf-4b10-b542-2134b369c86c
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Star Trek: Deep Space Nine
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d200c7ff50008cb131a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc866483-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9d32b35d-fee3-493b-aaa0-68d37068f729
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Star Trek: Deep Space Nine
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d200c7ff50008cb131a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bc71210-8348-497e-9c67-114c5ae83332
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Stories by AMC
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",TNTV (1080p)
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Cine Suspenso (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Estrellas de Acción (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Tu Música HD (1080p)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",ZB Cinema (720p)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Zylo Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Cine 1 (Turquia) (🇹🇷)
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Mega Cine (Rep. Dominicana) (🇩🇴)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",106. MyTime Movie Network ✅ ✅
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CinFriki ✅
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=ec528dd9-92bb-49ec-9498-8ef2b8c55094&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Mega CinTV | DO ✅
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MyTime Movie Network ✅
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Bigtime
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Cine 1 (720p)
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Cine Adrenalina (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Cine Accion
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Cine Estelar
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Classic Movies (England) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Movies (England) (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Thrillers Spain
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Revry Her
 https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Film&Arts ✅
 http://179.51.136.19:8000/play/a1go/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Film&Arts - Opción 2 ✅
 http://179.51.136.19:8000/play/a1go/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Paramount Channel (1080p)
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Paramount Network Spain (1080p)
 http://176.65.146.237:8401/play/a09i/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Cinemax (España) (🇪🇸)
 http://181.78.106.127:9000/play/ca079/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",STUDIO UNIVERSAL - Opción 2 ✅
 http://181.119.86.68:8000/play/c024/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",STUDIO UNIVERSAL
 http://181.119.86.68:8000/play/c024/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",PARAMOUNT
 http://179.51.136.19:8000/play/a1am/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Cinemax
 http://181.78.201.70:8000/play/a0hi/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Paramount Movie Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Paramount+ Picks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Studio Universal Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MovieSphere (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MovieSphere Canada (1080p)
 https://livetv-fa.tubi.video/moviesphere-canada2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten Top Movies UK (1080p)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Action Movies Finland (1080p)
 https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Action Movies Germany (1080p)
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Action Movies Italy (1080p)
 https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Action Movies Spain (1080p)
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Action Movies UK (1080p)
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Cine Español (1080p)
 https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Comedy Movies Finland (1080p)
 https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Comedy Movies Germany (1080p)
 https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Comedy Movies Italy (1080p)
 https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Comedy Movies Spain (1080p)
 https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Comedy Movies UK (1080p)
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Drama Movies Finland (1080p)
 https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Drama Movies Germany (1080p)
 https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Drama Movies Italy (1080p)
 https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Drama Movies Spain (1080p)
 https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Drama Movies UK (1080p)
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Family Movies Finland (1080p)
 https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Family Movies Germany (1080p)
 https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Family Movies Italy (1080p)
 https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Family Movies Spain (1080p)
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Family Movies UK (1080p)
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Films Action (720p)
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Films Comédie (720p)
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Films Drames (720p)
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Films Famille
 https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Films Romance (720p)
 https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV German Cinema (1080p)
 https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Nordic Films (1080p)
 https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Romance Movies Italy (1080p)
 https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Romance Movies Spain (1080p)
 https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Romance Movies UK (1080p)
 https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Top Movies Finland (1080p)
 https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Top Movies Germany (1080p)
 https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Top Movies Italy (1080p)
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Top Movies Spain (1080p)
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",RetroCrush (1080p)
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Stormcast Westerns (720p)
 https://stormcast-cinema-llc-westernmaniafast-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Surya Movies (1080p)
 https://playyonogames.in/live.php?id=1754&format=.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Toonami Aftermath Movies (540p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Top Movies Polska
 https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",TVS Classic Movies (288p)
 https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",TVS Nostalgia Movies (480p)
 https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",TVS Western Movie (270p)
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Udaya Movies (576p)
 https://playyonogames.in/live.php?id=678&format=.m3u8
-
-# --- ★ PELICULAS ★ (bloque 100) ---
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",WBTV At the Movies [Geo-blocked]
 https://livetv-fa.tubi.video/wbd-at-the-movies/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Zylo Ciné Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Movies!
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",TVCARiB Cinema (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",TVS Drive In Movie (360p)
 https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",WBTV Classic Cinema [Geo-blocked]
 https://livetv-fa.tubi.video/wbd-classic-cinema/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Xtrema Cine Clasico
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Zylo Cine Friki (1080p)
 https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Movie Favorites By Lifetime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MovieBox (720p)
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MOVIEDOME
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8468b8-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4e35301f-2d36-451c-9b93-9d48f1f50070
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MOVIEDOME
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7524-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9855fa27-eb7c-4e5a-852e-4c439515c25d
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MOVIEDOME
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd31-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bdf8fde-2533-4c16-b518-58e9777e93ca
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Moviepilot TV mit Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e9c30-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=78e36af2-8f00-409e-9fb6-605436ac888c
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Moviepilot TV mit Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc0-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb6fcc3a-0bb5-4c28-b7db-ebad8628b895
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Moviepilot TV mit Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd32-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fcc33217-17d7-4dc5-9361-70dd91fef90e
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Movies for Gamers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Movies Thriller (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MovieSphere by Lionsgate
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41f0c8e5-55e6-4740-a854-15ac608b8c65
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MovieSphere by Lionsgate
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MyTime Movie Network (1080p)
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MyTime Movie Network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MyTime Movie Network Germany (1080p)
 https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MyTime Movie Network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Noovo Cinéma (1080p)
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Oscar Movies Bhojpuri (720p)
 https://cdn-4.pishow.tv/live/233/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Action Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3c2e4823db00072788ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c110a2fa-daa4-4051-944a-5705842fcc96
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Comedy Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3d24b8e02600071fa296/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d24-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eac25957-ab7a-4358-b0cd-9e596b2f1a6f
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Crime Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Cult Films
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Drama Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb0bcd707b9000739d2e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d28-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac9b4aeb-508c-4396-8b31-dc70fc73c3ce
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Kultfilme
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc857a24-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0c8e4e30-0091-4d84-a955-2c041350dc04
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Kultfilme
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fd4b0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=03130bd3-7919-4831-bc2e-4f5c3b202f88
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Kultfilme
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea088-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3418c444-a5b9-456d-9d11-e4e9c7b5eec0
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc857a28-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b204870-139a-4a67-897a-5430b6799406
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fd4b4-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0b9dcc7-8579-47a9-a718-88e7ec066b8a
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Movies
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec791-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5500aa67-c527-4db6-868b-d37341c34286
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Asian Cinema Italy (1080p)
 https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Films Thriller (720p)
 https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Romance Movies Finland (1080p)
 https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Rakuten TV Romance Movies Germany (1080p)
 https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Samuel Goldwyn Films (1080p)
 https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",TF1 Series Films (1080p)
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",The Archive (1080p)
 https://cineverse.g-mana.live/media/09899328-5b22-4d3e-ba1e-111856798c99/playlist_3.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Lenz Film
 https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Manoranjan Movies (720p)
 https://cdn-2.pishow.tv/live/228/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MeatEater
 https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
-
-# ---- ★ SERIES ★ ----
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV El Reino Infantil (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",KidsFlix (1080p) [Not 24/7]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",ARTN TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Al Aqsa Channel (416p) [Not 24/7]
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Popular TV Murcia (1080p) [Not 24/7]
 https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Saarland Fernsehen 2 (720p) [Not 24/7]
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TeleTusciaSabina 2000 (576p) [Not 24/7]
 http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Ciracu TV (720p) [Not 24/7] ✅
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Vos y TV (720p) [Not 24/7] ✅
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Alpe d’Huez TV (720p) [Not 24/7]
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",BUTV10 (Boston University) (1080p) [Not 24/7]
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Teve Vida Network (480p) [Not 24/7]
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",UniversidadMayordeSanAndres (1080p) [Not 24/7]
 https://live.enhdtv.com:8081/8190/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Сити Эдем МедЗдрав [Not 24/7]
 https://cityeden.catcast.tv/content/47519/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Antiques Roadshow UK (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Cine Família (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV MTV Music Made in Spain (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Serie Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Sky News Arabia (1080p) [Not 24/7]
 https://stream.skynewsarabia.com/ott/ott.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Sky News Arabia (Portrait) (1280p) [Not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Streek TV (720p) [Not 24/7]
 http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Antena 21 (480p) [Not 24/7] [Geo-blocked]
-https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Conecta2TV (720p) [Not 24/7]
 https://live.obslivestream.com/conecta2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Hermanas Mirabal TV (720p) [Not 24/7]
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",M95 Televisión Marbella (1080p) [Not 24/7]
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Miavision TV [Not 24/7]
 https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",News 24 (392p) [Not 24/7]
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",К16 (Саров) (406p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",CTNi (Christian Television Network International) (480p) [Not 24/7] ✅
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",EWTN el Canal Católico (720p) [Not 24/7] ✅
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TNE (720p) [Not 24/7]
 https://v2.tustreaming.cl/tnetv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Palitra News (480p) [Not 24/7]
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Prameya News7 (1080p) [Not 24/7]
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8?ads.dpname=distrotv
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Real News Kerala (1080p) [Not 24/7]
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7]
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Atacama TV (Copiapó) (720p) [Not 24/7]
 https://v2.tustreaming.cl/atacamatv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",ATB La Paz (614p) [Not 24/7]
 http://186.121.206.197/live/daniel/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",ATV (400p) [Not 24/7]
 https://guineetvdirect.online:3320/live/atvguineelive.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Audaz TV (432p) [Not 24/7]
 https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Avivamiento TV (1080p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Cali TV (540p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Cana TV Digital (720p) [Not 24/7]
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Thai Parliament TV (1080p) [Not 24/7]
 https://tv-live.tpchannel.org/live/tv.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",The Now Network (480p) [Not 24/7]
 https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Thema Televisión (La Serena) (720p) [Not 24/7]
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TM1 (360p) [Not 24/7]
 http://69.64.57.208/tm1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Top FM TV (240p) [Not 24/7]
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Torococo TV (720p) [Not 24/7]
 https://us.streaminghd.cl/torococotelevision/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Toronto 360 TV (720p) [Not 24/7]
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Trivu (1080p) [Not 24/7]
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TRT (410p) [Not 24/7]
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TSi (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TV7 Benevento (288p) [Not 24/7]
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Komsan TV [Not 24/7]
 http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",MGM HD [Not 24/7]
 https://v2.catcast.tv/content/44051/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Afarin TV (720p) [Not 24/7]
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Telearuba (1080p) [Not 24/7]
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Binge
 https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",XPTV US (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Popstar! TV (1080p) [Not 24/7]
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",PromarTV (1080p) [Not 24/7]
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Radar Tasikmalaya TV (720p) [Not 24/7]
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",RCTV (576p) [Not 24/7]
 https://v10.siar.us/rctv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",RTV Arnhem (480p) [Not 24/7]
 https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",RTV Herceg-Bosne (576p) [Not 24/7]
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Safari TV (480p) [Not 24/7]
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Sampit TV (720p) [Not 24/7]
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Sardari TV (1080p) [Not 24/7]
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",SRC Media TV [Not 24/7]
 https://video.misistemareseller.com/srctv/srctv/chunklist_w846929347.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Sun RTV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tatlises TV (1080p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TATV (720p) [Not 24/7]
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Telefoggia (480p) [Not 24/7]
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Televisión Tarapoto (720p) [Not 24/7]
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Life TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",NDTV 24X7 (480p) [Not 24/7]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Aventura (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Comedy Central Latino (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Dog el cazarrecompensas (480p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Empeños a lo bestia (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Los archivos del FBI (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Minuto Para Ganar (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Misterios Medicos (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Misterios sin Resolver (480p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Novelas (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Series Latinas (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Series Retro (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Super TV (720p)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TVE Star HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",VM Latino (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Wesal TV (720p) [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Нижний Новгород 24 (720p) [Not 24/7]
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Parlamentsfernsehen 2 (1080p) [Not 24/7]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
-
-# --- ★ SERIES ★ (bloque 100) ---
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Parlamentsfernsehen 3 (1080p) [Not 24/7]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Parlamentsfernsehen 4 (1080p) [Not 24/7]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",RTB (360p) [Not 24/7]
 https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Sevilla FC TV (360p) [Not 24/7]
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tele M1 (720p) [Not 24/7]
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TeleVigo (1080p) [Not 24/7]
 https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Actualiteitenkanaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Aletta Jacobszaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Enquetezaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Groen van Prinstererzaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Klompezaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Max van der Stoelzaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Plenaire zaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Suze Groenewegzaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Thorbeckezaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Troelstrazaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tweede Kamer: Wttewaall van Stoetwegenzaal (1080p) [Not 24/7]
 https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Persiana Emirates
 https://pemirateshls.persiana.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Rakuten TV Crime Series Germany (1080p)
 https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Rakuten TV Crime Series Italy (1080p)
 https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Rakuten TV Crime Series Spain (1080p)
 https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Campus TV (Talca) (720p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pucón TV (1080p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TV Quellón (1080p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",MTV Dating
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a0c230ab3300084369b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f9-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=70f03476-c602-474c-9bec-e1c4bbf13a02
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",MTV Teen Mom
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1eea55-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7d2ddc91-5fb2-44c2-aeed-f44a38cfe217
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",MTV Teen Mom
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae044a-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1702995c-e680-43a7-aab2-8ad161900add
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",MTV The Shores
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1160-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedd9a53-46f2-4eed-8ea9-ef20093e1a28
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",MTV The Shores
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b52-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ea57af13-cdf9-4796-a6ce-aa2f1ce34fcf
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",MV Mall DD (1080p)
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Mythbusters (1080p)
 https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Nick/Comedy Central +1 HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Nonstop Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb9ade112ca70007d8441d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6612-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f86ca519-ca18-4239-ab5b-089b2094739d
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Nosey
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e93d0a80d8d10008a0181e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6613-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1fbd0fc2-487d-4b2e-8f46-ca423dcfe679
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",ON Vie Drama
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Perry Mason
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddc3485efec00085b0369/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3876-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=09f836b5-3c59-462d-95a2-726c229b62d4
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Fantastic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Lives
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1452-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bffb5ed7-ddb0-4c7b-9457-e8614af008a2
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Military
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1453-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=50b48d94-a9db-4b6e-9b51-1dab5c53dc35
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Polizeiserien
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64445dc166000899ce75/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ffbc3-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=52239dde-3e69-4840-8825-c224d9ed739a
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Polizeiserien
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64445dc166000899ce75/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85a134-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c0ec0b3-ba68-46bb-9506-636d3ab2a044
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Polizeiserien
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64445dc166000899ce75/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec796-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=813b79c7-b5ab-4408-ae58-2c80c52c7f3a
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Retro Crime Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630f1e6073bd1800082107f0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb431-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8e4df61b-f0fe-477e-8bdf-c892174573c4
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Serie
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c842-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74c39730-fb7c-4ea6-9445-38d3f7ff5d3d
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Serie
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d2-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7d734a7-ff35-48a1-bfca-2a48e9148931
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Serie
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c39f6559-678d-4811-85d3-2aeecd09668a
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Serie+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c843-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df221bf5-710f-4017-90c4-f8002fbd3ad5
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Serie+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d3-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c45133a-b485-4c8a-a556-fac780df716a
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Serie+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2e0c3c1a-9aa2-46b3-994f-ab3a1c929f78
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c844-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dfc7676f-1675-4cca-b1d1-5701f84c4908
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d4-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f2671c6a-031c-4fa0-bb07-e94c2b5d08db
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=280db36d-ffba-4223-8a7d-77e6a96d3758
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Sitcoms+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8eb7e943-84dc-455f-837c-5a289cb58234
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Sitcoms+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85c845-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1efada2-5c1e-4c67-8d37-a989831dc9f3
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Sitcoms+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=57a04ab4-08c0-4114-8c90-0153ccf85d53
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Star Trek
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2049e0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a5c84cd3-495f-49d7-8e48-a79af0d219fc
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Star Trek
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3329cc1b-d91f-4194-b516-92fbd807049b
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV True Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6270-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2e2e43d4-4547-47dd-9325-2c583c9314b2
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV True Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615333098185f00008715a56/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2049e1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=03c264ad-dc34-4e0b-b96f-6cfb4c0f6b37
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV True Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9289f8d467f0007fbc701/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb433-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f060b33-63f0-4db8-92fd-ac93ae48bcb1
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV True Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615333098185f00008715a56/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=96f45124-9486-4038-a177-6f5206a39041
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",PNC Drama (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Roya Drama (1080p)
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Sitcom Legends
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/633354b63df9700007f6a1b7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb091-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=54f06638-b224-4723-bc88-9b4986c6cd72
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Supernatural Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=933590b4-25e8-478c-814f-49d93fd452c3
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Survivor
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d8ecd073-183e-48e4-a98b-a1be120de05a
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Telemundo Telenovelas Clásicas
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TFX (1080p)
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",The Addams Family
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9decccae-21fa-404d-9d81-56fffb2cc206
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",The Amazing Race
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cb89093-75df-464f-ac48-c72627cb5c40
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",The Challenge
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a22a3efb510008245df0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5073-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=63985417-98be-4524-83cc-9a7c05387193
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",The Judge Judy Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92e536f28870007fa9b3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5077-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7542660-a0a4-415c-a70a-fae3199e0e29
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",The New Detectives
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5a0d0a98-404f-4ed2-acb8-799b2abcc5c6
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",The Rifleman
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0e1d4cf-0753-4230-a880-33a0b95d08bf
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",The Walking Dead Universe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Three's Company
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ca723a2bc49300081a8966/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7785-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b997b20-1713-4925-97ac-2a8fe6c85814
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tiny House Nation
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540ff4f7312a40008297b59/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7787-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b64828a6-e38b-42b5-a91a-566c504d921c
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Top Serien (1080p)
 https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tosh.0
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",True Crime Network
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TV Land Sitcoms
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b42011ce-d42f-4692-bb1d-2fe02741437a
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",DE PELICULA ✅
 http://181.119.85.222:8000/play/a013/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",DPELICULA ✅
 http://181.119.86.68:8000/play/b035/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",DPELICULA - Opción 2 ✅
 http://181.119.85.222:8000/play/a013/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TV Series 1 As Panteras (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TVI Ficção (720p)
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Universal Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc200-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f8ea05b6-c631-4463-8491-a4394e906d3c
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Unsolved Mysteries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc202-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d38cc26-1fa3-46f8-bb13-79fb665ae910
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Unsolved Mysteries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e924f2be69bc0007b7d53d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e93-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6362993f-fcc4-4e58-9056-bca26f635dcb
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Vive Kanal D Drama (1080p)
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Walker Texas Ranger
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/635659445b4c4700076d2ad1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e94-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e2f6bf-cd8e-44d2-ad1e-a5747a670d91
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",ZNS-TV
 https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Omroep Centraal TV (480p) [Not 24/7]
 https://ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Omroep Hulst TV (720p) [Not 24/7]
 https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Omroep Tilburg (480p) [Not 24/7]
 https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Open Rotterdam (480p) [Not 24/7]
 https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",ORTS (480p) [Not 24/7]
 https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",RTV Rijnstreek TV (720p) [Not 24/7]
 https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8
-
-# --- ★ SERIES ★ (bloque 200) ---
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",SIPSE TV 8.1 (1080p) [Not 24/7]
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",SIPSE TVCUN 8.1 (1080p) [Not 24/7]
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Star Family (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",XITE (720p) [Not 24/7]
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",XON (480p) [Not 24/7]
 http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Universal TV
 http://181.119.85.222:8000/play/a00x/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",AXN HD
 http://181.119.85.222:8000/play/a01y/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Universal TV ✅
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/universaltv/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Universal TV - Opción 2 ✅
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",AXN ✅
 http://181.119.86.68:8000/play/c016/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",AXN - Opción 2 ✅
 http://181.119.86.68:8000/play/c016/index.m3u8
-
