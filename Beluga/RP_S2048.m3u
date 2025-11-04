@@ -1,5 +1,5 @@
 #EXTM3U
-# Lista depurada - 2025-11-04 13:03
+# Lista depurada - 2025-11-04 15:14
 
 # ---- ★ ANIME ★ ----
 
@@ -385,21 +385,6 @@ http://vod.tuxchannel.mx/peliculas/720/time%20is%20up%202021.mkv
 
 # ---- ★ PELICULAS ★ ----
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",8-BIT CHRISTMAS (NAVIDAD EN 8 BITS) (2021)SUB
-https://tvinnov.online/Peliculas///8-Bit%20Christmas%20(Navidad%20en%208%20Bits)%20(2021)SUB.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",7 PRISIONEROS SUB
-https://tvinnov.online/Peliculas///7%20prisioneros%20SUB.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",7 PRISIONEROS LAT
-https://tvinnov.online/Peliculas///7%20prisioneros%20LAT.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",7 DIAS 2005
-https://tvinnov.online/Peliculas///7.dias.2005.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",(REMINISCENCIA) (2021)SUB
-https://tvinnov.online/Peliculas///(Reminiscencia)%20(2021)SUB.mp4
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
@@ -420,15 +405,6 @@ https://archive.org/download/04_20220319_20220319/01.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Peacemaker (El Pacificador) HBO Max (2022)
 https://archive.org/download/04_20220319/01.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",SPACE JAM 2 LATINO
-https://tvinnov.online/Peliculas///Space%20Jam%202%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",HBO PREMIUM
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/HB0_PR3M1Um.m3u
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",TNTS1
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2FVer%20Scream%206%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",HBO Max 2 ✅
 http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/168614/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
@@ -492,12 +468,6 @@ http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",AMC Absolute Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",AMC All Weddings
-https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",AMC East (1080p)
-https://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",AMC en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9
@@ -631,9 +601,6 @@ https://ia802300.us.archive.org/12/items/01_20211126_20211126_1750/01.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",La clásica historia de terror (2021 )
 https://archive.org/download/01_20210715_202107/01.mp4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",RESPECT LA HISTORIA DE ARETHA FRANKLIN (2021)SUB
-https://tvinnov.online/Peliculas///Respect%20La%20historia%20de%20Aretha%20Franklin%20(2021)SUB.mp4
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",La calle del terror P1 | REGIOFLIX
 http://notabasica.com/612132/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
 
@@ -642,9 +609,6 @@ http://vod.tuxchannel.mx/peliculas/720/scream%202%20grita%20y%20vuelve%20a%20gri
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Scream 3 (2000)
 http://vod.tuxchannel.mx/peliculas/720/scream%203%20la%20mascara%20de%20la%20muerte.mkv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Scream 6 (2023)
-https://archive.org/download/01_(2023)0313_(2023)0313_2108/01.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",La calle del terror P1
 http://notabasica.com/612132/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
@@ -685,8 +649,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsun
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Mega Cine (Rep. Dominicana) (🇩🇴)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-# --- ★ PELICULAS ★ (bloque 100) ---
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",106. MyTime Movie Network ✅ ✅
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
 
@@ -717,14 +679,13 @@ https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlis
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",GREAT! romance (1080p)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Hallmark Movies Mysteries East
-https://fl7.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Cine Accion
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Cine Estelar
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=
+
+# --- ★ PELICULAS ★ (bloque 100) ---
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Pluto TV Classic Movies (England) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=
@@ -746,9 +707,6 @@ http://179.51.136.19:8000/play/a1go/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Film&Arts - Opción 2 ✅
 http://179.51.136.19:8000/play/a1go/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Paramount Network East
-https://fl7.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Paramount Channel (1080p)
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
@@ -806,245 +764,6 @@ https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",SEAN ETERNOS SERIE
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/fuego%2FVer%20Pelicula%20Enola%20Holmes%20Online%20Latino%20en%20HD%20-%20Poseidonhdd.com_2.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DUNE (DUNA) (2021)CINE CAM LATINO
-https://tvinnov.online/Peliculas///Dune%20(Duna)%20(2021)CINE%20CAM%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DU SIE ER AND WIR (CUATRO POR CUATRO) (2021)LATINO
-https://tvinnov.online/Peliculas///Du%20Sie%20Er%20and%20Wir%20(Cuatro%20por%20cuatro)%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DREAMLAND 2020 LATINO
-https://tvinnov.online/Peliculas///Dreamland%202020%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DRAGON RIDER (EL JINETE DEL DRAGON) (2020)LATINO
-https://tvinnov.online/Peliculas///Dragon%20Rider%20(El%20jinete%20del%20drag%c3%b3n)%20(2020)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DOS LOCOS EN PATRULLA 720P LATINO
-https://tvinnov.online/Peliculas///Dos%20Locos%20en%20Patrulla.720p.latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DONT LOOK UP 2021 WEB-DL LIVIANO 1080P LATINO
-https://tvinnov.online/Peliculas///Dont.Look.Up.2021.WEB-DL.LIVIANO.1080p.Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DON’T BREATHE 2 LATINO
-https://tvinnov.online/Peliculas///Don%e2%80%99t%20Breathe%202%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DIEGO EL ULTIMO ADIOS 2021 WEB-DL 1080P LATINO
-https://tvinnov.online/Peliculas///Diego.el.ultimo.adios.2021.WEB-DL.1080p.Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DESCENDANTS THE ROYAL WEDDING (2021)LATINO
-https://tvinnov.online/Peliculas///Descendants%20The%20Royal%20Wedding%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DEMONIC LATINO
-https://tvinnov.online/Peliculas///Demonic%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DEFINING MOMENTS LATINO
-https://tvinnov.online/Peliculas///Defining%20Moments%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DEATH SHE WROTE (2021)LATINO
-https://tvinnov.online/Peliculas///Death%20She%20Wrote%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DEADLY SUGAR DADDY (2020)LATINO
-https://tvinnov.online/Peliculas///Deadly%20Sugar%20Daddy%20(2020)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DEADLY DORM (2021)LATINO
-https://tvinnov.online/Peliculas///Deadly%20Dorm%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DEADLY DNA (2020)LATINO
-https://tvinnov.online/Peliculas///Deadly%20DNA%20(2020)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DE SLAG OM DE SCHELDE (LA BATALLA OLVIDADA) (2020)LATINO
-https://tvinnov.online/Peliculas///De%20Slag%20om%20de%20Schelde%20(La%20batalla%20olvidada)%20(2020)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DADDY’S PERFECT LITTLE GIRL (2021)LATINO
-https://tvinnov.online/Peliculas///Daddy%e2%80%99s%20Perfect%20Little%20Girl%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",DUNE LATINO
-https://tvinnov.online/Peliculas///DUNE%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CUENTOS AL CAER LA NOCHE LATINO
-https://tvinnov.online/Peliculas///Cuentos%20al%20caer%20la%20noche%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CRY MACHO LATINO
-https://tvinnov.online/Peliculas///Cry%20Macho%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",COSMIC SIN (2021)LATINO
-https://tvinnov.online/Peliculas///Cosmic%20Sin%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",COPSHOP (2021)LATINO CINE CAM
-https://tvinnov.online/Peliculas///Copshop%20(2021)LATINO%20CINE%20CAM.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CONVERGENCE COURAGE IN A CRISIS (2021)LATINO
-https://tvinnov.online/Peliculas///Convergence%20Courage%20in%20a%20Crisis%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",COMPANION (2021)LATINO
-https://tvinnov.online/Peliculas///Companion%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",COCO LATINO
-https://tvinnov.online/Peliculas///Coco%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",COASTAL ELITES (2020)LATINO
-https://tvinnov.online/Peliculas///Coastal%20Elites%20(2020)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CLEANER LATINO
-https://tvinnov.online/Peliculas///Cleaner%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CLAUDIA NO SE QUIERE MORIR (2021)LATINO
-https://tvinnov.online/Peliculas///Claudia%20no%20se%20quiere%20morir%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CHRISTMAS AT THE PLAZA (2019)LATINO
-https://tvinnov.online/Peliculas///Christmas%20at%20the%20Plaza%20(2019)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CHRISTMAS MATCHMAKERS LATINO
-https://tvinnov.online/Peliculas///Christmas%20Matchmakers%20latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CHEN MO DE ZHENG REN (BODIES AT REST) (2019)LATINO
-https://tvinnov.online/Peliculas///Chen%20mo%20de%20zheng%20ren%20(Bodies%20at%20Rest)%20(2019)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CENICIENTA 2021 LATINO
-https://tvinnov.online/Peliculas///Cenicienta%202021%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CATS AND PEACHTOPIA (LAS AVENTURAS DE TOMMY) (2018)LATINO
-https://tvinnov.online/Peliculas///Cats%20and%20Peachtopia%20(Las%20aventuras%20de%20Tommy)%20(2018)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CATALINA LA CATRINA ESPECIAL DIA DE MUERTOS (2021) LATINO
-https://tvinnov.online/Peliculas///Catalina%20La%20Catrina%20Especial%20Dia%20de%20muertos%20(2021)%20latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CAROL LATINO
-https://tvinnov.online/Peliculas///Carol%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CANVAS (S) (2020)LATINO
-https://tvinnov.online/Peliculas///Canvas%20(S)%20(2020)latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CALEB (2020)LATINO
-https://tvinnov.online/Peliculas///Caleb%20(2020)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CONTAGIO ALTA MAR LATINO
-https://tvinnov.online/Peliculas///CONTAGIO%20ALTA%20MAR%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BUTTER LATINO
-https://tvinnov.online/Peliculas///Butter%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BURIAL GROUND MASSACRE (2021)LATINO CAM
-https://tvinnov.online/Peliculas///Burial%20Ground%20Massacre%20(2021)LATINO%20CAM.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BRIGHT SAMURAI SOUL (BRIGHT ALMA DE SAMURAI) (2021)LATINO
-https://tvinnov.online/Peliculas///Bright%20Samurai%20Soul%20(Bright%20Alma%20de%20samur%c3%a1i)%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BRIDGET JONES AL BORDE DE LA RAZON LATINO
-https://tvinnov.online/Peliculas///Bridget%20Jones%20Al%20Borde%20de%20la%20Raz%c3%b3n%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BOOGIE (2021)LATINO
-https://tvinnov.online/Peliculas///Boogie%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BLACK EASTER (2021)LATINO
-https://tvinnov.online/Peliculas///Black%20Easter%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BIRDS OF PARADISE (AVES DEL PARAISO) (2021)LATINO
-https://tvinnov.online/Peliculas///Birds%20of%20Paradise%20(Aves%20del%20para%c3%adso)%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BENEATH US (2019)LATINO
-https://tvinnov.online/Peliculas///Beneath%20Us%20(2019)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BEING THE RICARDOS 2021 WEB-DL LIVIANO 1080P LATINO
-https://tvinnov.online/Peliculas///Being.the.Ricardos.2021.WEB-DL.LIVIANO.1080p.Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BEARRY (2021)LATINO
-https://tvinnov.online/Peliculas///Bearry%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BATMAN MUERTE EN LA FAMILIA (2020) 1080P WEB-DL LATINO
-https://tvinnov.online/Peliculas///Batman%20Muerte%20en%20la%20familia%20(2020)%201080p%20WEB-DL%20Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BARBIE BIG CITY, BIG DREAMS LATINO
-https://tvinnov.online/Peliculas///Barbie%20Big%20City,%20Big%20Dreams%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BAJO EL HECHIZO DEL AMOR LATINO
-https://tvinnov.online/Peliculas///Bajo%20el%20Hechizo%20del%20Amor%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BACK TO THE OUTBACK 2021 WEB-DL 1080P LATINO
-https://tvinnov.online/Peliculas///Back.to.the.Outback.2021.WEB-DL.1080p.Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",BAC NORD BRIGADA ANTICRIMINAL (2021)LATINO
-https://tvinnov.online/Peliculas///BAC%20Nord%20Brigada%20Anticriminal%20(2021)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A UN PASO DE MI LATINO
-https://tvinnov.online/Peliculas///A%20un%20paso%20de%20m%c3%ad%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A UN PASO DE MI (2021)LATINO
-https://tvinnov.online/Peliculas///A%20un%20paso%20de%20m%c3%ad%20(2021)latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",ANTLERS (ESPIRITUS OSCUROS) (2021)LATINO CAM
-https://tvinnov.online/Peliculas///Antlers%20(Esp%c3%adritus%20oscuros)%20(2021)LATINO%20CAM.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",ANONYMOUSLY YOURS 2021 WEB-DL 1080P LATINO
-https://tvinnov.online/Peliculas///Anonymously.Yours.2021.WEB-DL.1080p.Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",AMOR LATINO 2012
-https://tvinnov.online/Peliculas///Amor%20LATINO%202012.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",ALLAN THE DOG LATINO
-https://tvinnov.online/Peliculas///Allan%20The%20Dog%20LATINO.mp4
-
-# --- ★ PELICULAS ★ (bloque 200) ---
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",ALGO AZUL (2021) 1080P WEB-DL LATINO
-https://tvinnov.online/Peliculas///Algo%20azul%20(2021)%201080p%20WEB-DL%20Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",ADVENTURES OF A MATHEMATICIAN LATINO
-https://tvinnov.online/Peliculas///Adventures%20of%20a%20Mathematician%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",ABOMINABLE LATINO
-https://tvinnov.online/Peliculas///Abominable%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A STAR IS BORN LATINO
-https://tvinnov.online/Peliculas///A%20Star%20Is%20Born%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A ROYAL CHRISTMAS ENGAGEMENT (2020)LATINO
-https://tvinnov.online/Peliculas///A%20Royal%20Christmas%20Engagement%20(2020)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A QUIET PLACE PART II LATINO
-https://tvinnov.online/Peliculas///A%20Quiet%20Place%20Part%20II%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A NICE GIRL LIKE YOU (2020)LATINO
-https://tvinnov.online/Peliculas///A%20Nice%20Girl%20Like%20You%20(2020)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A MOTHER KNOWS WORST (2020)LATINO
-https://tvinnov.online/Peliculas///A%20Mother%20Knows%20Worst%20(2020)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A MENINA QUE MATOU OS PAIS (2020)LATINO
-https://tvinnov.online/Peliculas///A%20Menina%20que%20Matou%20os%20Pais%20(2020)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A CHRISTMAS PRINCESS LATINO
-https://tvinnov.online/Peliculas///A%20Christmas%20Princess%20latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A NAIJA CHRISTMAS 2021 WEB-DL 1080P LATINO [02]
-https://tvinnov.online/Peliculas///A.Naija.Christmas.2021.WEB-DL.1080p.Latino.%5b02%5d.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A CASTLE FOR CHRISTMAS 2021 WEB-DL 1080P LATINO
-https://tvinnov.online/Peliculas///A.Castle.For.Christmas.2021.WEB-DL.1080p.Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A CALIFORNIA CHRISTMAS CITY LIGHTS 2021 WEB-DL 1080P LATINO
-https://tvinnov.online/Peliculas///A.California.Christmas.City.Lights.2021.WEB-DL.1080p.Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",A BOY CALLED CHRISTMAS 2021 WEB-DL 1080P LATINO
-https://tvinnov.online/Peliculas///A.Boy.Called.Christmas.2021.WEB-DL.1080p.Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",108 COSTURAS LATINO
-https://tvinnov.online/Peliculas///108%20Costuras%20LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",14 PEAKS NOTHING IS IMPOSSIBLE 2021 WEB-DL 1080P LATINO
-https://tvinnov.online/Peliculas///14.Peaks.Nothing.Is.Impossible.2021.WEB-DL.1080p.Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",8 BIT CHRISTMAS 2021 WEB-DL 1080P LATINO
-https://tvinnov.online/Peliculas///8.Bit.Christmas.2021.WEB-DL.1080p.Latino.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",007 OTRO DIA PARA MORIR (2002)LATINO
-https://tvinnov.online/Peliculas///007%20Otro%20d%c3%ada%20para%20morir%20(2002)LATINO.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",(REMINISCENCIA) (2021)LATINO
-https://tvinnov.online/Peliculas///(Reminiscencia)%20(2021)LATINO.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",TEMPORADA DE HURACANES
 http://208.88.245.85/nuevo/temporada.de.huracanes.lat.2023.mkv
@@ -1199,77 +918,11 @@ https://playyonogames.in/live.php?id=678&format=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",WBTV At the Movies [Geo-blocked]
 https://livetv-fa.tubi.video/wbd-at-the-movies/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Zee Cinemalu (1080p)
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeecinemalu
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Zylo Cine Western (1080p) [Geo-blocked]
 https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Zylo Ciné Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Drácula: Mar de sangre (2023)
-https://media.esplay.one/player?sbx=1&ref=cuevanahd&hash=U2FsdGVkX1%2FtRlhDWADylygWfHZfbR%2Bi4DDFKLS5xouDUlT9SkQ4xfUoIDFFU9z2UCnizqALSnHqNkL%2FBNZGik6CEiqfIugBRScxkKf84E%2F%2FhcDDRKFQEAoQHRxr%2FCgR&image=https://static.esplay.one/movie/gallery/original/nUixrAu0tLn9PwfN7iaBoSAiHkm.webp
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Angela (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Foctubre%2FVer%20Angela%20online%20HD%20-%20Cuevana%202.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Acusado (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Accused%20online%20HD%20-%20Cuevana%202.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",¿Quieres ser mi hijo? (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20%C2%BFQuieres%20ser%20mi...%20hijo-%20online%20HD%20-%20Cuevana%202.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",La libreta negra (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20La%20Libreta%20Negra%20online%20HD%20-%20Cuevana%202.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Los indestructibles 4 (2023) CAM
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Los%20indestructibles%204%20online%20HD%20-%20Cuevana%202.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Elemental (2023)
-https://media.esplay.one/player?sbx=1&ref=cuevanahd&hash=U2FsdGVkX1%2BhdOQpO7mCXgjuZPcjwUSsRrPur8VG%2FSn4oJM3kR5K5RBWlDpgilO9xObBhHvttCOtakFaPRCzlEz7ApQxH2Y4W6OGCC850vN8l0QIFFwn9cwpeH9IICyj&image=https://static.esplay.one/movie/gallery/original/7Yuf6j6N76SfqRWqT0I0ZUjICc2.webp
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Hazme el favor (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Hazme%20el%20favor%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Tortugas Ninja: Caos Mutante (2023) CAM
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Tortugas%20Ninja-%20Caos%20mutante%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol%20CAM.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Zom 100 (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Zom%20100-%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Gran Turismo (2023)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Gran%20Turismo-%20De%20jugador%20a%20corredor%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Sexo sí... pero seguro (Booty Call) (1997)
-https://bgtv.xyz/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvc2V4by1zaS1wZXJvLXNlZ3Vyby1ib290eS1jYWxs
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Indiana Jones and the Dial of Destiny (2023)
-https://tvinnov.online/CINECAN/ndiana%20Jones%20and%20the%20Dial%20of%20Destiny/ndiana%20Jones%20and%20the%20Dial%20of%20Destiny%20lat%20cam.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",John Wick Chapter 4 (2023)
-https://tvinnov.online/CINECAN/John%20Wick%20Chapter%204%20CINE%20CAM%20INGLES/John.Wick.Chapter.4.2023.HDCAM.c1nem4.x264-.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Sing 2 (2021)
-https://tvinnov.online/CINECAN/Sing%202%202021%20HDCAM%20850MB%20INGLES.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Resident Evil Welcome to Raccoon City
-https://tvinnov.online/CINECAN/Resident%20Evil%20Welcome%20to%20Raccoon%20City%20LAT%20CAM.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",The Popes Exorcist
-https://tvinnov.online/CINECAN/The%20Popes%20Exorcist%20CAM/The%20Popes%20Exorcist%20CAMLAT.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",The Matrix Resurrections (Matrix Resurrecciones) (2021)sub
-https://tvinnov.online/CINECAN/The%20Matrix%20Resurrections%20(Matrix%20Resurrecciones)%20(2021)sub.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",The Matrix Resurrections 2021
-https://tvinnov.online/CINECAN/The.Matrix.Resurrections.2021.HDCAM.850MB.c1nem4.x264-SUNSCREEN.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Creed III (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Ffeb%2FVer%20Creed%20III%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",STR41GHT 0UTT4 04KL4ND 2 2017 HDRIP 720P SUBESP
-https://tvinnov.online/Peliculas///Straight%20Outta%20Compton/str41ght%200utt4%2004kl4nd%202%202017%20hdrip%20720p%20subesp/str41ght.0utt4.04kl4nd.2.2017.hdrip.720p.subesp.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Movies!
 https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
@@ -1288,8 +941,6 @@ http://190.2.212.209:8050/play/a0q3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",WBTV Classic Cinema [Geo-blocked]
 https://livetv-fa.tubi.video/wbd-classic-cinema/playlist.m3u8
-
-# --- ★ PELICULAS ★ (bloque 300) ---
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
@@ -1318,9 +969,6 @@ http://14.199.164.20:4001/play/a0q7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",WILLOW SERIE
 https://d1yei2z3i6k35z.cloudfront.net/2102480/63a8fa97960c4_NCDPZ4K.mp4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",COBRA KAI T5 SERIE
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fagosto%2FVer%20Turno%20de%20d%C3%ADa%20(2022)%20Online%20%E2%80%93%20CineHDPlus.mp4
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",SyFy (España) (🇪🇸)
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/.m3u8
 
@@ -1338,6 +986,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MOVIEDOME
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615c1e5ce3039400070a0547/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd31-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bdf8fde-2533-4c16-b518-58e9777e93ca
+
+# --- ★ PELICULAS ★ (bloque 200) ---
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Moviepilot TV mit Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e9c30-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=78e36af2-8f00-409e-9fb6-605436ac888c
@@ -1486,54 +1136,6 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",The Archive (1080p)
 https://cineverse.g-mana.live/media/09899328-5b22-4d3e-ba1e-111856798c99/playlist_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",THE PERFECT FIND
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11916
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",THE MACHINE
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11917
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",YOU HURT MY FEELINGS
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11918
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",NIMONA
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11919
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",CONFIDENTIAL INFORMANT
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11920
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",AWOKEN
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11921
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",LUST STORIES 2
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11923
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",MAQUILLAME OTRA VEZ
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11924
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",THE SCRAPPER
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11925
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",THE OFFERING
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11927
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",SAVING SLOANE
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11928
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",NOCEBO
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11929
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",THE STORY OF NINTENDO
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11930
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",UN LUGAR POR EL QUE LUCHAR
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11931
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",7 DAYS TO VEGAS
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11922
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",TRANSFOrMERS: RISE THE BEASTS
-https://m3ukodi.com/developers/myworldtv/pelisx.php?11940
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
@@ -1542,9 +1144,6 @@ https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlis
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Lenz Film
 https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Lifetime Movies East
-https://fl7.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Manoranjan Movies (720p)
 https://cdn-2.pishow.tv/live/228/master.m3u8
@@ -1557,12 +1156,6 @@ https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/am
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",Spider Man No Way Home (2021)
-https://tvinnov.online/CINECAN/Spider_Man_No_Way_Home_2021_English_CAM.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",INTERSTELLAR (2014) 1080P BLURAY X265 HEVC ENGLISH AC3 5 1 - MEGUIL
-https://tvinnov.online/Peliculas///Interstellar%20(2014)%201080p%20BluRay%20x265%20HEVC%20English%20AC3%205.1%20-%20MeGUiL.mkv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ PELICULAS ★",La casa de las flores: La película (2021)
 http://vod.tuxchannel.mx/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv
@@ -1719,9 +1312,6 @@ https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",M95 Televisión Marbella (1080p) [Not 24/7]
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Mega TV (720p) [Not 24/7]
-https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Miavision TV [Not 24/7]
 https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
 
@@ -1764,14 +1354,8 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7]
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Tele Sondrio News (480p) [Not 24/7]
-https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",VTV (1080p) [Not 24/7]
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Así Sucede Guanajuato (720p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Assemblée Nationale (1080p) [Not 24/7]
 http://anorigin.vodalys.com/live/live36/index36_12856975.m3u8?DVR=
@@ -1793,9 +1377,6 @@ https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/p
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Cali TV (540p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Campus TV (480p) [Not 24/7]
-https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Cana TV Digital (720p) [Not 24/7]
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
@@ -1860,9 +1441,6 @@ http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",MGM HD [Not 24/7]
 https://v2.catcast.tv/content/44051/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",VHS TV [Not 24/7]
-https://v2.catcast.tv/content/47609/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Afarin TV (720p) [Not 24/7]
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 
@@ -1890,8 +1468,6 @@ http://112.25.48.68/live/program/live/hdnba2/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",百事通体育3 (1080p) [Not 24/7]
 http://112.25.48.68/live/program/live/hdnba3/4000000/mnf.m3u8
 
-# --- ★ SERIES ★ (bloque 100) ---
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",百事通体育7 (1080p) [Not 24/7]
 http://112.25.48.68/live/program/live/hdnba7/4000000/mnf.m3u8
 
@@ -1907,8 +1483,7 @@ http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",LOOPER
 http://ia601509.us.archive.org/16/items/2_20191128_20191128_1720/15.mp4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",LEGO HIDDEN SIDE NIGHT OF THE HARBINGER (2020)LATINO
-https://tvinnov.online/Peliculas///LEGO%20Hidden%20Side%20Night%20of%20the%20Harbinger%20(2020)LATINO.mp4
+# --- ★ SERIES ★ (bloque 100) ---
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Binge
 https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
@@ -1966,9 +1541,6 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Saryarqa (720p) [Not 24/7]
 https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Somos Topo Point TV (1080p) [Not 24/7]
-https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",SRC Media TV [Not 24/7]
 https://video.misistemareseller.com/srctv/srctv/chunklist_w846929347.m3u8
@@ -2147,9 +1719,6 @@ https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pucón TV (1080p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Santa María Televisión (720p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TV Quellón (1080p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 
@@ -2192,13 +1761,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Nosey
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e93d0a80d8d10008a0181e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6613-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1fbd0fc2-487d-4b2e-8f46-ca423dcfe679
 
-# --- ★ SERIES ★ (bloque 200) ---
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Novelas con la abuela
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7814-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=00d6c705-94dd-4af1-8f07-d8b02bcc1884
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",ON Vie Drama
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
@@ -2220,6 +1784,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
+
+# --- ★ SERIES ★ (bloque 200) ---
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Pluto TV Fantastic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2
@@ -2319,9 +1885,6 @@ https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbaladdrama/playl
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Sitcom Legends
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/633354b63df9700007f6a1b7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb091-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=54f06638-b224-4723-bc88-9b4986c6cd72
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Sony Channel
-https://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Star Channel Latin America South (1080p)
 http://181.188.216.5:18000/play/a0pm/index.m3u8
@@ -2493,8 +2056,6 @@ http://200.60.124.19:29000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",AXN ✅
 http://181.119.86.68:8000/play/c016/index.m3u8
-
-# --- ★ SERIES ★ (bloque 300) ---
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",AXN - Opción 2 ✅
 http://181.119.86.68:8000/play/c016/index.m3u8
