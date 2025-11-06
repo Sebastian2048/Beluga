@@ -1,5 +1,14 @@
 #EXTM3U
-# Segmentado y Reclasificado por Beluga - 2025-11-06 13:39
+# Segmentado y Reclasificado por Beluga - 2025-11-06 16:06
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ABIERTOS ★",Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ABIERTOS ★",Canal 9 Televida Mendoza
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ABIERTOS ★",Barbe Canal 9 (Guatemala) (🇬🇹)
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ABIERTOS ★",ARG: Canal 9 imagen del Nordeste DASH ✅
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8

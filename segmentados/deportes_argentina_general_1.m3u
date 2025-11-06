@@ -1,27 +1,18 @@
 #EXTM3U
-# Segmentado y Saneado por Beluga - 2025-11-06 13:39
+# Segmentado y Saneado por Beluga - 2025-11-06 16:05
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",Oman Sports TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:0,Campus Lore Sports (USA) (🇺🇸)
-https://linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8
-
-#EXTINF:0,Esports Max (Venezuela) (🇻🇪)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",Esports Max (Venezuela) (🇻🇪)
 http://vcpar.myplaytv.com/esportsmax/live/.m3u8
 
-#EXTINF:0,Horizon Sports (USA) (🇺🇸)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",Horizon Sports (USA) (🇺🇸)
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
 
-#EXTINF:0,Oman Sports (Oman) (🇴🇲)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",Oman Sports (Oman) (🇴🇲)
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/.m3u8
 
-#EXTINF:0,Star Sports 1 (India) (🇮🇳)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",Star Sports 1 (India) (🇮🇳)
 http://41.205.93.154/STARSPORTS1/index.m3u8
-
-#EXTINF:0,Swerve Sports (USA) (🇺🇸)
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-
-#EXTINF:0,Trace Sport Stars (España) (🇪🇸)
-https://tracesportstars-samsunges.amagi.tv/playlist.m3u8
 

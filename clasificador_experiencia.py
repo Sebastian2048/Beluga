@@ -1,7 +1,5 @@
 # clasificador_experiencia.py
 
-# clasificador_experiencia.py
-
 import re
 
 # 🧠 Diccionario de subtemas por experiencia

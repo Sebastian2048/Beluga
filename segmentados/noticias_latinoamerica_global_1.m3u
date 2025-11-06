@@ -1,90 +1,9 @@
 #EXTM3U
-# Segmentado y Saneado por Beluga - 2025-11-06 13:39
+# Segmentado y Saneado por Beluga - 2025-11-06 16:05
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",CGTN ESPAÑOL - Opción 2 ✅
-http://181.119.85.222:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",TNE (720p) [Not 24/7]
+https://v2.tustreaming.cl/tnetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",CTNI - Opción 2 ✅
-https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",CTNI ✅
-https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",CTNi (Christian Television Network International) (480p) [Not 24/7] ✅
-https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",EWTN - Opción 2 ✅
-http://179.51.136.19:8000/play/a0uv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",EWTN Africa Asia (720p) ✅
-https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",EWTN el Canal Católico (720p) [Not 24/7] ✅
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",EWTN en Español DASH ✅
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",EWTN ✅
-http://179.51.136.19:8000/play/a0uv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",NTN 24 Horas - Opción 2 ✅
-http://179.51.136.19:8000/play/a1gs/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",NTN 24 Horas ✅
-http://179.51.136.19:8000/play/a1gs/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",TNE | CL ✅
-https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RP ★",ITN [Not 24/7]
-https://ca-rt.onetv.app:8443/ITN/index-0.m3u8
-
-#EXTINF:0,ANTV (Vietnam) (🇻🇳)
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-
-#EXTINF:0,ATN (Colombia) (🇨🇴)
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/.m3u8
-
-#EXTINF:0,BTN (Corea Del Sur) (🇰🇷)
-https://btn.nowcdn.co.kr/btn/btnlive2m/.m3u8
-
-#EXTINF:0,CGTN Español (España) (🇪🇸)
-https://tinyurl.com/64pebsyb?.m3u8
-
-#EXTINF:0,CRTV Cao Bằng (Vietnam) (🇻🇳)
-http://118.107.85.4:1935/live/smil:CRTV.smil/.m3u8
-
-#EXTINF:0,CTN (Camboya) (🇰🇭)
-http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
-
-#EXTINF:0,CTNi (Puerto Rico) (🇵🇷)
-https://video1.getstreamhosting.com:1936/8226/8226/.m3u8
-
-#EXTINF:0,CTV Cà Mau (Vietnam) (🇻🇳)
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
-
-#EXTINF:0,DN2 Dong Nai 2 (Vietnam) (🇻🇳)
-http://118.107.85.4:1935/live/smil:DNTV2.smil/.m3u8
-
-#EXTINF:0,DRT (Vietnam) (🇻🇳)
-https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/.m3u8
-
-#EXTINF:0,DTV Dien Bien (Vietnam) (🇻🇳)
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
-
-#EXTINF:0,EWTN (España) (🇪🇸)
-https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8
-
-#EXTINF:0,EWTN (España) (🇪🇸)
-https://ott2.hdlatam.tv/live_abr/Stream68/playlist.m3u8
-
-#EXTINF:0,EWTN (USA) (🇺🇸)
-https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
-
-#EXTINF:0,EWTN (Ucrania) (🇺🇦)
-https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
-
-#EXTINF:0,THDT Dong Thap (Vietnam) (🇻🇳)
-https://618b88f69e53b.streamlock.net/THDT/thdttv/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ SERIES ★",like Gecko) Chrome/92.0.4515.131 Safari/537.36",TNE Canal 58 (720p) [Not 24/7]
+https://stream.castr.com/5da89a909db964293ad13301/live_3d61f47076c511f089458d738ae60887/index.fmp4.m3u8
 

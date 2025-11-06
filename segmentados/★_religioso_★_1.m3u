@@ -1,5 +1,8 @@
 #EXTM3U
-# Segmentado y Reclasificado por Beluga - 2025-11-06 13:39
+# Segmentado y Reclasificado por Beluga - 2025-11-06 16:06
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Canal 7 Neuquén
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",LaLiga Inside ✅
 https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=25da1304-5015-41a1-a9a8-54d95ffecca6&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -15,6 +18,15 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",TOP Barça ✅
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6347&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=2b7dfe92-859a-4b74-8909-ce6960a37a65&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",ET Entertainment Tonight (USA) (🇺🇸)
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",MS Motor (Italia) (🇮🇹)
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",We Love Cars (USA) (🇺🇸)
+https://30a-tv.com/feeds/vidaa/cars.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Africa 24 (540p) ✅
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
@@ -55,8 +67,35 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Tel1 ✅
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Vos y TV (720p) [Not 24/7] ✅
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Classica Stingray (Canada) (🇨🇦)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Discover The Palm Beaches (USA) (🇺🇸)
+https://live.feed.thepalmbeaches.tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Djazz Stingray (Canada) (🇨🇦)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Naturescape Stingray (Canada) (🇨🇦)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Reflet (Costa De Marfil) (🇨🇮)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",The Spa Stingray (Canada) (🇨🇦)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",ZenLife Stingray (Canada) (🇨🇦)
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",MTV Teen Mom
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1eea55-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7d2ddc91-5fb2-44c2-aeed-f44a38cfe217
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",MTV Teen Mom
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae044a-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1702995c-e680-43a7-aab2-8ad161900add
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",MTV The Shores
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1160-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fedd9a53-46f2-4eed-8ea9-ef20093e1a28
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com ✅
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
@@ -178,117 +217,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",WXWZ-LD1 (MásTV Canal 23) (720p) ✅
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",#EXTVLCOPT:http-referrer=https://suyaitv.cl ✅
-https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",03.3Lifetime ✅
-http://200.60.124.19:29000/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",24/7 Betty la Fea (e)(1080)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/94575.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",24/7 Betty la Fea (e)(SD)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/92230.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",24/7 Cafe con Aroma de Mujer
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/94793.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",24/7 La Casa de los Famosos (Colombia)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/107768.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",CAN-Cottage Life (M)(720)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45830.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",CONFERENCE | 14:00 Betis vs Fiorentina - 01/05 (Z)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/118253.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",CONFERENCE | 14:00 Betis vs Fiorentina - 01/05 (Z)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/118254.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",CONFERENCE | 14:00 Djurgården vs Chelsea - 01/05 (Z)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/118255.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",CONFERENCE | 14:00 Djurgården vs Chelsea - 01/05 (Z)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/118256.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",ESP - #Vamos (TV)(1080)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8134.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",ESP - Hollywood (T)(720)
-http://tv.zapping.life:8080/live/mgwleor/4lhLaPDAOh/8190.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Fear Zone (USA) (🇺🇸)
-https://tinyurl.com/y6h95uft?.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Feva Music (Canada) (🇨🇦)
 https://tinyurl.com/2dvydmwb?.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Galavision Albuquerqueanta Fe ✅
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278706/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",LIFETIM- NKT ✅
-http://138.0.228.250:44380/play/dPNW18hr5GmIb3T/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Liga MX Fem | 19:00 Chivas vs America (L)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/118240.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Luz Naciente TV | CR
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88005.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Mi Canal (Guatemala) (🇬🇹)
-http://ms.android-iptv.com/live/V7rA1feOk3/FkGkEh8Spe/6671.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",NCTV | CL
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88007.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Nuevo Tiempo | BR
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88008.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Oasis TV | CO
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88009.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Radio Vida Curico | CL
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88010.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Restaurando Vidas TV | CL
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88011.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Sublime Gracia TV | AR
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88013.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",TV Aparecida | BR
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88015.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",TV CRET | SV
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88016.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",TV Gracia | CO
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88017.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",TV Rede Gospel | BR
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88018.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",TV Universal | BR
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88019.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",USA-CW Nashville (L)(1080)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17908.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",USA-FYI (L)(1080)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17912.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",USA-LIFETIME (L)(1080)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17923.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",USA-Showtime Women (L)(1080)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17931.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Unimas Albuquerqueanta Fe ✅
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278724/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",Vida Television | US
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/88020.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ RELIGIOSO ★",■■■ CONFERENCE LEAGUE ■■■
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/118252.m3u8
 

@@ -1,9 +1,0 @@
-#EXTM3U
-# Segmentado y Reclasificado por Beluga - 2025-11-06 13:39
-
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/RT.png" group-title="Internacionales",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/Telesur.png" group-title="Internacionales",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-

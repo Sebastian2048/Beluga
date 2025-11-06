@@ -1,17 +1,11 @@
 #EXTM3U
-# Segmentado y Saneado por Beluga - 2025-11-06 13:39
+# Segmentado y Saneado por Beluga - 2025-11-06 16:05
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",FOX Sports 1 (España) (🇪🇸)
 http://191.52.214.5:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",ESPN Deportes (España) (🇪🇸)
 http://190.92.10.66:4000/play/a003/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",FOX Sports (España) (🇪🇸)
-http://181.78.106.127:9000/play/ca031/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",FOX Sports (Mexico) (🇲🇽)
-http://200.115.120.1:8000/play/ca041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",FOX Sports (USA) (🇺🇸)
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
