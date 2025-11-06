@@ -1,0 +1,66 @@
+#EXTM3U
+# Segmentado y Saneado por Beluga - 2025-11-06 07:52
+
+#EXTINF:0,ESPN 4 (España) (🇪🇸)
+http://190.102.246.93:9005/play/a019/index.m3u8
+
+#EXTINF:0,ESPN 4 (Mexico) (🇲🇽)
+http://181.78.106.127:9000/play/ca036/index.m3u8
+
+#EXTINF:0,ESPN 5 (España) (🇪🇸)
+http://190.83.2.172:8081/play/a07g/index.m3u8
+
+#EXTINF:0,ESPN 5 (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0w7/index.m3u8
+
+#EXTINF:0,ESPN 6 (Argentina) (🇦🇷)
+http://190.102.246.93:9005/play/a02m/index.m3u8
+
+#EXTINF:0,ESPN 6 (Brasil/Portugal) (🇧🇷🇵🇹)
+http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1005.m3u8
+
+#EXTINF:0,ESPN 6 (Chile) (🇨🇱)
+http://181.78.82.6:46090/play/a00w/index.m3u8
+
+#EXTINF:0,ESPN 6 (Colombia) (🇨🇴)
+http://190.61.42.218:9000/play/a062/index.m3u8
+
+#EXTINF:0,ESPN 6 (España) (🇪🇸)
+http://181.78.105.146:8800/play/a056/index.m3u8
+
+#EXTINF:0,ESPN 6 (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0qo/index.m3u8
+
+#EXTINF:0,ESPN 6 (Peru) (🇵🇪)
+http://191.52.214.5:8000/play/a026/index.m3u8
+
+#EXTINF:0,ESPN Deportes (España) (🇪🇸)
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+#EXTINF:0,ESPN News (USA) (🇺🇸)
+https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:0,ESPN Premium (Colombia) (🇨🇴)
+http://45.184.87.142:8000/play/a045/index.m3u8
+
+#EXTINF:0,ESPN Premium (España) (🇪🇸)
+http://190.123.90.146:8000/play/a00f/index.m3u8
+
+#EXTINF:0,ESPN Premium (Mexico) (🇲🇽)
+http://190.102.246.93:9005/play/a00x/index.m3u8
+
+#EXTINF:0,ESPN U (USA) (🇺🇸)
+https://fl5.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:0,FOX Sports (España) (🇪🇸)
+http://181.78.106.127:9000/play/ca031/index.m3u8
+
+#EXTINF:0,FOX Sports (Mexico) (🇲🇽)
+http://200.115.120.1:8000/play/ca041/index.m3u8
+
+#EXTINF:0,FOX Sports (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+
+#EXTINF:0,FOX Sports 1 (España) (🇪🇸)
+http://191.52.214.5:8000/play/a03u/index.m3u8
+

@@ -1,0 +1,99 @@
+#EXTM3U
+# Segmentado y Saneado por Beluga - 2025-11-06 07:52
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Series (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="ESPAÑA",ESP - M. Series (TV)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8203.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Comedia (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ESPAÑA",ESP - Movistar Comedia (T)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8208.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Drama (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ESPAÑA",ESP - Movistar Drama (T)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8210.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Serie (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="ESPAÑA",ESP - Movistar Serie (T)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8214.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Series Mania (T)(720)" tvg-logo="http://23.153.216.121:25461/images/85e47ac07ac9d6416168a97e33fa969a.png" group-title="ESPAÑA",ESP - Series Mania (T)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8233.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA-Comedy Central (L)(1080)" tvg-logo="http://live.detodotvplay.com:8080/images/Vr3YdK0gaDZO8lmPtrcMXr-e6aLrLTzEyNXiL96EGlF75W-1FoehLJX4oDmuN_9ic9Vi_sSUmjYmdo0iEjxgkA.png" group-title="USA-ENTERTAINMENT",USA-Comedy Central (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17906.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA-FX (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/2b4b0860eaa2f9bfa10bc89adb74b11d.png" group-title="USA-ENTERTAINMENT",USA-FX (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17911.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA-Hallmark Drama (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/d1a6af3718f7cb08407daaa491c82d0d.png" group-title="USA-ENTERTAINMENT",USA-Hallmark Drama (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17913.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA-FXM (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/4d95d05a4fc4eadbc3b9dde67afdca39.png" group-title="USA-ENTERTAINMENT",USA-FXM (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17967.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA-FXX (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/97b28a5dca2f280cb23a854fad129d1d.png" group-title="USA-ENTERTAINMENT",USA-FXX (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17968.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CAN-FX (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-FX (M)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45847.m3u8
+
+#EXTINF:0,13 Teleseries (Chile) (🇨🇱)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:0,Citra Drama (Indonesia) (🇮🇩)
+https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8
+
+#EXTINF:0,Comedy Central (Argentina) (🇦🇷)
+http://181.78.105.146:6060/play/a03m/index.m3u8
+
+#EXTINF:0,Comedy Central (Chile) (🇨🇱)
+http://181.78.105.146:8800/play/a064/index.m3u8
+
+#EXTINF:0,Comedy Central (Colombia) (🇨🇴)
+http://190.83.2.172:8081/play/a05l/index.m3u8
+
+#EXTINF:0,Comedy Central (España) (🇪🇸)
+http://45.5.117.182:8000/play/a0id/index.m3u8
+
+#EXTINF:0,Comedy Central (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0pb/index.m3u8
+
+#EXTINF:0,Comedy Central (USA) (🇺🇸)
+https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:0,Comedy Central (USA) (🇺🇸)
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:0,DC Distrito Comedia (España) (🇪🇸)
+http://181.78.105.146:8800/play/a07q/index.m3u8
+
+#EXTINF:0,DC Distrito Comedia (Mexico) (🇲🇽)
+http://181.78.105.146:2000/play/a08t/index.m3u8
+
+#EXTINF:0,FX (España) (🇪🇸)
+http://181.78.105.146:6060/play/a02j/index.m3u8
+
+#EXTINF:0,FX Comedy (Polonia) (🇵🇱)
+http://175.107.244.52:4457/play/a07m/index.m3u8
+
+#EXTINF:0,Series (España) (🇪🇸)
+https://is.gd/BRVOiZ?.m3u8
+
+#EXTINF:0,Series (España) (🇪🇸)
+https://is.gd/ZSBZPX?.m3u8
+
+#EXTINF:0,Series Comedia (España) (🇪🇸)
+https://is.gd/tit1cW?.m3u8
+
+#EXTINF:0,Series Con Ñ (España) (🇪🇸)
+https://is.gd/d5rzud?.m3u8
+
+#EXTINF:0,Series Retro (España) (🇪🇸)
+https://is.gd/IyWDEJ?.m3u8
+
+#EXTINF:0,Star Channel (España) (🇪🇸)
+http://190.83.2.172:8081/play/a05a/index.m3u8
+
+#EXTINF:0,TFX (Francia) (🇫🇷)
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/11.ts
+
+#EXTINF:0,Warner (España) (🇪🇸)
+http://181.78.106.127:9000/play/ca071/index.m3u8
+

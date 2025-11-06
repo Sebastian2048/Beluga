@@ -1,57 +1,16 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-11-04 12:52
-
-#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies;Series",Paramount Network Spain (1080p)
-http://176.65.146.237:8401/play/a09i/index.m3u8
-
-#EXTINF:0,Cinemax (España) (🇪🇸)
-http://181.78.106.127:9000/play/ca079/index.m3u8
-
 #EXTINF:-1,03.6Cinemax ✅
-http://200.60.124.19:29000/play/a025/index.m3u8
-
-#EXTINF:-1,03.Cinemax ✅
-http://200.60.124.19:29000/play/a025
-
-#EXTINF:-1,Cinemax HD ✅
-http://45.176.71.20:1689/play/a0mz
-
-#EXTINF:-1,Cinemax HD - Opción 2 ✅
-http://45.176.71.20:1689/play/a0mz
-
-#EXTINF:-1,NN STUDIO UNIVERSAL ✅
-http://45.176.193.222:2405/play/a05v
-
-#EXTINF:-1,Studio Universal ✅
-http://190.61.117.35:8000/play/a029
-
-#EXTINF:-1,STUDIO UNIVERSAL - Opción 2 ✅
-http://181.119.86.68:8000/play/c024/index.m3u8
-
-#EXTINF:-1 tvg-id="45" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/studio-universal-logo.png" group-title="Películas",STUDIO UNIVERSAL
-http://181.119.86.68:8000/play/c024/index.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/paramount-logo.png" group-title="Películas",PARAMOUNT
-http://179.51.136.19:8000/play/a1am/index.m3u8
-
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_logo.svg/512px-Cinemax_logo.svg.png" group-title="🎬 Películas",Cinemax
-http://181.78.201.70:8000/play/a0hi/index.m3u8
-
-#EXTINF:-1 tvg-id="studio-universal" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Studio_Universal.svg/512px-Studio_Universal.svg.png" group-title="🎬 Películas",Studio Universal
-http://181.119.86.68:8000/play/c024/index.m3u8
-
-#EXTINF:-1 tvg-id="paramount" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Network_logo.svg/512px-Paramount_Network_logo.svg.png" group-title="🎬 Películas",Paramount
-http://179.51.136.19:8000/play/a1am/index.m3u8
+https://proxy.movian.tv:29000/play/a025/index.m3u8
 
 #EXTINF:-1,CinemaxD ✅
-http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278467/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+https://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278467/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
 
-#EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:-1,Film&Arts ✅
+https://proxy.movian.tv:8000/play/a1go/index.m3u8
 
-#EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Movies",Paramount+ Picks
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
+#EXTINF:-1,Film&Arts - Opción 2 ✅
+https://proxy.movian.tv:8000/play/a1go/index.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="Undefined",Studio Universal Latin America
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL - Opción 2 ✅
+https://proxy.movian.tv:8000/play/c024/index.m3u8
 

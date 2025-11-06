@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,History Hit - Golden Cinema ✅
+https://lds-timeline-rakuten.proxy.movian.tv/amagi/hls/amagi_hls_data_rakutenAA-lds-timeline-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 3D (e)" tvg-logo="https://i.postimg.cc/0QTfJzsp/Proyectox-Cinema-22.png" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 3D (e)
+https://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/95623.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Live Action (e)" tvg-logo="https://i.postimg.cc/7hN2YhYP/Proyectox-Cinema.png" group-title="24/7 CINEMA ",24/7 Cinema - Disney Live Action (e)
+https://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/95624.m3u8
+
+#EXTINF:0,Cine Kids (España) (🇪🇸)
+https://stream.ads.ottera.tv/playlist.m3u8
+

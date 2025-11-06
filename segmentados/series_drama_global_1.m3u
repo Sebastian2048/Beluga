@@ -1,48 +1,16 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-11-04 12:52
-
-#EXTINF:0,AXN (España/UK) (🇪🇸🇬🇧)
-https://streamer1.nexgen.bz/AXN/index.m3u8
-
-#EXTINF:0,AXN (Mexico) (🇲🇽)
-http://181.78.105.146:6060/play/a04m/index.m3u8
-
 #EXTINF:-1,07.8AXN ✅
-http://200.60.124.19:29000/play/a027/index.m3u8
-
-#EXTINF:-1,07.8AXN - Opción 2 ✅
-http://200.60.124.19:29000/play/a027
-
-#EXTINF:-1,122_AXN ✅
-http://87.120.179.187:8000/play/a00o
+https://proxy.movian.tv:29000/play/a027/index.m3u8
 
 #EXTINF:-1,AXN ✅
-http://181.119.86.68:8000/play/c016/index.m3u8
+https://proxy.movian.tv:8000/play/c016/index.m3u8
 
 #EXTINF:-1,AXN - Opción 2 ✅
-http://181.119.86.68:8000/play/c016/index.m3u8
-
-#EXTINF:-1 tvg-id="49" tvg-name="Universal TV" tvg-logo="https://i.imgur.com/universal-tv-logo.png" group-title="Series",Universal TV
-http://181.119.85.222:8000/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-id="54" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/axn-logo.png" group-title="Películas",AXN HD
-http://181.119.85.222:8000/play/a01y/index.m3u8
-
-#EXTINF:-1 tvg-id="universal-tv" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="📺 Series",Universal TV
-http://181.119.85.222:8000/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="🎬 Películas",AXN HD
-http://181.119.85.222:8000/play/a01y/index.m3u8
+https://proxy.movian.tv:8000/play/c016/index.m3u8
 
 #EXTINF:-1,Universal TV ✅
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/universaltv/master.m3u8
+https://tv.teleclub.xyz/stream/server_3/entretenimiento/universaltv/master.m3u8
 
 #EXTINF:-1,Universal TV - Opción 2 ✅
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8
-
-#EXTINF:-1 tvg-id="AXNAsia.sg@Vietnam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Vietnam (1080p)
-https://tv.ddns.vn/tv/axnhd/index.m3u8
-
-#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="General",Imagen Universal TV
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+https://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8
 

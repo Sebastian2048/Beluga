@@ -1,0 +1,63 @@
+#EXTM3U
+# Segmentado y Saneado por Beluga - 2025-11-06 07:52
+
+#EXTINF:-1,03.7FX ✅
+http://200.60.124.19:29000/play/a029/index.m3u8
+
+#EXTINF:-1,07.1Warner ✅
+http://200.60.124.19:29000/play/a013/index.m3u8
+
+#EXTINF:-1,07.3STAR CHANNEL SD ✅
+http://200.60.124.19:29000/play/a01r/index.m3u8
+
+#EXTINF:-1,A3SERIES ✅
+http://181.119.85.222:8000/play/a02g/index.m3u8
+
+#EXTINF:-1,A3SERIES - Opción 2 ✅
+http://181.119.85.222:8000/play/a02g/index.m3u8
+
+#EXTINF:-1,ATRES SERIES ✅
+http://179.51.136.19:8000/play/a1bw/index.m3u8
+
+#EXTINF:-1,ATRES SERIES - Opción 2 ✅
+http://179.51.136.19:8000/play/a1bw/index.m3u8
+
+#EXTINF:-1,Comedy Central ✅
+http://179.51.136.19:8000/play/a1bt/index.m3u8
+
+#EXTINF:-1,Comedy Central - Opción 2 ✅
+http://179.51.136.19:8000/play/a1bt/index.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA ✅
+http://181.119.85.222:8000/play/a02f/index.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA - Opción 2 ✅
+http://181.119.85.222:8000/play/a02f/index.m3u8
+
+#EXTINF:-1,FX - Opción 2 ✅
+http://181.119.85.222:8000/play/a00s/index.m3u8
+
+#EXTINF:-1,Star Channel ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/278438/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
+#EXTINF:-1,Universal Comedia ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158698/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
+#EXTINF:-1,USA SERIES ✅
+http://181.119.86.68:8000/play/b041/index.m3u8
+
+#EXTINF:-1,USA SERIES - Opción 2 ✅
+http://181.119.86.68:8000/play/b041/index.m3u8
+
+#EXTINF:-1,Warner - Opción 2 ✅
+http://181.78.106.127:9000/play/ca071/index.m3u8
+
+#EXTINF:-1,Warner Channel HD ✅
+http://179.51.136.19:8000/play/a0pu/index.m3u8
+
+#EXTINF:-1,Warner Channel HD - Opción 2 ✅
+http://179.51.136.19:8000/play/a17z/index.m3u8
+
+#EXTINF:-1,Warner Tv ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/165455/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+

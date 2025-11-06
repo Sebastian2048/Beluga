@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ESP - FOX Life (T)(720)" tvg-logo="http://23.153.216.121:25461/images/2d9102ee2f4eee4a648286168a5503d5.png" group-title="ESPAÑA",ESP - FOX Life (T)(720)
+https://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8185.m3u8
+
+#EXTINF:0,FOX Soul (USA) (🇺🇸)
+https://fox-foxsoul-samsungus.proxy.movian.tv/amagi/playlist.m3u8
+
+#EXTINF:0,Portal FoxMix (Chile) (🇨🇱)
+https://panel.tvstream.cl:1936/8040/8040/.m3u8
+

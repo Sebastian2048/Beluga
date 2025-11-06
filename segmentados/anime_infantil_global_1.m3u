@@ -1,6 +1,7 @@
 #EXTM3U
-# Segmentado por Beluga - 2025-11-04 12:52
+#EXTINF:-1,BabyTv ✅
+https://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158661/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ ANIME ★",Discovery Kids - Opción 2 ✅
-http://181.78.23.26:45000/play/a00h
+#EXTINF:-1,DISCOVERY KIDS ✅
+https://proxy.movian.tv:8000/play/b020/index.m3u8
 

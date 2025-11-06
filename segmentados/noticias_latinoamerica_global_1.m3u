@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,CGTN ESPAÑOL - Opción 2 ✅
+https://proxy.movian.tv:8000/play/a01p/index.m3u8
+
+#EXTINF:-1,CTNI ✅
+https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
+
+#EXTINF:-1,CTNI - Opción 2 ✅
+https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8
+
+#EXTINF:-1,CTNi (Christian Television Network International) (480p) [Not 24/7] ✅
+https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+
+#EXTINF:-1,EWTN ✅
+https://proxy.movian.tv:8000/play/a0uv/index.m3u8
+
+#EXTINF:-1,EWTN - Opción 2 ✅
+https://proxy.movian.tv:8000/play/a0uv/index.m3u8
+
+#EXTINF:-1,EWTN Africa Asia (720p) ✅
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+
+#EXTINF:-1,EWTN el Canal Católico (720p) [Not 24/7] ✅
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1,EWTN en Español DASH ✅
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1,NTN 24 Horas ✅
+https://proxy.movian.tv:8000/play/a1gs/index.m3u8
+
+#EXTINF:-1,NTN 24 Horas - Opción 2 ✅
+https://proxy.movian.tv:8000/play/a1gs/index.m3u8
+
+#EXTINF:-1,TNE | CL ✅
+https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
+
