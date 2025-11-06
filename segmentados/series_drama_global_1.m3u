@@ -1,0 +1,15 @@
+#EXTM3U
+# Segmentado y Saneado por Beluga - 2025-11-06 13:39
+
+#EXTINF:0,AXN (Colombia/USA) (🇨🇴🇺🇸)
+http://190.83.2.172:8081/play/a06t/index.m3u8
+
+#EXTINF:0,AXN (España/UK) (🇪🇸🇬🇧)
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:0,AXN (Indonesia) (🇮🇩)
+https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/index.m3u8
+
+#EXTINF:0,AXN (Mexico) (🇲🇽)
+http://181.78.105.146:6060/play/a04m/index.m3u8
+

@@ -1,0 +1,18 @@
+#EXTM3U
+# Segmentado y Saneado por Beluga - 2025-11-06 13:39
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",Fox Sports 1 MX ✅
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1mx/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",Fox Sports 2 MX - Opción 2 ✅
+http://tv.teleclub.xyz/stream/server_3/deportes/foxsports2mx/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",Fox Sports 2 MX ✅
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2mx/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",Fox Sports 3 MX ✅
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3mx/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DEPORTES ★",Fox Sports Premium MX ✅
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsportspremiummx/master.m3u8
+

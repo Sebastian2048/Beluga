@@ -1,0 +1,48 @@
+#EXTM3U
+# Segmentado y Saneado por Beluga - 2025-11-06 13:39
+
+#EXTINF:0,Milenial (Peru) (🇵🇪)
+https://www.milenial.news/salida/milenial.m3u8
+
+#EXTINF:0,NRJ 12 (Francia) (🇫🇷)
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/12.m3u8
+
+#EXTINF:0,Now 70's (Nueva Zelanda) (🇳🇿)
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Now 80's (Nueva Zelanda) (🇳🇿)
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Now Rock (Nueva Zelanda) (🇳🇿)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Peru (Peru) (🇵🇪)
+https://bantel-cdn1.iptvperu.tv:1936/nacls_mov/atvnoticiasmovil_t6.stream/playlist.m3u8
+
+#EXTINF:0,Pura Noticia (Chile) (🇨🇱)
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+
+#EXTINF:0,RMC Decouverte (Francia) (🇫🇷)
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/24.ts
+
+#EXTINF:0,RMC Story (Francia) (🇫🇷)
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/23.ts
+
+#EXTINF:0,RTL 102.5 News (Italia) (🇮🇹)
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+
+#EXTINF:0,Record News (Brasil) (🇧🇷)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+
+#EXTINF:0,TF1 (Francia) (🇫🇷)
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/1.ts
+
+#EXTINF:0,The Grio (USA) (🇺🇸)
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:0,The Ultimate Music (USA) (🇺🇸)
+https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2.m3u8
+
+#EXTINF:0,VNP (Peru) (🇵🇪)
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+

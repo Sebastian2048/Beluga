@@ -1,0 +1,51 @@
+#EXTM3U
+# Segmentado y Saneado por Beluga - 2025-11-06 13:39
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/24HTVE.png" group-title="Noticias",Canal 24 Horas RTVE
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:0,24h (España) (🇪🇸)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:0,Berita Satu (Indonesia) (🇮🇩)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:0,Clan (España) (🇪🇸)
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+#EXTINF:0,Colimdo (Rep. Dominicana) (🇩🇴)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+
+#EXTINF:0,Crom (Rep. Dominicana) (🇩🇴)
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+
+#EXTINF:0,Cuentame (España) (🇪🇸)
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+
+#EXTINF:0,Docs (España) (🇪🇸)
+https://ztnr.rtve.es/ztnr/6987938.m3u8
+
+#EXTINF:0,Epoca (España) (🇪🇸)
+https://ztnr.rtve.es/ztnr/6922467.m3u8
+
+#EXTINF:0,Estrella News (Mexico) (🇲🇽)
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Radio 3 (España) (🇪🇸)
+https://ztnr.rtve.es/ztnr/2795617.m3u8
+
+#EXTINF:0,Radio 4 (España) (🇪🇸)
+https://ztnr.rtve.es/ztnr/6782425.m3u8
+
+#EXTINF:0,Radio Nacional (España) (🇪🇸)
+https://ztnr.rtve.es/ztnr/1938076.m3u8
+
+#EXTINF:0,Stormcast Novelas (España) (🇪🇸)
+https://ac864287d62a45c9b168029d11a28e2a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_StormcastNovelas/playlist.m3u8
+
+#EXTINF:0,Unsolved Mysteries (USA) (🇺🇸)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8
+
+#EXTINF:0,VTV Canal 32 (Rep. Dominicana) (🇩🇴)
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+

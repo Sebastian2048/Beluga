@@ -1,0 +1,9 @@
+#EXTM3U
+# Segmentado y Reclasificado por Beluga - 2025-11-06 13:39
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/MusicTop.jpg" group-title="Música",MusicTop
+http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/TierramiaTV.jpg" group-title="Música",Tierramia TV
+http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+

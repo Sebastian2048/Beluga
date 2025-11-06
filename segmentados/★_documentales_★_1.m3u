@@ -1,0 +1,57 @@
+#EXTM3U
+# Segmentado y Reclasificado por Beluga - 2025-11-06 13:39
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",ANIMAL PLANET ✅
+http://181.119.85.222:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",HISTORY - Opción 2 ✅
+http://181.119.85.222:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",HISTORY 2 - Opción 2 ✅
+http://181.119.85.222:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",HISTORY ✅
+http://181.119.86.68:8000/play/c020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",HISTORY2 - Opción 2 ✅
+http://181.119.86.68:8000/play/c019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",HISTORY2 ✅
+http://181.119.86.68:8000/play/c019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",History Channel - Opción 2 ✅
+http://179.51.136.19:8000/play/a1be/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",History Hunters ✅
+https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",NATGEO - Opción 2 ✅
+http://181.119.86.68:8000/play/b004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",NATGEO ✅
+http://181.119.86.68:8000/play/b004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",03.4Animal Planet ✅
+http://200.60.124.19:29000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",NatGeo Mundo - Opción 2 ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/161262/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",NatGeo Mundo ✅
+http://belami.top/L0K0TV/movian/mov/scripts/BUDTV-19/158865/index.m3u8?kt=DB2nHHkDthLZJguDKkaSzVhfUPez82McDKh8uF
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",DOC-Love Nature (TV)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9845.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",DOC-Smithsonian Channel (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9850.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",DOC-TRU TV (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9852.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",ESP - Historia (T)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8188.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ DOCUMENTALES ★",ESP - Historia (TV)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8189.m3u8
+

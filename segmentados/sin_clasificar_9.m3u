@@ -1,0 +1,765 @@
+#EXTM3U
+# Segmentado y Reclasificado por Beluga - 2025-11-06 13:39
+
+#EXTINF:0,Esperia (Italia) (🇮🇹)
+http://wms.shared.streamshow.it/esperiatv/esperiatv/.m3u8
+
+#EXTINF:0,Esquipulas (Guatemala) (🇬🇹)
+https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
+
+#EXTINF:0,Estrella (Mexico) (🇲🇽)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+
+#EXTINF:0,Estrella (Mexico) (🇲🇽)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-localnow/playlist.m3u8
+
+#EXTINF:0,FTV Fuego (Rep. Dominicana) (🇩🇴)
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+
+#EXTINF:0,Faites Entrer L'Accuse (Francia) (🇫🇷)
+https://d19baroazz7jh.cloudfront.net/Faitesentrerlaccuse_FR.m3u8
+
+#EXTINF:0,Faro De Santidad (Puerto Rico) (🇵🇷)
+https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/.m3u8
+
+#EXTINF:0,Faros (Chipre) (🇨🇾)
+https://s1.cystream.net/live/faros1/playlist.m3u8
+
+#EXTINF:0,Faros 2 (Chipre) (🇨🇾)
+https://s1.cystream.net/live/faros2/playlist.m3u8
+
+#EXTINF:0,Farra Play (Paraguay) (🇵🇾)
+http://159.203.148.226/live/farra.m3u8
+
+#EXTINF:0,Fashion (Francia) (🇫🇷)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+
+#EXTINF:0,Fibwi (España) (🇪🇸)
+https://hostcdn3.fibwi.com/fibwi_diario/index.m3u8
+
+#EXTINF:0,Ficom Channel (Indonesia) (🇮🇩)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
+#EXTINF:0,Fitmaxx (Chile) (🇨🇱)
+https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+
+#EXTINF:0,France 24 (España) (🇪🇸)
+https://marine2.miplay.cl/france24/playlist.m3u8
+
+#EXTINF:0,Fuel (Brasil) (🇧🇷)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+
+#EXTINF:0,Fuel (UK) (🇬🇧)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
+
+#EXTINF:0,Galicia Mociñ@s (España) (🇪🇸)
+https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
+
+#EXTINF:0,Garabito (Costa Rica) (🇨🇷)
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/.m3u8
+
+#EXTINF:0,Garage (Argentina) (🇦🇷)
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:0,Giro Visual (Chile) (🇨🇱)
+https://marine2.miplay.cl/girovisual/playlist.m3u8
+
+#EXTINF:0,Heart Radio Aruba (Paises Bajos) (🇳🇱)
+https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
+
+#EXTINF:0,Hechicera (Peru) (🇵🇪)
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+
+#EXTINF:0,Hits FreeTV (España) (🇪🇸)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+
+#EXTINF:0,Holvoet (Chile) (🇨🇱)
+https://marine2.miplay.cl/holvoettv/index.m3u8
+
+#EXTINF:0,ILCE (Mexico) (🇲🇽)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/.m3u8
+
+#EXTINF:0,IN Insight (Canada) (🇨🇦)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insightcanada/playlist.m3u8
+
+#EXTINF:0,ITV Patagonia (Chile) (🇨🇱)
+https://marine2.miplay.cl/itv/index.m3u8
+
+#EXTINF:0,Ikra (Turquia) (🇹🇷)
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+
+#EXTINF:0,Iquique (Chile) (🇨🇱)
+https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
+
+#EXTINF:0,Justicia (Mexico) (🇲🇽)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/.m3u8
+
+#EXTINF:0,K Pop (Chile) (🇨🇱)
+https://marine2.miplay.cl/kpop/playlist.m3u8
+
+#EXTINF:0,Karavana (Chile) (🇨🇱)
+https://marine2.miplay.cl/karavanatv/playlist.m3u8
+
+#EXTINF:0,Key (USA) (🇺🇸)
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/.m3u8
+
+#EXTINF:0,La Red (Chile) (🇨🇱)
+https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF:0,Labrar Radio (Chile) (🇨🇱)
+https://glb.bozztv.com/glb/ssh101/radiolabrartv/playlist.m3u8
+
+#EXTINF:0,Lead Story (Australia) (🇦🇺)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
+
+#EXTINF:0,Lead Story (Nueva Zelanda) (🇳🇿)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
+
+#EXTINF:0,Litus (Argentina) (🇦🇷)
+https://stream.arcast.com.ar/litustv/litustv/.m3u8
+
+#EXTINF:0,Lone Star (USA) (🇺🇸)
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Loupe (USA) (🇺🇸)
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+
+#EXTINF:0,M&S Mundo & Sabor (Chile) (🇨🇱)
+https://marine2.miplay.cl/mundoysabor/index.m3u8
+
+#EXTINF:0,M-Net (Macedonia) (🇲🇰)
+http://ares.mnet.mk/hls/mnet.m3u8
+
+#EXTINF:0,MTRSPT 1 (España) (🇪🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8
+
+#EXTINF:0,MX Classic (Chile) (🇨🇱)
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
+
+#EXTINF:0,MX Family (Chile) (🇨🇱)
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+
+#EXTINF:0,MX Prime (Chile) (🇨🇱)
+https://marine2.miplay.cl/mxprime/playlist.m3u8
+
+#EXTINF:0,Mahar (Myanmar) (🇲🇲)
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:0,Malatya Vuslat (Turquia) (🇹🇷)
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+
+#EXTINF:0,Mar La Paz (Mexico) (🇲🇽)
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/.m3u8
+
+#EXTINF:0,Mar Puerto Vallarta (Mexico) (🇲🇽)
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/.m3u8
+
+#EXTINF:0,MarVision (Peru) (🇵🇪)
+https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
+
+#EXTINF:0,Marbella (España) (🇪🇸)
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+
+#EXTINF:0,Marga Marga (Chile) (🇨🇱)
+https://v1.tustreaming.cl/margamargatv/index.m3u8
+
+#EXTINF:0,Maria Vision (Mexico) (🇲🇽)
+https://1601580044.rsc.cdn77.org/live/_jcn_/Mariavision/.m3u8
+
+#EXTINF:0,Match Arena (Rusia) (🇷🇺)
+http://194.143.148.28:8080/MatchArena/index.m3u8
+
+#EXTINF:0,Mega (Bolivia) (🇧🇴)
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
+
+#EXTINF:0,Mega 90.9 FM (Argentina) (🇦🇷)
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/.m3u8
+
+#EXTINF:0,Mi (Paraguay) (🇵🇾)
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+
+#EXTINF:0,Molina (Chile) (🇨🇱)
+https://marine2.miplay.cl/molinatv/playlist.m3u8
+
+#EXTINF:0,Motor Racing (USA) (🇺🇸)
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+
+#EXTINF:0,NTV (Chile) (🇨🇱)
+https://marine2.miplay.cl/ntv/index.m3u8
+
+#EXTINF:0,Neo (Argentina) (🇦🇷)
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:0,Neox (Argentina) (🇦🇷)
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
+#EXTINF:0,Nortevision (España) (🇪🇸)
+http://amaru.dyndns.org:8870/0.m3u8
+
+#EXTINF:0,Nueva Region (Chile) (🇨🇱)
+http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
+
+#EXTINF:0,ON Tour Channel (Chile) (🇨🇱)
+https://marine2.miplay.cl/ontour/playlist.m3u8
+
+#EXTINF:0,Old (Chile) (🇨🇱)
+https://marine2.miplay.cl/old/playlist.m3u8
+
+#EXTINF:0,Old Music (Chile) (🇨🇱)
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
+
+#EXTINF:0,One (Peru) (🇵🇪)
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:0,Paradise (Honduras) (🇭🇳)
+https://s2.tvdatta.com:3840/live/paradisetvlive.m3u8
+
+#EXTINF:0,People Are Awesome (España) (🇪🇸)
+https://jukin-peopleareawesome-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Power Max (Argentina) (🇦🇷)
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:0,Publica Pampeana (Argentina) (🇦🇷)
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/.m3u8
+
+#EXTINF:0,Pucon (Chile) (🇨🇱)
+https://marine2.miplay.cl/pucontv/playlist.m3u8
+
+#EXTINF:0,Quatro (Argentina) (🇦🇷)
+https://stream.arcast.live/quatro/quatro/.m3u8
+
+#EXTINF:0,Quietude (USA) (🇺🇸)
+https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
+
+#EXTINF:0,Quinta Region (Chile) (🇨🇱)
+https://stmv5.voxtvhd.com.br/tvquintaregion/tvquintaregion/.m3u8
+
+#EXTINF:0,RTV Arberia Retro Hits (Albania) (🇦🇱)
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+
+#EXTINF:0,RTV4 Muzike (Albania) (🇦🇱)
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+
+#EXTINF:0,RU Music (Rusia) (🇷🇺)
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+
+#EXTINF:0,Red+ (Colombia) (🇨🇴)
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:0,Retro Palmares (Costa Rica) (🇨🇷)
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:0,SCÑ San Carlos Ñuble (Chile) (🇨🇱)
+https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/.m3u8
+
+#EXTINF:0,STV Santiago (Chile) (🇨🇱)
+https://marine2.miplay.cl/stgotv/index.m3u8
+
+#EXTINF:0,Sabadell Valles (España) (🇪🇸)
+https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
+
+#EXTINF:0,Salud (Chile) (🇨🇱)
+https://marine2.miplay.cl/tvsalud/playlist.m3u8
+
+#EXTINF:0,Sicardi (Argentina) (🇦🇷)
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:0,Solidaria (España) (🇪🇸)
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+#EXTINF:0,Somos Topo Point (Rep. Dominicana) (🇩🇴)
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+
+#EXTINF:0,Somos Uno Chaco (Argentina) (🇦🇷)
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/.m3u8
+
+#EXTINF:0,Song (Armenia) (🇦🇲)
+https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
+
+#EXTINF:0,Star Plus Music (Macedonia) (🇲🇰)
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+
+#EXTINF:0,Star TVE (España) (🇪🇸)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+#EXTINF:0,T13 (Chile) (🇨🇱)
+https://marine2.miplay.cl/t13/index.m3u8
+
+#EXTINF:0,TA Teleangol (Chile) (🇨🇱)
+https://marine2.miplay.cl/teleangol/index.m3u8
+
+#EXTINF:0,TC Telecosta (Guatemala) (🇬🇹)
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:0,TMA Caraibes (Francia) (🇫🇷)
+http://hls.tmacaraibes.com/live/index.m3u8
+
+#EXTINF:0,TU (Bolivia) (🇧🇴)
+https://solo.disfrutaenlared.com:1936/tutv/tutv/.m3u8
+
+#EXTINF:0,TV+ (Chile) (🇨🇱)
+https://marine2.miplay.cl/tvmas/playlist.m3u8
+
+#EXTINF:0,TVP Publica (Argentina) (🇦🇷)
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8
+
+#EXTINF:0,TVU Concepcion (Chile) (🇨🇱)
+https://marine2.miplay.cl/tvu/index.m3u8
+
+#EXTINF:0,Tarapoto (Peru) (🇵🇪)
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+
+#EXTINF:0,Taronja Anoia (España) (🇪🇸)
+https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8
+
+#EXTINF:0,Taronja Central (España) (🇪🇸)
+https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
+
+#EXTINF:0,Taronja Osona (España) (🇪🇸)
+https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
+
+#EXTINF:0,Tastemade (España) (🇪🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+
+#EXTINF:0,Tatlises (Turquia) (🇹🇷)
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+
+#EXTINF:0,Teletur (Rep. Dominicana) (🇩🇴)
+https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
+
+#EXTINF:0,Telpin (Argentina) (🇦🇷)
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/.m3u8
+
+#EXTINF:0,Tevex (Chile) (🇨🇱)
+https://marine2.miplay.cl/tevex/playlist.m3u8
+
+#EXTINF:0,Top Barça (España) (🇪🇸)
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+
+#EXTINF:0,Trailers (España) (🇪🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
+
+#EXTINF:0,Trece (Paraguay) (🇵🇾)
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/.m3u8
+
+#EXTINF:0,UNLP (Argentina) (🇦🇷)
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:0,Unicanal (Paraguay) (🇵🇾)
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/.m3u8
+
+#EXTINF:0,Univision 24/7 (USA) (🇺🇸)
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+
+#EXTINF:0,VIVA (Rusia) (🇷🇺)
+https://glb.bozztv.com/glb/ssh101/vivarussia/playlist.m3u8
+
+#EXTINF:0,VTV Canal 17 (Bolivia) (🇧🇴)
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
+
+#EXTINF:0,Venus Media (Paraguay) (🇵🇾)
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
+
+#EXTINF:0,Vevo Pop (Australia) (🇦🇺)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+
+#EXTINF:0,Vevo Retro Rock (Australia) (🇦🇺)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+
+#EXTINF:0,Vision (Rep. Dominicana) (🇩🇴)
+https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
+
+#EXTINF:0,Wapp (Chile) (🇨🇱)
+https://dai.google.com/linear/hls/event/5Pqo1pb3QbGsAUyajQFxQQ/master.m3u8
+
+#EXTINF:0,Wild Earth (USA) (🇺🇸)
+https://wildearth-roku.amagi.tv/master.m3u8
+
+#EXTINF:0,XITE Hits (UK) (🇬🇧)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+
+#EXTINF:0,XITE Rock On (Alemania) (🇩🇪)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-rockoneu-samsungde/playlist.m3u8
+
+#EXTINF:0,Zaracay (Ecuador) (🇪🇨)
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+
+#EXTINF:0,☀️ IPTV World Mix By @Sunstar_16 ☀️
+https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/MagisTV+.m3u
+
+#EXTINF:0,101 Malaga (España) (🇪🇸)
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
+
+#EXTINF:0,103 Cadena (Argentina) (🇦🇷)
+http://arcast.net:1935/cadena103/cadena103/.m3u8
+
+#EXTINF:0,12 Parma (Italia) (🇮🇹)
+https://5929b138b139d.streamlock.net/12TVParma/livestream/.m3u8
+
+#EXTINF:0,13 Esquipulas (Guatemala) (🇬🇹)
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+#EXTINF:0,13 La Rioja (Argentina) (🇦🇷)
+http://arcast.net:1935/mp/mp/.m3u8
+
+#EXTINF:0,13C (Chile) (🇨🇱)
+https://marine2.miplay.cl/canal13cable/index.m3u8
+
+#EXTINF:0,2 Quellon (Chile) (🇨🇱)
+https://marine2.miplay.cl/canal2quellon/index.m3u8
+
+#EXTINF:0,21 HD Pelis (Argentina) (🇦🇷)
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:0,3 Las Heras (Argentina) (🇦🇷)
+https://stream.arcast.com.ar/canal3/canal3/.m3u8
+
+#EXTINF:0,5 Pico Truncado (Argentina) (🇦🇷)
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/.m3u8
+
+#EXTINF:0,6 Digital (Argentina) (🇦🇷)
+https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
+
+#EXTINF:0,6 El Seis (Argentina) (🇦🇷)
+https://stream.arcast.com.ar/canal6moreno/canal6moreno/.m3u8
+
+#EXTINF:0,7 Canale 7 (Italia) (🇮🇹)
+http://wms.shared.streamshow.it/canale7/canale7/.m3u8
+
+#EXTINF:0,7 Jujuy (Argentina) (🇦🇷)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
+
+#EXTINF:0,7 Neuquen (Argentina) (🇦🇷)
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/.m3u8
+
+#EXTINF:0,7 Santiago del Estero (Argentina) (🇦🇷)
+https://stream.arcast.com.ar/envivo/castv/.m3u8
+
+#EXTINF:0,8 Santa Rosa (Guatemala) (🇬🇹)
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+
+#EXTINF:0,8 Valle De Uco (Argentina) (🇦🇷)
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+
+#EXTINF:0,9 Litoral (Argentina) (🇦🇷)
+https://stream.arcast.live/ahora/ahora/.m3u8
+
+#EXTINF:0,ABC 8 Dallas (USA) (🇺🇸)
+https://tinyurl.com/mvs9kaar?.m3u8
+
+#EXTINF:0,AFV (España) (🇪🇸)
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+
+#EXTINF:0,ANT Antares (Peru) (🇵🇪)
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/.m3u8
+
+#EXTINF:0,AS (Turquia) (🇹🇷)
+https://waw2.artiyerelmedya.net/astv/bant1/.m3u8
+
+#EXTINF:0,AS Az Star (Azerbaiyan) (🇦🇿)
+https://live.livestreamtv.ca/azstar/azstar/.m3u8
+
+#EXTINF:0,Adventure Earth (UK) (🇬🇧)
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Aksu (Turquia) (🇹🇷)
+http://waw2.artiyerelmedya.net/aksutv/bant1/.m3u8
+
+#EXTINF:0,Al Wafa Tarim (Indonesia) (🇮🇩)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:0,Alacanti (España) (🇪🇸)
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+
+#EXTINF:0,Alcarria (España) (🇪🇸)
+https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+
+#EXTINF:0,Alcarrizos (Rep. Dominicana) (🇩🇴)
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/.m3u8
+
+#EXTINF:0,Alkarma Praise (USA) (🇺🇸)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/.m3u8
+
+#EXTINF:0,Altar (España) (🇪🇸)
+https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+
+#EXTINF:0,Alterna (Argentina) (🇦🇷)
+https://alternatv.ar/stream/hls/live.m3u8
+
+#EXTINF:0,America Estereo Ibarra (Ecuador) (🇪🇨)
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+
+#EXTINF:0,Antofagasta (Chile) (🇨🇱)
+https://marine2.miplay.cl/antofagastatv/index.m3u8
+
+#EXTINF:0,Arabi (España) (🇪🇸)
+https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
+
+#EXTINF:0,Arabica (Libano) (🇱🇧)
+http://istream.binarywaves.com:8081/hls/arabica/.m3u8
+
+#EXTINF:0,Arapuan (Brasil) (🇧🇷)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/.m3u8
+
+#EXTINF:0,Art (Bulgaria) (🇧🇬)
+https://stream.osc.bg/tvart/Stream3/.m3u8
+
+#EXTINF:0,ArtFlix (España) (🇪🇸)
+https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Artequatre (España) (🇪🇸)
+https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+
+#EXTINF:0,Asharq Documentary (Arabia Saudi) (🇸🇦)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+
+#EXTINF:0,Asmar (Rep. Dominicana) (🇩🇴)
+https://ss5.domint.net:3034/astv_str/asmartv/.m3u8
+
+#EXTINF:0,88 Stereo (Costa Rica) (🇨🇷)
+http://k3.usastreams.com:1935/CableLatino/88stereo/.m3u8
+
+#EXTINF:0,Anger Management (España) (🇪🇸)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementespanol-vidaa/playlist.m3u8
+
+#EXTINF:0,Miami Latino (USA) (🇺🇸)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/.m3u8
+
+#EXTINF:0,VM Latino (Costa Rica) (🇨🇷)
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/.m3u8
+
+#EXTINF:0,Brics Chinese (Rusia) (🇷🇺)
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+
+#EXTINF:0,Brics Spanish (Rusia) (🇷🇺)
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+
+#EXTINF:0,Bum (Colombia) (🇨🇴)
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:0,C2 Misiones (Argentina) (🇦🇷)
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
+#EXTINF:0,C9N (Paraguay) (🇵🇾)
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:0,CMTV 3 Costa Mesa's (USA) (🇺🇸)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/.m3u8
+
+#EXTINF:0,CNBC (Indonesia) (🇮🇩)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/.m3u8
+
+#EXTINF:0,CNC Santander (Colombia) (🇨🇴)
+https://movil.ejeserver.com/live/cncsantander.m3u8
+
+#EXTINF:0,CPN Cable Peru (Peru) (🇵🇪)
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:0,CR (Peru) (🇵🇪)
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:0,Canal 3 Biar (España) (🇪🇸)
+https://avantstreaming.es/hls/canal3.m3u8
+
+#EXTINF:0,Canal 4 Cat (España) (🇪🇸)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+
+#EXTINF:0,Canal 4 Mallorca (España) (🇪🇸)
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+
+#EXTINF:0,Canal 8 TV+ (Colombia) (🇨🇴)
+https://movil.ejeserver.com/live/canal8tv.m3u8
+
+#EXTINF:0,Canal Luz (Argentina) (🇦🇷)
+https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
+
+#EXTINF:0,Canal Mundo Vision (Colombia) (🇨🇴)
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+
+#EXTINF:0,Canal Sur (España) (🇪🇸)
+https://d35x6iaiw8f75z.cloudfront.net/canal_sur_andalucia_es.m3u8
+
+#EXTINF:0,Castro (Chile) (🇨🇱)
+https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
+
+#EXTINF:0,Celebes (Indonesia) (🇮🇩)
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+
+#EXTINF:0,Classics Runtime (España) (🇪🇸)
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+
+#EXTINF:0,Cocina Mediterranea (España) (🇪🇸)
+https://cloud.fastchannel.es/mic/manifiest/hls/cocinamediterranea/cocinamediterranea.m3u8
+
+#EXTINF:0,Cold Case Files (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
+
+#EXTINF:0,Consciente (España) (🇪🇸)
+https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+
+#EXTINF:0,Controversia (Peru) (🇵🇪)
+https://live.obslivestream.com/controversiatv/index.m3u8
+
+#EXTINF:0,Coral Gables (USA) (🇺🇸)
+https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/coralgables/G0937_004/.m3u8
+
+#EXTINF:0,Costa Del Sol (España) (🇪🇸)
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+
+#EXTINF:0,Costa Noroeste (España) (🇪🇸)
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+
+#EXTINF:0,Crime+Investigation (Indonesia) (🇮🇩)
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+
+#EXTINF:0,Crimen Runtime (España) (🇪🇸)
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+
+#EXTINF:0,Cristiana (España) (🇪🇸)
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+
+#EXTINF:0,Cumo (Peru) (🇵🇪)
+https://live.obslivestream.com/cumo/index.m3u8
+
+#EXTINF:0,Curiquingue (Ecuador) (🇪🇨)
+https://video2.lhdserver.es/pjtv/live.m3u8
+
+#EXTINF:0,DS Dunia Sinema (Malasia) (🇲🇾)
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:0,DTV (Hungria) (🇭🇺)
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+
+#EXTINF:0,Dagestan (Rusia) (🇷🇺)
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+
+#EXTINF:0,DerryTV 17 (USA) (🇺🇸)
+https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:0,DerryTV 23 (USA) (🇺🇸)
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:0,Deshi (Bangladesh) (🇧🇩)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:0,Desi Channel (India) (🇮🇳)
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:0,Diez Las Villas (España) (🇪🇸)
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8
+
+#EXTINF:0,Diez Ubeda (España) (🇪🇸)
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+
+#EXTINF:0,Digital 809 (Rep. Dominicana) (🇩🇴)
+https://inliveserver.com:1936/digital809tv/digital809tv/.m3u8
+
+#EXTINF:0,Divin Amour (Costa De Marfil) (🇨🇮)
+https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
+
+#EXTINF:0,Doñana (España) (🇪🇸)
+https://secure5.todostreaming.es/live/division-alm.m3u8
+
+#EXTINF:0,Dr. Gene Scott (USA) (🇺🇸)
+https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8
+
+#EXTINF:0,E Live (Italia) (🇮🇹)
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/.m3u8
+
+#EXTINF:0,ETB 3 (España) (🇪🇸)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/.m3u8
+
+#EXTINF:0,ETV Ekushey (Bangladesh) (🇧🇩)
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:0,Ecclesia (Costa De Marfil) (🇨🇮)
+https://helga.iptv2022.com/sh/Ecclesia_TV/index.m3u8
+
+#EXTINF:0,El Hormiguero (España) (🇪🇸)
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+
+#EXTINF:0,Elche 7 (España) (🇪🇸)
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+
+#EXTINF:0,Elshinta (Indonesia) (🇮🇩)
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+
+#EXTINF:0,Emporda (España) (🇪🇸)
+https://video3.lhdserver.es/empordatv2/live.m3u8
+
+#EXTINF:0,Energia (Chile) (🇨🇱)
+http://cdn.oneplaychile.cl:1935/regionales/energia-fm/playlist.m3u8
+
+#EXTINF:0,Enjoy (Chile) (🇨🇱)
+https://tvd-ejy.fluid.stream/EnjoyTelevision/livestream/.m3u8
+
+#EXTINF:0,Enntivision (Rep. Dominicana) (🇩🇴)
+https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8
+
+#EXTINF:0,Entelevision (Rep. Dominicana) (🇩🇴)
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+
+#EXTINF:0,Equipo De Investigacion (España) (🇪🇸)
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+
+#EXTINF:0,EsTuTele (España) (🇪🇸)
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+
+#EXTINF:0,Escambia County (USA) (🇺🇸)
+https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/.m3u8
+
+#EXTINF:0,Eslah (Afganistan) (🇦🇫)
+https://eslahtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0,Espansione (Italia) (🇮🇹)
+https://srvx1.selftv.video/espansione/smil:live.smil/.m3u8
+
+#EXTINF:0,Este Canal (España) (🇪🇸)
+http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+
+#EXTINF:0,Estrella (Mexico) (🇲🇽)
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0,Extrema (Costa Rica) (🇨🇷)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/.m3u8
+
+#EXTINF:0,FBI Files (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8
+
+#EXTINF:0,FM Del Sol (Argentina) (🇦🇷)
+https://streamyes.alsolnet.com/fmdelsoltv/live/.m3u8
+
+#EXTINF:0,FM O Dia RJ (Brasil) (🇧🇷)
+https://cdn.livespanel.com/live/mobile/playlist.m3u8
+
+#EXTINF:0,Fantastica Radio (Ecuador) (🇪🇨)
+http://190.107.232.9:8082/livestream/stream.m3u8
+
+#EXTINF:0,Fashion Africa (Francia) (🇫🇷)
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+
+#EXTINF:0,Fashion Midnite Secrets (Francia) (🇫🇷)
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/.m3u8
+
+#EXTINF:0,Favorita (Chile) (🇨🇱)
+https://streamyes.alsolnet.com/radiofavoritatv/live/.m3u8
+
+#EXTINF:0,Filstalwelle (Alemania) (🇩🇪)
+https://h055.video-stream-hosting.de/filstalwelle-live/mp4:livestream/.m3u8
+
+#EXTINF:0,Fisica O Quimica (España) (🇪🇸)
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
+
+#EXTINF:0,Flooxer (España) (🇪🇸)
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+
+#EXTINF:0,Forensic Files (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
+
+#EXTINF:0,Fresh (Rusia) (🇷🇺)
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+
+#EXTINF:0,Fresh (Sudafrica) (🇿🇦)
+https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8
+

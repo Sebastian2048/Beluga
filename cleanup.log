@@ -1,0 +1,5 @@
+[2025-11-06 14:05] Token de cuenta de servicio de 1Password eliminado del historial.
+Reemplazo: TOKEN_REAL → REMOVED
+Commits reescritos: 116
+HEAD final: 4f3cb58
+Push forzado a: https://github.com/Sebastian2048/Beluga

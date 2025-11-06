@@ -1,0 +1,39 @@
+#EXTM3U
+# Segmentado y Saneado por Beluga - 2025-11-06 13:39
+
+#EXTINF:0,Comedy Central (Argentina) (🇦🇷)
+http://181.78.105.146:6060/play/a03m/index.m3u8
+
+#EXTINF:0,Comedy Central (Chile) (🇨🇱)
+http://181.78.105.146:8800/play/a064/index.m3u8
+
+#EXTINF:0,Comedy Central (Colombia) (🇨🇴)
+http://190.83.2.172:8081/play/a05l/index.m3u8
+
+#EXTINF:0,Comedy Central (España) (🇪🇸)
+http://45.5.117.182:8000/play/a0id/index.m3u8
+
+#EXTINF:0,Comedy Central (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0pb/index.m3u8
+
+#EXTINF:0,Comedy Central (USA) (🇺🇸)
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:0,Comedy Central (USA) (🇺🇸)
+https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:0,FX (España) (🇪🇸)
+http://181.78.105.146:6060/play/a02j/index.m3u8
+
+#EXTINF:0,FX Comedy (Polonia) (🇵🇱)
+http://175.107.244.52:4457/play/a07m/index.m3u8
+
+#EXTINF:0,Star Channel (España) (🇪🇸)
+http://190.83.2.172:8081/play/a05a/index.m3u8
+
+#EXTINF:0,TFX (Francia) (🇫🇷)
+https://live.tntdirect.tv:443/9CM2pADCxF/w5BA32MP6P/11.ts
+
+#EXTINF:0,Warner (España) (🇪🇸)
+http://181.78.106.127:9000/play/ca071/index.m3u8
+

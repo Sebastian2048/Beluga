@@ -1,0 +1,267 @@
+#EXTM3U
+# Segmentado y Saneado por Beluga - 2025-11-06 13:39
+
+#EXTINF:-1 tvg-name="13 Entretención" tvg-logo="https://i.imgur.com/1vTno0m.png" tvg-id="13E.cl" group-title="Chile",13 Entretención
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+
+#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" tvg-id="CHVNoticias.cl" group-title="Chile",Chilevisión Noticias
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",57 (USA) (🇺🇸)
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Action Hollywood Movies (USA) (🇺🇸)
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Atacama Noticias (Chile) (🇨🇱)
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",CBC News Network (Canada) (🇨🇦)
+https://tinyurl.com/5n86wu2h?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",CBN News (USA) (🇺🇸)
+https://tinyurl.com/mr48ka2a?.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",CH200 (Nueva Zelanda) (🇳🇿)
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Cablenoticias (Colombia) (🇨🇴)
+http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",City News (Canada) (🇨🇦)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",County News Center (USA) (🇺🇸)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Denver 8 (USA) (🇺🇸)
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Dunya News (Pakistan) (🇵🇰)
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Echo 24 (Rusia) (🇷🇺)
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",FOX News (USA) (🇺🇸)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",FOX News (USA) (🇺🇸)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",HMI Promz News (Haiti) (🇭🇹)
+https://video1.getstreamhosting.com:1936/8326/8326/.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Milenial (Peru) (🇵🇪)
+https://www.milenial.news/salida/milenial.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Milenial TV ✅
+https://www.milenial.news/salida/milenial.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",NOW 70s ✅
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",NOW 80s ✅
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",NOW 90S ✅
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Now 70's (Nueva Zelanda) (🇳🇿)
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Now 80's (Nueva Zelanda) (🇳🇿)
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Now Rock (Nueva Zelanda) (🇳🇿)
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Palitra News (480p) [Not 24/7]
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Prameya News7 (1080p) [Not 24/7]
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8?ads.dpname=distrotv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Pura Noticia (Chile) (🇨🇱)
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Puranoticia TV ✅
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Puranoticia | CL ✅
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",RT New| RU ✅
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",RTL 102.5 News (Italia) (🇮🇹)
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Real News Kerala (1080p) [Not 24/7]
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Record News (Brasil) (🇧🇷)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7]
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",TV4 Noticia| MX ✅
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",The Grio (USA) (🇺🇸)
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",The Ultimate Music (USA) (🇺🇸)
+https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CBS KRCG 13 | Columbia (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10762.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CBS Las Vegas | KLAS (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10763.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CBS News 6 | Orlando (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10765.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CBS News | New York (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10764.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CBS Tennessee | WTVF (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10766.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CBS WBTV | Charlotte (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10767.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CBS WBZ 4 | Boston (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10768.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CBS WTAJ | Pennsylvania (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10769.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CBS WTOC 11 | Georgia (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10770.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CNBC (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10771.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-CW Nashville (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10772.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-Cozi TV (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17910.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-FOX 25 | Boston (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10776.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-FOX 26 Houston  (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10778.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-FOX 28 Columbus (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10779.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-FOX 29 Philadelphia (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10780.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-FOX 32 Chicago (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10781.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-FOX 35 Orlando (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10782.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-FOX 5 | New York (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10783.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-FOX Business Network (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10784.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-FOX Indiana (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10793.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-FOX WSVN 7 Miami (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10794.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-Florida Pensacola (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10774.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-Fox 23 Tulsa (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10775.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-Fox 26 Fresno (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10777.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-HLN (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17915.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-ION (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17916.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-MSG (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10795.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-MSG Plus (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10796.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-MSG Plus 2 (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10797.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-MSG Plus 3 (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10798.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-MSNBC (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10799.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC 10 Philadelphia (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10785.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC 11 Alive Atlanta (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10786.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC 12 Phoenix (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10787.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC 4 Columbus (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10788.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC 4 WSMV | Tennessee (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10789.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC 5 Chicago (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10790.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC 7 San Diego (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10791.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC California Los Angeles 4 (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10792.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC Florida Miami 6 (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10800.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC KSNV Las Vegas (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10801.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC New York (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10802.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-NBC Universo (L)(720)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10803.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-Sundance TV (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17935.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",USA-TV Land (L)(1080)
+http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/17949.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",VNP (Peru) (🇵🇪)
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",VTV (1080p) [Not 24/7]
+https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",Сургут 24 (720p) [Not 24/7]
+https://video1.in-news.ru/c24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sebastian2048/Beluga/main/beluga.png" group-title="★ NOTICIAS ★",晋中公共 (1080p) [Not 24/7]
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+

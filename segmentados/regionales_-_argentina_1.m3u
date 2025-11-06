@@ -1,0 +1,30 @@
+#EXTM3U
+# Segmentado y Reclasificado por Beluga - 2025-11-06 13:39
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/13LR.png" group-title="Regionales - Argentina",Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/1057_Canal_21_Misiones.png" group-title="Regionales - Argentina",Canal 21 Misiones
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/1621_Latina_TV_Mendoza.png" group-title="Regionales - Argentina",Latina TV Mendoza
+https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/4Jujuy.png" group-title="Regionales - Argentina",Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/4Pos.png" group-title="Regionales - Argentina",Canal 4 Posadas
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/CPETV.png" group-title="Regionales - Argentina",CPE TV
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/Canal79.png" group-title="Regionales - Argentina",Canal 79 Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/Provincial.png" group-title="Regionales - Argentina",Canal Provincial
+https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/TelpinTV.png" group-title="Regionales - Argentina",Telpin TV
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+

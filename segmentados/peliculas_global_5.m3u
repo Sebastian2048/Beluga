@@ -1,0 +1,93 @@
+#EXTM3U
+# Segmentado y Saneado por Beluga - 2025-11-06 13:39
+
+#EXTINF:0,Discover Film (UK) (🇬🇧)
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:0,EBS Cinema (Etiopia) (🇪🇹)
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+
+#EXTINF:0,Film & Arts (Chile) (🇨🇱)
+http://181.78.105.146:8800/play/a04q/index.m3u8
+
+#EXTINF:0,Film & Arts (Colombia) (🇨🇴)
+http://38.180.133.31:8000/play/a0nx/index.m3u8
+
+#EXTINF:0,Film & Arts (España) (🇪🇸)
+http://181.78.105.146:6060/play/a02f/index.m3u8
+
+#EXTINF:0,Film & Arts (Mexico) (🇲🇽)
+http://190.83.2.172:8080/play/a02z/index.m3u8
+
+#EXTINF:0,Film Al Femminile (Italia) (🇮🇹)
+https://tinyurl.com/yc554uwp?.m3u8
+
+#EXTINF:0,Film Cafe (Polonia) (🇵🇱)
+http://175.107.244.52:4457/play/a07d/index.m3u8
+
+#EXTINF:0,Film E Sorrisi (Italia) (🇮🇹)
+https://tinyurl.com/jzcwbemr?.m3u8
+
+#EXTINF:0,Film Gold (Alemania) (🇩🇪)
+https://tinyurl.com/y8ywcf4x?.m3u8
+
+#EXTINF:0,Film&Co (España) (🇪🇸)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
+
+#EXTINF:0,FilmRise (USA) (🇺🇸)
+https://tinyurl.com/zs7eujat?.m3u8
+
+#EXTINF:0,FilmRise Action (Canada) (🇨🇦)
+https://d3fmqi91qduj7.cloudfront.net/11401/88814502/hls/master.m3u8?ads.xumo_channelId=88814502
+
+#EXTINF:0,FilmRise Black (Canada) (🇨🇦)
+https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv-canada.m3u8
+
+#EXTINF:0,FilmRise Black (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv.m3u8
+
+#EXTINF:0,FilmRise Classic (UK) (🇬🇧)
+https://tinyurl.com/57ca82u4?.m3u8
+
+#EXTINF:0,FilmRise Classic (USA) (🇺🇸)
+https://d3fmqi91qduj7.cloudfront.net/11401/88814514/hls/master.m3u8?ads.xumo_channelId=88814514
+
+#EXTINF:0,FilmRise Free Movies (Canada) (🇨🇦)
+https://d3fmqi91qduj7.cloudfront.net/11401/88814500/hls/master.m3u8?ads.xumo_channelId=88814500
+
+#EXTINF:0,FilmRise Horror (Canada) (🇨🇦)
+https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8
+
+#EXTINF:0,FilmRise Horror (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8
+
+#EXTINF:0,FilmRise Sci-Fi (USA) (🇺🇸)
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?ads.xumo_channelId=88885513
+
+#EXTINF:0,Filmzie (UK) (🇬🇧)
+https://filmzie-filmzie-1-eu.zeasn.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Filmzie (UK) (🇬🇧)
+https://filmzie-filmzie-1-gb.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Filmzie (USA) (🇺🇸)
+https://filmzie-filmzie-3-us.zeasn.wurl.tv/playlist.m3u8
+
+#EXTINF:0,Filmzon (Armenia) (🇦🇲)
+http://ott-cdn.ucom.am/s48/index.m3u8
+
+#EXTINF:0,Sony Cine (España) (🇪🇸)
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+
+#EXTINF:0,Todo Cine (España) (🇪🇸)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+
+#EXTINF:0,True Crime FilmRise (Canada) (🇨🇦)
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime-canada.m3u8
+
+#EXTINF:0,True Crime FilmRise (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
+
+#EXTINF:0,True Crime FilmRise (USA) (🇺🇸)
+https://d3fmqi91qduj7.cloudfront.net/11401/88814506/hls/master.m3u8?ads.xumo_channelId=88814506
+
