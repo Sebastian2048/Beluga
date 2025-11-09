@@ -1,9 +1,0 @@
-#EXTM3U
-# Segmentado y Saneado por Beluga - 2025-11-06 16:05
-
-#EXTINF:0,FOX Sports Espanol (Mexico) (🇲🇽)
-https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
-
-#EXTINF:0,FOX Sports Español (España) (🇪🇸)
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
